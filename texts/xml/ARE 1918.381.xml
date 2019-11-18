@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -59,7 +59,7 @@
                                      n="2" break="no"/><supplied reason="lost">co</supplied>ḻatevaṟku yāṇṭu <num value="4">4</num>vatu irā<hi rend="grantha">jā</hi><lb 
                                       n="3" break="no"/><unclear>dhi</unclear>rā<hi rend="grantha">ja</hi>-vaḷanā<supplied reason="lost">ṭṭu tiru</supplied>kkaḻumala-nāṭṭu <hi rend="grantha">bra</hi><lb 
                                        n="4" break="no"/><hi rend="grantha"><unclear>h</unclear>made</hi>cam tiruk-kaḻumala<supplied reason="lost">m</supplied> kaṟkaṭa<supplied reason="lost">ka</supplied> nāyaṟu
-                                <lb n="5"/><unclear>mu</unclear>tal kirāma kāriyañ cey<supplied reason="lost">ki</supplied>ṟa kūṭṭa-<supplied reason="lost">peru</supplied>-makka<lb n="6" break="no"/><supplied reason="lost">ḷom</supplied> <gap reason="illegible" extent="unknown" unit="character"> </gap> <supplied reason="lost">āḷuṭaiya-piḷḷaiyār tiru-</supplied>māḷikai tamiḻ viraka<supplied reason="lost">r</supplied>
+                                <lb n="5"/><unclear>mu</unclear>tal kirāma kāriyañ cey<supplied reason="lost">ki</supplied>ṟa kūṭṭa-<supplied reason="lost">peru</supplied>-makka<lb n="6" break="no"/><supplied reason="lost">ḷom</supplied> <gap reason="illegible" extent="unknown" unit="character"> </gap> <placeName><supplied reason="lost"><persName>āḷuṭaiya-piḷḷaiyār</persName> tiru-</supplied>māḷikai</placeName> tamiḻ viraka<supplied reason="lost">r</supplied>
                                 <lb n="7"/><supplied reason="lost">ka</supplied>ṇṭu ik-koyiṟ tiruk-kaikoṭṭiyil eḻunt' aruḷi irukkiṟa tiru-<supplied reason="lost">muṟaikaḷ tiruk-kā</supplied><lb n="8"/>ppu nikki aḻiv' uḷḷiṉa eḻunt' aruḷi-vittum maṟṟum putit-āka eḻunt' aruḷi-<supplied reason="lost">vittu</supplied><lb n="9"/>m tiru-muṟaikaḷ <gap reason="illegible" extent="unknown" unit="character"/>
                                 <lb n="10"/>ḷā iṟaiyili-y-āka iṭṭa nilam iv-vūr caṇṭe<hi rend="grantha">śva</hi>ra-vatikkuk kiḻakku niṉṟā
                                 <lb n="11"/>n-vāykkālukku va<unclear>ṭa</unclear>kku mutaṟ-kaṇṇāṟṟu iraṇṭāñ-cati<supplied reason="lost">rat</supplied>tu kiḻ iṟaiyā
