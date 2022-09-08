@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_INSCirkali00001</idno>
+            <idno type="filename">DHARMA_INSCirkali00026</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -111,15 +111,15 @@
 
                 </ab>
             </div>
-            <div type="apparatus">
-              <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-                  <listApp><!-- one <app> for each apparatus entry -->
-                     <app loc="line"><!-- Update the value of @loc.-->
-                        <lem><!-- fill in a lemma here --></lem>
-                        <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+            <!--<div type="apparatus">
+              <!-\-apparatus encoded as per EG §9.1, basic elements for apparatus below-\->
+                  <listApp><!-\- one <app> for each apparatus entry -\->
+                     <app loc="line"><!-\- Update the value of @loc.-\->
+                        <lem><!-\- fill in a lemma here -\-></lem>
+                        <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
                      </app>
                   </listApp>
-            </div>
+            </div>-->
             <div type="translation" resp="part:utve">
     	<!--translation encoded as per EG §9.2 -->
             </div>
