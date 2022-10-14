@@ -131,7 +131,7 @@
                   <lb n="20" break="no"/>catirattu <gap reason="lost" quantity="7" unit="character"/>yāna
                   <lb n="21"/> <gap reason="lost" quantity="11" unit="character"/> koṇṭu
                   <lb n="22"/><supplied reason="lost">tiruñāṉacampantaṉ</supplied>
-                  <lb n="23"/><gap reason="illegible" extent="unknown" unit="character"></gap>
+                  <lb n="23"/><gap reason="illegible" extent="unknown" unit="character"/>
                   <lb n="24"/>kā<gap reason="lost" quantity="1" unit="character"/>mutiri<gap reason="lost" quantity="6" unit="character"/>
                   <lb n="25" break="no"/>tikkuk kiḻakkut <unclear>tiru</unclear><gap reason="lost" quantity="4" unit="character"/>
                   <lb n="26" break="no"/>ka vāykkālukku<gap reason="lost" quantity="4" unit="character"/>
@@ -150,13 +150,13 @@
                   <lb n="39" break="no"/>pakkal koṇṭa nilam O<gap reason="lost" quantity="5" unit="character"/>āka<gap reason="lost" quantity="2" unit="character"/>pa
                   <lb n="40" break="no"/>ṭṭa<gap reason="lost" quantity="2" unit="character"/> Āru mā mukāṇik kiḻaraiye i
                   <lb n="41" break="no"/><gap reason="lost" quantity="5" unit="character"/>vum koṇṭu teva<unclear>r tirunāyaka ti</unclear>
-                  <lb n="42"/><gap reason="illegible" extent="unknown" unit="character"></gap>
-                  <lb n="43"/><gap reason="illegible" extent="unknown" unit="character"></gap>
-                  <lb n="44"/><gap reason="illegible" extent="unknown" unit="character"></gap>
+                  <lb n="42"/><gap reason="illegible" extent="unknown" unit="character"/>
+                  <lb n="43"/><gap reason="illegible" extent="unknown" unit="character"/>
+                  <lb n="44"/><gap reason="illegible" extent="unknown" unit="character"/>
                   <lb n="45"/><gap reason="lost" quantity="10" unit="character"/><hi rend="grantha">śrī</hi>paṇṭāratte<gap reason="lost" quantity="1" unit="character"/> 
                   <lb n="46"/><gap reason="lost" quantity="6" unit="character"/>ttaḷaiyāl munnilait tiru
                   <lb n="47"/><gap reason="lost" quantity="4" unit="character"/>kku iraṇṭilum <gap reason="lost" quantity="7" unit="character"/>
-                  <lb n="48"/><gap reason="illegible" extent="unknown" unit="character"></gap>
+                  <lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
                   <lb n="49"/><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ cellak kaṭavatāka 
                   <lb n="50"/><gap reason="lost" quantity="5" unit="character"/><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai<gap reason="lost" quantity="11" unit="character"/>
                   <lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu |||
@@ -188,7 +188,7 @@ Tirukkaḻumalam, <foreign>brahmadeya</foreign>9 du Tirukkaḻumalanāṭu, dans
             <div type="bibliography">
       <!--bibliography encoded as per section §9.4 -->
       <!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-               <p>Summary in ARIE; encoded, edited and translated here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), based on autopsy with the help of Dr. G. Vijayavenugopal (EFEO, Pondichery) and on the examination of the transcript kept in ASI in Mysore.</p>
+               <p>Summary in ARIE; encoded, edited and translated here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), based on autopsy with the help of Dr. G. Vijayavenugopal (EFEO, Pondichery) and on the examination of the transcript kept in ASI, Mysore.</p>
                <!--<listBibl type="primary">
                   <bibl/><!-\- one <bibl/> per item of secondary bibliography -\->
                </listBibl>-->
