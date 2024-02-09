@@ -67,17 +67,16 @@
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
             template v03</change>
          <change who="part:axja" when="2020-08-01">Update the template</change>
-         <!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
          <change who="part:utve" when="2019-11-18">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition"> <!-- @xml:lang must be added on the <div> -->
-                <ab>
+            <div type="edition" xml:lang="tam-Latn"> 
+               <p>
 
                                 <lb n="1"/><supplied reason="lost"><hi rend="grantha">tribhu</hi></supplied>vaṉaccak<hi rend="grantha">kra</hi>va<supplied reason="lost">ttikaḷ</supplied> <hi rend="grantha">śrī</hi>kulottuṅka<lb n="2" break="no"/><supplied reason="lost">co</supplied>ḻatevaṟku yāṇṭu <num value="4">4</num>vatu irā<hi rend="grantha">jā</hi><lb n="3" break="no"/><unclear>dhi</unclear>rā<hi rend="grantha">ja</hi>-vaḷanā<supplied reason="lost">ṭṭu tiru</supplied>kkaḻumala-nāṭṭu <hi rend="grantha">bra</hi><lb n="4" break="no"/><hi rend="grantha"><unclear>h</unclear>made</hi>cam tiruk-kaḻumala<supplied reason="lost">m</supplied> kaṟkaṭa<supplied reason="lost">ka</supplied> nāyaṟu
-                                <lb n="5"/><unclear>mu</unclear>tal kirāma kāriyañ cey<supplied reason="lost">ki</supplied>ṟa kūṭṭa-<supplied reason="lost">peru</supplied>-makka<lb n="6" break="no"/><supplied reason="lost">ḷom</supplied> <gap reason="illegible" extent="unknown" unit="character"> </gap> <placeName type="builtPlace" subtype="shrine"><supplied reason="lost"><persName>āḷuṭaiya-piḷḷaiyār</persName> tiru-</supplied>māḷikai</placeName> tamiḻ viraka<supplied reason="lost">r</supplied>
+                                <lb n="5"/><unclear>mu</unclear>tal kirāma kāriyañ cey<supplied reason="lost">ki</supplied>ṟa kūṭṭa-<supplied reason="lost">peru</supplied>-makka<lb n="6" break="no"/><supplied reason="lost">ḷom</supplied> <gap reason="illegible" extent="unknown" unit="character"> </gap> <placeName><supplied reason="lost"><persName>āḷuṭaiya-piḷḷaiyār</persName> tiru-</supplied>māḷikai</placeName> tamiḻ viraka<supplied reason="lost">r</supplied>
                                 <lb n="7"/><supplied reason="lost">ka</supplied>ṇṭu ik-koyiṟ tiruk-kaikoṭṭiyil eḻunt' aruḷi irukkiṟa tiru-<supplied reason="lost">muṟaikaḷ tiruk-kā</supplied><lb n="8"/>ppu nikki aḻiv' uḷḷiṉa eḻunt' aruḷi-vittum maṟṟum putit-āka eḻunt' aruḷi-<supplied reason="lost">vittu</supplied><lb n="9"/>m tiru-muṟaikaḷ <gap reason="illegible" extent="unknown" unit="character"/>
                                 <lb n="10"/>ḷā iṟaiyili-y-āka iṭṭa nilam iv-vūr caṇṭe<hi rend="grantha">śva</hi>ra-vatikkuk kiḻakku niṉṟā
                                 <lb n="11"/>n-vāykkālukku va<unclear>ṭa</unclear>kku mutaṟ-kaṇṇāṟṟu iraṇṭāñ-cati<supplied reason="lost">rat</supplied>tu kiḻ iṟaiyā
@@ -106,7 +105,7 @@
                                 <lb n="37"/>vūravāpā </supplied><gap reason="lost" extent="unknown"/>i<hi rend="grantha">ṣabha</hi>tevaṉ kavuṇiyaṉ tevaṉ tirucciṟṟampalam-uṭaiy
                                 <lb n="38"/>āṉ <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">tirucciṟṟampalam-uṭaiyāṉ</supplied>
 
-                </ab>
+                </p>
             </div>
             <!--<div type="apparatus">
               <!-\-apparatus encoded as per EG §9.1, basic elements for apparatus below-\->
@@ -121,17 +120,7 @@
     	<!--translation encoded as per EG §9.2 -->
             </div>
             <div type="commentary">
-                <p>
-L’épigraphe a été relevée dans ARE 1918 381 et localisée sur le mur sud du temple de Campantar.
-Elle date de la quatrième année de règne de Tribhuvanacakravartin Kulottun ̇gac ̄oladeva que Maha-  ̄
-lingam (1992 : 550, Tj. 2414) n’identifie pas. Ce dernier reprend le résumé de l’ARE : « Gift of land for setting up images ( ?) and restoring those that had been already set up and had suffered damage ». Il n’est pas question d’images. En effet, le texte enregistre un don de terre pour ré-ouvrir le
-Tirukkaiko.t.ti de la chapelle qui conservait les Tirumurai, pour remplacer ceux qui sont endomma-  ̄
-gés et pour en installer de nouveaux. Malgré son caractère exceptionnel, ce texte n’a connu qu’un rayonnement limité dans la littérature secondaire sans doute à cause du résumé erroné de l’ARE1.
-L’inscription se compose de trente-huit lignes qui s’étendent sur le mur sud, entre deux pilastres, à l’est de la fenêtre à claire-voie, au-dessus de CEC 25. Des restaurations ont eu lieu depuis 1918. Les pierres de la chapelle furent cimentées et les lignes à proximité de ces espaces sont donc illisibles. Ainsi, la majorité des conjectures proposées pour ce texte suivent la lecture de la transcription de l’ASI faite en 1918.
-1. Vel.l.aiva ̄ran.am (*1994 [1962 et 1969] : 52-53) donne une version du texte et Swamy (1972 : 107) s’en sert dans sa démonstration sans mentionner les références.
-1
-
-L’emplacement de ce texte sur le mur sud, juste au-dessus de CEC 25, ainsi que la proximité des dates de règne et la concordance d’un des membres de l’assemblée (Ma ̄t.ilan ̄ Civatevan ̄ Ti- rutt ̄on.ipuramut.aiy ̄an ̄) permettent d’arguer que l’inscription date de la quatrième année de règne de Kulottun ̇ga II, soit de 1136.</p>
+                
             </div>
             <div type="bibliography">
       <!--bibliography encoded as per section §9.4 -->
@@ -144,3 +133,12 @@ L’emplacement de ce texte sur le mur sud, juste au-dessus de CEC 25, ainsi que
         </body>
     </text>
 </TEI>
+
+
+<!--
+L’épigraphe a été relevée dans ARE 1918 381 et localisée sur le mur sud du temple de Campantar.
+Elle date de la quatrième année de règne de Tribhuvanacakravartin Kulottuṅgacōladeva que Mahalingam (1992 : 550, Tj. 2414) n’identifie pas. Ce dernier reprend le résumé de l’ARE : « Gift of land for setting up images (?) and restoring those that had been already set up and had suffered damage ». Il n’est pas question d’images. En effet, le texte enregistre un don de terre pour ré-ouvrir le Tirukkaikoṭṭi de la chapelle qui conservait les Tirumuṟai, pour remplacer ceux qui sont endommagés et pour en installer de nouveaux. Malgré son caractère exceptionnel, ce texte n’a connu qu’un rayonnement limité dans la littérature secondaire sans doute à cause du résumé erroné de l’ARE1.
+L’inscription se compose de trente-huit lignes qui s’étendent sur le mur sud, entre deux pilastres, à l’est de la fenêtre à claire-voie, au-dessus de CEC 25. Des restaurations ont eu lieu depuis 1918. Les pierres de la chapelle furent cimentées et les lignes à proximité de ces espaces sont donc illisibles. Ainsi, la majorité des conjectures proposées pour ce texte suivent la lecture de la transcription de l’ASI faite en 1918.
+  Veḷḷaivāraṇam (*1994 [1962 et 1969] : 52-53) donne une version du texte et Swamy (1972 : 107) s’en sert dans sa démonstration sans mentionner les références.
+   L’emplacement de ce texte sur le mur sud, juste au-dessus de CEC 25, ainsi que la proximité des dates de règne et la concordance d’un des membres de l’assemblée (Māṭilaṉ Civatevaṉ Tiruttōṇipuramuṭaiyāṉ) permettent d’arguer que l’inscription date de la quatrième année de règne de Kulottuṅga II, soit de 1136.
+-->
