@@ -1,0 +1,30 @@
+# CEC corpus conversion
+
+(abc)	<unclear>abc</unclear>
+[abc]	<supplied reason="lost">abc</supplied>
+[abc*]	<supplied reason="subaudible">abc</supplied>
+	This generally concerns punctuation, but not always, so this might
+	need to be amended on a cases-by-case basis
+\dots	<gap reason="lost" extent="unknown" unit="character"/>
+.....	<gap reason="lost" quantity="5" unit="character"/>
+
+Capitals are transformed as follows (might need rework):
+
+	"A": '<g type="undefined"/>',
+	"N": '<g type="nilam"/>',
+	"K": '<g type="kāṇi"/>',
+	"V": '<g type="vēli"/>',
+	"M": '<g type="mā"/>',
+	"Q": '<g type="muntiri"/>',
+	"H": '<g type="mukkāṇi"/>',
+	"C": '<g type="kaṇṇāṟu"/>',
+	"P": '<g type="nellu"/>',
+	"Ā": '<g type="yāṇṭu"/>',
+	"M̄": '<g type="mātam"/>',
+	"E": '<g type="kiḻ"/>',
+	"Z": '<g type="kiḻaṟu"/>',
+	"U": '<g type="ulike">.</g>',
+
+watch out CEC 16 l. 1: extra ']' in "prajāpati", removed in the XML
+
+watch out CEC 30 l. 31: extra ']' at end of line, removed in the XML
