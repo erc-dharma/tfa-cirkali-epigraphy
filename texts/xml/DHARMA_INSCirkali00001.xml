@@ -41,18 +41,18 @@
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<msDesc>					
+				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
 						<idno/>
 						<!-- don't modify this -->
 					</msIdentifier>
-					<msContents>						
+					<msContents>
 						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,7 +84,7 @@
 		</revisionDesc>
 	</teiHeader>
 
-<text xml:space="preserve">
+	<text xml:space="preserve">
 <body>
             
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">              
@@ -183,7 +183,7 @@
 	
 	<p n="1">Prospérité! Fortune!</p>
 	
-	<p n="1-2">An <supplied reason="lost">6</supplied> de <supplied reason="lost">Vīrarājendra</supplied>deva<note></note>, empereur des trois mondes.</p>
+	<p n="1-2">An <supplied reason="lost">6</supplied> de <supplied reason="lost">Vīrarājendra</supplied>deva, empereur des trois mondes.</p>
 	
 	<p n="2-17">Pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu; Karuṇākaratevaṉ alias Vāṇātirāyaṉ, un propriétaire [terrien] de Vetavanam et de Paḻaiyanūr dans le Melmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacoḻamaṇṭalam pour les deux lampes [qu’il a] placées devant l’[image] divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, [parce qu’]il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, [voici les terres] qu’il laisse pour l’huile après les avoir achetées :</p>
 	<p n="17-51"><gap reason="lost"/> du premier carré du premier canalicule,au sud du canal de Tillaiviṭaṅkar et à l’est de la <foreign>vati</foreign> de Talaiccaṅkāṭu dans le <foreign>brahmadeya</foreign> de Tirukkaḻumalam <gap reason="lost"/> ; la terre nommée Cakkaravarttiviḷākam du premier carré du <gap reason="lost"/> canalicule <gap reason="lost"/> canal <gap reason="lost"/>, à l’est de <gap reason="lost"/> ; la terre de deux <foreign>mā</foreign> <gap reason="lost"/> achetée auprès d’un propriétaire <gap reason="lost"/>, Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de <gap reason="lost"/>; la terre achetée auprès de Kavuṇiyaṉ Tirunā<gap reason="lost"/>m pirān <gap reason="lost"/> trésorerie <supplied reason="subaudible">du temple</supplied> <gap reason="lost"/> tant que durent lune et soleil <gap reason="lost"/> protection des <foreign>Maheśvara</foreign> <gap reason="lost"/></p>
