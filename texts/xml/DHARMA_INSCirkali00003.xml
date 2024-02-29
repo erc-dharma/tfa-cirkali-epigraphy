@@ -168,6 +168,12 @@
 			<citedRange unit="item">365</citedRange>
 		</bibl>
 		
+		<bibl>
+			<ptr target="bib:Mahalingam1992_01"/>
+			<citedRange unit="page">550</citedRange>
+			<citedRange unit="item">Tj. 2411</citedRange>			
+		</bibl>
+		
 	</listBibl>
 </div>
       </body>
