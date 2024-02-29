@@ -10,13 +10,6 @@
 			<titleStmt>
 				<title>Cīrkāḻi, Tōṇipuram temple, time of Vīrarājendra, year 6</title>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<surname>Francis</surname>
@@ -27,7 +20,13 @@
 						<forename>Uthaya</forename>
 					</persName>
 				</respStmt>
-				
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:utve">
+						<surname>Veluppillai</surname>
+						<forename>Uthaya</forename>
+					</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -53,11 +52,11 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of land for upkeeping daily two lamps for the lord (<foreign>nāyaṉār</foreign>) of Tiruttōṇipuram (Śiva) by ...</summary>
+						<summary>Donation of land for upkeeping daily two lamps for the lord (<foreign>nāyaṉār</foreign>) of Tiruttōṇipuram (Śiva) by Vānātirāyaṉ <hi rend="italic">alias</hi> Karuṇākaratēvaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -115,9 +114,9 @@
 		<lb n="10" break="no"/>laippaḻaiyaṉūrnāṭṭup paḻai
 		<lb n="11" break="no"/>yanūruṭaiyāṉ vētava<choice><orig>n</orig><reg>ṉ</reg></choice>amuṭaiyā
 		<lb n="12" break="no"/>ṉ karuṇākaratēva<choice><orig>n</orig><reg>ṉ</reg></choice>ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vāṇātirā
-		<lb n="13" break="no"/>yaṉ Iṉṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tirumunpu vaitta vi
+		<lb n="13" break="no"/>yaṉ Iṉṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tirumu<choice><orig>n</orig><reg>ṉ</reg></choice>pu vaitta vi
 		<lb n="14" break="no"/>ḷakku Iraṇṭukku nāḷ Oṉṟukku <gap reason="lost" quantity="2" unit="character"/> E
-		<lb n="15" break="no"/>ṇṇai Uriyāka veṇṭum Eṇṇai
+		<lb n="15" break="no"/>ṇṇai Uriyāka vēṇṭum Eṇṇai
 		<lb n="16" break="no"/>kku Ivar koṇ<supplied reason="lost">ṭu viṭ</supplied>ṭa <hi rend="grantha">bra</hi><choice><orig>mm</orig><reg>m</reg></choice>atēya
 		<lb n="17" break="no"/>m
 	</p>
@@ -132,9 +131,9 @@
 		<lb n="23"/><gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="24"/>kā<gap reason="lost" quantity="1" unit="character"/>mutiri<gap reason="lost" quantity="6" unit="character"/>
 		<lb n="25" break="no"/>tikkuk kiḻakkut <unclear>tiru</unclear><gap reason="lost" quantity="4" unit="character"/>
-		<lb n="26" break="no"/>ka vāykkālukku<gap reason="lost" quantity="4" unit="character"/>
-		<lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<gap reason="lost" quantity="4" unit="character"/>
-		<lb n="28" break="no"/>tirattuccakkaravartti viḷā
+		<lb n="26" break="no"/>ka vāykkālukku <supplied reason="lost">Ira</supplied>
+		<lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied>
+		<lb n="28" break="no"/>tirattuc cakkaravartti viḷā
 		<lb n="29" break="no"/>kam eṉṟu pēr kūva paṭ
 		<lb n="30" break="no"/>ṭa nilattu mā<gap reason="lost" quantity="1" unit="character"/>ḷattu<gap reason="lost" quantity="2" unit="character"/>tō
 		<lb n="31" break="no"/>ṇipuramutaiyāṉ tiru<gap reason="lost" quantity="1" unit="character"/><choice><unclear>ḻa</unclear><unclear>mu</unclear></choice>ḷai<gap reason="lost" quantity="1" unit="character"/>yutai
@@ -155,8 +154,8 @@
 		<lb n="46"/><gap reason="lost" quantity="6" unit="character"/>ttaḷaiyāl munnilait tiru
 		<lb n="47"/><gap reason="lost" quantity="4" unit="character"/>kku Iraṇṭilum <gap reason="lost" quantity="7" unit="character"/>
 		<lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
-		<lb n="49"/><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ cellak kaṭavatāka 
-		<lb n="50"/><gap reason="lost" quantity="5" unit="character"/><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai<gap reason="lost" quantity="11" unit="character"/>
+		<lb n="49"/><supplied reason="lost">canti</supplied>rātittavaṟ cellak kaṭavatāka 
+		<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai<gap reason="lost" quantity="11" unit="character"/>
 		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu |||	
 	</p>
 	
@@ -180,20 +179,83 @@
 			<lem><supplied reason="lost">tiruñāṉacampantaṉ</supplied></lem>
 			<note>Reading of the ASI transcript.</note>
 		</app>
+						
+		<app loc="26"><!--EF suggestion-->
+			<lem><supplied reason="lost">Ira</supplied><lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied><lb n="28" break="no"/>tirattuc</lem>
+			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="4" unit="character"/>
+		<lb n="27" break="no"/>ṇṭāṅ muta<gap reason="lost" quantity="4" unit="character"/>
+		<lb n="28" break="no"/>tirattuc</rdg>
+		</app>
+		
+		<app loc="49"><!--EF suggestion-->
+			<lem><supplied reason="lost">canti</supplied>rātittavaṟ</lem>
+			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ</rdg>
+		</app>
+		
+		<app loc="49"><!--EF suggestion-->
+			<lem>kaṭavatāka 
+		<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra</lem>
+			<rdg source="bib:Veluppillai2013_01">kaṭavatāka 
+				<lb n="50"/><gap reason="lost" quantity="5" unit="character"/><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra°</rdg>
+		</app>
+		
+				
 	</listApp>
 </div>
           
-<div type="translation" resp="part:utve">
+<div type="translation" xml:lang="fra" resp="part:utve">
 	
 	<p n="1">Prospérité! Fortune!</p>
 	
-	<p n="1-2">An <supplied reason="lost">6</supplied> de <supplied reason="lost">Vīrarājendra</supplied>deva, empereur des trois mondes.</p>
+	<p n="1-2">An <supplied reason="lost">6</supplied> de Vīrarā<supplied reason="lost">jendra</supplied>deva, empereur des trois mondes.</p>
 	
-	<p n="2-17">Pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu; Karuṇākaratevaṉ alias Vāṇātirāyaṉ, un propriétaire [terrien] de Vetavanam et de Paḻaiyanūr dans le Melmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacoḻamaṇṭalam pour les deux lampes [qu’il a] placées devant l’[image] divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, [parce qu’]il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, [voici les terres] qu’il laisse pour l’huile après les avoir achetées :</p>
+	<p n="2-17">Pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu; Karuṇākaratevaṉ alias Vāṇātirāyaṉ, un propriétaire [terrien] de Vētavaṉam et de Paḻaiyanūr dans le Mēlmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacōḻamaṇṭalam pour les deux lampes [qu’il a] placées devant l’[image] divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, [parce qu’]il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, [voici les terres] qu’il laisse pour l’huile après les avoir achetées :</p>
 	
-	<p n="17-51"><gap reason="lost"/> du premier carré du premier canalicule,au sud du canal de Tillaiviṭaṅkar et à l’est de la <foreign>vati</foreign> de Talaiccaṅkāṭu dans le <foreign>brahmadeya</foreign> de Tirukkaḻumalam <gap reason="lost"/> ; la terre nommée Cakkaravarttiviḷākam du premier carré du <gap reason="lost"/> canalicule <gap reason="lost"/> canal <gap reason="lost"/>, à l’est de <gap reason="lost"/> ; la terre de deux <foreign>mā</foreign> <gap reason="lost"/> achetée auprès d’un propriétaire <gap reason="lost"/>, Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de <gap reason="lost"/>; la terre achetée auprès de Kavuṇiyaṉ Tirunā<gap reason="lost"/>m pirān <gap reason="lost"/> trésorerie <supplied reason="subaudible">du temple</supplied> <gap reason="lost"/> tant que durent lune et soleil <gap reason="lost"/> protection des <foreign>Maheśvara</foreign> <gap reason="lost"/></p>
+	<p n="17-51"><gap reason="lost"/> du premier carré du premier canalicule, au sud du canal de Tillaiviṭaṅkar et à l’est de la <foreign>vati</foreign> de Talaiccaṅkāṭu dans le <foreign>brahmadeya</foreign> de Tirukkaḻumalam <gap reason="lost"/> ; la terre nommée Cakkaravarttiviḷākam du premier carré du <gap reason="lost"/> canalicule <gap reason="lost"/> canal <gap reason="lost"/>, à l’est de <gap reason="lost"/> ; la terre de deux <foreign>mā</foreign> <gap reason="lost"/> achetée auprès d’un propriétaire <gap reason="lost"/>, Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de <gap reason="lost"/>; la terre achetée auprès de Kavuṇiyaṉ Tirunā<gap reason="lost"/>m pirān <gap reason="lost"/> trésorerie <supplied reason="subaudible">du temple</supplied> <gap reason="lost"/> tant que durent lune et soleil <gap reason="lost"/> protection des <foreign>Maheśvara</foreign> <gap reason="lost"/></p>
+	
 </div>
            
+<div type="translation" resp="part:emfr">
+	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1-2">
+		Year <supplied reason="lost">6</supplied> of the glorious king Vīrarā<supplied reason="lost">jendra</supplied>, the emperor of the three worlds
+	</p>
+	
+	<p n="2-17">
+		For the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, who owns Tiruttōṇipuram in Tirukkaḻumalam, a <foreign>brahmadeya</foreign> in the Tirukkaḻumalanāṭu, <supplied reason="subaudible">itself</supplied> in the Irācātirācavaḷanāṭu,
+		for two lamps that Vāṇātirāyaṉ <hi rend="italic">alias</hi> Karuṇākaratevaṉ, Lord of Vētavaṉam, Lord of Paḻaiyanūr, in the Mēlmalaippaḻaiyanūrnāṭu <supplied reason="subaudible">itself</supplied> in the Jayaṅkoṇṭacōḻamaṇṭalam, has given <supplied reason="subaudible">in</supplied> the divine presence <supplied reason="subaudible">of</supplied> this Lord,
+		for the necessary oil, so that there be <gap reason="lost"/> <foreign>uri</foreign>s of oil per day,
+		the <foreign>brahmadeya</foreign> that, after obtaining <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> <supplied reason="subaudible">it</supplied>, he gave <supplied reason="subaudible">is as follows</supplied>.
+	</p>
+	
+	<p n="17-51">		
+		East of the Talaiccaṅkāṭu <foreign>vati</foreign> in Tirukkaḻumalam,
+		south of the Tillaiviṭaṅka canal,
+		<gap reason="lost"/> in the first square of the canal 
+		<gap reason="lost"/> east of 
+		<gap reason="lost"/> of the canal
+		<gap reason="lost"/> in the first square of the second canal,
+		<gap reason="lost"/> the land obtained from Tiruttōṇipuramuṭaiyāṉ <gap reason="lost"/> in the land <gap reason="lost"/> named Cakkaravarttiviḷākam,
+		<gap reason="lost"/> the land obtained from Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ,
+		<gap reason="lost"/> the land obtained from <gap reason="lost"/> Nāyakaṉ,
+		<gap reason="lost"/> the land obtained from Kavuṇiyaṉ Tirunā<gap reason="lost"/>m Pirān,
+		<gap reason="lost"/> in/of the glorious treasury
+		<gap reason="lost"/> let it be that it should go as long as <supplied reason="lost">the moon</supplied> and the sun.
+	</p>
+	
+	<p n="50">
+		<supplied reason="subaudible">This</supplied> <supplied reason="subaudible">is under</supplied> the protection of the <supplied reason="lost">Paṉ</supplied>māheśvaras.
+	</p>
+	
+	<p n="50-51">
+		<gap reason="lost"></gap>
+	</p>
+	
+</div>
 <div type="commentary">
 	
 </div>
@@ -208,7 +270,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">228-233</citedRange>
 			<citedRange unit="item">12</citedRange>
