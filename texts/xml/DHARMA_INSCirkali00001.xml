@@ -11,6 +11,10 @@
 				<title>Cīrkāḻi, Tōṇipuram temple, time of Vīrarājendra, year 6</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:emfr">
+						<surname>Francis</surname>
+						<forename>Emmanuel</forename>
+					</persName>
 					<persName ref="part:utve">
 						<surname>Veluppillai</surname>
 						<forename>Uthaya</forename>
