@@ -156,10 +156,9 @@
 		<lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="49"/><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ cellak kaṭavatāka 
 		<lb n="50"/><gap reason="lost" quantity="5" unit="character"/><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai<gap reason="lost" quantity="11" unit="character"/>
-		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu |||
-		
-		
+		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu |||	
 	</p>
+	
 </div>
 
 <div type="apparatus">
@@ -190,6 +189,7 @@
 	<p n="1-2">An <supplied reason="lost">6</supplied> de <supplied reason="lost">Vīrarājendra</supplied>deva, empereur des trois mondes.</p>
 	
 	<p n="2-17">Pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu; Karuṇākaratevaṉ alias Vāṇātirāyaṉ, un propriétaire [terrien] de Vetavanam et de Paḻaiyanūr dans le Melmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacoḻamaṇṭalam pour les deux lampes [qu’il a] placées devant l’[image] divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, [parce qu’]il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, [voici les terres] qu’il laisse pour l’huile après les avoir achetées :</p>
+	
 	<p n="17-51"><gap reason="lost"/> du premier carré du premier canalicule,au sud du canal de Tillaiviṭaṅkar et à l’est de la <foreign>vati</foreign> de Talaiccaṅkāṭu dans le <foreign>brahmadeya</foreign> de Tirukkaḻumalam <gap reason="lost"/> ; la terre nommée Cakkaravarttiviḷākam du premier carré du <gap reason="lost"/> canalicule <gap reason="lost"/> canal <gap reason="lost"/>, à l’est de <gap reason="lost"/> ; la terre de deux <foreign>mā</foreign> <gap reason="lost"/> achetée auprès d’un propriétaire <gap reason="lost"/>, Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ; la terre achetée auprès de <gap reason="lost"/>; la terre achetée auprès de Kavuṇiyaṉ Tirunā<gap reason="lost"/>m pirān <gap reason="lost"/> trésorerie <supplied reason="subaudible">du temple</supplied> <gap reason="lost"/> tant que durent lune et soleil <gap reason="lost"/> protection des <foreign>Maheśvara</foreign> <gap reason="lost"/></p>
 </div>
            
@@ -201,32 +201,37 @@
       
 	<p>First reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/363).</p>
 	
-	<p>First edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 1).</p>
+	<p>First edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 1).</p>
 	
-	<p>Encoded, edited and translated here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), with the help of Dr. G. Vijayavenugopal (EFEO, Pondichery), based on autopsy and on the examination of the ASI transcript (Mysore).</p>
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2022), with the help of Dr. G. Vijayavenugopal (EFEO, Pondichery), based on autopsy and on the examination of the ASI transcript (consulted in Mysore).</p>
 	
 	<listBibl type="primary">
 		
 		<bibl>
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">228-233</citedRange>
-			<citedRange unit="item">2</citedRange>
+			<citedRange unit="item">12</citedRange>
 		</bibl>
+		
 	</listBibl>
 	
 	<listBibl type="secondary">
+		
 		<bibl>
 			<ptr target="bib:ARIE1918-1919"/>
 			<citedRange unit="page">31</citedRange>
 			<citedRange unit="appendix">B/1918</citedRange>
 			<citedRange unit="item">363</citedRange>
 		</bibl>
+		
 		<bibl>
 			<ptr target="bib:Karashima+al1978_01"/>			
 		</bibl>
+		
 		<bibl>
 			<ptr target="bib:Mahalingam1992_01"/>			
 		</bibl>
+		
 		<bibl>
 			<ptr target="bib:NilakantaSastri1955_01"/>			
 		</bibl>

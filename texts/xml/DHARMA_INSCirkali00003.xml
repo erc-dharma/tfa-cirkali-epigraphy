@@ -8,11 +8,13 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīṟkāḻi, donation, time of Kulōttuṅka III, year 9</title>
-				<!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-				<!-- Add your name in the respStmt matching your involvement -->
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga Cōḻa, year 9</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:emfr">
+						<surname>Francis</surname>
+						<forename>Emmanuel</forename>
+					</persName>
 					<persName ref="part:utve">
 						<forename>Uthaya</forename>
 						<surname>Veluppillai</surname>
@@ -20,7 +22,6 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<!-- This may be the same as the creator of the file -->
 					<persName ref="part:utve">
 						<forename>Uthaya</forename>
 						<surname>Veluppillai</surname>
@@ -29,9 +30,8 @@
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
-				<pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+				<pubPlace>Paris, Inalco</pubPlace>
 				<idno type="filename">DHARMA_INSCirkali00003</idno>
-				<!-- Replace by filename, e.g. Pallava00001 -->
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -40,33 +40,23 @@
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
 						<p>Copyright (c) 2019-2025 by John
-						Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+						Doe.</p>						
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
 				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
+						<idno/>	<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
+						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+							<p>...</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -90,7 +80,7 @@
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+						<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -98,47 +88,93 @@
 			<change who="part:utve" when="2022-11-07">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-<ab>
 
-                  <lb n="1"/><hi rend="grantha">svasti śrī</hi><g type="pc">.</g>                  
+	
+<text xml:space="preserve">
+      
+<body>
+        
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 
-                </ab>
-         	<p>tiripuvaṉaccakkarava<choice><orig>t</orig><reg>rt</reg></choice>ti<unclear>ka</unclear>ḷ maturai koṇṭaruḷiṉa <hi rend="grantha">śrī</hi>kulōtuṅkacōḻa<hi rend="grantha">de</hi>varkku yāṇṭu <num value="9">9</num> Āvatu nāḷ <num value="176">100 7 10 6</num> l Antarāyam pāṭṭam Uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup <unclear>puṟa</unclear> Iṟaiyili Iṭṭa Irā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>vaḷanāṭṭut tirukkaḻumalattu Uṭaiyār tirutō<space type="unclassified"/>ṇipuramuṭaiyārkum periyanācciyārkum tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyiliyāka kāṇiyāḷar nilai niṉṟu payir ce<unclear>y</unclear>tu kaṭamai Iṟātu paṟṟiliyāyivarkaḷukku Iṟaippuṇaip paṭṭa karaippaṭaiyilārkku28 taṇṭal nāyakam Araiyaṅ<unclear>ka</unclear>ṭalko<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>amitantāṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a Amarakōṉ pal<unclear>la</unclear><space type="unclassified"/>varaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> tirunaṭṭamāṭiyā<choice><orig>n</orig><reg>ṉ</reg></choice>a vētava<choice><orig>n</orig><reg>ṉ</reg></choice>anāyaka<unclear>p pa</unclear>llavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>m canta</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <unclear>kō</unclear>va<choice><orig>n</orig><reg>ṉ</reg></choice>ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tirucciṟṟampala viḻupparaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um caṉtaṉ 
-<lb n="2" break="no"/>kulāvaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a29 ciṅkaḷāṉtakap pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um ceṅkaṇmāl p<unclear>e</unclear>riyā<choice><orig>n</orig><reg>ṉ</reg></choice>ā<choice><orig>n</orig><reg>ṉ</reg></choice>a nampiyārūrp pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um pakkal Ikkōyil Āticaṇṭē<hi rend="grantha">śva</hi>ra<hi rend="grantha">de</hi>var tirunāmattu vilai koṇṭa piramāṇa<unclear>p</unclear>paṭi kā<supplied reason="lost">ṇi māṟiṉa veṇ</supplied>30ṇaiyūrnāṭṭu nakkaṉpāṭiyāṉa Aḻakiyarāmapa<choice><orig>ṭ</orig><reg>ṭṭ</reg></choice>inam31 Uṭaiyār cuṅka<unclear>n</unclear>tavuttaruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <space type="unclassified"/> kulōttuṅkacōḻa<hi rend="grantha">de</hi>varkku <num value="16">10 <unclear>6</unclear></num> <unclear>Ā</unclear>vatu tiruvulakaḷanta kaṇakkuppaṭi niṅkal ni<unclear>k</unclear>ki <supplied reason="lost">paṉai niṉṟa kollai</supplied>32<unclear>yu</unclear>m Uvarum Uppumaṇṇum Āy <unclear>A</unclear>ṟuke<unclear>ḻu</unclear>ṉta paṭutaṟaiyum eṉṟu <unclear>Aḷanta</unclear> nilattu nel payirum puṉ pa<unclear>yiru</unclear>m ceytum maranilaiyum <unclear>Ā</unclear>y varukiṟa nilam Uḷpaṭa ce<supplied reason="lost">yyalām payir <choice><orig>ce</orig><reg>cey</reg></choice>tu</supplied>33<space type="unclassified"/>m maramākkiyum u<gap reason="lost" quantity="2" unit="character"/>ṭṭu 34 tirununtāviḷakku erikka iṭukiṟa nila<unclear>meṉ</unclear>ṉuṭaiya <gap reason="lost" quantity="6" unit="character"/>kku 35 <unclear>A</unclear>ṭaippāy varukiṟapaṭiyum tavirṉtu yāṇ<supplied reason="lost">ṭu <num value="9">9</num></supplied>36 Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal A<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
-<lb n="3" break="no"/>rāyam pāṭṭam uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyili Iṭṭa ni<unclear>la</unclear>m <num value="57">5 10 7</num> <supplied reason="subaudible"><g type="veli"/></supplied> <num value="4">4</num> <g type="ma"/> <g type="muntiri"/> <g type="kil"/> <num value="0.5">1/2</num> <g type="ma"/> <g type="yantu"/> <g type="nellu"/> <num value="1710">1000 7 100 10</num> <g type="yantu"/>37 y<unclear>ā</unclear>ṇṭu <num value="9">9</num> Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal Antarāyam pāṭṭam Uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyili Iṭṭamaikku I<unclear>vvūr38</unclear> <num value="16"><unclear>10</unclear> <unclear>6</unclear></num><unclear>Āvatu</unclear> Aḷavil kaṭalil tirai eṟivāy aruku ilippū<unclear>ṭu</unclear>m irāva<space type="unclassified"/>ṇaṉ mervāyum <unclear>e</unclear>luntu maṇal kuṉṟāna nilamum paṭṭinavar kuṭi iruppā<choice><orig>n</orig><reg>ṉ</reg></choice>a nilamumāy <unclear>ni</unclear>ṅka<supplied reason="lost">lāṉa nīr</supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">ṇi</supplied><unclear>attu</unclear> paṉaiyum iluppayum uḷḷiṭṭu maramākkalām nilam Ākki Ituvum tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkukku Uṭalāvatu Ivai puravuvari cikaraṇa nā<unclear>ya</unclear>kam pantaṇainallūr uṭai<unclear>yāṉ</unclear> Eḻuttu <space type="unclassified"/> Ivai <unclear>puravuvari cikaraṇa</unclear> nāyakam <supplied reason="lost">pirimayaṉ Eḻu</supplied>ttu <g type="hyphen"/> Ivai vāṉa<unclear>vaṅcikaraṇaṅ</unclear><gap reason="lost" quantity="3" unit="character"/> <unclear>vūr kiḻa</unclear>vaṉ Eḻuttu <g type="hyphen"/> Ivai pu<unclear>ravuvari ci</unclear>karaṇa nā<unclear>ya</unclear>kam Ārūr Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu 
-<lb n="4"/>Ivai puravuvari cikaraṇattu43 mukaveṭṭi kurukāṭi kiḻāṉ Eḻuttu <g type="hyphen"/> Ivai puravuvari cikaraṇattu mukaveṭṭi kumāramaṅkalamuṭaiyāṉ Eḻuttu <g type="hyphen"/> Ivai puravuvari cikaraṇattu mukaveṭṭi perumaṅkalamuṭaiyāṉ eḻuttu <g type="hyphen"/> Ivai <unclear>puravuvari</unclear> cika<unclear>raṇat</unclear>tu mukaveṭṭi mēlūr Uṭaiyāṉ Eḻuttu <g type="hyphen"/> Ivai cēṟakōṉ Eḻuttu <g type="hyphen"/> Ivai kurukularāyaṉ Eḻuttu <g type="hyphen"/> Ivai cōḻaviccātirap pallavaraiyaṉ Eḻuttu <g type="hyphen"/> Ivai vilāṭattarayaṉ Eḻuttu <g type="hyphen"/> Ivai paṅkaḷarāyaṉ Eḻuttu <g type="hyphen"/> Ivai mēlnāṭṭarayaṉ Eḻuttu <g type="hyphen"/> Ivai vēcālipparayaṉ Eḻuttu <g type="hyphen"/> Ivai vāḷuvarāyaṉ Eḻuttu <g type="hyphen"/> Ivai <gap reason="lost" quantity="8" unit="character"/> <unclear>eḻuttu</unclear> <g type="hyphen"/> I<unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>nātapiriyaṉ Eḻuttu <g type="gomutraFinal">.</g></unclear> </p>
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi><g type="pc">.</g>  
+	</ab>
+	<p>
+		tiripuvaṉaccakkarava<choice><orig>t</orig><reg>rt</reg></choice>ti<unclear>ka</unclear>ḷ maturai koṇṭaruḷiṉa <hi rend="grantha">śrī</hi>kulōtuṅkacōḻa<hi rend="grantha">de</hi>varkku yāṇṭu <num value="9">9</num> Āvatu nāḷ <num value="176">100 7 10 6</num> l Antarāyam pāṭṭam Uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup <unclear>puṟa</unclear> Iṟaiyili Iṭṭa Irā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>vaḷanāṭṭut tirukkaḻumalattu Uṭaiyār tirutō<space type="unclassified"/>ṇipuramuṭaiyārkum periyanācciyārkum tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyiliyāka kāṇiyāḷar nilai niṉṟu payir ce<unclear>y</unclear>tu kaṭamai Iṟātu paṟṟiliyāyivarkaḷukku Iṟaippuṇaip paṭṭa karaippaṭaiyilārkku28 taṇṭal nāyakam Araiyaṅ<unclear>ka</unclear>ṭalko<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>amitantāṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a Amarakōṉ pal<unclear>la</unclear><space type="unclassified"/>varaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> tirunaṭṭamāṭiyā<choice><orig>n</orig><reg>ṉ</reg></choice>a vētava<choice><orig>n</orig><reg>ṉ</reg></choice>anāyaka<unclear>p pa</unclear>llavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>m canta</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <unclear>kō</unclear>va<choice><orig>n</orig><reg>ṉ</reg></choice>ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tirucciṟṟampala viḻupparaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um caṉtaṉ 
+		<lb n="2" break="no"/>kulāvaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a29 ciṅkaḷāṉtakap pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um ceṅkaṇmāl p<unclear>e</unclear>riyā<choice><orig>n</orig><reg>ṉ</reg></choice>ā<choice><orig>n</orig><reg>ṉ</reg></choice>a nampiyārūrp pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um pakkal Ikkōyil Āticaṇṭē<hi rend="grantha">śva</hi>ra<hi rend="grantha">de</hi>var tirunāmattu vilai koṇṭa piramāṇa<unclear>p</unclear>paṭi kā<supplied reason="lost">ṇi māṟiṉa veṇ</supplied>30ṇaiyūrnāṭṭu nakkaṉpāṭiyāṉa Aḻakiyarāmapa<choice><orig>ṭ</orig><reg>ṭṭ</reg></choice>inam31 Uṭaiyār cuṅka<unclear>n</unclear>tavuttaruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <space type="unclassified"/> kulōttuṅkacōḻa<hi rend="grantha">de</hi>varkku <num value="16">10 <unclear>6</unclear></num> <unclear>Ā</unclear>vatu tiruvulakaḷanta kaṇakkuppaṭi niṅkal ni<unclear>k</unclear>ki <supplied reason="lost">paṉai niṉṟa kollai</supplied>32<unclear>yu</unclear>m Uvarum Uppumaṇṇum Āy <unclear>A</unclear>ṟuke<unclear>ḻu</unclear>ṉta paṭutaṟaiyum eṉṟu <unclear>Aḷanta</unclear> nilattu nel payirum puṉ pa<unclear>yiru</unclear>m ceytum maranilaiyum <unclear>Ā</unclear>y varukiṟa nilam Uḷpaṭa ce<supplied reason="lost">yyalām payir <choice><orig>ce</orig><reg>cey</reg></choice>tu</supplied>33<space type="unclassified"/>m maramākkiyum u<gap reason="lost" quantity="2" unit="character"/>ṭṭu 34 tirununtāviḷakku erikka iṭukiṟa nila<unclear>meṉ</unclear>ṉuṭaiya <gap reason="lost" quantity="6" unit="character"/>kku 35 <unclear>A</unclear>ṭaippāy varukiṟapaṭiyum tavirṉtu yāṇ<supplied reason="lost">ṭu <num value="9">9</num></supplied>36 Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal A<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+		<lb n="3" break="no"/>rāyam pāṭṭam uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyili Iṭṭa ni<unclear>la</unclear>m <num value="57">5 10 7</num> <supplied reason="subaudible"><g type="veli"/></supplied> <num value="4">4</num> <g type="ma"/> <g type="muntiri"/> <g type="kil"/> <num value="0.5">1/2</num> <g type="ma"/> <g type="yantu"/> <g type="nellu"/> <num value="1710">1000 7 100 10</num> <g type="yantu"/>37 y<unclear>ā</unclear>ṇṭu <num value="9">9</num> Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal Antarāyam pāṭṭam Uḷpaṭa tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkup puṟa Iṟaiyili Iṭṭamaikku I<unclear>vvūr38</unclear> <num value="16"><unclear>10</unclear> <unclear>6</unclear></num><unclear>Āvatu</unclear> Aḷavil kaṭalil tirai eṟivāy aruku ilippū<unclear>ṭu</unclear>m irāva<space type="unclassified"/>ṇaṉ mervāyum <unclear>e</unclear>luntu maṇal kuṉṟāna nilamum paṭṭinavar kuṭi iruppā<choice><orig>n</orig><reg>ṉ</reg></choice>a nilamumāy <unclear>ni</unclear>ṅka<supplied reason="lost">lāṉa nīr</supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">ṇi</supplied><unclear>attu</unclear> paṉaiyum iluppayum uḷḷiṭṭu maramākkalām nilam Ākki Ituvum tirunu<choice><orig>ṉ</orig><reg>n</reg></choice>tāviḷakkukku Uṭalāvatu Ivai puravuvari cikaraṇa nā<unclear>ya</unclear>kam pantaṇainallūr uṭai<unclear>yāṉ</unclear> Eḻuttu <space type="unclassified"/> Ivai <unclear>puravuvari cikaraṇa</unclear> nāyakam <supplied reason="lost">pirimayaṉ Eḻu</supplied>ttu <g type="hyphen"/> Ivai vāṉa<unclear>vaṅcikaraṇaṅ</unclear><gap reason="lost" quantity="3" unit="character"/> <unclear>vūr kiḻa</unclear>vaṉ Eḻuttu <g type="hyphen"/> Ivai pu<unclear>ravuvari ci</unclear>karaṇa nā<unclear>ya</unclear>kam Ārūr Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu 
+		<lb n="4"/>Ivai puravuvari cikaraṇattu43 mukaveṭṭi kurukāṭi kiḻāṉ Eḻuttu <g type="hyphen"/> Ivai puravuvari cikaraṇattu mukaveṭṭi kumāramaṅkalamuṭaiyāṉ Eḻuttu <g type="hyphen"/> Ivai puravuvari cikaraṇattu mukaveṭṭi perumaṅkalamuṭaiyāṉ eḻuttu <g type="hyphen"/> Ivai <unclear>puravuvari</unclear> cika<unclear>raṇat</unclear>tu mukaveṭṭi mēlūr Uṭaiyāṉ Eḻuttu <g type="hyphen"/> Ivai cēṟakōṉ Eḻuttu <g type="hyphen"/> Ivai kurukularāyaṉ Eḻuttu <g type="hyphen"/> Ivai cōḻaviccātirap pallavaraiyaṉ Eḻuttu <g type="hyphen"/> Ivai vilāṭattarayaṉ Eḻuttu <g type="hyphen"/> Ivai paṅkaḷarāyaṉ Eḻuttu <g type="hyphen"/> Ivai mēlnāṭṭarayaṉ Eḻuttu <g type="hyphen"/> Ivai vēcālipparayaṉ Eḻuttu <g type="hyphen"/> Ivai vāḷuvarāyaṉ Eḻuttu <g type="hyphen"/> Ivai <gap reason="lost" quantity="8" unit="character"/> <unclear>eḻuttu</unclear> <g type="hyphen"/> I<unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>nātapiriyaṉ Eḻuttu <g type="gomutraFinal">.</g></unclear>
+	</p>
+</div>
+	
+<div type="apparatus">
+	
+	<listApp>
+		<app loc="line">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1925_01">...</rdg>
+			<note/>
+		</app>
+	</listApp>
+	
+</div>
+         
+<div type="translation" resp="part:utve">
+	
          </div>
-         <div type="apparatus">
-                          <listApp>
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:KrishnaSastri1925_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  	<note/>
-                  </app>
-               </listApp>
+         
+<div type="commentary">
          </div>
-         <div type="translation" resp="part:utve">
- 	<!--translation encoded as per EGD §9.2 -->
-         </div>
-         <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
-         </div>
-        <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-        	<listBibl type="primary">
-				<bibl n="KS">
-					<ptr target="bib:KrishnaSastri1925_01"/>
-				<citedRange unit="page">376</citedRange>
-				</bibl>
-        	</listBibl>
-           <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-           </listBibl>
-        </div>
+
+<div type="bibliography">
+	
+           <p>First reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/125).</p>
+	<p>Reported again in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>
+	
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 990).</p>
+	<p>Re-edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 3).</p>
+	
+	<p>Re-edited here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), based on autopsy, photos, ASI transcript (consulted in Mysore) and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="KS">
+			<ptr target="bib:KrishnaSastri1925_01"/>
+			<citedRange unit="page">376</citedRange>
+			<citedRange unit="item">990</citedRange>
+		</bibl>
+	
+		<bibl>
+			<ptr target="bib:Veluppillai2013_01"/>
+			<citedRange unit="page">239-245</citedRange>
+			<citedRange unit="item">3</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1895-1896"/>
+			<citedRange unit="page">13</citedRange>
+			<citedRange unit="appendix">B/1896</citedRange>
+			<citedRange unit="item">125</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:ARIE1918-1919"/>
+			<citedRange unit="page">31</citedRange>
+			<citedRange unit="appendix">B/1918</citedRange>
+			<citedRange unit="item">365</citedRange>
+		</bibl>
+		
+	</listBibl>
+</div>
       </body>
   </text>
 </TEI>
+
+<!--
+	METADATA:
+	donation, time of Kulōttuṅka III, year 9
+-->
