@@ -51,11 +51,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>A fragment: first block/fragment of at least 2 blocks/fragments. Land donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>, <foreign>i</foreign> and <foreign>ī</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -104,19 +104,23 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/><milestone n="1" unit="block" type="gridlike"/>
-		tirukkaḻumalaṉāṭu v<choice><orig>i</orig><reg>ī</reg></choice>racōḻa
+		tirukkaḻumala<choice><orig>ṉ</orig><reg>n</reg></choice>āṭu v<choice><orig>i</orig><reg>ī</reg></choice>racōḻa
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/><milestone n="1" unit="block" type="gridlike"/>
-		viṭaṇkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">ji</hi>curamuṭai
+		viṭaṅkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">ji</hi>curamuṭai
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/><milestone n="1" unit="block" type="gridlike"/>
-		nāṇkal viṭṭa nilam Ivvūril<!--EF:vo ? ril--> ti
+		nāṅkal viṭṭa nilam
+	</p>
+	
+	<p>
+		Ivvūril<!--EF:vo ? ril--> ti
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
@@ -128,9 +132,9 @@
 		<lb n="6"/><milestone n="1" unit="block" type="gridlike"/>
 		<supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum cantirātittavarai ce<unclear>l</unclear>
 		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
+		<gap reason="lost" extent="unknown" unit="character"/>		
 	</p>
+	
 </div>
 	
 <div type="apparatus">
@@ -157,8 +161,35 @@
 	
 </div>
 	
-<!--<div type="translation" resp="part:emfr">
-</div>-->
+<div type="translation" resp="part:emfr">
+	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1-4">
+		<supplied reason="lost">Emptieth year of</supplied>
+		<gap reason="lost"/>
+		Vīrarājendra
+		<gap reason="lost"/>
+		in the Tirukkaḻumalanāṭu, Vīracōḻa<gap reason="lost"/>
+		Viṭaṅkanallūr, the Lord of the Rājeśvara
+		<gap reason="lost"/>
+		the land that we have given <supplied reason="subaudible">is as follows</supplied>.
+	</p>
+	
+	<p n="4-6">
+		In this village
+		<gap reason="lost"/>
+		south of the 
+		<gap reason="lost"/>
+		canal, in the first canal
+		<gap reason="lost"/>
+		up to <unclear>two</unclear> <foreign>mā</foreign>s,
+		<supplied reason="lost">this should</supplied> go as long as the moon and the sun
+		<gap reason="lost"/>		
+	</p>
+</div>
 	
 <!--<div type="commentary">
 </div>-->
