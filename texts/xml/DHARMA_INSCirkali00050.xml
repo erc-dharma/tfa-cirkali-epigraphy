@@ -83,7 +83,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2022-09-08">Revise encoding</change>
+			<change who="part:emfr" when="2024-03-01">Revise encoding</change>
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
