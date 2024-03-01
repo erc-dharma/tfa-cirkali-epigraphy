@@ -96,8 +96,7 @@
 		<lb n="1"/>
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>		
-		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="illegible" quantity="1" unit="character"/> <num value="0.0625">1/16</num> <num value="0.0125"><unclear>1/80</unclear></num>
 		<gap reason="lost" quantity="3" unit="character"/> 
 		Itil ti
@@ -113,7 +112,7 @@
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<supplied reason="lost">vā</supplied>
-		<milestone n="2" unit="block" type="gridlike"/>
+		<milestone n="2" unit="block" type="gridlike" break="no"/>
 		ykālukku vaṭakku 1 <g type="kaṇṇāṟu"/> 1 catira		
 	</p>
 	
@@ -121,9 +120,9 @@
 	
 <div type="apparatus">
 	
-	<app loc="3"><!--EF: assessed from photo-->
-		<lem>catira</lem>
-		<note>Probably to be restored as <foreign>catira<supplied reason="lost">ttu</supplied></foreign></note>
+	<app loc="1"><!--EF: assessed from photo-->
+		<lem><gap reason="illegible" quantity="1" unit="character"/> <num value="0.0625">1/16</num> <num value="0.0125"><unclear>1/80</unclear></num> <gap reason="lost" quantity="3" unit="character"/> </lem>
+		<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/></rdg>
 	</app>
 	
 </div>
