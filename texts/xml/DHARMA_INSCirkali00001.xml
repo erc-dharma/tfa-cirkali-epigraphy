@@ -95,7 +95,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">              
                
 	<ab>		
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label><lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
@@ -108,7 +108,7 @@
 		Irā
 		<lb n="4" break="no"/>cātirācavaḷanāṭṭut tirukkaḻu
 		<lb n="5" break="no"/>malanāṭṭu <hi rend="grantha">bra</hi><supplied reason="lost">ma</supplied>tēya
-		<lb n="6" break="no"/>m tirukkaḻumattu<!--EF: should no it be tirukkaḻumalattu ?--> U
+		<lb n="6" break="no"/>m tirukkaḻumalattu U
 		<lb n="7" break="no"/>ṭaiyār tiruttōṇipuramu
 		<lb n="8" break="no"/>ṭaiya nāya<choice><orig>nn</orig><reg>ṉ</reg></choice>ārkku <hi rend="grantha">je</hi>yaṅko
 		<lb n="9" break="no"/>ṇṭacōḻamaṇṭalattu mēlma
@@ -130,14 +130,15 @@
 		<lb n="21"/> <gap reason="lost" quantity="11" unit="character"/> koṇṭu
 		<lb n="22"/><supplied reason="lost">tiruñāṉacampantaṉ</supplied>
 		<lb n="23"/><gap reason="illegible" extent="unknown" unit="character"/>
+		<milestone type="pagelike" n="B" unit="zone"/><label xml:lang="eng">Second Wall Portion</label>
 		<lb n="24"/>kā<gap reason="lost" quantity="1" unit="character"/>mutiri<gap reason="lost" quantity="6" unit="character"/>
 		<lb n="25" break="no"/>tikkuk kiḻakkut <unclear>tiru</unclear><gap reason="lost" quantity="4" unit="character"/>
-		<lb n="26" break="no"/>kavāykkālukku <supplied reason="lost">Ira</supplied>
+		<lb n="26" break="no"/>kavāykkālukku <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">Ira</supplied>
 		<lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied>
 		<lb n="28" break="no"/>tirattuc cakkaravartti viḷā
 		<lb n="29" break="no"/>kam eṉṟu pēr kūva paṭ
 		<lb n="30" break="no"/>ṭa nilattu mā<gap reason="lost" quantity="1" unit="character"/>ḷattu <gap reason="lost" quantity="2" unit="character"/>tō
-		<lb n="31" break="no"/>ṇipuramutaiyāṉ tiru<gap reason="lost" quantity="1" unit="character"/><choice><unclear>ḻa</unclear><unclear>mu</unclear></choice>ḷai<gap reason="lost" quantity="1" unit="character"/>yutai<!--EF suggestion: tirumiḷaḷai-->
+		<lb n="31" break="no"/>ṇipuramutaiyāṉ tiru<gap reason="lost" quantity="1" unit="character"/><choice><unclear>ḻa</unclear><unclear>mu</unclear></choice>ḷai<gap reason="lost" quantity="1" unit="character"/>yuṭai
 		<lb n="32" break="no"/>yāṉ pakkal koṇṭa nilam Iraṇṭu mā
 		<lb n="33" break="no"/>kāṇi Araikkāṇik k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyē Iraṇṭu māvu
 		<lb n="34" break="no"/>m vācciyaṉ piraḷaiyaviṭaṅka<choice><orig>n</orig><reg>ṉ</reg></choice> tiruttōṇipu
@@ -156,8 +157,8 @@
 		<lb n="47"/><gap reason="lost" quantity="4" unit="character"/>kku Iraṇṭilum <gap reason="lost" quantity="7" unit="character"/>
 		<lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="49"/><supplied reason="lost">canti</supplied>rātittavaṟ cellak kaṭavatāka 
-		<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><supplied reason="lost">ś</supplied></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="11" unit="character"/>
-		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu <g type="tripledanda">.</g>	
+		<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><supplied reason="lost">ś</supplied></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="4" unit="character"/>
+		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/>ttu <g type="gomutraFinal">.</g>	
 	</p>
 	
 </div>
@@ -176,31 +177,36 @@
 			<note>Reading of the ASI transcript.</note>
 		</app>
 		
+				
+		<app loc="6">
+			<lem>tirukkaḻumalattu</lem><!--EF: assessed from photo-->
+			<rdg source="bib:Veluppillai2013_01">tirukkaḻumattu</rdg>
+		</app>		
+		
 		<app loc="22">
 			<lem><supplied reason="lost">tiruñāṉacampantaṉ</supplied></lem>
 			<note>Reading of the ASI transcript.</note>
 		</app>
 						
-		<app loc="26"><!--EF suggestion-->
-			<lem><supplied reason="lost">Ira</supplied><lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied><lb n="28" break="no"/>tirattuc</lem>
+		<app loc="26"><!--EF: assessed from photo-->
+			<lem><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">Ira</supplied><lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied><lb n="28" break="no"/>tirattuc</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="4" unit="character"/><lb n="27" break="no"/>ṇṭāṅ muta<gap reason="lost" quantity="4" unit="character"/><lb n="28" break="no"/>tirattuc</rdg>
 		</app>
-		
-		<app loc="26">
-			<lem>tiru<gap reason="lost" quantity="1" unit="character"/><choice><unclear>ḻa</unclear><unclear>mu</unclear></choice>ḷai<gap reason="lost" quantity="1" unit="character"/>yutai<!--EF suggestion: tirumiḷaḷai--><lb n="32" break="no"/>yāṉ</lem>
-			<rdg source="bib:Veluppillai2013_01">tiru<gap reason="lost" quantity="1" unit="character"/>ḻaḷai<gap reason="lost" quantity="1" unit="character"/>yutai<lb n="32" break="no"/>yāṉ</rdg>
-		</app>
-		
-		<app loc="49"><!--EF suggestion-->
+						
+		<app loc="49"><!--EF: assessed from photo-->
 			<lem><supplied reason="lost">canti</supplied>rātittavaṟ</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ</rdg>
 		</app>
 		
-		<app loc="49"><!--EF suggestion-->
-			<lem>kaṭavatāka<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra</lem>
-			<rdg source="bib:Veluppillai2013_01">kaṭavatāka<lb n="50"/><gap reason="lost" quantity="5" unit="character"/>  <hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra°</rdg>
+		<app loc="49"><!--EF: assessed from photo-->
+			<lem>kaṭavatāka<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra°</lem>
+			<rdg source="bib:Veluppillai2013_01">kaṭavatāka<lb n="50"/><gap reason="lost" quantity="5" unit="character"/>  <hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra</rdg>
 		</app>
 		
+		<app loc="49"><!--EF: assessed from photo-->
+			<lem>°ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="4" unit="character"/></lem>
+			<rdg source="bib:Veluppillai2013_01">°ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="11" unit="character"/></rdg>
+		</app>
 				
 	</listApp>
 </div>
