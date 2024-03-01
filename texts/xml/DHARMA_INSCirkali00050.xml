@@ -98,7 +98,7 @@
 	</ab>
 	
 	<p>
-		v<supplied reason="lost">ī</supplied>rarājentira
+		v<supplied reason="lost">ī</supplied>rarā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear>
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
@@ -110,23 +110,23 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
-		<lb n="3"/>viṭaṇkana<choice><orig>l</orig><reg>ll</reg></choice>ūr Irā<hi rend="grantha">ji</hi>curamuṭai
+		<lb n="3"/>viṭaṇkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">ji</hi>curamuṭai
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
-		<lb n="4"/>nāṇkal viṭṭa nilam Ivvūril ti
+		<lb n="4"/>nāṇkal viṭṭa nilam Ivvūril<!--EF:vo ? ril--> ti
 		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
-		<lb n="5"/>cavāykāṟku teṟku mutaṟ kaṇṇāṟṟu mutaṟ
+		<lb n="5"/>cavāy<supplied reason="omitted">k</supplied>kāluku teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: muṉ I-->
 		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
-		<lb n="6"/><gap reason="lost" quantity="5" unit="character"/>yum cantirātittavarai ce<unclear>l</unclear>
+		<lb n="6"/><supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum cantirātittavarai ce<unclear>l</unclear>
 		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
@@ -135,9 +135,24 @@
 	
 <div type="apparatus">
 	
-	<app loc="0"><!--EF: assessed from photo-->
+	<!--<app loc="0"><!-\-EF: assessed from photo-\->
 		<lem>...</lem>
 		<rdg source="bib:Veluppillai2013_01">....</rdg>
+	</app>-->
+	
+	<app loc="1"><!--EF: assessed from photo-->
+		<lem>v<supplied reason="lost">ī</supplied>rarā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear><gap reason="lost" quantity="2" unit="character" precision="low"/></lem>
+		<rdg source="bib:Veluppillai2013_01">v<supplied reason="lost">ī</supplied>rarā<gap reason="lost" extent="unknown" unit="character"/></rdg>
+	</app>
+	
+	<app loc="5"><!--EF: assessed from photo-->
+		<lem>cavāy<supplied reason="omitted">k</supplied>kāluku</lem>
+		<rdg source="bib:Veluppillai2013_01">cavāykāṟku</rdg>
+	</app>
+			
+	<app loc="6"><!--EF: assessed from photo-->
+		<lem><supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum</lem>
+		<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="5" unit="character"/>yum</rdg>
 	</app>
 	
 </div>
