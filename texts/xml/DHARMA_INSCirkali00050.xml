@@ -88,46 +88,34 @@
 		</revisionDesc>
 	</teiHeader>
 
-<text xml:space="preserve"><body>
+	<text xml:space="preserve"><body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
 	<ab>
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
 		v<supplied reason="lost">ī</supplied>rarā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear>
-		<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
+		<gap reason="lost" quantity="2" unit="character" precision="low"/>		
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="2"/>tirukkaḻumalaṉāṭu v<choice><orig>i</orig><reg>ī</reg></choice>racōḻa
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="3"/>viṭaṇkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">ji</hi>curamuṭai
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="4"/>nāṇkal viṭṭa nilam Ivvūril<!--EF:vo ? ril--> ti
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="5"/>cavāy<supplied reason="omitted">k</supplied>kāluku teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: muṉ I-->
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<milestone type="pagelike" n="1" unit="block"/><label xml:lang="eng">First Block</label>
 		<lb n="6"/><supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum cantirātittavarai ce<unclear>l</unclear>
-		<milestone type="pagelike" n="2" unit="block"/><label xml:lang="eng">Second (missing) Block</label>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 	</p>
@@ -157,11 +145,11 @@
 	
 </div>
 	
-<div type="translation" resp="part:emfr">
-</div>
+<!--<div type="translation" resp="part:emfr">
+</div>-->
 	
-<div type="commentary">
-</div>
+<!--<div type="commentary">
+</div>-->
 	
 <div type="bibliography">
       
@@ -182,5 +170,5 @@
 </div>
 	
 </body></text>
-	
+
 </TEI>
