@@ -51,7 +51,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment. Middle block/fragment of at least 3 blocks/fragments.</summary>
+						<summary>Fragment mentioning the Kāvēri.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -99,7 +99,7 @@
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<milestone n="2" unit="block" type="gridlike"/>
-		kāverit
+		kāvērit
 		<milestone n="3" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 				
@@ -114,14 +114,16 @@
 		<lb n="3"/>
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>m Iruk<gap reason="lost" quantity="2" unit="character"/>
+		<milestone n="2" unit="block" type="gridlike"/>
+		m Iruk<gap reason="lost" quantity="2" unit="character"/>
 		<milestone n="3" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>Irunāḻiy<unclear>u</unclear>
+		<milestone n="2" unit="block" type="gridlike"/>
+		Irunāḻiy<unclear>u</unclear>
 		<milestone n="3" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>		
 		
@@ -169,3 +171,5 @@
 </body></text>
 
 </TEI>
+
+<!--Middle block/fragment of at least 3 blocks/fragments.-->
