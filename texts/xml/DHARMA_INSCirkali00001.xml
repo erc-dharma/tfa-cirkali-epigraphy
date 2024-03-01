@@ -52,7 +52,8 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>Donation of land for upkeeping daily two lamps for the lord (<foreign>nāyaṉār</foreign>) of Tiruttōṇipuram (Śiva) by Vānātirāyaṉ <hi rend="italic">alias</hi> Karuṇākaratēvaṉ.</summary>
+						<summary>Donation of land for upkeeping daily two lamps for the lord (<foreign>nāyaṉār</foreign>) of Tiruttōṇipuram (Śiva) by Vānātirāyaṉ <hi
+								rend="italic">alias</hi> Karuṇākaratēvaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -107,7 +108,7 @@
 		Irā
 		<lb n="4" break="no"/>cātirācavaḷanāṭṭut tirukkaḻu
 		<lb n="5" break="no"/>malanāṭṭu <hi rend="grantha">bra</hi><supplied reason="lost">ma</supplied>tēya
-		<lb n="6" break="no"/>m tirukkaḻumattu U
+		<lb n="6" break="no"/>m tirukkaḻumattu<!--EF: should no it be tirukkaḻumalattu ?--> U
 		<lb n="7" break="no"/>ṭaiyār tiruttōṇipuramu
 		<lb n="8" break="no"/>ṭaiya nāya<choice><orig>nn</orig><reg>ṉ</reg></choice>ārkku <hi rend="grantha">je</hi>yaṅko
 		<lb n="9" break="no"/>ṇṭacōḻamaṇṭalattu mēlma
@@ -225,7 +226,7 @@
 		For the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, who owns Tiruttōṇipuram in Tirukkaḻumalam, a <foreign>brahmadeya</foreign> in the Tirukkaḻumalanāṭu, <supplied reason="subaudible">itself</supplied> in the Irācātirācavaḷanāṭu,
 		for two lamps that Vāṇātirāyaṉ <hi rend="italic">alias</hi> Karuṇākaratēvaṉ, Lord of Vētavaṉam, Lord of Paḻaiyanūr, in the Mēlmalaippaḻaiyanūrnāṭu, <supplied reason="subaudible">itself</supplied> in the Jayaṅkoṇṭacōḻamaṇṭalam, has given <supplied reason="subaudible">in</supplied> the divine presence <supplied reason="subaudible">of</supplied> this Lord,
 		for the necessary oil, so that there be <gap reason="lost"/><note>Lacuna for the number of <foreign>uri</foreign>s in figures.</note> <foreign>uri</foreign>s of oil per day,
-		the <foreign>brahmadeya</foreign> that, after obtaining <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> <supplied reason="subaudible">it</supplied>, he<note>That is, Karuṇākaratēvaṉ.</note> gave <supplied reason="subaudible">is as follows</supplied>.
+		the <foreign>brahmadeya</foreign><note>This word (lines 16-17) is here translated as governing the <foreign>peyareccam</foreign> <foreign>viṭṭa</foreign> which precedes it immediately, rather than being governed by the word  <foreign>tirukkaḻumalattu</foreign> that follows it, even though we have an apparent parallel <hi rend="grantha">bra</hi><supplied reason="lost">ma</supplied>tēyam tirukkaḻumattu (lines 5-6).</note> that, after obtaining <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> <supplied reason="subaudible">it</supplied>, he<note>That is, Karuṇākaratēvaṉ.</note> gave <supplied reason="subaudible">is as follows</supplied>.
 	</p>
 	
 	<p n="17-51">		
@@ -248,7 +249,7 @@
 	</p>
 	
 	<p n="50-51">
-		<gap reason="lost"></gap>
+		<gap reason="lost"/>
 	</p>
 	
 </div>
