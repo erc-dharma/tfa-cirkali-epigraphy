@@ -97,7 +97,7 @@
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<milestone n="2" unit="block" type="gridlike"/>
-		<lb n="1"/>ṟukkum Iṟai yiṟuttu mikuti 
+		ṟukkum Iṟai yiṟuttu mikuti 
 		
 		<lb n="2"/>
 		<milestone n="1" unit="block" type="gridlike"/>
@@ -127,23 +127,17 @@
 	
 </div>
 	
-<div type="apparatus">
+<!--<div type="apparatus">
 	
-	<app loc="2"><!--EF: assessed from photo-->
+	<app loc="0"><!-\-EF: assessed from photo-\->
 		<lem>...</lem>
-		<rdg source="bib:Veluppillai2013_01">kiyiṟuttu</rdg>
-	</app>
-	
-	<app loc="2"><!--EF: assessed from photo-->
-		<lem>...</lem>
-		<rdg source="bib:Veluppillai2013_01">vaḷakaṭa</rdg>
-	</app>
-	
-</div>
+		<rdg source="bib:Veluppillai2013_01">...</rdg>
+	</app>	
+</div>-->
 		
 <div type="translation" resp="part:emfr">
 	
-	<p n="1-10">
+	<p n="1-5">
 		[too fragmentary to allow a translation]
 	</p>
 </div>
