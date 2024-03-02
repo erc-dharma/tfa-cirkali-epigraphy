@@ -57,6 +57,7 @@
 					<physDesc>
 						<handDesc>
 							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<!--Grantha pa, va, Tamil pa similar.-->
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -99,15 +100,15 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">śakāpptam·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka <hi rend="grantha">sa</hi>ṇvat 
-		<lb n="2"/><hi rend="grantha">sara</hi>ttu tulānāyaṟṟu <hi rend="grantha">k<choice><orig><unclear>r</unclear>i</orig><reg>ṛ</reg></choice>ṣṇapakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied>vāramum peṟṟa <supplied reason="lost">makarana<hi rend="grantha">kṣa</hi>t-tirattu</supplied>
+		<hi rend="grantha">śakāpptam·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka <hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi> 
+		<lb n="2" break="no"/><hi rend="grantha">sara</hi>ttu tulānāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇapakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->vāramum peṟṟa <supplied reason="lost">makarana<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
 	</p>
 	
 	<p>
 		<lb n="3"/><hi rend="grantha">śrīman·</hi> <hi rend="grantha">paṭṭukkaṭṭāri</hi> pa<hi rend="grantha">śa</hi>payaṇkara matiyātamaṉṉar maṇa<supplied reason="lost">māṉa</supplied> <hi rend="grantha">kā</hi>ñcīpu<hi rend="grantha">ra</hi>
-		<lb n="4" break="no"/>va<hi rend="grantha">rādh<choice><orig>i</orig><reg>ī</reg></choice>śva</hi>ra koneri<hi rend="grantha">devamahārāśā</hi> cīkāḻi kōyil tānattāṟku taṅkaḷ 
-		<lb n="5" break="no"/>ḷ kōyil cīrmai <hi rend="grantha">sarva</hi>mum <hi rend="grantha">mānnya</hi>m āka naṭakkumpaṭiyum kaṟpittu 
-		<lb n="6"/>I<hi rend="grantha">ra</hi>ṇṭāṟṟuppaṟṟu cīrmaikku kurukularāya iṭṭa muṟiyilum kūṭā 
+		<lb n="4" break="no"/>va<hi rend="grantha">rādh<choice><orig>i</orig><reg>ī</reg></choice>śva</hi>ra <hi rend="grantha">ko</hi>ne<hi rend="grantha">ridevamahārāśā</hi> c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi kōyil tānattāṟku taṅka<surplus>ḷ</surplus> 
+		<lb n="5" break="no"/>ḷ kōyil cīrmai <hi rend="grantha">sarva</hi>mum <hi rend="grantha">mānnya</hi>m āka naṭakkum paṭiyum kaṟpittu 
+		<lb n="6"/>I<hi rend="grantha">ra</hi>ṇṭ' āṟṟuppaṟṟu c<choice><orig>i</orig><reg>ī</reg></choice>rmaikku kurukula<hi rend="grantha">rā</hi>ya Iṭṭa muṟiyilum kūṭā 
 		<lb n="7"/>kūṭāmal muṟipiṟinta niṉṟayam ākaiyāle Ammariyyātilē paṭṭaṭaicāttāma kal 
 		<lb n="8"/>veṭ=ṭivari paṟaiyāvari Uḷḷiṭṭa vakaiyum <hi rend="grantha">sarvamānnya</hi>m Āka naṭakkum paṭiyum taṅkaḷ 
 		<lb n="9"/>taṅkaḷ koyil cirmaiyāṉa vaṭakāverinallūr kīḻnaṟkoṟṟaṅkuṭi tirunāvukkaraca 
