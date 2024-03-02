@@ -100,8 +100,8 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">śakāpptam·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka <hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi> 
-		<lb n="2" break="no"/><hi rend="grantha">sara</hi>ttu tulānāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇapakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->vāramum peṟṟa <supplied reason="lost">makarana<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
+		<hi rend="grantha">śakā<choice><sic>ppt</sic><corr>bd</corr></choice>am·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka-<hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi> 
+		<lb n="2" break="no"/><hi rend="grantha">sara</hi>ttu tulānāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇa-pakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->vāramum peṟṟa <supplied reason="lost">makara-na<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
 	</p>
 	
 	<p>
@@ -124,7 +124,7 @@
 	</p>
 	
 	<p>
-		caṟuvamum mā<sic>ṉini</sic>yam-āka kalluveṭṭi nāṭṭik koṇṭu pū 
+		caṟuvamum mā<choice><sic>ṉini</sic><corr>n</corr></choice>yam-āka kalluveṭṭi nāṭṭik koṇṭu pū 
 		<lb n="19" break="no"/>cai tiruppaṇi naṭatti Oṉṟukkum Añcāmal Irukkavum <g type="pc">.</g> <g type="ddanda">.</g>
 	</p>
 	
@@ -169,10 +169,40 @@
 		Prosperity! Fortune!
 	</p>	
 	
+	<p n="1-3">
+		In the year Kilaka, which was current in Śaka year 1410th, in the month of Tulā, in the dark forthnight, under the <foreign>nakṣatra</foreign> Makara, which coincides with a Wednesday.
+	</p>
+	
+	<p n="3-18">
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭi</foreign></supplied>
+		... in order to stop the discontinuity <supplied reason="explanation"><foreign>tāḻvu āṟa</foreign><note>Literally, "so as to cut defect".</note></supplied>, let it be carried on <supplied reason="explanation"><foreign>naṭattavum</foreign></supplied> that ...		
+	</p>
+	
+	<p n="18-19">
+		...
+	</p>
+	
+	<p rend="stanza" n="1">
+		<l>Between gift and protection <supplied reason="subaudible">of the gift</supplied></l>
+		<l>Protection is the best <supplied reason="subaudible">compared to</supplied> protection.</l>
+		<l>Through gift, one obtains the heaven,</l>
+		<l>Through protection a permanent abode.</l>
+	</p>
+	
+	<p n="20-21">
+		Let prosperity be!
+	</p>
+	
+	<p n="21-22">
+		<supplied reason="subaudible">This is</supplied> a pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> that he had made ... in the name<note>That is, "for the merit".</note> of ...</p>
+	
 </div>
 	
 <div type="commentary">
-	
+	<p>The choice of the formulaic stanza, praising the protection of the gift, makes here perfect sense, since the transaction concerns the restoration of a donation that had been disrupted.</p>
 </div>
          
 <div type="bibliography">
