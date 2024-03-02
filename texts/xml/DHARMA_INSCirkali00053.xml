@@ -97,8 +97,9 @@
 	<p>
 		<lb n="1"/><unclear>ti</unclear>tukkaḻumalattu Ūr māviyan=ti 
 		<lb n="2"/>kiyiṟuttu Iṟai mikuti koṇ 
+		<!--EF: see CEC 31, l.7: Ūr māvintavāyiṟuttu iṟai mikiti koṇṭu celuttuvatāka koṇṭu viṭṭatu-->
 		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="4"/>ṭaiyāṉ Āṭko <gap reason="lost" quantity="3" unit="character"/>
+		<lb n="4"/>ṭaiyāṉ Āṭko <gap reason="lost" quantity="3" unit="character"/><!--EF! Āṭkoṇṭa-->
 		<lb n="5"/><gap reason="lost" quantity="1" unit="character"/> yiti <gap reason="lost" quantity="2" unit="character"/> ṅka <gap reason="lost" quantity="4" unit="character"/> ti 
 		<lb n="6"/>vaḷakaṭa <gap reason="lost" quantity="5" unit="character"/> kapāra 
 		<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> pakkal 
