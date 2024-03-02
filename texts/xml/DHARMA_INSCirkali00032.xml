@@ -127,7 +127,7 @@
 		
 		<app loc="4"><!--EF-->
 			<lem><hi rend="grantha"><choice><orig>bama</orig><reg>brahma</reg></choice>de</hi>yam</lem>
-			<rdg source="bib:Veluppillai2013_01"><hi rend="grantha">baimadaya</hi>m </rdg>
+			<rdg source="bib:Veluppillai2013_01"><hi rend="grantha">baimadaya</hi>m</rdg>
 		</app>
 		
 	</listApp>
@@ -156,7 +156,7 @@
 	
 	<p>First edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 32).</p>
 	
-	<p>Re-edited here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), based on autopsy and photos.</p>
+	<p>Re-edited here for DHARMA (ERC n°809994) by Uthaya Veluppillai (2022), based on autopsy and photos (G. Ravindran, EFEO, 2005).</p>
 	
 		
 	<listBibl type="primary">
