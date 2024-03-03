@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kōṉēriṉmaikoṇṭān, no year</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -90,8 +90,33 @@
       
 <div type="edition" xml:lang="san-Latn" rendition="class:57475 maturity:83215">
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g>
+	</ab>
+	
 	<p>
-		
+		<hi rend="grantha">tri-bhu</hi>vaṉa<hi rend="grantha">chakra</hi>vatti kōṉeriṉmaikoṇṭāṉ
+	</p>
+	
+	<p>
+		uṭaiyār tirucciṟṟampalam-uṭaiyār tēvatāṉam irācātirāca-vaḷanāṭṭu nāṭavaṟkku pāṇṭi-maṇṭalattu miḻalai-k-kūṟṟattu naṭuvil-kūṟṟu Eṭṭirāma poṉpaṟṟi Uṭaiyāṉ uṭaiyanāyakaṉ taṅkaḷ nāṭṭut tirukkaḻumalattu Uṭaiyār tiruttōṇipuram-uṭaiyār kōyil uḷḷil tirukkuḷattukkuk k<choice><orig>i</orig><reg>ī</reg></choice>ḻ karaiyil nam perāl eḻuntaruḷap paṇṇiṉa Uṭaiyār irācākkaṇāyaṉārkkum nācciyār marakataccokkiyāṟkum iṉ-ṉāyaṉārkku Irācākkaḷ nāyaṉ cantikkum irācākkaḷ nāyaṉ tiru-t-tōppukkum It-tiru-t-tōpp 
+		<lb n="2" break="no"/>aiṭṭakaḷukkum nampimānkum irācākkaḷṇāyaṉ maṭattukkum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭil tiṟappil aṇṇāḻvi cuntara-pāṇṭiya-tēvaṟku pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭāvatu varaiyum aṭaippāṉa nilattu payir ceyyāmal pāḻkiṭanta nilamāy variyil kaḻitta nilattu nam ōlaip paṭi viṭṭa nilam
+	</p>
+	
+	<p>		
+		mu-p-patiṟṟu vēli I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum taṅkaḷukku cervaiyāṉa Iṭaṅkaḷilē kaṭamai Uḷḷiṭṭaṉa celavākkuvatākap paṟṟip payir ceytu koṇṭu tāṅkaḷ i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukkut talaimāṟu taṅkaḷ pēril añcāvatukku Aṭaippaṉai nila <gap reason="undefined" extent="unknown" unit="character"/>l taṅkaḷ viṭṭa paṭikku tāṅkaḷ eḻutik kuṭutta ā<supplied reason="undefined">v</supplied>v-ōlaip paṭi
+	
+		tiruttōṇipurattu 
+		<lb n="3"/>tiṭṭaiyil piṟinta Irācēntira-cōḻa-nallūrāl viṭṭa nilam ēḻaraiyum tirukkaḻumalattu viṭṭa nilam iraṇṭ' araiyum āka viṭṭa nilam mu-p-patiṟṟu vēliyum uṭaiyār irācākkaṇāyaṉārkkum nācciyār maratakaccokkiyaṟkkum amutupaṭi cāttuppaṭi Uḷḷiṭṭa nitta <g type="nilam"/>n taṅkaḷukku tēvatāṉamāka Iṭṭa nilam patiṉāl vēliyum uṭaiyār tiruttōṇipuram-uṭaiyār tēvatāṉattuṭaṉē kūṭṭik koṇṭu payir ceytu Itaṉuṭal kōyil paṇṭārattilē kūṭṭik koṇṭu Uṭaiyār irācākkaṇāyaṉārkkum nācciyār maratakaccokkiyāṟkum amutupaṭi cāttuppaṭi Uḷḷiṭṭa pala-nimantaṅkaḷukkum 
+		<lb n="4"/>maṭattil nāḷ vaṟa Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar pēr paṉṉiraṇṭukkum im-maṭattu nōkki Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curarṟkku<!--EF: "rṟ" sic?--> Ākki Iṭṭu Irukkum <hi rend="grantha">māhe</hi>curarkkum muṉṟ' arai vēliyum āka nilam patiṉaṟu vēliyum āka tēvatāṉam uṭpaṭa nilam mu-p-patiṟṟu vēliyum ip-pērkaḷāl aṉupavittuk koḷḷum āṟāvatu mutal mutalaṭaṅkalum iṟaiyiliyākak kuṭuttōm
+	</p>
+	
+	<p>
+		i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattu cettavaṉ tiṭarum kuḷamum kuṭi Iruppu nattamum itil kuḷamum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum niṅkalāka Iṟaiyi<supplied reason="undefined">li</supplied>yāka Ivaiyum Ivarkaḷ aṉupōvikkak kuṭuttōm
+	</p>
+	
+	<p>
+		ivaiyiṟṟukku varum kaṭamai vācal viṉaṉipōkam palalai <gap reason="lost" extent="unknown" unit="character"/>p peṟum ōlai <gap reason="lost" extent="unknown" unit="character"/> 
 	</p>
 	         	
          </div>
