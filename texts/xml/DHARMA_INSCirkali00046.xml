@@ -96,9 +96,21 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">	
 	
 	<p>
-		<lb n="1"/>vācal teṇṭa
-		<lb n="2"/>pāṇa piḷḷai
-		<lb n="3"/>malaimeyikāvil
+		<lb n="1"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		vācal teṇṭa
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="2"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		pāṇa piḷḷai
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="3"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		malaimeyikāvil
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
 	</p>
 	
 </div>

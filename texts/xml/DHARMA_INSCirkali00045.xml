@@ -96,11 +96,30 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">	
 	
 	<p>
-		<lb n="1"/>paṟṟa 
-		<lb n="2"/>runilai 
-		<lb n="3"/>ḷiḷāl 
-		<lb n="4"/>ye ota 
-		<lb n="5"/>nāmat  
+		<lb n="1"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		paṟṟa
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="2"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		runilai
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="3"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		ḷiḷāl
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="4"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		ye ota
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="5"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		nāmat
+		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>
