@@ -97,6 +97,30 @@
 	
 	<p>
 		
+		<lb n="1"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<unclear>n</unclear>āyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>tattu <hi rend="grantha">tri</hi>ti 
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="2"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		yāṉa kulōttuṅkacōḻanallūr
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="3"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		pakkalum ivaṉ mātāviṉ pakkalum
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="4"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		lum iṟuttu Iṟai mikuti koṇṭu tiru
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="5"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		veṉavāvūr-uṭaiyāṉ kaṇṇavi<gap reason="lost" quantity="1" unit="character"/>t<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg>
+		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>
