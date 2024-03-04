@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kōpperuñciṅkaṉ, year lost</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -202,11 +202,16 @@
 	
 	<listApp>
 		
+		<app loc="1">
+			<lem><hi rend="grantha">śrī</hi><gap reason="lost" quantity="2" unit="character"/>peruñ</lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">śrī</hi> <gap reason="lost" quantity="2" unit="character"/> peruñ</rdg>
+			<rdg source="bib:Veluppillai2013_01"><hi rend="grantha">śrī</hi><gap reason="lost" quantity="3" unit="character"/>peruñ°</rdg>
+		</app>
+		
 		<app loc="8">
 			<lem><supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu</lem>
 			<rdg source="bib:Veluppillai2013_01"/>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="8" unit="character"/>ḷaṉāṭṭu</rdg>			
-		</app>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="8" unit="character"/>ḷaṉāṭṭu</rdg>					</app>
 		
 		<app loc="10">
 			<lem>peru<supplied reason="lost">vemp-uṭaiyā</supplied>r</lem>
