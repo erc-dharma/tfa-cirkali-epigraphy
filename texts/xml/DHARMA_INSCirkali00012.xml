@@ -91,11 +91,15 @@
       
 <div type="edition" xml:lang="san-Latn" rendition="class:57475 maturity:83215">
 	<!--EF: gap lengths after SII-->
+	<ab>
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+	</ab>
+	
 	<p>
-		<lb n="1"/>
-		<gap reason="lost" quantity="11" unit="character"/>
+		<supplied reason="lost">cakala-puvaṉa-c-cakka</supplied>
 		ravattikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="lost">kō-p</supplied>-peruñ-ciṅka-tēvaṟkku yāṇṭu <gap reason="lost" quantity="8" unit="character"/>-<supplied reason="undefined">nāyaṟṟu</supplied> pū<hi rend="grantha">rvva-pakṣa</hi>ttu <hi rend="grantha">pratha</hi><supplied reason="undefined">maiyum</supplied> caṉikkiḻamaiyum peṟṟa <supplied reason="undefined">pūca</supplied>ttu ṉāḷ
 	</p>
+	
 	<p>
 		<hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭut 
 		<lb n="2"/>
@@ -201,6 +205,12 @@
 <div type="apparatus">
 	
 	<listApp>
+		
+		<app loc="1">
+			<lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> cakala-puvaṉa-c-cakka</supplied></lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="11" unit="character"/></rdg>
+			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent ="unknown" unit="character"/></rdg>
+		</app>
 		
 		<app loc="1">
 			<lem><hi rend="grantha">śrī</hi><supplied reason="lost">kōp</supplied>peruñ</lem>
