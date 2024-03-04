@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kōpperuñciṅkaṉ, year 19</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -92,10 +92,58 @@
 	
 	<!--EF: gap lengths after SII-->
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
 	<p>
+	 cakala-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēvaṟku yāṇṭu <num value="19"><g type="numeral">10</g> 9</num> <supplied reason="undefined">Āvatu tai</supplied>-mātan tiyati pati<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oṉ<!--EF: corr-->ṟiṉāl
+	</p>
+	
+	<p>
+		Uyyakkoṇṭār-vaḷanāṭṭu Ampar
+		<gap reason="lost" quantity="8" unit="character"/>
 		
+		<lb n="2"/>Iḷantēvaṉ poṉṉampalakkūttar ciṅkāravaḷamuṭikavittāṉēṉ <supplied reason="undefined">eṉ</supplied> pēr<supplied reason="undefined">āl</supplied> <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭut tiruvaḻaṉtūr-nāṭṭuk kūṭalūr-uṭai<supplied reason="undefined">yāṉ</supplied>
+		<gap reason="lost" quantity="7" unit="character"/>
+		<lb n="3"/>ḷāl nāṉ kuṭutta nilam āvatu
+	</p>
+	
+	<p>
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tēvatāṉam <hi rend="grantha">rājādhirāja</hi>-vaḷanāṭṭu veṇṇaiyūr-nāṭṭu Olaiyāmaṇkalattu Eṅkaḷ mutaliyār pakkal kuṭu<supplied reason="undefined">tta</supplied>
+		<gap reason="lost" quantity="6" unit="character"/>		
+		<lb n="4"/>
+		<gap reason="lost" quantity="3" unit="character"/>
+		pāykiṟa Uṭciṟu-vāykkālukkuk kiḻakkum
+		kuñcaramalla-viḷākattukkut teṟkum
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṉkellaiyuḷ naṭuvupaṭṭa mikutik kuṟaivu Uḷḷaṭaṅkat ta<supplied reason="undefined">ṭi</supplied> U
+		<gap reason="lost" quantity="6" unit="character"/>
+		<lb n="5"/>
+		<gap reason="lost" quantity="3" unit="character"/>
+		nalliyai mutukaṇṇākak koṇṭu Ampar Aruvantai Arayaṉ
+		<gap reason="lost" quantity="3" unit="character"/>
+		vv-āḻvā
+		<gap reason="lost" quantity="8" unit="character"/>
+		<lb n="6"/>Uṭpaṭat tirunāmattik kāṇiyākak kuṭukkak kūṭalūr-uṭaiyāṉ tēvarkaḷ tēva
+		<gap reason="lost" quantity="9" unit="character"/>
+		<lb n="7"/>
+		<gap reason="lost" quantity="2" unit="character"/>
+		ṭat tirunāmattuk kāṇiyākak kuṭuttamaikku Ivai kūṭalūr-uṭaiyāṉ tēvarka
+		<gap reason="lost" quantity="4" unit="character"/>
+		<lb n="8"/>Ippaṭi Aṟivēṉ <supplied reason="undefined">perum</supplied>pēr-uṭaiyāṉ
+		<gap reason="lost" quantity="4" unit="character"/>
+		Ā<supplied reason="undefined">ṇṭa</supplied>piḷḷaiyēṉ eṉṟum Ippaṭi
+		<gap reason="lost" quantity="5" unit="character"/>
+		<lb n="9"/>
+		<gap reason="lost" quantity="2" unit="character"/>
+		<hi rend="grantha">śva</hi>ramuṭaiyār kōyiṟ-tēvarkaṉmi pārattuvāci Aḻakiya-cōḻa-p-pirama
+		<gap reason="lost" quantity="6" unit="character"/>	
 	</p>
 	         	
+	<p>
+		<gap reason="lost" extent="unknown" unit="line"/>
+	</p>
+	
          </div>
         
 <!--<div type="apparatus">
