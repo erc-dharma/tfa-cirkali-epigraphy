@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, no king, no year</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Rājarāja, year 10</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -152,7 +152,7 @@
          </div>
 
 <div type="commentary">
-           
+           <p>The name of the king and his reganl year appear at the end of line 4. It was probably already mentioned at the beginning, now lost, of the record.</p>
          </div>
 
 <div type="bibliography">
