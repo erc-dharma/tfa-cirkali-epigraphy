@@ -90,7 +90,7 @@
 <body>
       
 <div type="edition" xml:lang="san-Latn" rendition="class:57475 maturity:83215">
-	
+	<!--EF: gap lengths after SII-->
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" quantity="11" unit="character"/>
