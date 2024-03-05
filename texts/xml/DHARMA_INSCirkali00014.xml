@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,8 +85,8 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
@@ -209,7 +210,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
