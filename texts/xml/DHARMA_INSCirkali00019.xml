@@ -90,8 +90,39 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrīmatu svasti śrī</hi></ab>
+	
 	<p>
-		
+		<lb n="1"/><hi rend="grantha">sittārddhi</hi>-varu<hi rend="grantha">ṣa</hi>m tulā-nāyaṟṟu <hi rend="grantha">apara-<choice><sic>bh</sic><corr>p</corr></choice>akṣa</hi>t-tu viyāḻa-k-<gap reason="lost" extent="unknown" unit="character"/> naḷ<!--EF: nāḷ?-->
+	</p>
+	<p>
+		tirukkaḻumalam uḷḷūr paṟṟaṭai Eṅkaḷ <supplied reason="undefined">kāṇi</supplied> āṭciyil paṟṟaṭai kuṭimakkaḷ pērāl uḷḷa mutalukku Eṅkaḷ pērāl kōyil kāvamu <supplied reason="undefined">ṟ</supplied> ikkoḷḷukiṟa In-nāyaṉār periya-nāyaṉārkku paṭi <gap reason="lost" extent="unknown" unit="character"/> nāyanār āḷuṭai <gap reason="lost" extent="unknown" unit="character"/> kkāl uḷḷa mutal kuṭutta Aḷavukku paṟṟaṭaik kuṭimakkaḷ <gap reason="lost" extent="unknown" unit="character"/> taravu Eḻutik koḷḷa tirukkaḻumalam uḷḷūril tirunāmattuk kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki Eṅkaḷ kāṇiyāṉa nilattil 
+		<lb n="2"/>kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkāta tēvatāṉam-āka cerkka <g type="nilam"/> <num value="110"><g type="numeral">100</g> <g type="numeral">10</g></num> <g type="mā"/> itil tirukkuḷanāyaṉmār eṟ <gap reason="lost" extent="unknown" unit="character"/> <num value="10"><g type="numeral">10</g></num> <g type="mā"/> n<choice><orig>i</orig><reg>ī</reg></choice>kka <g type="nilam"/> <num value="100"><g type="numeral">100</g></num> m koṭaṅkuṭiyil tirunāmattuk kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki Eṅkaḷ kāṇiyāṉa nilam muppatu muppatu mā Āka nilam nūṟṟu muppatu <gap reason="lost" extent="unknown" unit="character"/>l kulōttuṅka-cōḻa<hi rend="grantha">brah-marā</hi>yarkku kaṇṭu Ilakkaikku viṭṭa <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> kki <g type="nilam"/> <gap reason="undefined" quantity="1" unit="character"/> yirkku tiru <gap reason="lost" extent="unknown" unit="character"/> ṭṭukku koḷḷu mariyātiyil māttāl iru-kala-nellum <gap reason="lost" extent="unknown" unit="character"/> ṭa <gap reason="lost" extent="unknown" unit="character"/>yak koḷḷa Inta nilam uḻanta mēlum Eṅkaḷ kāṇiyil kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkāt tēvatāṉam-āka māka certtuk koḷḷum 
+		<lb n="3"/>nilattukkum Im-mariyāti koḷiṉ uṭaiyār tiru-t-tōṇipura <gap reason="lost" extent="unknown" unit="character"/> āḷuṭaiyapiḷḷaiyār kōyilukkum mutalum eḻutitaravukkum eḻuttu Iṭṭup pota Ippaṭikku cantirātitta <gap reason="lost" extent="unknown" unit="character"/> yum naṭakka Itukku virōtañcoṉṉāruṇṭātil nāyaṉāṟ āḷuṭaiyapiḷḷaiyār tiruvā <gap reason="lost" extent="unknown" unit="character"/> tuveṭṭik kuṭuttōm
+	</p>
+	
+	<p>
+		<list>
+			<item>
+				ivai māṭalaṉ kalikaṭinta-cōḻa<hi rend="grantha">brahmārā</hi>yaṉ <gap reason="lost" extent="unknown" unit="character"/>
+			</item>
+			<item>
+				<gap reason="lost" extent="unknown" unit="character"/> māṭalaṉ kulōttuṅka-cōḻa-<hi rend="grantha">brahmārā</hi>vaṉ eḻuttu
+			</item>
+			<item>
+				Ivai māṭalaṉ cempiyaṉ <hi rend="grantha">brahmārā</hi>yaṉ eḻuttu
+			</item>
+			<item>
+				Ivai māṭalaṉ kaṉaka-<hi rend="grantha">sabhā-pati-bhaṭṭa</hi>ṉ eḻuttu
+			</item>
+			<item>
+				Ivai <hi rend="grantha">bhr̄a<!--EF:???-->dvāji</hi> <gap reason="undefined" quantity="1" unit="character"/> karikāla-cōḻa-<hi rend="grantha">brahma</hi> <gap reason="lost" extent="unknown" unit="character"/>
+			</item>
+			<item>
+				<gap reason="lost" extent="unknown" unit="character"/> natiyāka viṉota<hi rend="grantha">brahmārā</hi>yar <gap reason="lost" extent="unknown" unit="character"/>
+			</item>
+		</list>
 	</p>
 	         	
          </div>
