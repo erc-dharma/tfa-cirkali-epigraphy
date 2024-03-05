@@ -89,21 +89,22 @@
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-	
-	<!--Check against photos-->
+		
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti</hi>			
 	</ab>
 	<p>
-		<hi rend="grantha">śrīman mahā-maṇḍalīśvaran hariha-rarāya-vipāṭan</hi> 
-		<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kkut tappuvarāyar kaṇṭaṉ kaṇṭanāṭu koṇḍu 
-		<lb n="3"/>koṇṭanāṭu ko<hi rend="grantha">ṭākān</hi> <hi rend="grantha">pūrva-dakṣaṇa-pacśima</hi> 
-		<lb n="4"/>Uttara<hi rend="grantha">-catu-samudrādipati</hi> c<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>ṟ</orig><reg>r</reg></choice>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-piṟatāpa-kiṟuṭṭaṇa 
-		<lb n="5" break="no"/>tēva maka Irācāpiṟiti-Irācciyam paṇṇi 
-		<lb n="6"/>Aruḷāniṉṟa cakāttam <num value="1433"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num> mēl cellā niṉṟa piṟacāpati-caṅva 
-		<lb n="7"/><choice><sic>cata</sic><corr>cca</corr></choice><supplied reason="lost">ra</supplied>ttu mē<hi rend="grantha">ṣa</hi>-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttu tiṟutiyaiyum peṟṟa cukkiṟa-vāramum acuvati 
+		<hi rend="grantha">śrīman· mahā-maṇḍalīśvaran· harihara-rāya-vipāṭan·</hi> 
+		<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kkut tappuva<hi rend="grantha">rā</hi>yar kaṇṭaṉ kaṇṭa-nāṭu ko<hi rend="grantha">ṇḍu</hi> 
+		<lb n="3"/>koṇṭa-nāṭu ko<hi rend="grantha">ṭā</hi>kā<hi rend="grantha">n· pūrvva-dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇa-<hi rend="grantha">pa<choice><sic>cś</sic><corr>śc</corr></choice>ima</hi> 
+		<lb n="4" break="no"/>-Utta<hi rend="grantha">ra-catu-samudrādi</hi>pati c<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>ṟ</orig><reg>r</reg></choice>-vīra-p-pi<choice><orig>ṟ</orig><reg>r</reg></choice>atā<hi rend="grantha">pa</hi>-kiṟuṭṭaṇa 
+		<lb n="5" break="no"/>tēva-mak<choice><sic>a</sic><corr>ā</corr></choice>-Irācā-piṟiti<supplied reason="omitted">vi</supplied>-Irācciyam paṇṇi 
+		<lb n="6"/>Aruḷā niṉṟa cakāttam <num value="1433"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num> mēl cellā <space type="defect"/> niṉṟa piṟacāpati-ca<choice><orig>ṅ</orig><reg>m</reg></choice>va 
+		<lb n="7" break="no"/><choice><sic>cata</sic><corr>cca</corr></choice><supplied reason="lost">ra</supplied>ttu mē<hi rend="grantha">ṣa</hi>-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttu tiṟutiyaiyum pe<unclear>ṟṟa</unclear> cukkiṟa-vāramum Acuvati 
 		<lb n="8" break="no"/>-na<hi rend="grantha">kṣatra</hi>ttu nāḷ
 	</p>
+	
+	<!--Check against photos from here-->
 	<p>
 		ceyaṅ-koṇṭa-cōḻa-maṇṭalam-āṉa toṇṭai-maṇṭalattu 
 		<lb n="9"/>kāli<supplied reason="lost">yūr-kōṭṭa</supplied>ttu <gap reason="lost" quantity="1" unit="character"/>livaṉa <gap reason="lost" quantity="4" unit="character"/> ūr <gap reason="lost" quantity="4" unit="character"/> maru <gap reason="lost" extent="unknown" unit="character"/>ntaṟa-cōḻa-catuvēti-maṇṭalattu 
