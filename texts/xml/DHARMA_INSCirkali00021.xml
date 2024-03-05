@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, Śaka year 1433</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -90,8 +90,38 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<!--Check against photos-->
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti</hi>			
+	</ab>
 	<p>
-		
+		<hi rend="grantha">śrīman mahā-maṇḍalīśvaran hariha-rarāya-vipāṭan</hi> 
+		<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kkut tappuvarāyar kaṇṭaṉ kaṇṭanāṭu koṇḍu 
+		<lb n="3"/>koṇṭanāṭu ko<hi rend="grantha">ṭākān</hi> <hi rend="grantha">pūrva-dakṣaṇa-pacśima</hi> 
+		<lb n="4"/>Uttara<hi rend="grantha">-catu-samudrādipati</hi> c<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>ṟ</orig><reg>r</reg></choice>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-piṟatāpa-kiṟuṭṭaṇa 
+		<lb n="5" break="no"/>tēva maka Irācāpiṟiti-Irācciyam paṇṇi 
+		<lb n="6"/>Aruḷāniṉṟa cakāttam <num value="1433"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num> mēl cellā niṉṟa piṟacāpati-caṅva 
+		<lb n="7"/><choice><sic>cata</sic><corr>cca</corr></choice><supplied reason="lost">ra</supplied>ttu mē<hi rend="grantha">ṣa</hi>-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttu tiṟutiyaiyum peṟṟa cukkiṟa-vāramum acuvati 
+		<lb n="8" break="no"/>-na<hi rend="grantha">kṣatra</hi>ttu nāḷ
+	</p>
+	<p>
+		ceyaṅ-koṇṭa-cōḻa-maṇṭalam-āṉa toṇṭai-maṇṭalattu 
+		<lb n="9"/>kāli<supplied reason="lost">yūr-kōṭṭa</supplied>ttu <gap reason="lost" quantity="1" unit="character"/>livaṉa <gap reason="lost" quantity="4" unit="character"/> ūr <gap reason="lost" quantity="4" unit="character"/> maru <gap reason="lost" extent="unknown" unit="character"/>ntaṟa-cōḻa-catuvēti-maṇṭalattu 
+		<lb n="10"/>Ūr kaṇakku mācaṉa-p-piriyar va <gap reason="lost" quantity="1" unit="character"/> unayiṉūr puttiraṉ komāṇaṟku cōḻa-maṇṭalattu Irācā 
+		<lb n="11" break="no"/>tirāca-vaḷanāṭṭu tirukkaḻumalattu cī-kālimutaliyār tāṉattārum nilamum maṇai yum vilaippira 
+		<lb n="12"/>māṇam paṇṇīk<!--CHECK ī--> kuṭutta paṭi maṇai Oṉṟukku <gap reason="lost" quantity="1" unit="character"/> llai Āvatu tirukkaḻumalattil 
+		<lb n="13"/>Irācākkaḷ tampirāṉ tiruviti teru mēl-tuṇṭattil teṉ-ci<supplied reason="lost">ṟā</supplied>kilē mēṟk' aṭaiya k<choice><orig>i</orig><reg>ī</reg></choice>ḻ mēl 
+		<lb n="14" break="no"/>-kolam-uṭaiyāṉ <gap reason="lost" quantity="6" unit="character"/> kku maṇai Oṉṟu nila-vēlikku tirukaḻumalattil nilam kālacaṅkaṉa 
+		<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> Oṉṟu te Āka <g type="nilam"/> 1 <g type="vēli"/> maṇai 1 Inta nilam vēlikkum maṇai Oṉṟukkum vilai Āka 
+		<lb n="16"/>niṉṟai paṭi paṇṇiṉa poṉ pattu Intap poṉ pattukku maṇai Oṉṟum nilam vēliyum vilai Ākavum Inta maṇai 
+		<lb n="17"/>Oṉṟum nilam vēliyum nāyaṉār periya-nāyaṉārkkum nāyaṉār <gap reason="lost" quantity="5" unit="character"/> rāṇṟkum<!--CHECK--> tamm-uṭaiya taṉ 
+		<lb n="18"/><gap reason="lost" quantity="17" unit="character"/> ḷ <gap reason="lost" quantity="1" unit="character"/> lakkaikku <gap reason="lost" quantity="5" unit="character"/> caittapaṭiyā<unclear>pa</unclear>la puṟavari 
+		<lb n="19"/>māṉiyam-āka <supplied reason="lost">Inta taṉmam canti</supplied>rātitta-varaiyum naṭakkak kaṭava <gap reason="lost" quantity="12" unit="character"/> matattu 
+		<lb n="20"/>nilamu maṇaiyum vilaip piramāṇam paṇṇik kuṭutta <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ṇarkku kāḻimuta</supplied>liyār tāṉ 
+		<lb n="21"/>tāṉattārōm		
+	</p>
+	<p>
+		vātuceytavāraṇa-p-pira<supplied reason="lost">mar eḻuttu</supplied>
 	</p>
 	         	
          </div>
