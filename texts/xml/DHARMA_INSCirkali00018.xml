@@ -107,7 +107,7 @@
 			Ivai ne <gap reason="lost" extent="unknown" unit="character"/> kāmuka-nāyakapaṭṭar eḻuttu
 		</item>		
 		<item>
-			Ivai c<choice><orig>i</orig><reg>ī</reg></choice>-mu <gap reason="lost" extent="unknown" unit="character"/> nāyarāṇ eḻuttu
+			Ivai c<choice><orig>i</orig><reg>ī</reg></choice>-mu <gap reason="lost" extent="unknown" unit="character"/> nāyarāṇ<!--EF: check?--> eḻuttu
 		</item>
 	</list> 
 		
