@@ -101,7 +101,7 @@
 	<list>
 		<item>
 			Iv <gap reason="lost" extent="unknown" unit="character"/>
-			<lb n="3"/>likaṭinta-cōḻa-p-piramārāyar Eḻuttu
+			<lb n="3" break="no"/>likaṭinta-cōḻa-p-piramārāyar Eḻuttu
 		</item> 
 		<item>
 			Ivai ne <gap reason="lost" extent="unknown" unit="character"/> kāmuka-nāyakapaṭṭar eḻuttu
