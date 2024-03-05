@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,14 +85,61 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti</hi>
+	</ab>
+	
 	<p>
+		<hi rend="grantha">śrīma</hi>ṉ-ma<hi rend="grantha">hā</hi>maṇṭali<hi rend="grantha">śvaran pūrva-dakṣi</hi>ṇa-Uttara-<hi rend="grantha">sa</hi>muttirātipati <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">harihara-rā</hi>yaṉ kumaraṉ <hi rend="grantha">śrī</hi>-vira-v<choice><orig>i</orig><reg>ī</reg></choice>ruppaṇa-Uṭaiyāṟku <hi rend="grantha">pr̥thivi-rājyam</hi> cellā niṉṟa <hi rend="grantha">śakāpta</hi>m <num value="1305"><g type="numeral">1000</g> 3 <g type="numeral">100</g> <g type="numeral">10</g> 5</num> ṉ mēl<!--EF: correcetd from mela--> <hi rend="grantha">śrī-mukhavarṣa</hi>m <hi rend="grantha">mārggaśira</hi>-<hi rend="grantha">śuddha</hi>-<hi rend="grantha">panca</hi>miyum <hi rend="grantha">śu</hi>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		kā<supplied reason="omitted">r</supplied>ttikai-mātam <num value="25">2 <g type="numeral">10</g> 5</num> <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	
+	<p>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		cōḻa-maṇṭalattu kāvēri<supplied reason="undefined">kkum</supplied> koḷḷiṭattukkum naṭuppaṭṭa paṟṟu rā<hi rend="grantha">jādhi</hi>rāca-vaḷanāṭṭu kiḻakku vaṭakālaṉu <gap reason="lost" extent="unknown" unit="character"/> -t tillai-viṭaṅka-nallūr aṭaippiṉ paṭi
 		
+		<lb n="2"/>
+		<g type="nilam"/> <num value="60">6 <g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> <g type="mā"/> 
+		
+	<list>
+		<item>
+		nāyaṉār āḷuṭaiya-piḷḷaiyāṟku
+		<g type="nilam"/> <num value="10"><g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="40">4 <g type="numeral">10</g></num> <g type="mā"/>
+		</item>
+		
+		<item>		
+		<hi rend="grantha">bhāradvāj<choice><sic>i</sic><corr>a</corr></choice>-gotra</hi>ttu <hi rend="grantha">Apastambha</hi>-<hi rend="grantha">sūtra</hi>ttu kamukai Aruṇa<hi rend="grantha">giri-śiva</hi>ṟku Ivv-ūr nattam uṭpaṭa maṭa-p puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="80">8 <g type="numeral">10</g></num> <g type="mā"/>
+		</item>
+		
+		<item>			
+			Inta <hi rend="grantha">gotra</hi>ttu Inta <hi rend="grantha">su<!--EF: ū?-->tra</hi>ttu <hi rend="grantha">rāmanā<choice><orig>dh</orig><reg>th</reg></choice>a-bhaṭṭa</hi>ṟku <hi rend="grantha">bhū<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na<!--EF: na > n=ṉ? + see below: pūtāṉataṇṭiṟaiyilikku--> taṇṭi <gap reason="lost" extent="unknown" unit="character"/> ṇi<hi rend="grantha">śra</hi>ṟku
+		
+		<g type="nilam"/> 5 <g type="vēli"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
+		</item>
+		
+		<item>			
+			c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-tiru-neṟimāḷikai-maṭattu mutaliyāṟku maṭa-p-puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
+		</item>
+		
+		<item>
+			<hi rend="grantha">pūja-kālaśvāmi</hi> tiru-ñānacampanta-paṇṭitaṟku pūtāṉataṇṭiṟaiyil 
+			<lb n="3"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
+		</item>
+		
+		<item>
+			tēvakaṉmi <hi rend="grantha">kāśya</hi>paṉ kāḻikaṟpakapaṭṭaṟku pūtāṉa<!--EF: ṉa > ṉ-->taṇṭiṟaiyilikku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
+		</item>
+	</list> 
+		āka <g type="nilam"/> 
+		
+		<num value="60">6 <g type="numeral">10</g></num> <g type="vēli"/> maṉul <g type="nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> <g type="mā"/> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam iru-nūṟṟu nāṟpatu māvum <hi rend="grantha">sarvadāṉya</hi>m-āka<!--EF: should sarva-mānya--> <hi rend="grantha">candrāditya</hi>-varaiyum naṭattik koḷḷa Itukku virōtañ-ceytāruṇ <gap reason="lost" extent="unknown" unit="character"/><!--EF: restore kallilum--> cempilum veṭṭik koḷḷa Ippaṭikku <hi rend="grantha">dharmma</hi>-cātaṉa-p-paṭṭaiya-kuṭuttamaikku
 	</p>
 	         	
          </div>
@@ -151,7 +199,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
