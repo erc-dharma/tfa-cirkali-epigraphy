@@ -8,7 +8,7 @@
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>CEC 21</title>
+			<title>CEC 6</title>
 			<respStmt>
 				<resp>intellectual authorship of edition</resp>
 				<persName ref="part:utve">
@@ -20,7 +20,7 @@
 		<publicationStmt>
 			<authority>DHARMA</authority>
 			<pubPlace/>
-			<idno type="filename">DHARMA_INSCEC21</idno>
+			<idno type="filename">DHARMA_INSCEC06</idno>
 			<availability>
 				<licence target="https://creativecommons.org/licenses/by/4.0/">
 					<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -75,27 +75,10 @@
 <text xml:space="preserve"><body>
 <div type="edition" xml:lang="tam">
 	<p>
-<lb n="1"/><hi rend="grantha">svasti śrīman mahāmaṇḍalīśvaran harihararāya vipāṭan</hi> 
-<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kkuttappuvarāyar kaṇṭaṉ kaṇṭanāṭu koṇḍu 
-<lb n="3"/>koṇṭanāṭu ko<hi rend="grantha">ṭākān</hi> <hi rend="grantha">pūrvadakṣaṇa pacśima</hi> 
-<lb n="4"/>uttara<hi rend="grantha">catusamudrādipati</hi> ciṟvirappiṟatāpakiṟuṭṭaṇa 
-<lb n="5"/>teva maka irācāpiṟiti irācciyam paṇṇi 
-<lb n="6"/>aruḷāniṉṟa cakāttam 1000 4 100 3 10 3 mel cellāniṉṟa piṟacāpaticaṅva 
-<lb n="7"/>cata<supplied reason="lost">ra</supplied>ttu me<hi rend="grantha">ṣa</hi>nāyaṟṟu pūṟuvapa<hi rend="grantha">kṣa</hi>ttu tiṟutiyaiyum peṟṟa cukkiṟavāra-mum acuvati 
-<lb n="8"/>na<hi rend="grantha">kṣatra</hi>ttu nāḷ ceyaṅkoṇṭacoḻamaṇṭalamāṉa toṇṭaimaṇṭalattu 
-<lb n="9"/>kāli<supplied reason="lost">yūr koṭṭa</supplied>ttu<gap reason="lost" quantity="1" unit="character"/>livaṉa<gap reason="lost" quantity="4" unit="character"/>ūr<gap reason="lost" quantity="4" unit="character"/>maru<gap reason="lost" extent="unknown" unit="character"/>ntaṟacoḻacatuvetima|ṇṭalattu 
-<lb n="10"/>ūr kaṇakku mācaṉappiriyar va<gap reason="lost" quantity="1" unit="character"/> unayiṉūr puttiraṉ komāṇaṟku coḻamaṇṭalat|-tu irācā 
-<lb n="11"/>tirācavaḷanāṭṭu tirukkaḻumalattu cīkālimutaliyār tāṉattārum nilamum maṇai-yum vi|laippira 
-<lb n="12"/>māṇam paṇṇīkkuṭuttapaṭi maṇai oṉṟukku <gap reason="lost" quantity="1" unit="character"/>llai āvatu tiruk|kaḻumalattil 
-<lb n="13"/>irācākkaḷ tampirāṉ tiruviti teru meltuṇṭattil teṉci<supplied reason="lost">ṟā</supplied>kile meṟkaṭai|ya kiḻmel 
-<lb n="14"/>kolamuṭaiyāṉ<gap reason="lost" quantity="6" unit="character"/>kku maṇai oṉṟu nila velikku tirukaḻumalattil nila|m kālacaṅ-kaṉa 
-<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> oṉṟu te āka <g type="nilam"/> 1<g type="vēli"/> maṇai 1 inta nilam velikkum maṇai oṉṟuk|kum vilai āka 
-<lb n="16"/>niṉṟaipaṭi paṇṇiṉa poṉ pattu intappoṉ pattukku maṇai oṉṟum nilam veliyum vilai ākavu|m inta maṇai 
-<lb n="17"/>oṉṟum nilam veliyum nāyaṉār periyanāyaṉārkkum nāyaṉār<gap reason="lost" quantity="5" unit="character"/>rāṇṟkum tam|-muṭaiya taṉ 
-<lb n="18"/><gap reason="lost" quantity="17" unit="character"/>ḷ<gap reason="lost" quantity="1" unit="character"/>lakkaikku<gap reason="lost" quantity="5" unit="character"/>caittapaṭiyā|<unclear>pa</unclear>lapuṟavari 
-<lb n="19"/>māṉiyamāka <supplied reason="lost">inta taṉmam canti</supplied>rātittavaraiyum naṭakkakkaṭava<gap reason="lost" quantity="12" unit="character"/>ma-tattu 
-<lb n="20"/>nilamumaṇaiyum vilaip piramāṇam paṇṇikkuṭutta <supplied reason="lost"><gap reason="lost" quantity="6" unit="character"/>ṇarkku kāḻimuta</supplied>liyār tāṉ 
-<lb n="21"/>tāṉattārom vātuceytavāraṇappira<supplied reason="lost">mar eḻuttu</supplied>  
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="ulike">.</g> <hi rend="grantha">tribhu</hi>vaṉa<hi rend="grantha">chakra</hi>vatti koṉeriṉmaikoṇṭāṉ uṭaiyār tirucciṟṟam-palamuṭaiyār tevatāṉam irācātirācavaḷanāṭṭu nāṭavaṟkku pāṇṭimaṇṭalattu miḻalaikkūṟṟattu naṭuvilkūṟṟu eṭṭirāma poṉpaṟṟi uṭaiyāṉ uṭaiyanāyakaṉ taṅ-kaḷ nāṭṭut tirukkaḻumalattu uṭaiyār tiruttoṇipuramuṭaiyār koyil uḷḷil tirukku-ḷattukkuk kiḻ karaiyil namperāl eḻuntaruḷap paṇṇiṉa uṭaiyār irācākkaṇāyaṉā-rkkum nācciyār marakataccokkiyāṟkum iṉṉāyaṉārkku irācākkaḷ nāyaṉ cantikkum irācākkaḷ nāyaṉ tiruttoppukkum ittiruttopp 
+<lb n="2"/>aiṭṭakaḷukkum nampimānkum irācākkaḷṇāyaṉ maṭattukkum iṉṉāṭṭil tiṟappil aṇṇāḻvi cuntarapāṇṭiyatevaṟku patineṭṭāvatu varaiyum aṭaippāṉa nilattu pa-yir ceyyāmal pāḻkiṭanta nilamāy variyil kaḻitta nilattu nam olaippaṭi viṭṭa nilam muppatiṟṟu veli iṉṉilam muppatiṟṟu veliyum taṅkaḷukku cervaiyāṉa iṭaṅkaḷile kaṭamai uḷḷiṭṭaṉa celavākkuvatākap paṟṟip payir ceytu koṇṭu tāṅkaḷ iṉṉilattukkut talaimāṟu taṅkaḷ peril añcāvatukku aṭaippaṉai nila <gap reason="lost" extent="unknown" unit="character"/>l taṅkaḷ viṭṭa paṭikku tāṅkaḷ eḻutik kuṭutta ā<supplied reason="lost">v</supplied>volaippaṭi tiruttoṇipurattu 
+<lb n="3"/>tiṭṭaiyil piṟinta irācentiracoḻanallūrāl viṭṭa nilam eḻaraiyum tirukkaḻumalattu viṭṭa nilam iraṇṭaraiyum āka viṭṭa nilammuppatiṟṟu veliyum uṭaiyār irā-cākkaṇāyaṉārkkum nācciyār maratakaccokkiyaṟkkum amutupaṭi cāttuppaṭi uḷḷiṭṭa nitta <g type="nilam"/>n taṅkaḷukku tevatāṉamāka iṭṭa nilam patiṉāl veliyum uṭaiyār tiruttoṇipuramuṭaiyār tevatāṉattuṭaṉe kūṭṭik koṇṭu payir ceytu itaṉuṭal koyil paṇṭārattile kūṭṭik koṇṭu uṭaiyār irācākkaṇāyaṉārkkum nācciyār maratakaccokkiyāṟkum amutupaṭi cāttuppaṭi uḷḷiṭṭa palanimantaṅkaḷukkum 
+<lb n="4"/>maṭattil nāḷvaṟa uṇṇaniccayitta <hi rend="grantha">māhe</hi>curar per paṉṉiraṇṭukkum immaṭattu nokki uṇṇaniccayitta <hi rend="grantha">māhe</hi>curarṟkku ākki iṭṭu irukkum <hi rend="grantha">māhe</hi>curarkkum muṉṟarai veliyum āka nilam patiṉaṟu veliyum āka tevatāṉam uṭpaṭa nilam muppatiṟṟu veliyum ipperkaḷāl aṉupavittuk koḷḷum āṟāvatu mutal mutalaṭaṅ-kalum iṟaiyiliyākak kuṭuttom iṉṉilattu cettavaṉ tiṭarum kuḷamum kuṭi iruppu nattamum itil kuḷamum iṉṉilam muppatiṟṟu veliyum niṅkalāka iṟaiyi<supplied reason="lost">li</supplied>yāka ivaiyum ivarkaḷ aṉupovikkak kuṭuttom ivaiyiṟṟukku varum kaṭamai vācal viṉaṉipokam palalai <gap reason="lost" extent="unknown" unit="character"/>ppeṟum olai <gap reason="lost" extent="unknown" unit="character"/> 
 	</p>
 </div>
 <div type="apparatus">
