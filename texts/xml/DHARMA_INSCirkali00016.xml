@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, Śaka year 1313</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,14 +85,42 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
 	<p>
+		 cakā<hi rend="grantha">pta</hi>m āyirattu muṉṉūṟṟu Orupattu muṉṟil mē<supplied reason="undefined">l cellā niṉṟa <hi rend="grantha">prajā</hi>pa</supplied>ti<!--EF: extent of supplied not clear; see PhD edition-->-varu<hi rend="grantha">ṣa</hi>m makara-nāyaṟṟu <hi rend="grantha">pūrva-<choice><sic>bh</sic><corr>p</corr></choice>akṣa</hi>ttu <hi rend="grantha">tri</hi>tikaiyum veḷḷi-k-kiḻamaiyum peṟṟa <supplied reason="undefined">cat</supplied>aiyattu <supplied reason="undefined">nāḷ</supplied>
+	</p>
+	
+	<p>		
+		<gap reason="lost" extent="unknown" unit="character"/> tōṇipuram-uṭaiyārum nāyaṉār āḷuṭaiya <supplied reason="undefined">piḷ</supplied>ḷaiyāna <gap reason="lost" extent="unknown" unit="character"/> ruḷiṉa paṭi <gap reason="lost" extent="unknown" unit="character"/> āticaṇṭē<hi rend="grantha">śva</hi>raṉ aruḷāl tiru-mañcaṉa <gap reason="lost" extent="unknown" unit="character"/> tayār <gap reason="lost" extent="unknown" unit="character"/> ttu <gap reason="lost" extent="unknown" unit="character"/> tti <gap reason="lost" extent="unknown" unit="character"/>
 		
+		<lb n="2"/>tiru-ñāṉacampantaṉ tiru-maṭam-āka vaṭakkil maṭam-āka naṭakka kuṭutta vaṭa-karai Irācātirāca-vaḷanāṭṭu tiru-k-kaḻumala-nāṭṭu tiru-k-kaḻumalattu caṉṉatikku teṟku
+		<gap reason="lost" extent="unknown" unit="character"/> ru-vitikku mēṟkkum vaṭakkum civa-kāma-cuntari-p-peru <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="undefined">ḻu</supplied>ṅ<supplied reason="lost">kai</supplied>kku ka <gap reason="lost" extent="unknown" unit="character"/> nāṉk' ellaikku Uḷppaṭṭa maṉai kōl patiṉālum maṭamum maṭappu <gap reason="lost" extent="unknown" unit="character"/> kkaṭaiyum ākavum
+	</p>
+	
+	<p>
+		i <gap reason="lost" extent="unknown" unit="character"/> maṭattu
+		<lb n="3"/>kku maṭa-p-puṟam-āka kuṭutta kiḻakku vaṭakāl umāpati-nallūril kuṭutta nilam nāṟpa<supplied reason="undefined">tu m</supplied>āvum
+		inta maṭamum tamakku paramparam-āka tanta Aḷavukku nammu <gap reason="lost" extent="unknown" unit="character"/> ḷavum āticaṇṭēcuraṉ aruḷāl tiruttōṇipura-p-piriyaṉ maṭattu 
+		<lb n="4"/>vaḷattu vāḻvittāṟku pūtāṉam ākavum
+	</p>
+	
+	<p>
+		umāpatinallūril viṭṭa <g type="nilam"/> 8 <g type="mā"/> <g type="nilam"/>lam eṭṭu māvukkum
+		ivai tiruttōṇipurappiriyaṉ eḻuttu
+	</p>
+	
+	<p>
+		Inta nilam <num value="48">4 <g type="numeral">10</g> 8</num> māvum nāyaṉā <gap reason="lost" extent="unknown" unit="character"/> piḷḷaiyārkku tiru-mañcaṉattukku cā<supplied reason="undefined">ttu</supplied>p paṭikku <gap reason="lost" extent="unknown" unit="character"/> ḷavum cella<supplied reason="undefined">miḷa</supplied> <gap reason="lost" extent="unknown" unit="character"/> kuṭuttamaikku
+		Ivai <supplied reason="undefined">tiru</supplied>mañ<supplied reason="undefined">caṉam a</supplied>ḻakiyāṉ eḻuttu <g type="pc">.</g>
 	</p>
 	         	
          </div>
@@ -151,7 +180,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
