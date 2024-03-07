@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,16 +85,56 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
 	<p>
-		
+		<lb n="1"/><hi rend="grantha">tribhuvana-c-cakra</hi>varttikaḷ <hi rend="grantha">śrī-kulo</hi>ttuṅka-<hi rend="grantha">coḷa</hi>tevarkku yāṇṭu patt-āvatu
+		mācit tiṅkaḷ mu<unclear>n</unclear>nāḷpakkam Oṉpatu kiḻamai putaṉ nāḷ <hi rend="grantha">m<choice><orig>ra</orig><reg>r̥</reg></choice>gaśīrṣa</hi>m		
 	</p>
-	         	
+	
+	<p>		
+		Iṉ-nāḷ mi<hi rend="grantha">thu</hi>nam-āka naṉ pakal Āvaṇattu 
+		<lb n="2"/>kēṭṭu<unclear>k</unclear> kaḻan=ta poruḷ nila-vilai-y-āvaṇam <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu Ākkūr-nāṭṭut talaiccaṅkāṭṭu mula<hi rend="grantha">paruṣai</hi>yōm Ivv-ūr mummuṭi-cōḻaṉ per-ampalattē kūṭṭaṅ kuṟai v-aṟa-k kūṭi Irun 
+		<lb n="3" break="no"/>tu <hi rend="grantha">rājādhirāja</hi>-vaḷanāṭṭut tiru-k-kaḻumala-nāṭṭu <hi rend="grantha">brahmadeya</hi>m tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyārkkut tiru-p-pāṟ-pō<choice><orig>n</orig><reg>ṉ</reg></choice>akam Amutu ceytaruḷukaikku tiru-maṭai-p-paḷḷi-p-puṟam-āka nāṅkaḷ viṟṟu-k kuṭutta nilam āva 
+		<lb n="4" break="no"/><supplied reason="lost">tu</supplied>		
+	</p>
+	
+	<p>
+		<gap reason="lost" quantity="1" unit="character"/>va<gap reason="lost" quantity="1" unit="character"/>ṉūr-p-piṭākai cōḻa-pāṇṭiya-nallūril Antari-vatikku kiḻakku
+		<hi rend="grantha">rājendra</hi>-cōḻa-vāykkālukku vaṭakku
+		muṉṟāṅ kaṇṇāṟṟu Iraṇṭāñ catirattu kavuciyaṉ Īcāṉa<supplied reason="lost">ka</supplied>-laiya<choice><orig>n</orig><reg>ṉ</reg></choice> Uḷḷiṭṭār pērāl kaṇṇāṟu Enṟu pēr kū 
+		<lb n="5" break="no"/>vappaṭṭa nilattukkum puṉceykkum kuḷattukkum tiṭalukkum Ellai y-āvatu
+		
+		mēl-pārk' ellai nālāñ catirattukku kiḻak<supplied reason="lost">ku</supplied>m
+		vaṭa-pārkk'ellai Ātitta-tēvaṉ vāykkālukkut teṟkum
+		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pārkk' ellai mutaṟ catirattukku mē 
+		<!--Not clear on photos from here: recheck-->
+		<lb n="6" break="no"/><supplied reason="lost">ṟkum</supplied>
+		teṉ-<supplied reason="lost">pā</supplied>rkk' ellaik kaṇṇāṟṟukku vaṭakkum
+		
+		Ivv-icaitta peru-nāṉk' ellaiyuḷ akappaṭṭa viḷai-ni<supplied reason="lost">la</supplied>m <supplied reason="lost">kuḷamu</supplied>m tiṭalum kuḻi pati<choice><orig>n</orig><reg>ṉ</reg></choice> āyiratt' iru-nūṟṟ' aim-patu Itil teṉ-kiḻakk' aṭaiyak kāmakkāṇit 
+		
+		<!--EF: Check on photos from here-->
+		<lb n="7"/>
+		<supplied reason="lost">tiru-c-ciṟṟampalam-uṭaiyāṉ paraṇa Uḷḷiṭṭār pērāl kiṭanta viḷai nilamum</supplied> <supplied reason="omitted">kuḷamum</supplied> tiṭalum kuḻi Iru-nūṟṟ' aim-patu Ik-kuḻi Iru-nūṟṟ' aim-patum n<choice><orig>i</orig><reg>ī</reg></choice>kki nāṅkaḷ viṟṟuk kuṭutta viḷai-nilamum <supplied reason="omitted">kuḷamum</supplied> <supplied reason="lost">tiṭalum</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="8"/><supplied reason="lost">Ik-kuḻi patiṉ āyirattiṉul nilam ay-vēli In-nilam ay-vēliyum viṟṟuk kuṭuttuk koḷvatāka Emmill icainta viḷai-p-poruḷ aṉṟāṭu naṉ kācu Āyiram ik-kācu Āyiramum in-nilam canti<hi rend="grantha">rā</hi>titta-varai kācu koḷḷā Iṟaiyili</supplied> 
+		<lb n="9" break="no"/><supplied reason="lost">yāka Iṟaiyiḻi</supplied>ccik kuṭuttuk koṇṭa kācu āyiram <supplied reason="lost">ik-kācu Āyiramum in-nilattukku cennir veṭṭi muṭṭaiyāḷum kuṭimaikaḷukku canti<hi rend="grantha">rā</hi>titta-varai tavi<supplied reason="subaudible">r</supplied>ntu kuṭuttuk koṇṭa kācu nūṟu ik-kācu nūṟum ākak kā</supplied> 
+		<lb n="10" break="no"/>cu Iraṇṭ' āyiratt' oru nūṟu Ik-kācu Iraṇṭ' āyirattu <supplied reason="lost">Oru ṉūṟum kaik koṇṭu In-nilam <hi rend="grantha">sa</hi>pai vilaiyāka viṟṟu kācu koḷḷā Iṟaiyyili ceytu ceṉṉīr veṭṭi muṭṭaiyāḷ kuṭimaiyum ta</supplied><supplied reason="omitted">vi</supplied><supplied reason="lost">rntu In-nilam ay-vē</supplied> 
+		<lb n="11" break="no"/>liyum cempilum kallilum veṭṭik koḷḷak kaṭavarkaḷ-āka viṟṟu-k kuṭuttōm piramatēcam tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyārku <hi rend="grantha">sabhai</hi>-viḷai-<supplied reason="lost">y-āka viṟṟu-k kuṭuttōm mula-paru<hi rend="grantha">ṣai</hi>yōm</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="12"/>iṭaiyāna muvāyiravaṉ eḻuttu mula-paru<hi rend="grantha">ṣai</hi>yālil eḻuttiṭṭār tiru-c-ciṟṟampalam-uṭaiyān kaṇṇan tāḻi <supplied reason="lost">Um̱aiccāṇaṅkiran kūttan cāttāṇi kumāranniyaṉ kavuciyaṉ kalaiyaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ntaminiyaṉ tirucciṟṟampalamuṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">māṭilaṉātaṉ vaṭukaṉ um̱aiccāṇaṉ nilakaṇṭaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ttaṉ kavuciyaṉ nilaṉ cuppiramaṇṇiyaṉ kavuciyaṉ nilaṉ māṇiyaṉ komaṭaṉ cāvāncāttaṉ pālāci</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">tāyaṉ cantira-cēkaraṉ kumāraṉ cāttaṉ mālaṉ kumāraṉ</supplied> 
+			<lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mpaḷ cantira-cēkaraṉ-āṉa kaṉaka-varatāṉ citurvetika</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yaṉ cāttāṇicaturvati makkumaru kāṭaṉ cāttāṇi</supplied><supplied reason="omitted">ca</supplied> <supplied reason="lost">turvēti tēvaṉ kaṇṇapaṭṭaṉ toḻiyaṉ nilaṉāṉa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	
          </div>
         
 <!--<div type="apparatus">
@@ -150,7 +191,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
