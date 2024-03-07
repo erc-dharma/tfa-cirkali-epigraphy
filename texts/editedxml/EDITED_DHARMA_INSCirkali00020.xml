@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cīrkāḻi, Tōṇipuram temple, Śaka 1410</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:emfr">
+                  <surname>Francis</surname>
+                  <forename>Emmanuel</forename>
+               </persName>
+               <persName ref="part:utve">
+                  <surname>Veluppillai</surname>
+                  <forename>Uthaya</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:utve">
+                  <surname>Veluppillai</surname>
+                  <forename>Uthaya</forename>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, Inalco</pubPlace>
+            <idno type="filename">DHARMA_INSCirkali00020</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                     Licence. To view a copy of the licence, visit
+                     https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
+                     Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                     USA.</p>
+                  <p>Copyright (c) 2019-2025 by John Doe.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents>
+                  <summary>Donation of land-taxes for conducting rituals.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                     <!--Grantha pa, va, Tamil pa similar.-->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+               under the European Union’s Horizon 2020 research and innovation programme (grant
+               agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                  ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                     <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2024-03-01">Revise encoding</change>
+         <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>
+            
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">              
+               
+	<ab>		
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>
+		<hi rend="grantha">śakā<choice><sic>ppt</sic><corr>bd</corr></choice>am·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka-<hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi> 
+		<lb n="2" break="no"/><hi rend="grantha">sara</hi>ttu tulānāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇa-pakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->vāramum peṟṟa <supplied reason="lost">makara-na<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
+	</p>
+	
+	<p>
+		<lb n="3"/><hi rend="grantha">śrīman·</hi> <hi rend="grantha">paṭṭukkaṭṭāri</hi> pa<hi rend="grantha">śa</hi>payaṇkara matiyātamaṉṉar maṇa<supplied reason="lost">māṉa</supplied> <hi rend="grantha">kā</hi>ñcīpu<hi rend="grantha">ra</hi>
+		<lb n="4" break="no"/>va<hi rend="grantha">rādh<choice><orig>i</orig><reg>ī</reg></choice>śva</hi>ra <hi rend="grantha">ko</hi>ne<hi rend="grantha">ridevamahārāśā</hi> c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi kōyil tānattāṟku taṅka<surplus>ḷ</surplus> 
+		<lb n="5" break="no"/>ḷ kōyil cīrmai <hi rend="grantha">sarva</hi>mum <hi rend="grantha">mānnya</hi>m-āka naṭakkum paṭiyum kaṟpittu 
+		<lb n="6"/>I<hi rend="grantha">ra</hi>ṇṭ’ āṟṟuppaṟṟu c<choice><orig>i</orig><reg>ī</reg></choice>rmaikku kurukula<hi rend="grantha">rā</hi>ya Iṭṭa muṟiyilum kūṭā 
+		<lb n="7"/>kūṭāmal muṟipiṟinta niṉṟayam Ākaiyāle Ammariyyātilē<!--EF: letters inserted--> paṭṭaṭaicāttāma<!--EF: m NOT ma at the end-->  kal 
+		<lb n="8"/>veṭ=ṭivari paṟaiyāvari Uḷḷiṭṭa vakaiyum <hi rend="grantha">sarvvamānnya</hi>m-Āka naṭakkum paṭiyum taṅkaḷ 
+		<lb n="9"/>taṅkaḷ kōyil cīrmaiyāṉa vaṭakāvērinallūr kīḻnaṟkoṟṟaṅkuṭi ti<unclear>r</unclear>unāvukkaraca 
+		<lb n="10" break="no"/>nallūr viṭu nilam kīṟānallūr viṭu nilam Uḷḷiṭṭa vakaiyilē nāṟpattu Iruvēl<supplied reason="omitted">i</supplied> ni 
+		<lb n="11" break="no"/>lam paṇṇaiyākap patintu naṭantu vantatu Eṉṟa paṭiyālē Anta Ūrkaḷ muṉpu pō<surplus>lē</surplus> 
+		<lb n="12" break="no"/>lē kōyil paṇṭārattilē kaṇṭu koḷḷum paṭiyum muṉṉē kaṟpittu Inta nilattuk 
+		<lb n="13" break="no"/>ku Aṭṭavaṇai puṟavarikku kaṇakkāl Uṇṭānaṉāṉa<!--EF: uṇṭā[n>ṉ]a poṉ--> kurukula-Irāyaṉ pēril kutta 
+		<lb n="14"/>kaip paṭi mutalilē celaviṭṭu <hi rend="grantha">sarvva</hi>mum mā<hi rend="grantha">nnya</hi>m-Āka naṭakkum paṭi kaṟpitta Aḷavukku Im 
+		<lb n="15" break="no"/>mariyātayilē Inta vakaikku Uṇṭīr<!--EF: ??--> Āṉa poṉ kōyil paṇṭārattilē kaṇṭu ko 
+		<lb n="16" break="no"/>ṇṭu pūcai tiruppaṇi tāḻv’ aṟa naṭatti Oṉṟukkum Añcāma<add place="below">l</add> Irukkavum <gap reason="lost" quantity="4" unit="character"/>yāṟuvo-tara <gap reason="lost" quantity="1" unit="character"/><!--EF: kūḻaiy[o]ṟuvotaraḥ-->
+		<lb n="17"/>ḻai yovalacā<!--EF: lacā not very clear-->cantaicātivariyiṉ vari <hi rend="grantha">sarvva</hi>mum <hi rend="grantha">mānnya</hi>m-Āka kalluveṭṭu vittu pūcai
+		<lb n="18"/>tiruppaṇi tāḻvu Aṟa naṭattavum <g type="pc">.</g>
+	</p>
+	
+	<p>
+		caṟuvamum mā<choice><sic>ṉini</sic><corr>n</corr></choice>yam-āka kalluveṭṭi nāṭṭik koṇṭu pū 
+		<lb n="19" break="no"/>cai tiruppaṇi naṭatti Oṉṟukkum Añcāmal Irukkavum <g type="pc">.</g> <g type="ddanda">.</g>
+	</p>
+	
+	<p>
+		<gap reason="lost" quantity="4" unit="character"/>
+	</p>
+	
+	
+	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		
+		<l n="a">dānapālanayo<lb n="20" break="no"/>r mmadhye</l>
+		<l n="b">dānāt· śreyo ’nupālanam· <g type="ddanda">.</g></l>
+		<l n="c">dānāt· svargam<surplus>·</surplus> avāpnoti</l>
+		<l n="d">pālanād accyutam· padam· <g type="danda">.</g></l></lg>
+	
+	<p>
+		<hi rend="grantha">śubham a 
+		<lb n="21" break="no"/>stu</hi>
+	</p> 
+	
+	<p>
+		Iruṇkoḷapāṇṭināṭu vaṇkāramuṭaiyār <hi rend="grantha">puṣpa</hi>vaṉapperumāḷ kurukularāyar pērālē ca<hi rend="grantha">rvvamā</hi> 
+		<lb n="22" break="no"/><hi rend="grantha">nnya</hi>m-Āka nirupam varukaiyil Avar paṇṇuvitta <hi rend="grantha">dharmmam·</hi> <g type="gomutraFinal">.</g>
+	</p>	
+</div>
+
+<!--<div type="apparatus">
+               
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem><!-\-EF: assessed from photo-\->
+			<rdg source="bib:Veluppillai2013_01">...</rdg>
+		</app>			
+				
+	</listApp>
+</div>-->
+                     
+<div type="translation" resp="part:emfr">
+	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>	
+	
+	<p n="1-3">
+		In the year Kilaka, which was current in the Śaka year 1410th, in the month of Tulā, in the dark forthnight, under the <foreign>nakṣatra</foreign> Makara, which coincides with a Wednesday.
+	</p>
+	
+	<p n="3-18">
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭiyum</foreign></supplied>
+		... <supplied reason="explanation"><foreign>paṭi</foreign></supplied>
+		... in order to stop the discontinuity <supplied reason="explanation"><foreign>tāḻvu āṟa</foreign><note>Literally, “so as to cut defect”.</note></supplied>, let it be carried on <supplied reason="explanation"><foreign>naṭattavum</foreign></supplied> that ...		
+	</p>
+	
+	<p n="18-19">
+		... <supplied reason="explanation"><foreign>irukkavum</foreign></supplied>.
+	</p>
+	
+	<p n="19">
+		<gap reason="illegible"/>
+	</p>
+	
+	<p rend="stanza" n="1">
+		<l>Between gift and protection <supplied reason="subaudible">of the gift</supplied>,</l>
+		<l>Protection is the best <supplied reason="subaudible">compared to</supplied> protection.</l>
+		<l>Through gift, one obtains the heaven,</l>
+		<l>Through protection a permanent abode.</l>
+	</p>
+	
+	<p n="20-21">
+		Let prosperity be!
+	</p>
+	
+	<p n="21-22">
+		<supplied reason="subaudible">This is</supplied> a pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> that he had made ... in the name<note>That is, “for the merit”.</note> of ...</p>
+	
+</div>
+	
+<div type="commentary">
+	<p>The choice of the formulaic stanza, praising the protection of the gift, makes here perfect sense, since the transaction concerns the restoration of a donation that had been disrupted.</p>
+</div>
+         
+<div type="bibliography">
+      
+	<p>First reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/396).</p>
+	
+	<p>First edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 20), with the help of Dr. G. Vijayavenugopal (EFEO, Pondicherry), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
+	
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2024).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="UV">
+			<ptr target="bib:Veluppillai2013_01"/>
+			<citedRange unit="page">228-233</citedRange>
+			<citedRange unit="item">20</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1918-1919"/>
+			<citedRange unit="page">34</citedRange>
+			<citedRange unit="appendix">B/1918</citedRange>
+			<citedRange unit="item">396</citedRange>
+		</bibl>
+		
+	</listBibl>
+</div>
+</body>
+    </text>
+</TEI>

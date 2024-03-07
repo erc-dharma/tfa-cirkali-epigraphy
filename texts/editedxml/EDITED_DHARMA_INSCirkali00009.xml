@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cīrkāḻi, Tōṇipuram temple, time of Rājarāja, year 10</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:emfr">
+                  <surname>Francis</surname>
+                  <forename>Emmanuel</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:utve">
+                  <forename>Uthaya</forename>
+                  <surname>Veluppillai</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, Inalco</pubPlace>
+            <idno type="filename">DHARMA_INSCirkali00009</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by John Doe.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents>
+                  <summary>...</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2024-03-03">Revise encoding</change>
+         <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>
+      
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	
+	<p>
+		<gap reason="lost" extent="unknown" unit="line"/>
+	</p>
+	
+	<p>
+		<lb n="1"/>lum paṭi Āḷuṭaiya nāyaṉāṟku viruturāya-payaṅkara-vaḷanāṭṭu nāka-maṅkalattu Iṭaiy<choice><orig>u</orig><reg>ū</reg></choice><!--EF addition-->r-āṉa <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-nallūrilum mataṭṭaiyāṉa teṉcāttaṅkuṭiyilum tiru-nāmattuk kāṇiyāṉa ṉilam uṭaiyār tiruttōṇipuramuṭaiyāṟkum uṭaiyār tirukkoṭikkā-Uṭaiyāṟkkum tēvatāṉamum tiṟappumākaiyālai In-nilam ivar māṟi tēvatāṉam ākavum
+	</p>
+	<p>
+		<gap reason="lost" extent="unknown" unit="character"/> kāṇi māṟiṉa nilattukkum uṭaiyār tiruttōṇipuram-uṭaiyāṟkku melāṟṟūr-āṉa <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-caruppēti-maṅkalattup pirinta vikkirama-cōḻamarutūril tēvatāṉam-āṉa nila māṟi Āḷuṭaiya nāyaṉārkku <hi rend="grantha">de</hi>vatāṉam-āka Iṭṭa nilam
+	</p>
+	<p>
+		aivēlikkum talaimāṟu tiruvāliyāṉa mummuṭi-cōḻa-c-caruppēti-maṅkalattup paḻaṇtiṟappil tēvatāṉam-āṉa nilattu Uṭaiyār tiruttōṇipuram-uṭaiyār tirunāmattuk kā 
+		<lb n="2" break="no"/>ṇiyāṉa nilam iru-patt’ āṟē Iraṇṭu māvum pattāvatu mutal tēvatāṉattu māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēvatānamāka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceytaruḷiṉa ceyyum paṭi vaṉtattu ceyyum paṭip paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam iru-patt’ āṟē Iraṇṭu māvum tēvatāṉamāka viṭṭuk kuṭukkap paṇṇuvatē Ippaṭic colluvatu <g type="pc">.</g>
+	</p>
+	<p>
+		ceti-kula-rāyarkkuc collum paṭi Uṭaiyār tiruttōṇipuram-uṭaiyāṟku viritarāya-payaṅkara-vaḷanāṭṭil tēvatāṉam-āṉa ṉilattu cervillāta nila māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukkut talaimāṟu Iṭukiṟa nilattukkuṭalāka tiruvāliyāṉa mummuṭi-cōḻa-c-caru-p-pēti-maṅkalattut tiṟappil I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tirunāmattuk kāṇiyāṉa nilam patiṉ oṉṟ’ araiyē muṉṟu mākkāṇi muntirikaic ciṉṉamum pattāvatu mutal tēvatāṉamāka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceytaruḷiṉa tirumuka 
+		<lb n="3" break="no"/>poṉattu I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēvatāṉamāka viṭṭuk kuṭukkap paṇṇuvatē Ippaṭi colluvatē <g type="pc">.</g><g type="pc">.</g>
+	</p>
+	<p>
+		kaṉakarāyarkkuc collum paṭi Uṭaiyār tiruttōṇipuram-uṭaiyāṟku virutarāya-payaṅkara-vaḷanāṭṭut tēvatāṉam-āṉa Ūrkaḷil cervallāmai māṟiṉa Ūrkaḷukkut talaimāṟu rā<hi rend="grantha">jā</hi>tirāya-vaḷaṉāṭṭu vaṭakāvirinallūr-āṉa etirilicōḻaṉmaṇakuṭiyil tiṟappu nilam pattē muṉṟu mākkāṇi muntirikaik kīḻ aṟu <unclear>mā va</unclear><!--EF: change to supplied reason=undefiened?-->raiyum pattāvatu mutal tēvatāṉamāka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceytaruḷiṉa tirucakam poṉattu tirumukap paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēvatāṉamāka viṭṭuk kuṭukkap paṇṇuvatē Ippaṭi colluvatu <g type="pc">.</g>
+	</p>
+	<p>		
+		tiri-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>tēvaṟku yāṇṭu pattāvatu Irā<hi rend="grantha"><unclear>jā</unclear></hi><hi rend="grantha">dhi</hi>rā<hi rend="grantha">ja</hi>-vaḷaṉāṭṭut tirukkaḻumalanāṭṭut tirukkaḻumalattu Uṭaiyār tiruttōṇipuram-uṭaiyār kō 
+		<lb n="4" break="no"/>yil āti-caṇṭē<hi rend="grantha">śva</hi>rar tiruvaruḷāl I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>rak kaṇkāṇi ceyvārkaḷum cī-kāriyam ceyvāṉum tēvakaṉmi kōyil kaṇakkaṉum ivv-aṉaivōm I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tēvatāṉam vaṭakāvirinallūr-āṉa Etirilicōḻaṉmaṇakkuṭik kuṭimakkaḷukku Iṟukka niccayittuk kāṇi yiṭṭuk kuṭutta paricāvatu
+		
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku viritarāya-payaṅkara-vaḷanāṭṭu tēvatāṉam-āṉa nilattuc cervallāmaiyil māṟi paṟṟukku Okka tēvatāṉam iṭukiṟa nilattukku Oṉpatāvatu nāḷ muṉṉūṟṟu Aim-pati<choice><orig>n</orig><reg>ṉ</reg></choice> āṟu Iṭṭa niṇaippiṉ paṭi malaiyappiyarāyaraip paṟṟu māṟi Ivv-ūril tēvatāṉam iṭṭa nilam <num value="13"><g type="numeral">10</g> 3</num> <g type="mā"/> <g type="muntiri"/> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <g type="kiḻaṟu"/><!--EF: not sure?--> <g type="mā"/> <num value="0.5">1/2</num> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam pattē muṉṟu mākkāṇi muṉtirikaik k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṟu mā varaiyum pattāvatu kār mutal 
+		<lb n="5"/>kaṭamai y-irukkum iṭattu muṉpu Ivv-ūril I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēvatāṉam-āṉa nilam āṟ’ arai vēlikkum kaṭamai koḷḷum paṭikku Ivarkaḷukku kuṭutta kaṭaippaṭip paṭiyē vēli Oṉṟukku nūṟṟu Iru-patiṉ kalamāka vanta nellu Irukkavum irukkum iṭattu nāṭṭukku Iṭṭa niṇaippum akamum peṟavum oṭṭup paṭi nel kalattuk kuṟuṇi nā-ṉāḻiyāka vanta nellu taraviṭupūritiyāka n<choice><orig>i</orig><reg>ī</reg></choice>kkavum n<choice><orig>i</orig><reg>ī</reg></choice>kki niṉṟa nellukku talaiyakap paṭi kācu Iṭavum kuṭimaip pottakap paṭi vēli Oṉṟukku Iru-kalam-āka vaṉta nellut taraviṭupūriṭṭaṉē kūṭṭikkai vilaip paṭi kācu Iṭavu<unclear>ma</unclear>rai nāḻi kōyiṟ peṟu Iṟukkak kaṭavarkaḷ ākavum
+		
+		maṟṟu Oṉṟum kaṭavatallātat’ ākavum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam <num value="13"><g type="numeral">10</g> 3</num> <g type="mā"/> <g type="muntiri"/> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <g type="kiḻaṟu"/><!--EF: not clear?--> <g type="mā"/> <num value="0.5">1/2</num> rayum muṉpu Ivv-ūril tēvatāṉam-āṉa nilam 6 <num value="0.5">1/2</num> vēliyum 
+		<lb n="6" break="no"/>-<unclear>āka</unclear> nilam 16<!--EF:???--> <num value="0.5">1/2</num> 3<g type="mā"/> <g type="muntiri"/> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <g type="kiḻaṟu"/><!--EF: not clear?--> <g type="mā"/><num value="0.5">1/2</num> kkum ippaṭiyē caṇtirātittavaṟa Irukkak kaṭavarkaḷākak kalveṭṭik kuṭuttōm		
+		uṭaiyār tiruttōṇipuram-uṭaiyār kōyil āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvaṟ tiruvaruḷāl in-ṉāyaṉār<!--EF: check "nṉ"--> kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>rak kaṇkāṇi ceyvārkaḷum c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyam ceyvāṉum tēvakaṉmi kōyiṟ-kaṇakkaṉum ivv-aṇaivōm
+	</p>
+	<p>
+		<list>
+		<item>Ippaṭikku Ivai kōyiṟ-kaṇakku virāṇamuṭaiyāṉ eḻuttu</item>
+		<item>Ippaṭikku Ivai kōyiṟ-kaṇakkut tiruniṉṟa-Ūr-uṭaiyāṉ eḻuttu</item>
+		<item>Ippaṭikku Ivai kōyil kaṇakku puṅkūr-uṭaiyāṉ eḻuttu</item>
+		<item>Ippaṭikku Ivai koyil kaṇakku tālūr-uṭaiyāṉ eḻuttu</item>
+		<item>Ippaṭikku Ivai kanmi nāṟpatt-eṇṇāyira-paṭṭan kaṇakku poṟkōyilpaṭṭaṉ eḻuttu</item> 
+		<item>Ippaṭikku Ivai tēvakaṉmi muṭivaḻaṅku-cōḻapaṭṭaṉ eḻuttu</item>
+		<item><lb n="7"/><unclear>Ippaṭi</unclear>kku Ivai c<choice><orig>i</orig><reg>ī</reg></choice><unclear>mā</unclear><hi rend="grantha">heśva</hi>ra kaṇkaṇik<!--EF: °kāṇik?--> kaṇakku kaṇiccaippākkam-uṭaiyāṉ eḻuttu <g type="pc">.</g></item>
+		</list>
+	</p>
+	         	
+         </div>
+        
+<!--<div type="apparatus">
+	
+	<listApp>
+		<app loc="line">
+			<lem>...</lem>
+			<rdg source="bib:AuthorYear_01">..</rdg>
+		</app>
+	</listApp>
+	
+</div>-->
+	
+<div type="translation" resp="part:emfr">
+         </div>
+
+<div type="commentary">
+           <p>The name of the king and his reganl year appear at the end of line 4. It was probably already mentioned at the beginning, now lost, of the record.</p>
+         </div>
+
+<div type="bibliography">
+	
+	<!--<p>First reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/393).</p>-->
+	
+	<p>First edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 9), based mainly on ASI transcript (consulted in Mysore).</p>
+		
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2024).</p>
+
+	
+	<listBibl type="primary">
+					
+		<bibl>
+			<ptr target="bib:Veluppillai2013_01"/>
+			<citedRange unit="page">264-268</citedRange>
+			<citedRange unit="item">9</citedRange>
+		</bibl>
+		
+	</listBibl>
+	<!--<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1918-1919"/>
+			<citedRange unit="page">34</citedRange>
+			<citedRange unit="appendix">B/1918</citedRange>
+			<citedRange unit="item">393</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Mahalingam1992_01"/>
+			<citedRange unit="page">548</citedRange>
+			<citedRange unit="item">Tj. 2403</citedRange>			
+		</bibl>
+		
+	</listBibl>-->
+</div>
+</body>
+</text>
+</TEI>
+<!--
+	METADATA:
+-->

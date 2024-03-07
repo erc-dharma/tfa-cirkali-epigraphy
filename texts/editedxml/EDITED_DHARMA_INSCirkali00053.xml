@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cīrkāḻi, Campantar temple, fragment</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:emfr">
+                  <surname>Francis</surname>
+                  <forename>Emmanuel</forename>
+               </persName>
+               <persName ref="part:utve">
+                  <surname>Veluppillai</surname>
+                  <forename>Uthaya</forename>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:utve">
+                  <forename>Uthaya</forename>
+                  <surname>Veluppillai</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace/>
+            <idno type="filename">DHARMA_INSCirkali00053</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+						Licence. To view a copy of the licence, visit
+						https://creativecommons.org/licenses/by/4.0/ or send a letter to
+						Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+						California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by John Doe.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragment mentioning land boundaries.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+				under the European Union’s Horizon 2020 research and innovation programme (grant
+				agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+					ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+						<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2024-03-02">Revise encoding</change>
+         <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve"><body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	
+	<p><gap reason="lost" extent="unknown" unit="line"/></p>
+	
+	<p>
+		<lb n="1"/><unclear>ti</unclear>tukkaḻumalattu Ūr māviyan=ti 
+		<lb n="2"/>kiyiṟuttu Iṟai mikuti koṇ 
+		<!--EF: see CEC 31, l.7: Ūr māvintavāyiṟuttu iṟai mikiti koṇṭu celuttuvatāka koṇṭu viṭṭatu-->
+		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="4"/>ṭaiyāṉ Āṭko <gap reason="lost" quantity="3" unit="character"/><!--EF! Āṭkoṇṭa-->
+		<lb n="5"/><gap reason="lost" quantity="1" unit="character"/> yiti <gap reason="lost" quantity="2" unit="character"/> ṅka <gap reason="lost" quantity="4" unit="character"/> ti 
+		<lb n="6"/>vaḷakaṭa <gap reason="lost" quantity="5" unit="character"/> kapāra 
+		<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> pakkal 
+		<lb n="8"/>koṇṭu viṭṭa Āṟāṅ kaṭṭaḷai Eṭut 
+		<lb n="9"/><supplied reason="lost">tapā</supplied><!--EF: not sure, seeing the photos-->tavatikku mēṟku niṉṟāṉ vāykālu 
+		<lb n="10"/>kellai<!--EF: vāy[k*]kālu[k](10)k' ellai--> ṉi <gap reason="lost" quantity="4" unit="character"/> ta <g type="nilam"/> <g type="undefined"/> <g type="gomutraFinal">.</g>					
+	</p>
+	
+</div>
+	
+<div type="apparatus">
+	
+	<app loc="2"><!--EF: assessed from photo-->
+		<lem>...</lem>
+		<rdg source="bib:Veluppillai2013_01">kiyiṟuttu</rdg>
+	</app>
+	
+	<app loc="2"><!--EF: assessed from photo-->
+		<lem>...</lem>
+		<rdg source="bib:Veluppillai2013_01">vaḷakaṭa</rdg>
+	</app>
+	
+</div>
+		
+<div type="translation" resp="part:emfr">
+	
+	<p n="1-10">
+		[too fragmentary to allow a translation]
+	</p>
+</div>
+	
+<!--<div type="commentary">
+</div>-->
+	
+<div type="bibliography">
+      
+	<p>First reported and edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 53), based on autopsy and photos (G. Ravindran, EFEO, 2005).</p>
+	
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2024).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="UV">
+			<ptr target="bib:Veluppillai2013_01"/>
+			<citedRange unit="page">343</citedRange>
+			<citedRange unit="item">53</citedRange>
+		</bibl>
+		
+	</listBibl>	
+	
+</div>
+	
+</body></text>
+</TEI>
+<!--On five blocks; unclear if lateral blocks are missing or if the extant 10 lines are continuous.-->
