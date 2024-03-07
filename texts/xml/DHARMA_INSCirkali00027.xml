@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga Cōḻa, year 10</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -96,14 +96,14 @@
 	</ab>
 	
 	<p>
-		<lb n="1"/><hi rend="grantha">tribhuvana-c-cakra</hi>varttikaḷ <hi rend="grantha">śrī-kulo</hi>ttuṅka-<hi rend="grantha">coḷa</hi>tevarkku yāṇṭu patt-āvatu
-		mācit tiṅkaḷ mu<unclear>n</unclear>nāḷpakkam Oṉpatu kiḻamai putaṉ nāḷ <hi rend="grantha">m<choice><orig>ra</orig><reg>r̥</reg></choice>gaśīrṣa</hi>m		
+		<hi rend="grantha">tribhuvana-c-cakra</hi>varttikaḷ <hi rend="grantha">śrī-kulo</hi>ttuṅka-<hi rend="grantha">coḷa</hi>tēvarkku yāṇṭu patt-āvatu
+		māci-t tiṅkaḷ mu<choice><orig><unclear>n</unclear>n</orig><reg>ṉṉ</reg></choice>āḷ pakkam Oṉpatu kiḻamai putaṉ nāḷ <hi rend="grantha">m<choice><orig>ra</orig><reg>r̥</reg></choice>gaśīrṣa</hi>m		
 	</p>
 	
 	<p>		
-		Iṉ-nāḷ mi<hi rend="grantha">thu</hi>nam-āka naṉ pakal Āvaṇattu 
-		<lb n="2"/>kēṭṭu<unclear>k</unclear> kaḻan=ta poruḷ nila-vilai-y-āvaṇam <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu Ākkūr-nāṭṭut talaiccaṅkāṭṭu mula<hi rend="grantha">paruṣai</hi>yōm Ivv-ūr mummuṭi-cōḻaṉ per-ampalattē kūṭṭaṅ kuṟai v-aṟa-k kūṭi Irun 
-		<lb n="3" break="no"/>tu <hi rend="grantha">rājādhirāja</hi>-vaḷanāṭṭut tiru-k-kaḻumala-nāṭṭu <hi rend="grantha">brahmadeya</hi>m tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyārkkut tiru-p-pāṟ-pō<choice><orig>n</orig><reg>ṉ</reg></choice>akam Amutu ceytaruḷukaikku tiru-maṭai-p-paḷḷi-p-puṟam-āka nāṅkaḷ viṟṟu-k kuṭutta nilam āva 
+		I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāḷ mi<hi rend="grantha">thu</hi>nam-āka naṉpakal Āvaṇattu 
+		<lb n="2"/>kēṭṭu-<unclear>k</unclear> kaḻan=ta poruḷ nila-vilai-y-āvaṇam <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu Ākkūr-nāṭṭu-t talaiccaṅkāṭṭu m<choice><orig>u</orig><reg>ū</reg></choice>la<hi rend="grantha">paruṣai</hi>yōm Ivv-ūr mummuṭi-cōḻaṉ pēr-ampalattē kūṭṭaṅ kuṟai v-aṟa-k kūṭi Irun 
+		<lb n="3" break="no"/>tu <hi rend="grantha">rājādhirāja</hi>-vaḷanāṭṭu-t tiru-k-kaḻumala-nāṭṭu <hi rend="grantha">brahmadeya</hi>m tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyārkku-t tiru-p-pāṟ-pō<choice><orig>n</orig><reg>ṉ</reg></choice>akam Amutu ceyt-aruḷukaikku tiru-maṭai-p-paḷḷi-p-puṟam-āka nāṅkaḷ viṟṟu-k kuṭutta nilam āva 
 		<lb n="4" break="no"/><supplied reason="lost">tu</supplied>		
 	</p>
 	
@@ -112,27 +112,60 @@
 		<hi rend="grantha">rājendra</hi>-cōḻa-vāykkālukku vaṭakku
 		muṉṟāṅ kaṇṇāṟṟu Iraṇṭāñ catirattu kavuciyaṉ Īcāṉa<supplied reason="lost">ka</supplied>-laiya<choice><orig>n</orig><reg>ṉ</reg></choice> Uḷḷiṭṭār pērāl kaṇṇāṟu Enṟu pēr kū 
 		<lb n="5" break="no"/>vappaṭṭa nilattukkum puṉceykkum kuḷattukkum tiṭalukkum Ellai y-āvatu
-		
-		mēl-pārk' ellai nālāñ catirattukku kiḻak<supplied reason="lost">ku</supplied>m
-		vaṭa-pārkk'ellai Ātitta-tēvaṉ vāykkālukkut teṟkum
+	</p>
+	
+	<p>		
+		mēl-pār<supplied reason="omitted">k</supplied>k' ellai nālāñ catirattukku kiḻak<supplied reason="lost">ku</supplied>m
+		vaṭa-pārkk' ellai Ātitta-tēvaṉ vāykkālukku-t teṟkum
 		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pārkk' ellai mutaṟ catirattukku mē 
-		<!--Not clear on photos from here: recheck-->
+		<!--Not clear on photos from here: Re-check-->
 		<lb n="6" break="no"/><supplied reason="lost">ṟkum</supplied>
-		teṉ-<supplied reason="lost">pā</supplied>rkk' ellaik kaṇṇāṟṟukku vaṭakkum
-		
-		Ivv-icaitta peru-nāṉk' ellaiyuḷ akappaṭṭa viḷai-ni<supplied reason="lost">la</supplied>m <supplied reason="lost">kuḷamu</supplied>m tiṭalum kuḻi pati<choice><orig>n</orig><reg>ṉ</reg></choice> āyiratt' iru-nūṟṟ' aim-patu Itil teṉ-kiḻakk' aṭaiyak kāmakkāṇit 
-		
+		teṉ-<supplied reason="lost">pā</supplied>rkk' ellai-k kaṇṇāṟṟukku vaṭakkum
+	</p>
+	
+	<p>		
+		Ivv-icaitta peru-nāṉk' ellaiyuḷ akappaṭṭa viḷai-ni<supplied reason="lost">la</supplied>m <supplied reason="lost">kuḷamu</supplied>m tiṭalum kuḻi pati<choice><orig>n</orig><reg>ṉ</reg></choice> āyiratt' iru-nūṟṟ' aim-patu
+	</p>
+	
+	<p>
+		Itil teṉ-kiḻakk' aṭaiya-k kāmakkāṇi-t 
 		<!--EF: Check on photos from here-->
 		<lb n="7"/>
-		<supplied reason="lost">tiru-c-ciṟṟampalam-uṭaiyāṉ paraṇa Uḷḷiṭṭār pērāl kiṭanta viḷai nilamum</supplied> <supplied reason="omitted">kuḷamum</supplied> tiṭalum kuḻi Iru-nūṟṟ' aim-patu Ik-kuḻi Iru-nūṟṟ' aim-patum n<choice><orig>i</orig><reg>ī</reg></choice>kki nāṅkaḷ viṟṟuk kuṭutta viḷai-nilamum <supplied reason="omitted">kuḷamum</supplied> <supplied reason="lost">tiṭalum</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="8"/><supplied reason="lost">Ik-kuḻi patiṉ āyirattiṉul nilam ay-vēli In-nilam ay-vēliyum viṟṟuk kuṭuttuk koḷvatāka Emmill icainta viḷai-p-poruḷ aṉṟāṭu naṉ kācu Āyiram ik-kācu Āyiramum in-nilam canti<hi rend="grantha">rā</hi>titta-varai kācu koḷḷā Iṟaiyili</supplied> 
-		<lb n="9" break="no"/><supplied reason="lost">yāka Iṟaiyiḻi</supplied>ccik kuṭuttuk koṇṭa kācu āyiram <supplied reason="lost">ik-kācu Āyiramum in-nilattukku cennir veṭṭi muṭṭaiyāḷum kuṭimaikaḷukku canti<hi rend="grantha">rā</hi>titta-varai tavi<supplied reason="subaudible">r</supplied>ntu kuṭuttuk koṇṭa kācu nūṟu ik-kācu nūṟum ākak kā</supplied> 
-		<lb n="10" break="no"/>cu Iraṇṭ' āyiratt' oru nūṟu Ik-kācu Iraṇṭ' āyirattu <supplied reason="lost">Oru ṉūṟum kaik koṇṭu In-nilam <hi rend="grantha">sa</hi>pai vilaiyāka viṟṟu kācu koḷḷā Iṟaiyyili ceytu ceṉṉīr veṭṭi muṭṭaiyāḷ kuṭimaiyum ta</supplied><supplied reason="omitted">vi</supplied><supplied reason="lost">rntu In-nilam ay-vē</supplied> 
-		<lb n="11" break="no"/>liyum cempilum kallilum veṭṭik koḷḷak kaṭavarkaḷ-āka viṟṟu-k kuṭuttōm piramatēcam tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyārku <hi rend="grantha">sabhai</hi>-viḷai-<supplied reason="lost">y-āka viṟṟu-k kuṭuttōm mula-paru<hi rend="grantha">ṣai</hi>yōm</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="12"/>iṭaiyāna muvāyiravaṉ eḻuttu mula-paru<hi rend="grantha">ṣai</hi>yālil eḻuttiṭṭār tiru-c-ciṟṟampalam-uṭaiyān kaṇṇan tāḻi <supplied reason="lost">Um̱aiccāṇaṅkiran kūttan cāttāṇi kumāranniyaṉ kavuciyaṉ kalaiyaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ntaminiyaṉ tirucciṟṟampalamuṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">māṭilaṉātaṉ vaṭukaṉ um̱aiccāṇaṉ nilakaṇṭaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ttaṉ kavuciyaṉ nilaṉ cuppiramaṇṇiyaṉ kavuciyaṉ nilaṉ māṇiyaṉ komaṭaṉ cāvāncāttaṉ pālāci</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">tāyaṉ cantira-cēkaraṉ kumāraṉ cāttaṉ mālaṉ kumāraṉ</supplied> 
-			<lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mpaḷ cantira-cēkaraṉ-āṉa kaṉaka-varatāṉ citurvetika</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yaṉ cāttāṇicaturvati makkumaru kāṭaṉ cāttāṇi</supplied><supplied reason="omitted">ca</supplied> <supplied reason="lost">turvēti tēvaṉ kaṇṇapaṭṭaṉ toḻiyaṉ nilaṉāṉa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<supplied reason="lost">tiru-c-ciṟṟampalam-uṭaiyāṉ paraṇa<!--EF: ???--> Uḷḷiṭṭār pērāl kiṭanta viḷai nilamum</supplied> <supplied reason="omitted">kuḷamum</supplied> tiṭalum kuḻi Iru-nūṟṟ' aim-patu Ik-kuḻi Iru-nūṟṟ' aim-patum n<choice><orig>i</orig><reg>ī</reg></choice>kki nāṅkaḷ viṟṟuk kuṭutta viḷai-nilamum <supplied reason="omitted">kuḷamum</supplied> <supplied reason="lost">tiṭalum</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	
+	<p>		
+		<lb n="8"/><supplied reason="lost">Ik-kuḻi patiṉ āyirattiṉul nilam a<choice><orig>y</orig><reg>i</reg></choice>-vēli In-nilam a<choice><orig>y</orig><reg>i</reg></choice>-vēliyum viṟṟu-k kuṭuttu-k koḷvat-āka Emmi<choice><orig>ll</orig><reg>l</reg></choice> icainta viḷai-p-poruḷ aṉṟāṭu na<choice><orig>ṉ</orig><reg>ṟ</reg></choice>-kācu Āyiram
+		</supplied>
+	</p>
+	
+	<p>
+		<supplied reason="lost">ik-kācu Āyiramum in-nilam canti<hi rend="grantha">rā</hi>titta-varai kācu koḷḷā Iṟai-y-ili</supplied> 
+		<lb n="9" break="no"/>-<supplied reason="lost">y-āka Iṟai-y iḻi</supplied>cci-k kuṭuttu-k koṇṭa kācu Āyiram
+	</p>
+	
+	<p>
+		<supplied reason="lost">ik-kācu Āyiramum in-nilattukku cennir veṭṭi muṭṭaiyāḷum kuṭimaikaḷukku canti<hi rend="grantha">rā</hi>titta-varai tavi<supplied reason="subaudible">r</supplied>ntu kuṭuttu-k koṇṭa kācu nūṟu
+		</supplied>
+	</p>
+	<p>
+		<supplied reason="lost">ik-kācu nūṟum āka-k kā</supplied> 
+		<lb n="10" break="no"/>cu Iraṇṭ' āyiratt' oru nūṟu
+	</p>
+	<p>
+		Ik-kācu Iraṇṭ' āyirattu <supplied reason="lost">Oru ṉūṟum kai-k koṇṭu In-nilam <hi rend="grantha">sa</hi>pai-vilai-y-āka viṟṟu kācu koḷḷā Iṟai-<choice><orig>yy</orig><reg>y</reg></choice>-ili ceytu ceṉṉīr veṭṭi muṭṭaiyāḷ kuṭimaiyum ta</supplied><supplied reason="omitted">vi</supplied><supplied reason="lost">rntu In-nilam a<choice><orig>y</orig><reg>i</reg></choice>-vē</supplied> 
+		<lb n="11" break="no"/>liyum cempilum kallilum veṭṭi-k koḷḷa-k kaṭavarkaḷ-āka viṟṟu-k kuṭuttōm piramatēcam tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyār<supplied reason="omitted">k</supplied>ku <hi rend="grantha">sabhai</hi>-viḷai-<supplied reason="lost">y-āka viṟṟu-k kuṭuttōm m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣai</hi>yōm</supplied>
+	</p>
+	
+	<p>
+		<gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="12"/>iṭaiyāna muvāyiravaṉ eḻuttu
+	</p>
+	
+	<p>
+		m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣai</hi>yālil eḻuttiṭṭār tiru-c-ciṟṟampalam-uṭaiyān kaṇṇan tāḻi <supplied reason="lost">Um̱ai-c-cāṇaṅkira<choice><orig>n</orig><reg>ṉ</reg></choice> kūtta<choice><orig>n</orig><reg>ṉ</reg></choice> cāttāṇi kumāranniyaṉ kavuciyaṉ kalaiyaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ntaminiyaṉ tiru-c-ciṟṟampalam-uṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">māṭilaṉātaṉ vaṭukaṉ um̱ai-c-cāṇaṉ nilakaṇṭaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ttaṉ kavuciyaṉ nilaṉ cuppiramaṇṇiyaṉ kavuciyaṉ nilaṉ māṇiyaṉ komaṭaṉ cāvāncāttaṉ pālāci</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">tāyaṉ cantira-cēkaraṉ kumāraṉ cāttaṉ mālaṉ kumāraṉ</supplied> 
+			<lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mpaḷ cantira-cēkaraṉ-āṉa kaṉaka-varatāṉ c<choice><sic>i</sic><corr>a</corr></choice>turvēti-ka</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">yaṉ cāttāṇi-caturv<choice><sic>a</sic><corr>ē</corr></choice>ti makkumaru kāṭaṉ cāttāṇi</supplied>-<supplied reason="omitted">ca</supplied><supplied reason="lost">turvēti tēvaṉ kaṇṇapaṭṭaṉ toḻiyaṉ nilaṉāṉa</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
          </div>
@@ -149,8 +182,41 @@
 </div>-->
 	
 <div type="translation" resp="part:emfr">
-         </div>
-
+	
+	<p n="1">
+		Properity! Fortune!
+	</p>
+	
+	<p n="1">Tenth year of the glorious king Kulottuṅga Cōḻa, the emperor of the three worlds, <supplied reason="subaudible">in</supplied> the <supplied reason="subaudible">lunar</supplied> month <supplied reason="explanation"><foreign>tiṅkaḷ</foreign></supplied> <supplied reason="subaudible">of</supplied> Māci, bright fortnight <supplied reason="explanation"><foreign>muṉṉāḷ pakkam</foreign></supplied>, day nine, a Wednesday, <supplied reason="subaudible">on the time of the <foreign>nakṣatra</foreign></supplied> Mṛgaśiras.</p>
+	
+	<p n="1-2">
+		On this day, while it was the <supplied reason="subaudible">solar</supplied> month of Mithuna,
+		having, at high noon <supplied reason="explanation"><foreign>naṉpakal</foreign></supplied>,
+		listened to <supplied reason="subaudible">this</supplied> document,
+		the land-sale deed <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kaḻanta poruḷ</foreign></supplied>,
+		<supplied reason="subaudible">is as follows</supplied>.
+	</p>
+	
+	<p n="2-4">
+		The land that We, ..., have given after sale
+		...
+		is <supplied reason="subaudible">as follows</supplied>.	
+	</p>
+	
+	<p n="4-5">
+		For the land, dry land, ponds, mounds/banks <supplied reason="explanation"><foreign>tiṭal</foreign></supplied>,
+		<supplied reason="subaudible">which are</supplied> west of ...
+		and north of ...,
+		in the third ..., in the fourth ...,
+		the boundaries are <supplied reason="subaudible">as follows</supplied>.		
+	</p>
+	
+	<p n="5-6">
+		...
+	</p>
+	
+</div>
+	
 <div type="commentary">
            
          </div>
@@ -158,9 +224,9 @@
 <div type="bibliography">
 	
 	<p>First reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/374).</p>
-	<p>First edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 27), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore)..</p>
+	<p>First edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 27), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
 		
-	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2024)</p>
+	<p>Re-edited here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2024).</p>
 		
 	<listBibl type="primary">
 				
