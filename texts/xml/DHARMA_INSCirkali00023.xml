@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Vēṅkaṭa, Śak year 1520</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,29 +85,41 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
 	<p>
-		
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">mahā-mama<!--EF: really "mama"?-->ṇḍa</hi>lēcura<hi rend="grantha">n harihararā</hi>ya vipāṭa<hi rend="grantha">n</hi> pā<hi rend="grantha">ṣai</hi>kkut tappu<unclear>va</unclear>rāyar kaṇṭan kaṇṭaṉāṭu koṇṭu koṇṭaṉāṭu koṭātāṉ pūṟuva-te<hi rend="grantha">kṣa</hi>ṇa-paccima-Uttira-catu<hi rend="grantha">sa</hi>mu<gap reason="lost" extent="unknown" unit="character"/>ti <hi rend="grantha">śrī</hi>-vēṅkaṭa-<hi rend="grantha">devasya<!--EF: "sya" = surplus?--></hi>rāyar piritivi
+		<lb n="2" break="no"/>-<gap reason="lost" extent="unknown" unit="character"/>llā niṉṟa cakāptam <num value="1520"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g></num> cellā niṉṟa viḷum<hi rend="grantha">bi</hi> <hi rend="grantha">sa</hi>ṅvaṟ<hi rend="grantha">sa</hi>rattu <hi rend="grantha">siṅha</hi>-nāyaṟṟu pūruva-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">sapta</hi>miyum <hi rend="grantha">so</hi>ma-vāramum peṟṟa Anurātā-na<hi rend="grantha">kṣatra</hi>ttu nāḷ
+	</p>
+	
+	<p>
+		<gap reason="lost" extent="unknown" unit="character"/> miyāṟ <hi rend="grantha">Āpaduddhāraṇa</hi>ṟku 
+		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> tiruppaṇi vēlaikkārarkku <hi rend="grantha">s</hi>vāmiyār āpatu<hi rend="grantha">ddhā</hi>raṇa-vira<hi rend="grantha">prasā</hi>ti-y-āna rāca-ri<hi rend="grantha">ṣi</hi>-viṭṭalē<hi rend="grantha">śva</hi>ra-c-cōḻa-kōṉār <hi rend="grantha">dhamma</hi>m-āka <hi rend="grantha">s</hi>vāmiyār āpa<hi rend="grantha">du</hi><gap reason="lost" extent="unknown" unit="character"/>ṟku ma<hi rend="grantha">hā-bhiṣe</hi>kam naṭṭak kave 
+		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ṭu<hi rend="grantha">ṣa</hi>kat tirumē<choice><orig>n</orig><reg>ṉ</reg></choice>i <hi rend="grantha">go</hi>miya <hi rend="grantha">A</hi>piṭa-<hi rend="grantha">sna</hi>panam paṇṇina paṭiyāle <hi rend="grantha">bhutā</hi>ṉattukku <choice><orig>ṉ</orig><reg>n</reg></choice>āyaṉār tiru-t-tōṇipuram-uṭaiya ṉāyaṉār tiruṉāmattuk kāṇiyāna ci <gap reason="lost" extent="unknown" unit="character"/> nāyaṉār kōyil ka 
+		<lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="6"/>ca<hi rend="grantha">ndrārkka</hi>m-āka ca<hi rend="grantha">ndrādi</hi>titta-varaiyum <hi rend="grantha">sarva</hi>-māṉiyam-āka <hi rend="grantha">putra-pautra-pa</hi>ramparai-y-āka Aṉupavittu koḷḷak kaṭavar ākavum
+	</p>
+	
+	<p>
+		inta <hi rend="grantha">pratiṣṭai</hi>kku Āka pirama-p-pura-nāyaka <gap reason="lost" extent="unknown" unit="character"/> 
 	</p>
 	         	
          </div>
         
-<!--<div type="apparatus">
+<div type="apparatus">
 	
-	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">..</rdg>
+	<listApp><!--EF suggestion-->
+		<app loc="3">
+			<lem>āpa<hi rend="grantha">du</hi><supplied reason="lost"><hi rend="grantha">ddhāraṇa</hi></supplied>ṟku</lem>
+			<rdg source="bib:Veluppillai2013_01">āpa<hi rend="grantha">du</hi><gap reason="lost" extent="unknown" unit="character"/>ṟku</rdg>
 		</app>
-	</listApp>
-	
-</div>-->
-	
+	</listApp>	
+</div>
+		
 <div type="translation" resp="part:emfr">
          </div>
 
@@ -123,7 +136,7 @@
 	
 	<listBibl type="primary">
 				
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">291-292</citedRange>
 			<citedRange unit="item">23</citedRange>
@@ -150,7 +163,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
