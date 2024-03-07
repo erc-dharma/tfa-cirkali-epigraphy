@@ -129,12 +129,11 @@
 <div type="apparatus">
 	
 	<listApp><!--EF suggestion-->
-		<app loc="line">
+		<app loc="1">
 			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">caṇ</supplied><lb n="2" break="no"/>ṭēcura</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/><lb n="2" break="no"/>ṭēcura</rdg>
 		</app>
-	</listApp>
-	
+	</listApp>	
 </div>
 	
 <div type="translation" resp="part:emfr">
