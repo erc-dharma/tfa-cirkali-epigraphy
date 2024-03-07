@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga, year 3</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,14 +85,43 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
 	<p>
+		<lb n="1"/>
+		<g type="undefined"/> 
+		<hi rend="grantha">tri-bhu</hi>vaṉa-c-cak<hi rend="grantha">kra</hi>va<supplied reason="lost">tti</supplied><unclear>ka</unclear>ḷ <supplied reason="lost"><hi rend="grantha">śrī</hi></supplied>-<unclear>ku</unclear>lōttuṅka-coḻa-tēvaṟkku yāṇṭu 3 vatu <hi rend="grantha">si</hi>ṅ<hi rend="grantha">ha</hi>-nāyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu navamiyum
+		<lb n="2"/>tiṅkaṭ-kiḻamaiyum peṟṟa p<supplied reason="lost">ur</supplied>āṭa<supplied reason="lost">t</supplied>tu nāḷ
+	</p>
+	<p>
+		Irā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭṭu tiru-kaḻumala-nāṭṭu <hi rend="grantha">brahmadeya</hi>m tiru-k-kaḻumalattu <hi rend="grantha">sa</hi>paikkuc camainta
+		<lb n="3"/>peruṅkuṟip perumakkaḷil <unclear>parattu</unclear>vāci-tevaṉ kumāra<choice><orig>n</orig><reg>ṉ</reg></choice>um māṭalaṉ civa-tēvaṉ tiru-t-tōṇipuram-uṭaiyāṉum pālāśrī
+		<lb n="4" break="no"/>yaṉ tēvaṉ vaṭukaṉum <supplied reason="lost">pira</supplied><!--EF: check on photo; does not look like this-->ḷaiya-viṭaṅkaṉ cītaraṉum vācciyaṉ nātaṉ kumāra<choice><orig>n</orig><reg>ṉ</reg></choice>um vācciyaṉ <supplied reason="lost">nā</supplied>taṉ tiru-t-toṇipuram-uṭaiyā
+		<lb n="5" break="no"/>ṉum vācciyaṉ civa-tēvaṉ ci<gap reason="lost" quantity="2" unit="character"/><!--EF: supply va-tē-->vaṉum pārattuvāci kātil veṇkuḻaiyaṉ tiru-t-tōṇipuram-u<unclear>ṭ</unclear>ai<unclear>y</unclear>āṉum vācciyaṉ cāttakumaraṉ
 		
+		<lb n="6"/><!--EF: check this line-->
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<supplied reason="lost">ṭaiyāṉ civatevaṉum uḷḷiṭṭaperuṅ</supplied>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		
+		<lb n="7" break="no"/>m Āḷuṭaiya-piḷḷaiyāṟkkut tiruppāṟponakam amutu ceytaruḷa naṟ<surplus>ṭ</surplus>puṉaikāvāṉ U<choice><sic>n=t</sic><corr>tt</corr></choice>a<!--Ef corr: see photo--><supplied reason="lost">ma</supplied>-cōḻa-nallūril Ūrkkiḻ iṟaiyi
+		<!--EF: re-check lines 8-11-->
+		<lb n="8" break="no"/>
+		<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>
+		<hi rend="grantha">sa</hi>ntirātittaval cella viṭṭa <g type="nilam"/> 2 <g type="mā"/> in<supplied reason="lost">nila</supplied>m iṉ<g type="nilam"/> I<supplied reason="subaudible">ra</supplied>ṇṭu mā<supplied reason="lost">vum kai-k</supplied>-koṇṭu Iḻavupaṭṭa <gap reason="lost" quantity="4" unit="character"/> In-nilattukku talai māṟu Āḷu 
+		<lb n="9" break="no"/>ṭaiya-piḷḷaiyār tēvarkaṉmika<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku viṟṟuk ku<supplied reason="lost">ṭut</supplied>ta nila-vilai-y-āvaṇam
+	</p>
+	
+	<p>
+		<supplied reason="lost">Eṅka</supplied>ḷukku <hi rend="grantha">sa</hi>paip potu<supplied reason="lost">vāyk kiṭa</supplied>ṉta naṟpuṉaikāvāṉ Uttama-cōḻa 
+		<lb n="10" break="no"/>-
+		<gap reason="lost" quantity="5" unit="character"/>
+		<supplied reason="lost">ca</supplied>ṇṭēcura-vatikku kiḻakku <gap reason="lost" quantity="6" unit="character"/>-vatikku teṟkku teṟ <gap reason="lost" quantity="19" unit="character"/> In-nilam Iraṇṭu <gap reason="lost" quantity="3" unit="character"/> māvum tiruppāṟ ponaka
+		<lb n="11" break="no"/>puṟam-āka <hi rend="grantha">sa</hi>ntirātitta-varai 
 	</p>
 	         	
          </div>
@@ -150,7 +180,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
