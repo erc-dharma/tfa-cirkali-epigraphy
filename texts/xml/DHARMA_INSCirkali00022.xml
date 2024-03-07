@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, Jovian year Vṛṣa</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,14 +85,28 @@
 			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<!--EF: to be careully checked again-->
+	<p>
+		<lb n="1"/>vikkirama-varuṣattiṟkuc cellum vi<hi rend="grantha">ṣu</hi> <g type="undefined"/>m cittirai <g type="mā"/> 1l <gap reason="lost" extent="unknown" unit="character"/> mutali nāḷ
+	</p>
 	
 	<p>
-		
+		māyēcurar mutaliyār tāṉattārum <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="2"/>ṭecura-p peṟuvilaiyāka koṭal vacavaṇa-nāyakkar makaṉ irāmappa-nāyakkar kuṭutta kāṇiyāṭcip paṭṭayam tevum tiruvum-uṭai <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/>paṇip peṇṭaṭṭi pakavāṉ maṇaikku teṟku kaṇṇārkuḻali maṉaikku vaṭakku cetirā-p-piccaṉ maṉaikku <gap reason="lost" extent="unknown" unit="character"/> maṉai <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="4"/>vilaiyāka niṉṟaiyam paṇṇiṉa <g type="nilam"/> k<hi rend="grantha">r̥ṣṇa</hi>-rāyaṉ cantiyil amutu ceykiṟa Amutil kāṇiyāṭci-k-kārar aṭaippu piṟacāta 
+		<lb n="5"/>Amutu @<!--EF: what does it represent?--> Appam 1 vaṭai 1 Aṭaikkāyamutu 1 Ilaiyamutu 2 Āka Inta vakai vilaiyāka niṉṟayam paṇṇiṉa 
+		<lb n="6"/>Appam oṉṟum vaṭai oṉṟum aṭaikkāyamu <gap reason="lost" extent="unknown" unit="character"/> Ilaiyamutu Iraṇṭum aramakku vilaikkuṟaviṟ <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="7"/>koḷḷavum inta <gap reason="lost" extent="unknown" unit="character"/> yum amutu paṇiyāramum aṭakkāyilaiyamutum cantirātitta-varaiyum aṉupavip 
+		<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="9"/>Ivai <gap reason="lost" extent="unknown" unit="character"/> kūttamutali Eḻuttu
+		Inta niṉṟayattil cantirātitta_varaiyum aṉupavittuk koḷḷavum inta ni 
+		<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> vaikalikaṭinta-c²²oḻa<hi rend="grantha">brahmā</hi>rāyaṉ eḻuttu
 	</p>
 	         	
          </div>
@@ -150,7 +165,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA:
 -->
