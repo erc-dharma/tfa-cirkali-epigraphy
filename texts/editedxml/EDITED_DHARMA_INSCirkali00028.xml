@@ -93,6 +93,7 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<!--EF: check against pictures-->
 	<p>
 		<lb n="1"/>tiripuvaṉa-c-cakkarava<supplied reason="omitted">r</supplied>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-coḻa<hi rend="grantha">de</hi> 
 		<lb n="2" break="no"/><supplied reason="lost">vaṟ</supplied>ku <num value="10"><g type="numeral">10</g></num> <g type="yāṇṭu"/>
@@ -107,9 +108,11 @@
 	
 	<p>
 		I
-		<lb n="6"/><choice><orig><supplied reason="lost">ṉ</supplied>-ṉ</orig><reg>n-n</reg></choice>āṭṭu-t <supplied reason="lost">tiru</supplied>-k-kaḻumala-ṉāṭṭu-t tiru-k-kaḻumalattu Ā 
+		<lb n="6" break="no"/><choice><orig><supplied reason="lost">ṉ</supplied>-ṉ</orig><reg>n-n</reg></choice>āṭṭu-t <supplied reason="lost">tiru</supplied>-k-kaḻumala-ṉāṭṭu-t tiru-k-kaḻumalattu Ā 
 		<lb n="7" break="no"/><supplied reason="lost">ḷuṭaiya-piḷḷaiyār kōyilil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-k kaṇkā</supplied> 
-		<lb n="8" break="no"/>ṇi caivā<supplied reason="lost">ru</supplied><!--EF: check! "caivaṟkaḷukkum"?-->kaḷukkum tēvakaṉmiyum ka<supplied reason="lost">ṇa</supplied>kkaṉuṅ kaṇṭu nam 
+		<lb n="8" break="no"/>ṇi caivā<supplied reason="lost">ru</supplied><!--EF: check! "caivaṟkaḷukkum"?-->kaḷukkum tēvakaṉmiyum ka<supplied reason="lost">ṇa</supplied>kkaṉuṅ kaṇṭu
+		
+		nam 
 		<lb n="9" break="no"/>m<choice><orig>u</orig><reg>ū</reg></choice>r piṭākai tiru-<supplied reason="lost">vūr</supplied> Akkaraiyaṉallūr v<choice><orig>i</orig><reg>ī</reg></choice>ra<supplied reason="lost">ṉā</supplied>rāyaṇa-vatikku-k kiḻakku 
 		<lb n="10"/>m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣa</hi>-va<supplied reason="lost">tikku vaṭakku</supplied> 2 <g type="kaṇṇāṟu"/> 2-c catirattu-p paḷḷa<supplied reason="lost">vāy <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> Iṅkē kuḷamuṅ</supplied> 
 		<lb n="11"/>tiṭalum <g type="nilam"/> 6m 3 <g type="kaṇṇāṟu"/> 1<!--EF: check--> catirattuk’ ellai <supplied reason="lost"><g type="nilam"/></supplied> <g type="undefined"/>m Iṅkē paḷḷavāy <supplied reason="lost"> <g type="undefined"/></supplied> <g type="undefined"/> 2 ca 
@@ -120,19 +123,29 @@
 		<lb n="16"/><g type="undefined"/>kku maṭakku 6 <g type="kaṇṇāṟu"/> <gap reason="lost" extent="unknown" unit="character"/> Iṅkē ko 
 		<lb n="17" break="no"/>llai <g type="nilam"/> <g type="undefined"/>m Āka <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="nilam"/> 1 <g type="vēli"/> Ā<supplied reason="lost">ka</supplied> <g type="nilam"/> 6 <g type="vēli"/> In-nilam Aṟu vēli 
 		<lb n="18" break="no"/>yum muṉpu cuṅkan tavirtt-aruḷiṉa k<choice><orig>o</orig><reg>u</reg></choice>lōttuṅ<supplied reason="lost">ka</supplied>-cōḻa-<hi rend="grantha">de</hi>vaṟkku pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭāva
+		<lb n="19" break="no"/>tu mutal piḷḷaiyār Iṟai-y-ili-yā-y piṉpu <supplied reason="lost">nā</supplied>ṅkaḷ kai-k koṇṭu Aṉu 
+		<lb n="20" break="no"/>paviyā<supplied reason="lost">t</supplied>ē kiṭanta nilam
 		
-		<lb n="19" break="no"/>tu mutal piḷḷaiyār iṟaiyiliyāy piṉpu <supplied reason="lost">nā</supplied>ṅkaḷ kaikkoṇṭu aṉu 
-		<lb n="20" break="no"/>paviyā<supplied reason="lost">t</supplied>e kiṭanta nilam ivvāṇṭu pattāvatu<supplied reason="lost">va</supplied>raiyum payiṟceyyāte pāḻā 
-		<lb n="21" break="no"/><gap reason="lost" quantity="6" unit="character"/>yil innilam ivvāṇṭu mutal <supplied reason="lost">iṟaiyili</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="22" break="no"/>ṇṭu payiṟ caiyyalāy viḷainilam <supplied reason="lost">pa</supplied>yiṟcaiytum kollai-t tiru-nantavanañ 
-		<lb n="23"/>ceytum āḷuṭaiyapiḷḷaiyār tirumāḷikaikku tiruppaṭimāṟṟuc celuttukaik 
-		<lb n="24" break="no"/>ku kācu koḷḷā iṟaiyiliyāka viṭṭom <supplied reason="lost">i</supplied>nnilaṅkācu koḷḷā iṟaiyiliyāka 
-		<lb n="25"/>viṭṭamaikku cempiluṅkallilum <supplied reason="lost">v</supplied>eṭṭik koṇṭu tirumeni kalliyāṇa ti 
-		<lb n="26" break="no"/>ru-mēniyākat tiruppaṭimāṟṟuc celu<supplied reason="lost">t</supplied>tap paṇṇuka paṇiyāl ūrkaṇak 
-		<lb n="27" break="no"/><supplied reason="lost">ku alaṅkāra-p-piriyaṉ eḻuttu <hi rend="grantha">sabhai</hi>yāral eḻuttu</supplied> <gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">teyvaṉāyakapa</supplied> 
-		<lb n="28" break="no"/>ṭṭaṉ tiru-vēṇ<supplied reason="lost">kā</supplied>ṭupaṭṭaṉ tirurucciṟṟampalanam<supplied reason="lost">pi k</supplied>ākkaṇṭur tirucciṟṟam 
-		<lb n="29" break="no"/>palanampi caṅkarapa<supplied reason="lost">ṭṭa</supplied>ṉ vācciyaṉ tirucciṟṟampalamu<supplied reason="lost">ṭai</supplied>yāṉ iṭaiyāṟṟu 
-		<lb n="30" break="no"/>k -kaṭanārāyaṇapa<supplied reason="lost">ṭṭa</supplied>ṉ||||
+		Ivv-āṇṭu patt-āvatu<supplied reason="lost">va</supplied>raiyum payiṟ ceyyāte pāḻā 
+		<lb n="21" break="no"/><gap reason="lost" quantity="6" unit="character"/> yil In-nilam Ivv-āṇṭu mutal <supplied reason="lost">Iṟai-y-ili</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="22" break="no"/>ṇṭu payiṟ caiyyalāy viḷai-nilam <supplied reason="lost">pa</supplied>yiṟ c<choice><sic>ai</sic><corr>e</corr></choice>ytum kollai-t tiru-nanta-vanañ 
+		<lb n="23"/>ceytum Āḷuṭaiya-piḷḷaiyār tiru-māḷikaikku tiru-p-paṭi māṟṟu-c celuttukaik 
+		<lb n="24" break="no"/>ku kācu koḷḷā Iṟai-y-ili-y-āka viṭṭōm
+	</p>
+	
+	<p>
+		<supplied reason="lost">I</supplied>n-nilaṅ kācu koḷḷā Iṟai-y-ili-y-āka 
+		<lb n="25"/>viṭṭamaikku cempiluṅ kallilum <supplied reason="lost">v</supplied>eṭṭi-k koṇṭu tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i-kal<unclear>li</unclear>yāṇa-ti 
+		<lb n="26" break="no"/>ru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i-y-āka-t tiru-p-paṭi māṟṟu-c celu<supplied reason="lost">t</supplied>ta-p paṇṇuka
+		
+		paṇiyāl Ūr-kaṇak 
+		<lb n="27" break="no"/><supplied reason="lost">ku Alaṅkāra-p-piriyaṉ E</supplied>ḻuttu
+			
+		<supplied reason="lost"><hi rend="grantha">sabhai</hi>yāral eḻuttu</supplied>
+		<gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">teyvaṉāyakapa</supplied> 
+		<lb n="28" break="no"/>ṭṭaṉ tiru-vēṇ<supplied reason="lost">kā</supplied>ṭu-paṭṭaṉ ti<surplus>ru</surplus>ru-c-ciṟṟampala-nam<supplied reason="lost">pi </supplied>kākkaṇṭur<!--EF: standardis to "°ūr"?--> tiru-c-ciṟṟam 
+		<lb n="29" break="no"/>pala-nampi caṅkara-pa<supplied reason="lost">ṭṭa</supplied>ṉ vācciyaṉ tiru-c-ciṟṟampalam-u<unclear>ṭ</unclear><supplied reason="lost">ai</supplied>yāṉ Iṭaiyāṟṟu 
+		<lb n="30" break="no"/>-k-kaṭa-nārāyaṇa-pa<unclear>ṭ</unclear>ṭaṉ <g type="gomutraFinal">.</g>
 	</p>
 	         	
          </div>
