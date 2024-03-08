@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga, year 12</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -90,8 +90,53 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<!--EF: check against pictures-->
+	
 	<p>
+		<lb n="1"/><supplied reason="lost">ti</supplied>ripuvaṉa-c-cakkiravarttikaḷ <hi rend="grantha">śrī</hi>-kulottuṅka-cōḻa-tēva<supplied reason="lost">ṟ</supplied> 
+<lb n="2" break="no"/>ku yāṇṭu paṉṉiraṇṭ-ā<supplied reason="lost">vatu</supplied>
+	</p>
+	
+	<p>
+		Uṭaiyār tiru-c-ciṟṟampa<supplied reason="lost">la</supplied> 
+		<lb n="3" break="no"/>m-uṭaiyār tēvatānam Irā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t tiru-vāli<supplied reason="lost">nā</supplied> 
+<lb n="4" break="no"/><supplied reason="lost">ṭṭu mummuṭi-cōḻa-c-caruppēti-maṅkalattu-p peruṅ-kuṟi pe</supplied> 
+<lb n="5" break="no"/>ru-mak<supplied reason="lost">ka</supplied>ḷ Eḻuttu
+	</p>
+	
+	<p>
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu <hi rend="grantha">brahmadeya</hi>m tiru-k-kaḻumalattu 
+<lb n="6"/>Āḷuṭaiya-piḷḷaiyār kōyilil tēvakaṉmikaḷum <hi rend="grantha">śrī</hi>-mā 
+<lb n="7" break="no"/><hi rend="grantha">heśva</hi>ra-k-kaṇkāṇi ceyvarkaḷum kaṇṭu
 		
+		Āḷuṭaiya-piḷḷai 
+		<lb n="8" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">nammūr-p piṭākai</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="9"/><gap reason="lost" quantity="3" unit="character"/> kaṭṭaḷaiyil viṭṭu Aṉupavittu varukiṟa nilam nālu māvum Ak-kaṭ<supplied reason="lost">ṭa</supplied> 
+		<lb n="10" break="no"/>ḷaiyil kulōttuṅka-cōḻa-c-caruppēti-maṅkalattu-p piṭākaiyā 
+		<lb n="11" break="no"/>y Ūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ iṟai-y-ili Uḷppaṭa-p piṟi<hi rend="grantha">nta</hi>maiyil I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai 
+		<lb n="12"/>māṟu namm<choice><orig>u</orig><reg>ū</reg></choice>r-p piṭākai kulamāṇikka-nallūr-k kaṭṭaḷaiyil ti<supplied reason="lost">ru</supplied>-p-pāṟ 
+		<lb n="13" break="no"/>-pō<choice><orig>n</orig><reg>ṉ</reg></choice>akam-āka yāṇṭu Āṟ-āvatu mutal viṭṭa Irā<hi rend="grantha">ja</hi>irā<hi rend="grantha">ja</hi>-vatikku-k kiḻakku mu 
+		<lb n="14" break="no"/>mmuṭi-cōḻa-vāykkālukku vaṭakku 3 <g type="kaṇṇāṟu"/> 3 tuṇṭattu 4 <g type="kaṇṇāṟu"/> 1 tuṇṭattum ki 
+		<lb n="15" break="no"/>ḻakk' aṭaiya kulaiyum tiṭalum teṅkā tuṇṭattu nilaiyum Akappaṭa <g type="nilam"/> 4 <supplied reason="lost"><g type="mā"/></supplied> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ila 
+		<lb n="16" break="no"/><supplied reason="lost">nālu māvukku</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">viyunta Iṟai Iyi</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">taṉūrilē eṟṟiṇta<!--EF: "ṇt" really?:--> Iṟukka I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>i</supplied> 
+		<lb n="17" break="no"/>la nālu māvum kācu <supplied reason="lost">ko</supplied>ḷḷā Iṟai-y-ili-y-āka-k kai-k koṇtu payir<!--EF: standardise to "ṟ"?-->-c ce 
+		<lb n="18" break="no"/>ytu tiru-p-pār-pō<choice><orig>n</orig><reg>ṉ</reg></choice>a<supplied reason="lost">ka</supplied>-p-puṟam-āka Amutu ceyt-aruḷa-p paṇṇuka paṉiyā 
+		<lb n="19" break="no"/>l Ūr-k-kaṇakku-t tiru-nilakaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-k-kaḻippālai Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttiṭṭatu
+	</p>
+	
+	<p>		
+		<lb n="20"/><hi rend="grantha">sa</hi>paiyāril eḻuttiṭṭār
+		
+		vaṅki-p-puṟattu kūriya-tēvapaṭṭaṉ tir<choice><orig>i</orig><reg>u</reg></choice>-c-ciṟṟampalam-uṭ 
+		<lb n="21" break="no"/><supplied reason="lost">ai</supplied>yāṉ tillai-nāyakaṉ ka<hi rend="grantha">sya</hi>paṉ tiru-vēṇkāṭuṭaiyāṉ <supplied reason="lost">mā</supplied>tēvaṉ Irāyūr <supplied reason="lost">ti</supplied>r<choice><orig>i</orig><reg>u</reg></choice>-c-ciṟṟa 
+		<lb n="22" break="no"/><supplied reason="lost">mpalam-uṭaiyāṉ paṭṭaṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kūr cuppiramaṇiya-paṭṭaṉ tāca</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">aṇain</supplied> 
+		<lb n="23" break="no"/>ta<supplied reason="lost">ko</supplied>ḷari-paṭṭaṉ muṟicaṭṭu-k-kumāra-paṭṭaṉ <hi rend="grantha">śrī</hi>-vā<hi rend="grantha">sude</hi>vaṉ tir<choice><orig>i</orig><reg>u</reg></choice>-c-ciṟṟampalam-uṭaiyāṉ muṭu 
+		<lb n="24" break="no"/><gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">vi</supplied>ṉāyaka-paṭṭaṉ vaṅkippuṟattu mātēva-paṭṭaṉ kuromiya tiruvēṇkāṭupaṭṭaṉ ṉā 
+		<lb n="25" break="no"/><gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">dakṣi</hi>ṇāmu<supplied reason="omitted">r</supplied>tti-paṭṭaṉ Uṟuppuṭṭ<choice><orig>u</orig><reg>ū</reg></choice>r nampi vēḷḷūr tiru-vēṇkāṭu-paṭṭan vaṅki-p-puṟat 
+		<lb n="26" break="no"/>tu <supplied reason="lost">mā</supplied>tēva-paṭṭaṉ cuppiramaṇṇiya-paṭṭaṉ cāntūrar nampi pirākai-c-cantira-cēkara-paṭṭaṉ kavi 
+		<lb n="27" break="no"/><supplied reason="lost">ṇiyaṉ</supplied> cuntara<!--EF: "ā" changed to "ara"-->ttoṭuṭaiyāṉ kaviniyaṉ <supplied reason="lost">Arumoḻi-tēvaṉ tir<choice><orig>i</orig><reg>u</reg></choice>-c-ciṟṟampala</supplied>m-uṭaiyāṉ paṭṭa 
+		<lb n="28" break="no"/><supplied reason="lost">ṉ ta</supplied>ñcapōcaṉ <supplied reason="lost">ti</supplied>ru-c-ciṟṟampalam-uṭaiyāṉ vakuntuci tiru-vēṇkāṭu-paṭṭaṉ pārattuvāci 
+		<lb n="29" break="no"/>tiru-vēṇkāṭ-uṭaiyāṉ tiru-c-ciṟṟampalam-uṭaiyāṉ kākkaṇṭ<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="subaudible">r</supplied> <hi rend="grantha">dakṣi</hi>ṇāmu<supplied reason="omitted">r</supplied>tti-paṭṭaṉ <g type="finalGomutra">.</g>  
 	</p>
 	         	
          </div>
