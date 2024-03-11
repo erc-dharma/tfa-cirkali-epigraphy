@@ -101,7 +101,7 @@
 	
 	<p>
 		tiri-pu<supplied reason="lost">vana-ca</supplied>kkara
-		<lb n="2" break="no"/>varttika<unclear>ḷ</unclear> <hi rend="grantha"><unclear>śrī</unclear>-</hi><unclear>vīrarā</unclear><supplied reason="lost"><hi rend="grantha">jendra</hi>-</supplied>tē
+		<lb n="2" break="no"/>varttika<unclear>ḷ</unclear> <hi rend="grantha"><unclear>śrī</unclear>-</hi><unclear>vīra-rā</unclear><supplied reason="lost"><hi rend="grantha">jendra</hi>-</supplied>tē
 		<lb n="3" break="no"/>varkku yāṇṭu <supplied reason="lost">6</supplied>
 	</p>
 	
@@ -212,14 +212,10 @@
 	</listApp>
 </div>
           
-<div type="translation" xml:lang="fra" resp="part:utve">
+<div type="translation" xml:lang="fra" source="bib:Veluppillai2013_01">
 	
-	<p n="1">Prospérité ! Fortune !</p>
-	
-	<p n="1-2">An <supplied reason="lost">6</supplied> de Vīrarā<supplied reason="lost">jendra</supplied>deva, empereur des trois mondes.</p>
-	
-	<p n="2-17">Pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu ; Karuṇākaratevaṉ alias Vāṇātirāyaṉ, un propriétaire [terrien] de Vētavaṉam et de Paḻaiyanūr dans le Mēlmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacōḻamaṇṭalam pour les deux lampes [qu’il a] placées devant l’[image] divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, [parce qu’]il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, [voici les terres] qu’il laisse pour l’huile après les avoir achetées :</p>
-	
+	<p n="1-16">Que la prospérité soit ! La <supplied reason="lost">6e</supplied> année <supplied reason="lost">de règne de Vīrarājendra</supplied>deva, empereur des trois mondes, pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam, <foreign>brahmadeya</foreign> du Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷa-nāṭu ; Karuṇākaratevan alias Vāṇātirāyaṉ, un propriétaire <supplied reason="subaudible">terrien</supplied> de Vetavanam et de Paḻaiyanūr dans le Melmalaippaḻaiyanūrnāṭu du Jeyaṅkoṇṭacoḻamaṇṭalam pour les deux lampes <supplied reason="subaudible">qu’il a</supplied> placées devant l’<supplied reason="subaudible">image</supplied> divine <supplied reason="explanation"><foreign>tirumuṉpu</foreign></supplied> de ce Seigneur, <supplied reason="subaudible">parce qu’</supplied>il faut chaque jour <gap reason="lost"/> unité(s) d’<foreign>uri</foreign> d’huile, <supplied reason="subaudible">voici les terres</supplied> qu’il laisse pour l’huile après les avoir achetées</p>
+			
 	<p n="17-51"><gap reason="lost"/> du premier carré du premier canalicule, au sud du canal de Tillaiviṭaṅkar et à l’est de la <foreign>vati</foreign> de Talaiccaṅkāṭu dans le <foreign>brahmadeya</foreign> de Tirukkaḻumalam <gap reason="lost"/> ; la terre nommée Cakkaravarttiviḷākam du premier carré du <gap reason="lost"/> canalicule <gap reason="lost"/> canal <gap reason="lost"/>, à l’est de <gap reason="lost"/> ; la terre de deux <foreign>mā</foreign> <gap reason="lost"/> achetée auprès d’un propriétaire <gap reason="lost"/>, Tiruttōṇipuramuṭaiyāṉ ; la terre achetée auprès de Vācciyaṉ Piraḻaiyaviṭaṅkan Tiruttōṇipuramuṭaiyāṉ ; la terre achetée auprès de <gap reason="lost"/>; la terre achetée auprès de Kavuṇiyaṉ Tirunā<gap reason="lost"/>m pirān <gap reason="lost"/> trésorerie <supplied reason="subaudible">du temple</supplied> <gap reason="lost"/> tant que durent lune et soleil <gap reason="lost"/> protection des <foreign>Maheśvara</foreign> <gap reason="lost"/></p>
 	
 </div>
@@ -243,7 +239,7 @@
 	
 	<p n="17-51">		
 		East of the <foreign>vati</foreign> of Talaiccaṅkāṭu in Tirukkaḻumalam,
-		south of the canal of Tillaiviṭaṅkaṉ,
+		south of the canal of Tillaiviṭaṅkar,
 		<gap reason="lost"/> in the first square of the canal 
 		<gap reason="lost"/> east of 
 		<gap reason="lost"/> of the canal
