@@ -48,14 +48,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
 						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>							
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -87,8 +88,8 @@
 			<change who="part:utve" when="2022-11-07">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
@@ -220,6 +221,8 @@
         
 <!--<div type="apparatus">
 	
+	CHECK SII edition.
+	
 	<listApp>
 		<app loc="line">
 			<lem>...</lem>
@@ -230,6 +233,54 @@
 </div>-->
 	
 <div type="translation" xml:lang="fra" source="bib:Veluppillai2013_01">
+	
+	<!--Report notes from PhD translation-->
+	<p n="1-23">
+		Que la prospérité soit! En la 14e année <supplied reason="subaudible">de règne</supplied> de Kulottuṅgacōḻadeva
+		qui fit la grâce de prendre Maturai et la tête couronnée du <supplied reason="subaudible">roi</supplied> Pāṇḍya, empereur des
+		trois mondes; pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam,
+		<foreign>brahmadeya</foreign> de Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu, nous deux — Etirilāpperumāḷ,
+		épouse 65 d’Uṭaiya Nāyakaṉ un propriétaire <supplied reason="subaudible">terrien</supplied> de Vetavaṉam et de Paḻaiyaṉūr
+		dans le Meṉmalaippaḻaiyaṉūrnāṭu du Jeyaṅkoṇṭa-coḻamaṇṭalam 66 et fille de Jenanātakaṟpakam
+		Araiyaṉ, <foreign>kiḻāṉ</foreign> d’Ānāṅkūrkuṉṟam, dans Naṭuvilnāṭu alias le Rājarājavaḷanāṭu 67, et sa
+		fille, Umaiyāḻvi, épouse de Nāyaṉ Tiruvekampamuṭaiyāṉ 68, un propriétaire <supplied reason="subaudible">terrien</supplied>
+		de Perumur dans le Veṇṇi-kūṟṟam du Cuttamalivaḷanāṭu 69 — pour que prospèrent
+		nos époux, nous-mêmes et notre lignée 70.
+	</p>
+	
+	<p n="23-27">
+		Devant Cūriyatevaṉ Tiruñāṉacampantar 71, <foreign>kiḻāṉ</foreign> de Nantimaṅkalam qui
+		est attaché à Oḻukaṟai alias Kulōttuṅkacoḻanallūr dans le Māttūrnāṭu, dans Irājarājavaḷanāṭu 72,
+		nous lui avons donné l’argent (…) 73 et avons établi le document à son nom. Voici les
+		terres que nous avons achetées et données non imposables et invendables tant que
+		durent lune et soleil selon l’ordre de l’assemblée signé par les membres de l’assemblée
+		et le comptable du village, un propriétaire <supplied reason="subaudible">terrien</supplied> de Ceṟṟūr :
+	</p>
+	
+	<p n="37-59">
+		à l’ouest de la <foreign>vati</foreign> de Cuttamali à Tirukkaḻumalam, au sud du canal Tillaiviṭaṅka,
+		le 2e carré du 1er canalicule : <supplied reason="lost">2</supplied>00 74 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès de Vācciyaṉ
+		un propriétaire <supplied reason="subaudible">terrien</supplied> de Tiruttōṇipuram; 300 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès
+		de Kācipan Ciruṭaikkaḻal Āḻvān; trois cents <foreign>kuḻi</foreign> de terre de jardin obtenue auprès de
+		Kācivan Uyyaninṟāṭi. A l’ouest de la <foreign>vati</foreign> de Cuttamali et au sud du canal de Tillaiviṭanka,
+		la portion du troisième carré du 2e canalicule : 100 <foreign>kuḻi</foreign> de terre de jardin obtenue en
+		retirant cinquante <foreign>kuḻi</foreign> au sud-est auprès de Cāvānti Virapattiran Uyyakkoṇṭa Piḷḷai;
+		le troisième carré du premier canalicule : 100 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès
+		de Viracciyaṉ Centana un propriétaire <supplied reason="subaudible">terrien</supplied> de Tiruveṇkāṭu et d’autres; soit <supplied reason="subaudible">un
+		total</supplied> de 1000 <foreign>kuḻi</foreign> <supplied reason="subaudible">c’est-à-dire</supplied> une terre d’ 1/2 <supplied reason="subaudible"><foreign>vēli</foreign></supplied>.
+	</p>
+	
+	<p n="59-69">
+		Sur cette terre d’un demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, qu’ils 75 prennent en main la terre laissée
+		pour leur vivre, un quart de la terre faite pour le jardin, qu’ils <supplied reason="subaudible">la</supplied> cultivent selon leur
+		besoin, qu’ils fassent de la terre restante un jardin pour le Seigneur et qu’ils règlent sans faillir le devoir de kuṭi en faisant des guirlandes parfumées pour la chambre à coucher.
+	</p>
+	
+	<p>
+		Nous deux, Etirilāpperumāḷ et ma fille Umaiyāḷvi, nous avons acquis et laissé ces
+		terres non imposables et invendables d’1/2 <supplied reason="subaudible"><foreign>vēli</foreign></supplied> tant que durent lune et soleil. Ceci
+		est <supplied reason="subaudible">sous</supplied> la protection des Śrīmaheśvara.
+	</p>
          </div>
 
 <div type="commentary">
@@ -289,7 +340,6 @@
 </body>
 </text>
 </TEI>
-
 <!--
 	METADATA
 	 time of Kulōttuṅka III, year 14
