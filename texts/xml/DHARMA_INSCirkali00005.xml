@@ -94,21 +94,21 @@
 	<p>
 		<lb n="1"/><hi rend="grantha">tri-bhu</hi>vaṉa-c-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="undefined"><hi rend="grantha">rājarā</hi></supplied> 
 		<lb n="2" break="no"/><hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num> Āvatu nāḷ <num value="458">4 
-		<lb n="3"/><g type="numeral">100</g> 5 <g type="numeral">10</g> 8</num> ṉāl<!--EF: sic?? "nāḷ" is expected-->
+		<lb n="3"/><g type="numeral">100</g> 5 <g type="numeral">10</g> 8</num>-ṉāl
 	</p>
 	
 	<p>		
 		rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭ 
-		<lb n="4" break="no"/>ṭut tirukkaḻumala<supplied reason="undefined">-nāṭṭut tiru</supplied>kkaḻumalat 
-		<lb n="5" break="no"/>tu Uṭaiyār tiruttōṇipuram-uṭaiy 
+		<lb n="4" break="no"/>ṭu-t tiru-k-kaḻumala<supplied reason="undefined">-nāṭṭu-t tiru</supplied>-k-kaḻumalat 
+		<lb n="5" break="no"/>tu Uṭaiyār tiru-t-tōṇi-puram-uṭaiy 
 		<lb n="6" break="no"/>ār kōyil <gap reason="lost" extent="unknown" unit="character"/> taṇṇir amu 
 		<lb n="7" break="no"/>tu ceyta <gap reason="lost" extent="unknown" unit="character"/> paṭ 
-		<lb n="8" break="no"/>ṭarkaḷil <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="8" break="no"/>ṭarkaḷil <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kū</supplied>
 		<lb n="9" break="no"/>ṟṟattu <gap reason="lost" extent="unknown" unit="character"/> caruppēti 
-		<lb n="10" break="no"/>-maṅkalat <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">dakṣi</hi>naimūrtti-pa 
-		<lb n="11" break="no"/>ṭṭar I <gap reason="lost" extent="unknown" unit="character"/> ṉṉiṉ vaṭṭil oṉṟiṉāl 
-		<lb n="12"/>Oṉpatē <gap reason="lost" extent="unknown" unit="character"/> lē Araikkāl māṟi Eḻuttu 
-		<lb n="13"/>veṭṭupa <gap reason="lost" extent="unknown" unit="character"/> ṉ irupatt' oṉpatiṉ kaḻañcē mukkāl 
+		<lb n="10" break="no"/>-maṅkalat<supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">dakṣi</hi>naimūrtti-pa 
+		<lb n="11" break="no"/>ṭṭar I <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">po</supplied>ṉṉiṉ vaṭṭil oṉṟiṉāl 
+		<lb n="12"/>Oṉpatē <gap reason="lost" extent="unknown" unit="character"/> lē Arai-k-kāl māṟi Eḻuttu 
+		<lb n="13"/>veṭṭupa <gap reason="lost" extent="unknown" unit="character"/> ṉ irupatt' oṉpatiṉ kaḻañcē mu-k-kāl 
 	</p>
 	         	
          </div>
@@ -125,6 +125,25 @@
 </div>-->
 	
 <div type="translation" resp="part:emfr">
+	
+	<p n="1-3">
+		17th year of the glorious king Rājarāja, the emperor of the three worlds, day 458.
+	</p>
+	
+	<p n="3-13">
+		<gap reason="lost"/>
+		the temple of the of the Lord, the Lord of Tiruttōṇipuram, in <supplied reason="undefined">Tiru</supplied>kkaḻumalam, in the Tirukkaḵalumala<supplied reason="undefined">nāṭu</supplied>
+		<gap reason="lost"/> who made food-offerings
+		<gap reason="lost"/> among the Bhaṭṭas <supplied reason="explanation"><foreign>paṭṭarkaḷil</foreign></supplied>
+		<gap reason="lost"/> in the <gap reason="lost"/><supplied reason="lost">kū</supplied>ṟṟam
+		<gap reason="lost"/> <supplied reason="lost">of</supplied> caturvedimāṅgala
+		<gap reason="lost"/> Dakṣiṇāmūrti Bhaṭṭa
+		<gap reason="lost"/> through one <supplied reason="explanation"><foreign>oṉṟiṉāl</foreign></supplied> <supplied reason="lost">gol</supplied>den plate <supplied reason="explanation"><foreign><supplied reason="lost">po</supplied>ṉṉiṉ vaṭṭil</foreign></supplied>
+		<gap reason="ellipsis"/> nine
+		<gap reason="lost"/> one eighth
+		<gap reason="ellipsis"/> <supplied reason="explanation"><foreign>māṟi eḻuttu veṭṭupa</foreign></supplied>
+		<gap reason="lost"/> twenty-nine <foreign>kaḻañcu</foreign>s and three quarters		
+	</p>
          </div>
 
 <div type="commentary">
