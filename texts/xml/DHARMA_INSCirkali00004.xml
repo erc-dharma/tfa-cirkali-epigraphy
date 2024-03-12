@@ -154,7 +154,7 @@
 		1 kaṇ
 		<lb n="40" break="no"/>ṇāṟṟu 2ñ catirattu vācciyaṉ tiru
 		<lb n="41" break="no"/>-t-tōṇipuram-uṭaiyāṉ pakkal 
-		<lb n="42"/>koṇṭa kollai kuḻi <num value="200"><supplied reason="lost">2</supplied> <g type="numeral">100</g></num>m 
+		<lb n="42"/>koṇṭa kollai kuḻi <num value="200"><supplied reason="lost">2</supplied> <g type="numeral">100</g></num>-m 
 		
 		
 		kā
@@ -226,12 +226,19 @@
 	
 	<listApp>
 		
+		<app loc="42">
+			<lem><num value="200"><supplied reason="lost">2</supplied> <g type="numeral">100</g></num></lem>
+			<rdg source="bib:KrishnaSastri1925_01"><num value="300"><supplied reason="lost">3</supplied> <g type="numeral">100</g></num></rdg>
+			<rdg source="bib:Veluppillai2013_01"><num value="200"><supplied reason="lost">2</supplied> <g type="numeral">100</g></num></rdg>
+			<note>The total of the <foreign>kuḻi</foreign>s given should be 1000. The conjectural reading 300 would give a total of 1100 <foreign>kuḻi</foreign>s.</note>
+		</app>	
+		
 		<app loc="56">
 			<lem>centa<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
 			<rdg source="bib:KrishnaSastri1925_01 bib:Veluppillai2013_01">centan</rdg>
 		</app>
 		
-		<app loc="56">
+		<app loc="60">
 			<lem>ceyt' an-nilam</lem>
 			<rdg source="bib:KrishnaSastri1925_01 bib:Veluppillai2013_01">ceytananilam</rdg>
 		</app>		
@@ -248,18 +255,19 @@
 		qui fit la grâce de prendre Maturai et la tête couronnée du <supplied reason="subaudible">roi</supplied> Pāṇḍya, empereur des
 		trois mondes; pour le Seigneur propriétaire de Tiruttōṇipuram dans Tirukkaḻumalam,
 		<foreign>brahmadeya</foreign> de Tirukkaḻumalanāṭu, dans le Rājādhirājavaḷanāṭu, nous deux — Etirilāpperumāḷ,
-		épouse 65 d’Uṭaiya Nāyakaṉ un propriétaire <supplied reason="subaudible">terrien</supplied> de Vetavaṉam et de Paḻaiyaṉūr
-		dans le Meṉmalaippaḻaiyaṉūrnāṭu du Jeyaṅkoṇṭa-coḻamaṇṭalam 66 et fille de Jenanātakaṟpakam
-		Araiyaṉ, <foreign>kiḻāṉ</foreign> d’Ānāṅkūrkuṉṟam, dans Naṭuvilnāṭu alias le Rājarājavaḷanāṭu 67, et sa
-		fille, Umaiyāḻvi, épouse de Nāyaṉ Tiruvekampamuṭaiyāṉ 68, un propriétaire <supplied reason="subaudible">terrien</supplied>
-		de Perumur dans le Veṇṇi-kūṟṟam du Cuttamalivaḷanāṭu 69 — pour que prospèrent
-		nos époux, nous-mêmes et notre lignée 70.
+		épouse d’Uṭaiya Nāyakaṉ <supplied reason="explanation"><foreign>nāyakaṉukku pukka</foreign><note>Littéralement: "qui est entrée chez Nāyakaṉ".</note></supplied> un propriétaire <supplied reason="subaudible">terrien</supplied> de Vetavaṉam et de Paḻaiyaṉūr
+		dans le Meṉmalaippaḻaiyaṉūrnāṭu du Jeyaṅkoṇṭacoḻamaṇṭalam et fille de Jenanātakaṟpakam
+		Araiyaṉ, <foreign>kiḻāṉ</foreign> d’Ānāṅkūrkuṉṟam, dans Naṭuvilnāṭu alias le Rājarājavaḷanāṭu, et sa
+		fille, Umaiyāḻvi, épouse de Nāyaṉ Tiruvekampamuṭaiyāṉ, un propriétaire <supplied reason="subaudible">terrien</supplied>
+		de Perumur dans le Veṇṇi-kūṟṟam du Cuttamalivaḷanāṭu — pour que prospèrent
+		nos époux, nous-mêmes et notre lignée.
 	</p>
 	
 	<p n="23-27">
-		Devant Cūriyatevaṉ Tiruñāṉacampantar 71, <foreign>kiḻāṉ</foreign> de Nantimaṅkalam qui
-		est attaché à Oḻukaṟai alias Kulōttuṅkacoḻanallūr dans le Māttūrnāṭu, dans Irājarājavaḷanāṭu 72,
-		nous lui avons donné l’argent (…) 73 et avons établi le document à son nom. Voici les
+		Devant Cūriyatevaṉ Tiruñāṉacampantar<note>Tiruñāṉacampantar, l’enfant poète, ou plutôt son image divine, n’est jamais désigné ainsi dans CEC. Il est Āḷuṭaiyappiḷḷaiyār (CEC 25.7, 28.6, 30.2, 32.5, 35.4, etc.) ou Nāyaṉār Āḷuṭaiyappiḷḷaiyār (CEC 17.1, 18.2, etc.). Ainsi, il est vraisemblable que la transaction n’est pas effectuée devant l’image de Tiruñāṉacampantar mais en présence d’une personne habilitée à agir (<foreign>mutukaṇ</foreign>) pour les donatrices et nommée ici d’après le poète.</note>, <foreign>kiḻāṉ</foreign> de Nantimaṅkalam qui
+		est attaché à Oḻukaṟai alias Kulōttuṅkacoḻanallūr dans le Māttūrnāṭu, dans Irājarājavaḷanāṭu,
+		nous lui avons donné l’argent <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ivar palar pēril </foreign><note>Le sens de ces mots est obscur car l’identité de celui ou ceux qui reçoivent l’argent des femmes
+n’est pas claire. En effet, à qui renvoie les termes <foreign>ivar palar peril</foreign>?</note></supplied> et avons établi le document à son nom. Voici les
 		terres que nous avons achetées et données non imposables et invendables tant que
 		durent lune et soleil selon l’ordre de l’assemblée signé par les membres de l’assemblée
 		et le comptable du village, un propriétaire <supplied reason="subaudible">terrien</supplied> de Ceṟṟūr :
@@ -267,7 +275,7 @@
 	
 	<p n="37-59">
 		à l’ouest de la <foreign>vati</foreign> de Cuttamali à Tirukkaḻumalam, au sud du canal Tillaiviṭaṅka,
-		le 2e carré du 1er canalicule : <supplied reason="lost">2</supplied>00 74 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès de Vācciyaṉ
+		le 2e carré du 1er canalicule : <supplied reason="lost">2</supplied>00 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès de Vācciyaṉ
 		un propriétaire <supplied reason="subaudible">terrien</supplied> de Tiruttōṇipuram; 300 <foreign>kuḻi</foreign> de terre de jardin obtenue auprès
 		de Kācipan Ciruṭaikkaḻal Āḻvān; trois cents <foreign>kuḻi</foreign> de terre de jardin obtenue auprès de
 		Kācivan Uyyaninṟāṭi. A l’ouest de la <foreign>vati</foreign> de Cuttamali et au sud du canal de Tillaiviṭanka,
@@ -279,7 +287,7 @@
 	</p>
 	
 	<p n="59-69">
-		Sur cette terre d’un demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, qu’ils 75 prennent en main la terre laissée
+		Sur cette terre d’un demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, qu’ils<note>Ce pluriel renvoie aux cultivateurs qui habitent — ils payent la taxe d’habitation <foreign>kuṭi</foreign> — et cultivent la terre donnée. En échange de ceci ils doivent fournir au temple des guirlandes du soir composées des fleurs du jardin.</note> prennent en main la terre laissée
 		pour leur vivre, un quart de la terre faite pour le jardin, qu’ils <supplied reason="subaudible">la</supplied> cultivent selon leur
 		besoin, qu’ils fassent de la terre restante un jardin pour le Seigneur et qu’ils règlent sans faillir le devoir de kuṭi en faisant des guirlandes parfumées pour la chambre à coucher.
 	</p>
