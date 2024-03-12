@@ -48,7 +48,7 @@
                   <!-- don't modify this -->
                </msIdentifier>
                <msContents>
-                  <summary>...</summary>
+                  <summary>Lacunose inscription. Seems to record a donation of gold for a drinking plate for the Lord of Tiruttōṇipuram by Dakṣiṇāmūrti Bhaṭṭa.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -103,7 +103,7 @@
 		rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭ 
 		<lb n="4" break="no"/>ṭu-t tiru-k-kaḻumala<supplied reason="undefined">-nāṭṭu-t tiru</supplied>-k-kaḻumalat 
 		<lb n="5" break="no"/>tu Uṭaiyār tiru-t-tōṇi-puram-uṭaiy 
-		<lb n="6" break="no"/>ār kōyil <gap reason="lost" extent="unknown" unit="character"/> taṇṇir amu 
+		<lb n="6" break="no"/>ār kōyil <gap reason="lost" extent="unknown" unit="character"/> taṇṇ<choice><orig>i</orig><reg>ī</reg></choice>r-amu 
 		<lb n="7" break="no"/>tu ceyta <gap reason="lost" extent="unknown" unit="character"/> paṭ 
 		<lb n="8" break="no"/>ṭarkaḷil <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kū</supplied>
 		<lb n="9" break="no"/>ṟṟattu <gap reason="lost" extent="unknown" unit="character"/> caruppēti 
@@ -134,17 +134,17 @@
 	
 	<p n="3-13">
 		<gap reason="lost"/>
-		the temple of the of the Lord, the Lord of Tiruttōṇipuram, in <supplied reason="undefined">Tiru</supplied>kkaḻumalam, in the Tirukkaḵalumala<supplied reason="undefined">nāṭu</supplied>
-		<gap reason="lost"/> who made food-offerings
+		the temple of the Lord, the Lord of Tiruttōṇipuram, in <supplied reason="undefined">Tiru</supplied>kkaḻumalam, in the Tirukkaḵalumala<supplied reason="undefined">nāṭu</supplied>, <supplied reason="subaudible">itself</supplied> in the Rājadhirājavaḷanāṭu
 		<gap reason="lost"/> among the Bhaṭṭas <supplied reason="explanation"><foreign>paṭṭarkaḷil</foreign></supplied>
-		<gap reason="lost"/> in the <gap reason="lost"/><supplied reason="lost">kū</supplied>ṟṟam
-		<gap reason="lost"/> <supplied reason="lost">of</supplied> caturvedimāṅgala
+		<gap reason="lost"/> who made water-offerings <supplied reason="explanation"><foreign>taṇṇīr-amutu</foreign></supplied>
 		<gap reason="lost"/> Dakṣiṇāmūrti Bhaṭṭa
+		<gap reason="lost"/> <supplied reason="lost">of</supplied> <gap reason="lost"/>-caturvedimāṅgala
+		<gap reason="lost"/> in the <gap reason="lost"/><supplied reason="lost">kū</supplied>ṟṟam
 		<gap reason="lost"/> through one <supplied reason="explanation"><foreign>oṉṟiṉāl</foreign></supplied> <supplied reason="lost">gol</supplied>den plate <supplied reason="explanation"><foreign><supplied reason="lost">po</supplied>ṉṉiṉ vaṭṭil</foreign></supplied>
 		<gap reason="ellipsis"/> nine
 		<gap reason="lost"/> one eighth
 		<gap reason="ellipsis"/> <supplied reason="explanation"><foreign>māṟi eḻuttu veṭṭupa</foreign></supplied>
-		<gap reason="lost"/> twenty-nine <foreign>kaḻañcu</foreign>s and three quarters		
+		<gap reason="lost"/> twenty-nine <foreign>kaḻañcu</foreign>s and three quarters.		
 	</p>
          </div>
 
