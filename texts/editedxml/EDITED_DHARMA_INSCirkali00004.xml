@@ -96,6 +96,7 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<!--Initial vowels check in SII-->
 	
 	<ab>		
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
@@ -104,68 +105,68 @@
 	<p>
 		<hi rend="grantha">tri</hi>-puvaṉa-c-cakkara<choice><orig>va</orig><reg>var</reg></choice>
 		<lb n="2" break="no"/>t<supplied reason="lost">tikaḷ</supplied> maturaiyum pā<supplied reason="lost">ṇ</supplied>ṭi 
-		<lb n="3" break="no"/><supplied reason="lost">yaṉ mu</supplied>ṭi-t-ta<supplied reason="lost">lai</supplied>yuṅ koṇṭa 
-		<lb n="4" break="no"/>ruḷiṉa <supplied reason="lost"><hi rend="grantha">śrī</hi>-</supplied>kul<supplied reason="lost">ōttu</supplied>ṅkacōḻa-tēva 
-		<lb n="5" break="no"/>ku <supplied reason="lost">yā</supplied>ṇṭu <num value="14">10 4</num> vatu
+		<lb n="3" break="no"/><supplied reason="lost">yaṉ mu</supplied>ṭi-t-ta<supplied reason="lost">lai</supplied>yuṅ koṇṭ-a 
+		<lb n="4" break="no"/>ruḷiṉa <supplied reason="lost"><hi rend="grantha">śrī</hi>-</supplied>kul<supplied reason="lost">ōttu</supplied>ṅka-cōḻa-tēva 
+		<lb n="5" break="no"/><choice><orig>k</orig><reg>ṟk</reg></choice>u <supplied reason="lost">yā</supplied>ṇṭu <num value="14">10 4</num>-vatu
 	</p>
 	
 	<p>		
 		Irā<hi rend="grantha">jādhi</hi><supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi> 
-		<lb n="6" break="no"/>-vaḷanāṭṭut tirukkaḻumalunāṭṭup pira 
-		<lb n="7" break="no"/>matēcam tirukka<supplied reason="lost">ḻumala</supplied>ttut tiruttō 
+		<lb n="6" break="no"/>-vaḷanāṭṭu-t tiru-k-kaḻumalunāṭṭu-p pira 
+		<lb n="7" break="no"/>matēcam tiru-k-ka<supplied reason="lost">ḻumala</supplied>ttu-t tiru-t-tō 
 		<lb n="8" break="no"/>ṇipuram-uṭaiya nāya<supplied reason="lost">nā</supplied>ṟku <hi rend="grantha">je</hi>yaṅ 
 		<lb n="9" break="no"/>-koṇṭa-cōḻa-maṇṭalattu mēṉ-malai 
-		<lb n="10" break="no"/>-p-paḻaya<choice><orig>n</orig><reg>ṉ</reg></choice>ūr-nāṭṭup paḻaiyaṉū 
+		<lb n="10" break="no"/>-p-paḻaya<choice><orig>n</orig><reg>ṉ</reg></choice>ūr-nāṭṭu-p paḻaiyaṉū 
 		<lb n="11" break="no"/>r-uṭaiyāṉ vētavaṉam-uṭaiyāṉ U
-		<lb n="12" break="no"/>ṭaiya nāyakaṉukkup pukka naṭuvi
-		<lb n="13" break="no"/>l-nāṭāṉa irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu
+		<lb n="12" break="no"/>ṭaiya nāyakaṉukku-p pukka naṭuvi
+		<lb n="13" break="no"/>l-nāṭ-āṉa Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu
 		<lb n="14"/>Ānāṅkūr-k-kuṉṟaṅ kiḻāṉ <hi rend="grantha">je</hi>na 
-		<lb n="15" break="no"/><supplied reason="lost">nā</supplied>ta-kāṟpakam araiyaṉ makaḷ eti 
-		<lb n="16" break="no"/>rilāpperumāḷum ivaḷ maka
+		<lb n="15" break="no"/><supplied reason="lost">nā</supplied>ta-kāṟpakam Araiyaṉ makaḷ Eti 
+		<lb n="16" break="no"/>rilā-p-perumāḷum Ivaḷ maka
 		<lb n="17" break="no"/>ḷ cut<supplied reason="lost">tamali-va</supplied>ḷanāṭṭu veṇ
-		<lb n="18" break="no"/>ṇi-kkūṟṟattup perumur-uṭai<supplied reason="lost">yā</supplied>
-		<lb n="19" break="no"/>ṉ <supplied reason="lost">nā</supplied>yaṉ tiruvēkampam-uṭaiyā<supplied reason="lost">ṉu
-		<lb n="20" break="no"/>kku</supplied>p pukka Umaiyāḻviyum Ivv-i 
-		<lb n="21" break="no"/>ruvōm e<supplied reason="omitted">ṅ</supplied>kaḷ parttākkaḷukkum <supplied reason="lost">e</supplied> 
-		<lb n="22" break="no"/>ṅkaḷukkum eṅkaḷ vaṅcattukku
+		<lb n="18" break="no"/>ṇi-k-kūṟṟattu-p perumur-uṭai<supplied reason="lost">yā</supplied>
+		<lb n="19" break="no"/>ṉ <supplied reason="lost">nā</supplied>yaṉ tiru-v-ēkampam-uṭaiyā<supplied reason="lost">ṉu
+		<lb n="20" break="no"/>kku</supplied>-p pukka Umai-y-āḻviyum Ivv-i 
+		<lb n="21" break="no"/>ruvōm e<supplied reason="omitted">ṅ</supplied>kaḷ parttākkaḷukkum <supplied reason="lost">E</supplied> 
+		<lb n="22" break="no"/>ṅkaḷukkum Eṅkaḷ vaṅcattukku
 		<lb n="23" break="no"/>m naṉṟāka Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu
-		<lb n="24"/>māttūr<supplied reason="lost">nā</supplied>ṭṭu Oḻukaṟaiyāṉa 
-		<lb n="25" break="no"/>kulōttuṅka-cōḻa-nallūr-k-kaṉai
+		<lb n="24"/>māttūr-<supplied reason="lost">nā</supplied>ṭṭu Oḻukaṟai-y-āṉa 
+		<lb n="25"/>kulōttuṅka-cōḻa-nallūr-k-kaṉai
 		<lb n="26" break="no"/>yūr nanti-maṅkalaṅ kiḻāṉ cūriya
-		<lb n="27" break="no"/>tēvaṉ tiruñāṉacampantaṉar muṉ
-		<lb n="28" break="no"/><supplied reason="lost">ṉi</supplied>laiyāka Ivar pakkal kācu kuṭuttu 
-		<lb n="29"/>Ivar palar pērilum kācu kuṭuttuk koṇ<supplied reason="omitted">ṭu</supplied> 
+		<lb n="27" break="no"/>-tēvaṉ tiru-ñāṉa-campantaṉar muṉ
+		<lb n="28" break="no"/><supplied reason="lost">ṉi</supplied>lai-y-āka Ivar pakkal kācu kuṭuttu 
+		<lb n="29"/>Ivar palar pērilum kācu kuṭuttu-k koṇ<supplied reason="omitted">ṭu</supplied> 
 		<lb n="30"/>Ivar pērilē piramāṇam paṇṇi 
 		<lb n="31"/>nāṅkaḷ koṇṭu viṭṭa Ūr 
-		<lb n="32" break="no"/>kkaṇakkuc ceṟṟūruṭai 
-		<lb n="33" break="no"/>yāṉuñ capaiyārum eḻuttiṭṭa
-		<lb n="34"/>capā niyōkap paṭi cantirātitta
-		<lb n="35" break="no"/>varai kācu
-		<lb n="36"/>koḷḷāviṟaiyiliyāka viṭṭa ni
+		<lb n="32" break="no"/>-k-kaṇakku-c ceṟṟūr-uṭai 
+		<lb n="33" break="no"/>yāṉuñ capaiyārum eḻutt-iṭṭa
+		<lb n="34"/>capā-niyōka-p paṭi cantirātitta
+		<lb n="35" break="no"/>-varai kācu
+		<lb n="36"/>koḷḷā v-iṟai-y-ili-y-āka viṭṭa ni
 		<lb n="37" break="no"/>lam āvatu
 	</p>
 	
 	<p>
-		tirukkaḻumalattuc cut 
-		<lb n="38" break="no"/>tamali-vatikku mēṟkut
+		tiru-k-kaḻumalattu-c cut 
+		<lb n="38" break="no"/>tamali-vatikku mēṟku-t
 		
 		tillai-viṭa 
 		<lb n="39" break="no"/>ṅka-vāykkālukkut teṟku
 		
-		<num value="1">1</num> kaṇ
-		<lb n="40" break="no"/>ṇāṟṟu <num value="2">2</num>ñ catirattu vācciyaṉ tiru
-		<lb n="41" break="no"/>ttōṇipuram-uṭaiyāṉ pakkal 
-		<lb n="42"/>koṇṭa kollai kuḻi <num value="200"><supplied reason="lost">2</supplied> 100</num>m 
+		1 kaṇ
+		<lb n="40" break="no"/>ṇāṟṟu 2ñ catirattu vācciyaṉ tiru
+		<lb n="41" break="no"/>-t-tōṇipuram-uṭaiyāṉ pakkal 
+		<lb n="42"/>koṇṭa kollai kuḻi <num value="200"><supplied reason="lost">2</supplied> <g type="numeral">100</g></num>m 
 		
 		
 		kā
-		<lb n="43" break="no"/>cipa<choice><orig>n</orig><reg>ṉ</reg></choice> cir-uṭai-k-kaḻal ālvā 
-		<lb n="44" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> pakkal koṇṭa kollaiy ku
-		<lb n="45" break="no"/>ḻi <num value="300">3 100</num>m
+		<lb n="43" break="no"/>cipa<choice><orig>n</orig><reg>ṉ</reg></choice> c<choice><orig>i</orig><reg>ī</reg></choice>r-uṭai-k-kaḻal Ālvā 
+		<lb n="44" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> pakkal koṇṭa kollai-y ku
+		<lb n="45" break="no"/>ḻi <num value="300">3 <g type="numeral">100</g></num>m
 		
 		
-		kāciva<choice><orig>n</orig><reg>ṉ</reg></choice> Uyya niṉṟāṭi pa
-		<lb n="46" break="no"/>kkal koṇṭa kollai kuḻi muṉnū 
+		kāciva<choice><orig>n</orig><reg>ṉ</reg></choice> Uyyaniṉṟāṭi pa
+		<lb n="46" break="no"/>kkal koṇṭa kollai kuḻi mu-<choice><orig>ṉ</orig><reg>n</reg></choice>-nū 
 		<lb n="47" break="no"/>ṟum 
 		
 		
@@ -176,63 +177,70 @@
 		<lb n="49" break="no"/>ku
 		
 		<num value="2">2</num>ṇṭāṅ ka<supplied reason="lost">ṇṇā</supplied>ṟṟu mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟā
-		<lb n="50" break="no"/>ñ catirattu tuṇṭattu cāvānti vira
-		<lb n="51" break="no"/>pattira<choice><orig>n</orig><reg>ṉ</reg></choice> Uyyakkoṇṭa-piḷḷai pak
-		<lb n="52" break="no"/>kal kiḻakk’ iṭṭu teṟk’ aṭaiya Ampa 
-		<lb n="53" break="no"/>tu kuḻi n<choice><orig>i</orig><reg>ī</reg></choice>kkik koṇṭa kollaiy kuḻi
-		<lb n="54" break="no"/><num value="100">100</num> m 
+		<lb n="50" break="no"/>ñ catirattu tuṇṭattu cāvānti-v<choice><orig>i</orig><reg>ī</reg></choice>ra
+		<lb n="51" break="no"/>-pattira<choice><orig>n</orig><reg>ṉ</reg></choice> Uyya-k-koṇṭa-piḷḷai pak
+		<lb n="52" break="no"/>kal kiḻakk’ iṭṭu teṟk’ aṭaiya <choice><orig>A</orig><reg>Ai</reg></choice>m-pa 
+		<lb n="53" break="no"/>tu kuḻi n<choice><orig>i</orig><reg>ī</reg></choice>kki-k koṇṭa kollai-y kuḻi
+		<lb n="54" break="no"/><num value="100"><g type="numeral">100</g></num> m 
 		
 		
 		mutaṟ kaṇṇāṟṟu muṉṟāñ cati
 		<lb n="55" break="no"/>rattu 
 		
 		viracci
-		<lb n="56" break="no"/>yaṉ centana-tiruvēṇkāṭ-uṭaiyāṉ
-		<lb n="57" break="no"/>uḷḷiṭṭār pakkal koṇṭa kollai 
-		<lb n="58" break="no"/>kuḻi <num value="100">100</num> m ākak kollai kuḻi <num value="1000">1000</num> nilam <num value="0.5">1/2</num>
+		<lb n="56" break="no"/>yaṉ centa<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-vēṇkāṭ-uṭaiyāṉ
+		<lb n="57"/>Uḷḷiṭṭār pakkal koṇṭa kollai 
+		<lb n="58"/>kuḻi <num value="100"><g type="numeral">100</g></num><g type="dash"/>m Āka-k kollai kuḻi <num value="1000"><g type="numeral">1000</g></num> nilam <num value="0.5"><g type="numeral">1/2</g></num>
 		
 		I<choice><orig>ṉ</orig><reg>n</reg></choice>
 		<lb n="59" break="no"/>-nilam Araiyil Iva<supplied reason="omitted">r</supplied>kaḷukku <hi rend="grantha">ji</hi>vanattuk
 		<lb n="60" break="no"/>ku viṭṭa nilam
 		
-		tiru-naṉtavaṉam ceyta<choice><orig>n</orig><reg>ṉ</reg></choice>anilam kālum kai-k-k
+		tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>tavaṉam ceyt’ an-nilam<!--EF suggestion: ceyt' an-nilam instead of "ceytananilam"--> kālum kai-k-k
 		<lb n="61" break="no"/>oṇṭu tāṅkaḷ vēṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a payiṟ cey
 		<lb n="62" break="no"/>tu koṇṭu n<choice><orig>i</orig><reg>ī</reg></choice>kki niṉṟa nilam nāyanāṟ
-		<lb n="63" break="no"/>kkut tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>tavanam ceytu naṟutiruppaḷi
-		<lb n="64" break="no"/>ttāmam ākavum
+		<lb n="63" break="no"/>kku-t tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>tavanam ceytu naṟu-tiru-p-paḷi
+		<lb n="64" break="no"/>-t-tāmam ākavum
 	</p>
 	
 	<p>
-		paṭakkuṭik kuṟṟam paṭāmaḷ c
-		<lb n="65" break="no"/>aiytu Aḷaka kaṭavār ākavum
+		paṭa-k-kuṭi-k kuṟṟam paṭāmaḷ
+		<lb n="65" break="no"/><!--EF: 1st kompu at the end of previous line-->c<choice><orig>ai</orig><reg>e</reg></choice>ytu Aḷak<supplied reason="omitted">k</supplied>a kaṭavār ākavum
 	</p>
 	
 	<p>
 		In-nilam
-		<lb n="66"/>arai<supplied reason="lost">yu</supplied>m ca<supplied reason="omitted">n</supplied>tirātittavarai<!--EF: catirātittavarai in PhD--> kācu koḷḷā yiṟai 
-		<lb n="67" break="no"/>yiliyākak koṇṭu viṭṭōm etirilāp peru 
-		<lb n="68" break="no"/>māḷum Ivaḷ makaḷ Umaiyāḻviyum y-ivv-iruv
+		<lb n="66"/>Arai<supplied reason="lost">yu</supplied>m ca<supplied reason="omitted">n</supplied>tirātitta-varai<!--EF: catirātittavarai in PhD--> kācu koḷḷā y-iṟai 
+		<lb n="67" break="no"/>-y-ili-y-āka-k koṇṭu viṭṭōm etirilā-p-peru 
+		<lb n="68" break="no"/>māḷum Ivaḷ makaḷ Umai-y-āḻviyum y-ivv-iruv
 		<lb n="69" break="no"/>ōm
 	</p>
 	
 	<p>
-		Itu <hi rend="grantha">śrī-māheśvararakṣai</hi> |||| 
+		Itu <hi rend="grantha">śrī-māheśvara-rakṣai</hi> <g type="gomutraFinal">.</g> 
 	</p>
          	
          </div>
         
-<!--<div type="apparatus">
+<div type="apparatus">
 	
-	CHECK SII edition.
+	<!--CHECK SII edition.-->
 	
 	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">..</rdg>
+		
+		<app loc="56">
+			<lem>centa<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+			<rdg source="bib:KrishnaSastri1925_01 bib:Veluppillai2013_01">centan</rdg>
 		</app>
+		
+		<app loc="56">
+			<lem>ceyt’ an-nilam</lem>
+			<rdg source="bib:KrishnaSastri1925_01 bib:Veluppillai2013_01">ceytananilam</rdg>
+		</app>		
+		
 	</listApp>
 	
-</div>-->
+</div>
 	
 <div type="translation" xml:lang="fra" source="bib:Veluppillai2013_01">
 	
@@ -308,7 +316,7 @@
 			<citedRange unit="item">989</citedRange>
 		</bibl>
 			
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">245-251</citedRange>
 			<citedRange unit="item">4</citedRange>

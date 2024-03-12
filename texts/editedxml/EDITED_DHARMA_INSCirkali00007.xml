@@ -125,7 +125,7 @@
 	
 	<listBibl type="primary">
 					
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">256-254</citedRange>
 			<citedRange unit="item">7</citedRange>
