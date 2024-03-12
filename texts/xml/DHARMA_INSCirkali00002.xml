@@ -232,7 +232,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">233-238</citedRange>
 			<citedRange unit="item">2</citedRange>
