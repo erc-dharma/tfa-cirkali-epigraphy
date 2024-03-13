@@ -127,11 +127,10 @@
 		
 		<lb n="7"/>
 		<gap reason="lost" quantity="8" unit="character"/>
-		nṉā <gap reason="lost" quantity="2" unit="character"/> vi<supplied reason="undefined">ḷai</supplied>-nilattilē Ātalum <gap reason="lost" quantity="6" unit="character"/> yār Eḻunt-aruḷi Iru <gap reason="lost" quantity="6" unit="character"/> taiva <gap reason="lost" quantity="3" unit="character"/> ṟṟa Iṟai-y-ili-y-āka-c cila nilam peṟa vēṇum y-eṉṟum I<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+		nṉā <gap reason="lost" quantity="2" unit="character"/> vi<supplied reason="undefined">ḷai</supplied>-nilattilē Ātalum <gap reason="lost" quantity="6" unit="character"/> yār Eḻunt-aruḷi Iru <gap reason="lost" quantity="6" unit="character"/> taiva <gap reason="lost" quantity="3" unit="character"/> ṟṟa Iṟai-y-ili-y-āka-c cila nilam peṟa vēṇum y-eṉṟum I<choice><orig>ṉ</orig><reg>n</reg></choice>ta
 		
 		<lb n="8"/>
-		<supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu tiru-k-kaḻuma<supplied reason="undefined">la</supplied> <gap reason="lost" quantity="10" unit="character"/> Ip-paṭi <gap reason="lost" quantity="2" unit="character"/> van eṉṟum Aruḷi-c-c<choice><orig>e</orig><reg>ey</reg></choice>kai <gap reason="lost" quantity="3" unit="character"/> ya muṟ-kuṟitta Iraṇṭu v<supplied reason="undefined">ē</supplied>li <gap reason="lost" quantity="6" unit="character"/> pottaka-p paṭi nilam Eṭṭu mā-k-kā 
-		
+		<supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu tiru-k-kaḻuma<supplied reason="undefined">la</supplied> <gap reason="lost" quantity="10" unit="character"/> Ip-paṭi <gap reason="lost" quantity="2" unit="character"/> van eṉṟum Aruḷi-c-c<choice><orig>e</orig><reg>ey</reg></choice>kai <gap reason="lost" quantity="3" unit="character"/> ya muṟ-kuṟitta Iraṇṭu v<supplied reason="undefined">ē</supplied>li <gap reason="lost" quantity="6" unit="character"/> pottaka-p paṭi nilam Eṭṭu mā-k-kā
 		<lb n="9" break="no"/>
 		<supplied reason="lost">ṇi</supplied> <gap reason="lost" quantity="7" unit="character"/>
 		raṇa-t-tē <gap reason="lost" quantity="10" unit="character"/> <supplied reason="lost">ti</supplied>
@@ -151,7 +150,7 @@
 	</p>
 	
 	<p>
-		In-ṉilattu mēṉōkkiṉa maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nōkkiṉa kiṇaṟum maṟṟum Eppēṟpaṭṭa Urimaikaḷum A 
+		In-<choice><orig>ṉ</orig><reg>n</reg></choice>ilattu mēṉōkkiṉa maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nōkkiṉa kiṇaṟum maṟṟum Eppēṟpaṭṭa Urimaikaḷum A 
 		<lb n="13" break="no"/>ka-p-paṭa-k
 		<gap reason="lost" quantity="10" unit="character"/>		
 		vut' ākavum
@@ -255,9 +254,9 @@
 		</app>
 		
 		<app loc="18">
-			<lem>...</lem>
+			<lem>I<supplied reason="lost">p-paṭikku I</supplied>v<supplied reason="lost">ai</supplied></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01">I <gap reason="lost" quantity="7" unit="character"/> va</rdg>			
-			<rdg source="bib:Veluppillai2013_01">I <gap reason="lost" extent="unknown" unit="character"/><lb n="18" break="no"/>va</rdg>
+			<rdg source="bib:Veluppillai2013_01">I <gap reason="lost" extent="unknown" unit="character"/> va</rdg>
 		</app>	
 		
 	</listApp>
@@ -271,9 +270,36 @@
 	</p>
 	
 	<p n="1">
-		<gap reason="undefined"/> year of the glorious Kōpperuñciṅkaṉ, emperor of all worlds, in the month of <gap reason="undefined"/>, in the first fortnight, first day, on the day of <foreign>pūcam</foreign>, which coincides with a Saturday. 
+		<gap reason="undefined"/> year of the glorious Kōpperuñciṅkaṉ, emperor of all worlds, in the month of <gap reason="undefined"/>, in the first fortnight, first day, on the day of <foreign>pūcam</foreign><note>That is, the <foreign>nakṣatra</foreign> <foreign>puṣya</foreign>.</note>, which coincides with a Saturday. 
 	</p>
 	
+	<p n="1-3">
+		This is the manner in which <gap reason="ellipsis"/> has given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> <gap reason="ellipsis"/>
+	</p>
+	
+	<p n="3-12">
+		We have given as great garden <gap reason="ellipsis"/>
+	</p>
+	
+	<p n="12-13">
+		Let there be that <gap reason="lost"/> in this land, the trees <gap reason="ellipsis"/>, the wells <gap reason="ellipsis"/>
+	</p>
+	
+	<p n="13">
+		Let there be that there is obligation to obtain crop <gap reason="ellipsis"/>
+	</p>
+	
+	<p n="13-14">
+		We have given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> as long as the moon and the sun <gap reason="ellipsis"/>
+	</p>
+	
+	<p n="14-15">
+		<supplied reason="lost">We have given</supplied> <gap reason="ellipsis"/> <supplied reason="lost">in</supplied> the glorious temple <supplied reason="subaudible">of</supplied> the Lord, the Lord of Tiruttōṇipuram, for the <foreign>paṭimattār</foreign><note>See MTL, s.v. <foreign>paṭimattōṉ</foreign>: "Temple-priest divinely inspired and possessed of oracular powers".</note> of the temple of Mahāśāsta, the lord of Peruvēmpu.
+	</p>
+	
+	<p n="15-18">
+		[list of signatories]
+	</p>
          </div>
 
 <div type="commentary">
