@@ -187,9 +187,7 @@
 			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ni</supplied>ṉṟuṅ kūṭi</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/> ṉṟuṅkūṭi</rdg>
 		</app>
-	</listApp>
 	
-	<listApp>
 		<app loc="8">
 			<lem>talaim<supplied reason="lost">āṟi</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem>
 			<rdg source="bib:Veluppillai2013_01">talaima<gap reason="lost" extent="unknown" unit="character"/></rdg>
