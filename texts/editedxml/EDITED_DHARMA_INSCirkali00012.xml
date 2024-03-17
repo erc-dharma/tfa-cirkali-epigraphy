@@ -92,6 +92,10 @@
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<!--
+		Check/Add notes form UV PhD
+	-->
+	
 	<!--EF: gap lengths and initial vowels after SII-->
 	<ab>
 		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
