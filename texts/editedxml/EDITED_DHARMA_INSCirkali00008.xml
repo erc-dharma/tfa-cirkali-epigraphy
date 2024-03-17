@@ -93,38 +93,44 @@
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+		    
+	<!--
+		Check initial vowels
+		Check/Add notes form UV PhD
+	-->
+	
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti</hi>
 	</ab>
 	
 	<p>	
-		tiru-puvana-c-cakkarava<unclear>ttikaḷ</unclear> <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>rā</unclear><hi rend="grantha"><unclear>ja</unclear></hi>rā<hi rend="grantha">ja</hi>tēvarku yāṇṭu Ēḻāvatiṉ etirām āṇṭu nāḷ 3 100 10 7
+		tiru-puvana-c-cakkarava<unclear>ttikaḷ</unclear> <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>rā</unclear><hi rend="grantha"><unclear>ja</unclear></hi>rā<hi rend="grantha">ja</hi>-tēvarku yāṇṭu Ēḻāvatiṉ etir-ām āṇṭu nāḷ <num value="317">3 <g type="numeral">100</g> <g type="numeral">10</g> 7</num>
 	</p>
 	
 	<p>
-		In-nāḷ rājarā<gap reason="lost" extent="unknown" unit="character"/>niṉaippiṉ paṭi turōkam ceyta marutaikiḻāṉ tillai-p-perumāṉum vikkira<!--EF: vikkirima?-->-cōḻa<gap reason="lost" extent="unknown" unit="character"/>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-perumāṉum perumur<!--EF: perumūr?-->-uṭaiyāṉ cōḻaṉum ivarkaḷ uṟavumuṟaiyārilum kāri<supplied reason="undefined">yañ ceytā</supplied>rilum aṭimaip pērilum turōkattu Uṭpaṭṭārum kā<supplied reason="undefined">ṇi</supplied>yāy māṟina nilattu kāvērikku vaṭakaraip paṭṭa nāṭukaḷil kāṇikoḷvāṟkku 
-		<lb n="2"/>vayirātarāyarum <gap reason="lost" extent="unknown" unit="character"/> rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-peru-vilai viṟṟa <gap reason="lost" extent="unknown" unit="character"/> laipaṭ <gap reason="lost" extent="unknown" unit="character"/>ttu oṭukkavum in-nilattukku Ivarkaḷum kāṅkēyarāyarum vāṇātarāyarum kacciyarāyarum malaiyappirāyarum puravari cikaraṇa nāyakam paṇṭaṇainallur<!--EF: nallūr?-->-uṭaiyāṉ mukaveṭṭi neṟkuppai Uṭaiyāṉum irā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi> <gap reason="lost" extent="unknown" unit="character"/> ūrkaḷil viṟkiṟa nilattukku tirumantira-Olai neṟi-y-ūṭai<!--EF: yuṭai?-->-c-cōḻa-muvēntavēḷānum eḻutt-iṭṭa piramāṇam koṭukkavum
+		In-nāḷ rājarā <gap reason="lost" extent="unknown" unit="character"/> niṉaippiṉ paṭi turōkam ceyta marutai-kiḻāṉ tillai-p-perumāṉum vikkira<!--EF: vikkirima?-->-cōḻa-<gap reason="lost" extent="unknown" unit="character"/>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-perumāṉum perumur<!--EF: perumūr?-->-uṭaiyāṉ cōḻaṉum ivarkaḷ uṟavu-muṟaiyārilum kāri<supplied reason="undefined">yañ ceytā</supplied>rilum aṭimai-p pērilum turōkattu Uṭpaṭṭārum kā<supplied reason="undefined">ṇi</supplied>-y-āy māṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a nilattu kāvērikku vaṭa-karai-p paṭṭa nāṭukaḷil kāṇi koḷvāṟkku 
+		<lb n="2"/>vayirāta-rāyarum <gap reason="lost" extent="unknown" unit="character"/> rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-peru<!--EF: peṟu?-->-vilai viṟṟa <gap reason="lost" extent="unknown" unit="character"/> laipaṭ <gap reason="lost" extent="unknown" unit="character"/> ttu oṭukkavum in-nilattukku Ivarkaḷum kāṅkēya-rāyarum vāṇāta-rāyarum kacciya-rāyarum malaiyappi-rāyarum puravari-cikaraṇa-nāyakam paṇṭaṇainallur<!--EF: nallūr?-->-uṭaiyāṉ muka-veṭṭi neṟkuppai Uṭaiyāṉum irā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi> <gap reason="lost" extent="unknown" unit="character"/> ūrkaḷil viṟkiṟa nilattukku tirumantira-Ōlai neṟi-y-ūṭai<!--EF: yuṭai?-->-c-cōḻa-muvēntavēḷānum eḻutt-iṭṭa piramāṇam koṭukkavum
 		
-		tiruvāymoḻint-aruḷiṉamaiyil <supplied reason="undefined">uṭaiyār tirukkaḻu</supplied>malattu tiru-t-tōṇi-puram-uṭaiyār kōyil āti-ca<hi rend="grantha">ṇḍeśva</hi>ra-tēvar kaṉmikaḷukku rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>p-peru-vilai viṟṟa <supplied reason="undefined">rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>vaḷa-nāṭṭut</supplied> tiruvālināṭṭu <supplied reason="undefined">tiruvāliyāṉa</supplied> mummuṭi-cōḻa-c-caruppēti-maṅkalattup piṭākai paṉaṅkuṭiyil pa<supplied reason="undefined">ricai</supplied> kiḻāṉ virapperumāṉai 
-		<lb n="3"/>k kāṇi māṟiṉa <g type="nilam"/> <gap reason="lost" extent="unknown" unit="character"/> kku 8 2 <g type="numeral">100</g> matippaṭi <gap reason="lost" extent="unknown" unit="character"/> Ik-kācu Irupātiṉāyāttukkum in-nilam patiṟṟu vēliyum <gap reason="lost" extent="unknown" unit="character"/> ṟṟuk kuṭuttaṉamakku
+		tiru-vāy-moḻint-aruḷiṉamaiyil <supplied reason="undefined">uṭaiyār tiru-k-kaḻu</supplied>malattu tiru-t-tōṇi-puram-uṭaiyār kōyil āti-ca<hi rend="grantha">ṇḍeśva</hi>ra-tēvar kaṉmikaḷukku rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>p-peru<!--EF: peṟu?-->-vilai viṟṟa <supplied reason="undefined">rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t</supplied> tiru--vālināṭṭu <supplied reason="undefined">tiruvāli-y-āṉa</supplied> mummuṭi-cōḻa-c-caruppēti-maṅkalattu-p piṭākai paṉaṅkuṭiyil pa<supplied reason="undefined">ricai</supplied> kiḻāṉ v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-perumāṉai 
+		<lb n="3" break="no"/>-k kāṇi māṟiṉa <g type="nilam"/> <gap reason="lost" extent="unknown" unit="character"/> kku 8 2 <g type="numeral">100</g><!--EF: check number = 8200?--> mati-p paṭi <gap reason="lost" extent="unknown" unit="character"/> Ik-kācu Irupātiṉāyāttukkum in-nilam patiṟṟu vēliyum <gap reason="lost" extent="unknown" unit="character"/> ṟṟu-k kuṭuttaṉamakku<!--EF: °maikku?-->
 	</p>
 	
 	<p>		
 		<list>
-		<item>Ivai puravari cikaraṇa nāyakam pantaṇainallūr uṭaiyāṉ eḻuttu</item>		
-		<item>Ivai puravari cikaraṇattu mukaveṭṭi neṟkuppaiyuṭaiyāṉ eḻuttu</item>
-		<item>Ivai vaṅkattaraiyyaṉ eḻuttu</item>
-		<item>Ivai malaiyappiyarāyaṉ eḻuttu</item>
-		<item>Ivai kacciyaṟāyaṉ eḻuttu</item>
-		<item>Ivai vayirātarāyaṉ eḻuttu</item>
-		<item>Ivai vāṇātarāyaṉ eḻuttu</item>
-		<item>Ivai kaṅkaiyarāyaṉ eḻuttu</item>
-		<item>Ivai neṟiyuṭaicōḻamuventaveḷāṉ eḻuttu <g type="pc">.</g></item>
+		<item>Ivai puravari-cikaraṇa-nāyakam pantaṇai-nallūr uṭaiyāṉ eḻuttu</item>		
+		<item>Ivai puravari-cikaraṇattu muka-veṭṭi neṟkuppai-y-uṭaiyāṉ eḻuttu</item>
+		<item>Ivai vaṅkatt-araiyyaṉ eḻuttu</item>
+		<item>Ivai malaiyappiya-rāyaṉ eḻuttu</item>
+		<item>Ivai kacciya-ṟāyaṉ eḻuttu</item>
+		<item>Ivai vayirāta-rāyaṉ eḻuttu</item>
+		<item>Ivai vāṇāta-rāyaṉ eḻuttu</item>
+		<item>Ivai kaṅkaiya-rāyaṉ eḻuttu</item>
+		<item>Ivai neṟi-y-uṭai-cōḻa-muvēntavēḷāṉ eḻuttu <g type="pc">.</g></item>
 		</list>
 	</p>
 	
 	<p>		
-		Ēḻāvatiṉ etirām āṇṭu Uṭaiyār tirukkaḻumalattut tirutōṇipuramuṭaiyār kōyil āticaṇṭē<hi rend="grantha">śva</hi>ra-tēvar kaṉmikaḷukku rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭṭu tiruvāḷināṭṭu tiruvāliyāṉa mummuṭi-cōḻa-caturveti<!--EF: caturvēti if full Tamil OR some Grantha; see other instances of caturceti below-->-maṅkalattu piṭākai 
+		Ēḻ-āvatiṉ etir-ām āṇṭu Uṭaiyār tiru-k-kaḻumalattu-t tiru-tōṇi-puram-uṭaiyār kōyil āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvar kaṉmikaḷukku rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>-vaḷanāṭṭu tiru-vāḷināṭṭu tiru-vāli-y-āṉa mummuṭi-cōḻa-caturveti<!--EF: caturvēti if full Tamil OR some Grantha; see other instances of caturceti below-->-maṅkalattu piṭākai 
 		<lb n="4"/>paṉaṅkuṭiyil paricaikiḻāṉ virapperumāṉaik kāṇi māṟi irācarāca-p-peruvilai viṟṟa nilattukku vilaip paṭi kāṇi <gap reason="lost" extent="unknown" unit="character"/> ruṭaṉ <gap reason="lost" extent="unknown" unit="character"/> karuvukalattu Oṭukkiṉa kācukku <gap reason="lost" extent="unknown" unit="character"/> ṭiṉa 3 100il kācu 6 1000 8 100m 3 100 10 6l kācu 10 1000 4 100 5 10 <gap reason="lost" extent="unknown" unit="character"/>k kācu 2 10 1000 2 100 5 10 4l kāṇi vāci n<choice><orig>i</orig><reg>ī</reg></choice>kkik kācu Irupatiṉ ayirattumu <gap reason="lost" extent="unknown" unit="character"/> ṟil oru māvaraikkum
 	</p>
 	
