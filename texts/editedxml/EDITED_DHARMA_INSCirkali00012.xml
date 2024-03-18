@@ -125,7 +125,7 @@
 		<lb n="5"/>
 		<gap reason="lost" quantity="7" unit="character"/>
 		ātta <gap reason="lost" quantity="5" unit="character"/> vēmp-uṭaiyār tiru-nāmattu-k kāṇi-y-āka-k koṇṭa A <gap reason="lost" quantity="6" unit="character"/>
-		ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> Iṉ 
+		ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="nilam"/> <g type="kāl"/> <g type="mukkāṇi"/> <g type="mākāṇi"/> <g type="araikkāṇi"/> Iṉ 
 		
 		<lb n="6"/>
 		<gap reason="lost" quantity="8" unit="character"/>
@@ -147,7 +147,7 @@
 		
 		<lb n="11" break="no"/><supplied reason="undefined">ta</supplied> paric’ āvatu
 		<gap reason="lost" quantity="10" unit="character"/>
-		m-āka viṭṭa Ūr <g type="nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> y-i-nilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+		m-āka viṭṭa Ūr <g type="nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="nilam"/> <g type="kāṇi"/> <g type="araikkāṇi"/> <g type="kīḻ"/> <g type="araikkāṇi"/> <g type="kāl"/> y-i<choice><orig>-n</orig><reg>n-n</reg></choice>ilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
 		<gap reason="lost" quantity="4" unit="character"/>
 		cāttaṉ peru-vē <gap reason="lost" quantity="3" unit="character"/> 
 		<lb n="12" break="no"/>tu Ivar Eḻunt-aruḷi
