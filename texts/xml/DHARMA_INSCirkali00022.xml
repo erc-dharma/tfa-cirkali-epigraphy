@@ -90,71 +90,86 @@
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-	<!--EF: to be careully checked again-->
+	<!--EF: to be carefully checked again-->
+	<!--Check initial vowels-->
 	<p>
-		<lb n="1"/>vikkirama-varu<hi rend="grantha">ṣa</hi>ttiṟkuc cellum vi<hi rend="grantha">ṣu</hi> <g type="varuṣam"/>m<!--EF: A in the phD not Ā though--> cittirai <g type="mācam"/> 1l<!--EF: "l" for locative or symbol for tēti = tithi--> <gap reason="lost" extent="unknown" unit="character"/> mutali<!--EF mutal?--> nāḷ
+		<lb n="1"/>vikkirama-varu<hi rend="grantha">ṣa</hi>ttiṟku-c cellum vi<hi rend="grantha">ṣu</hi>-<g type="varuṣam"/>m<!--EF: A in the phD not Ā though--> cittirai-<g type="mācam"/> 1 l<!--EF: "l" for locative or symbol for tēti = tithi--> <gap reason="lost" extent="unknown" unit="character"/> mutali<!--EF mutal?--> nāḷ
 	</p>
 	
 	<p>
 		māyēcurar mutaliyār tāṉattārum <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">caṇ</supplied>
-		<lb n="2" break="no"/>ṭēcura-p-peṟu-vilai-y-āka koṭal vacavaṇa-nāyakkar makaṉ irāmappa-nāyakkar kuṭutta kāṇiyāṭcip paṭṭayam
+		<lb n="2" break="no"/>ṭēcura-p-peṟu<!--EF: thus peru in other inscriptions = peṟu; "the price got"-->-vilai-y-āka koṭal vacavaṇa-nāyakkar makaṉ irāmappa-nāyakkar kuṭutta kāṇiyāṭci-p paṭṭayam
 	</p>
 	
 	<p>		
-		tevum tiruvum-uṭai <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="3"/>paṇip peṇṭaṭṭi pakavāṉ maṇaikku teṟku
+		tevum<!--EF: tēvum?--> tiruvum-uṭai <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/>paṇi-p peṇṭaṭṭi pakavāṉ maṇaikku teṟku
 		
-		kaṇṇārkuḻali maṉaikku vaṭakku
+		kaṇṇārkuḻali<!--EF: kaṇṇaṟu?--> maṉaikku vaṭakku
 		
 		cetirā-p-piccaṉ maṉaikku <gap reason="lost" extent="unknown" unit="character"/> maṉai <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="4"/>vilaiyāka niṉṟaiyam paṇṇiṉa <g type="nilam"/> k<hi rend="grantha">r̥ṣṇa</hi>-rāyaṉ cantiyil amutu ceykiṟa Amutil kāṇiyāṭci-k-kārar aṭaippu piṟacāta 
-		<lb n="5" break="no"/>-Amutu @<!--EF: what does it represent?--> Appam 1 vaṭai 1 Aṭaikkāyamutu 1 Ilaiyamutu 2 Āka Inta vakai vilaiyāka niṉṟayam paṇṇiṉa 
-		<lb n="6"/>Appam oṉṟum vaṭai Oṉṟum aṭaikkāyamu <gap reason="lost" extent="unknown" unit="character"/> Ilaiyamutu Iraṇṭum aramakku vilaikkuṟaviṟ <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="4"/>vilai-y-āka niṉṟaiyam paṇṇiṉa <g type="nilam"/> k<hi rend="grantha">r̥ṣṇa</hi>-rāyaṉ cantiyil amutu ceykiṟa Amutil kāṇi-y-āṭci-k-kārar aṭaippu piṟacāta 
+		<lb n="5" break="no"/>-Amutu <g type="undefined"/><!--EF: @ in phD = abréviation de mesures de terrain?--> Appam 1 vaṭai 1 Aṭaikkā-y-amutu 1 Ilaiyamutu 2 Āka Inta vakai vilai-y-āka niṉṟayam<!--EF: standardise to niṉṟaiyam?--> paṇṇiṉa 
+		<lb n="6"/>Appam oṉṟum vaṭai Oṉṟum aṭaikkā-y-amu<supplied reason="lost">tu</supplied> Ilai-y-amutu Iraṇṭum aramakku vilaikkuṟaviṟ<!--EF: meaning of kast two words?--> <gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="7"/>koḷḷavum inta <gap reason="lost" extent="unknown" unit="character"/> yum amutu paṇiyāramum aṭa<!--EF: correct to "ṭāi"?-->kkāy-ilai-y-amutum cantirātitta-varaiyum aṉupavip 
 		<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	
+	<p>
 		<lb n="9"/>Ivai <gap reason="lost" extent="unknown" unit="character"/> kūttamutali Eḻuttu
 	</p>
 	
 	<p>
-		Inta niṉṟayattil cantirātitta-varaiyum aṉupavittuk koḷḷavum
+		Inta niṉṟayattil<!--EF: standardise to niṉṟaiyattil?--> cantirātitta-varaiyum aṉupavittu-k koḷḷavum
+	</p>
+		
+	<p>
+		inta ni 
+		<lb n="10" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 	<p>
-		inta ni 
-		<lb n="10" break="no"/><gap reason="lost" extent="unknown" unit="character"/> vaikali-kaṭinta-cōḻa<hi rend="grantha">brahmā</hi>rāyaṉ eḻuttu
+		<supplied reason="lost">i</supplied>vai kali-kaṭinta-cōḻa-<hi rend="grantha">brahmā</hi>rāyaṉ<!--EF: brahma?--> eḻuttu
 	</p>
 	         	
          </div>
         
 <div type="apparatus">
 	
-	<listApp><!--EF suggestion-->
-		<app loc="1">
+	<listApp>
+		
+		<app loc="1"><!--EF suggestion-->
 			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">caṇ</supplied><lb n="2" break="no"/>ṭēcura</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/><lb n="2" break="no"/>ṭēcura</rdg>
 		</app>
+		
+		<app loc="6"><!--EF suggestion-->
+			<lem>aṭaikkā-y-amu<supplied reason="lost">tu</supplied></lem>
+			<rdg source="bib:Veluppillai2013_01">aṭaikkā-y-amu <gap reason="lost" extent="unknown" unit="character"/></rdg>
+		</app>
+		
+		<app loc="10"><!--EF suggestion-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">i</supplied>vai</lem>
+			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/> vai</rdg>
+		</app>
+		
 	</listApp>	
 </div>
 	
 <div type="translation" resp="part:emfr">
-	<p n="1">
-		In the year Vṛṣa <supplied reason="explanation"><foreign>vi<hi rend="grantha">ṣu</hi></foreign></supplied>, current <supplied reason="explanation"><foreign>cellum</foreign></supplied> in the Vikrama era <supplied reason="explanation"><foreign>varuṣattil</foreign></supplied>, month of Cittirai, <supplied reason="subaudible">day</supplied> 1 <gap reason="lost"/>
-	</p>
+	<p n="1">In the year Vṛṣa <supplied reason="explanation"><foreign>vi<hi rend="grantha">ṣu</hi></foreign></supplied>, current <supplied reason="explanation"><foreign>cellum</foreign></supplied> in the Vikrama era <supplied reason="explanation"><foreign>varuṣattil</foreign></supplied>, month of Cittirai, <supplied reason="subaudible">day</supplied> 1 <gap reason="lost"/></p>
 
-	<p n="1-2">The document <supplied reason="explanation"><foreign>paṭṭayam</foreign></supplied> that ... gave ... 
-	</p>
+	<p n="1-2">The document <supplied reason="explanation"><foreign>paṭṭayam</foreign></supplied> that ... gave ...</p>
 	
-	<p n="2-9">
-		...	
-	</p>
+	<p n="2-8">...</p>
 	
-	<p n="9">
-		...	
-	</p>
+	<p n="9">This is the signature of <gap reason="lost"/>kūttamutali.</p>
 	
-	<p n="9-10">
-		...	
-	</p>
+	<p n="9">Let them enjoy <supplied reason="subaudible">this</supplied> as long as the moon and the sun according to<note>Literally: "in".</note> this decision.</p>
+	
+	<p n="9-10"><gap reason="lost"/> this la<supplied reason="lost">nd</supplied> <gap reason="lost"/></p>
+	
+	<p n="10">This is the signature of Kalikakaṭintacōḻābrahmārāyaṉ.</p>
 	
 </div>
 
