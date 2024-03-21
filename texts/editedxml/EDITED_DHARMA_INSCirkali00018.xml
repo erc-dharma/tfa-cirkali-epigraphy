@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cīrkāḻi, Tōṇipuram temple, time of ***, Śaka year 1319</title>
+            <title>Cīrkāḻi, Tōṇipuram temple, time of Viruppaṇa, Śaka year 1319</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:emfr">
@@ -99,7 +99,7 @@
 	-->
 	
 	<p>
-		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> viruppaṉa Uṭaiyār <hi rend="grantha">pr̥thivi</hi>-rāc<unclear>ciyam paṇṇiyaruḷā niṉṟa</unclear> <hi rend="grantha">śakā<choice><sic>p</sic><corr>b</corr></choice>da</hi>m <num value="1319"><unclear><g type="numeral">1000</g> 3 <g type="numeral">100</g></unclear> <g type="numeral">10</g> 9</num>ṉ mēl collā<!--EF: cellā?--> niṉṟa <hi rend="grantha">Īśvara</hi>-varu<hi rend="grantha">ṣa</hi>m paṅkuṉi-mātam <num value="11"><g type="numeral">10</g> 1</num> <g type="pc">.</g>
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> viruppa<choice><sic>ṉ</sic><corr>ṇ</corr></choice>a Uṭaiyār <hi rend="grantha">pr̥thivi</hi>-rāc<unclear>ciyam paṇṇiyaruḷā niṉṟa</unclear> <hi rend="grantha">śakā<choice><sic>p</sic><corr>b</corr></choice>da</hi>m <num value="1319"><unclear><g type="numeral">1000</g> 3 <g type="numeral">100</g></unclear> <g type="numeral">10</g> 9</num>ṉ mēl collā<!--EF: cellā?--> niṉṟa <hi rend="grantha">Īśvara</hi>-varu<hi rend="grantha">ṣa</hi>m paṅkuṉi-mātam <num value="11"><g type="numeral">10</g> 1</num> <g type="pc">.</g>
 	</p>
 	
 	<p>	
