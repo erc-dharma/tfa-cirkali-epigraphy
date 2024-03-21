@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of ***, year ***</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Viruppaṇa, Śaka year 1315</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -101,7 +101,7 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">śrīma</hi>ṉ-ma<hi rend="grantha">hā</hi>maṇṭali<hi rend="grantha">śvaran pūrva-dakṣi</hi>ṇa-Uttara-<hi rend="grantha">sa</hi>muttirātipati <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">harihara-rā</hi>yaṉ kumaraṉ <hi rend="grantha">śrī</hi>-vira-v<choice><orig>i</orig><reg>ī</reg></choice>ruppaṇa-Uṭaiyāṟku <hi rend="grantha">pr̥thivi-rājyam</hi> cellā niṉṟa <hi rend="grantha">śakāpta</hi>m <num value="1305"><g type="numeral">1000</g> 3 <g type="numeral">100</g> <g type="numeral">10</g> 5</num> ṉ mēl<!--EF: correcetd from mela--> <hi rend="grantha">śrī-mukhavarṣa</hi>m <hi rend="grantha">mārggaśira</hi>-<hi rend="grantha">śuddha</hi>-<hi rend="grantha">panca</hi>miyum <hi rend="grantha">śu</hi>
+		<hi rend="grantha">śrīma</hi>ṉ-ma<hi rend="grantha">hā</hi>maṇṭali<hi rend="grantha">śvaran pūrva-dakṣi</hi>ṇa-Uttara-<hi rend="grantha">sa</hi>muttirātipati <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">harihara-rā</hi>yaṉ kumaraṉ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-viruppaṇa-Uṭaiyāṟku <hi rend="grantha">pr̥thivi-rājyam</hi> cellā niṉṟa <hi rend="grantha">śakāpta</hi>m <num value="1305"><g type="numeral">1000</g> 3 <g type="numeral">100</g> <g type="numeral">10</g> 5</num> ṉ mēl<!--EF: correcetd from mela--> <hi rend="grantha">śrī-mukhavarṣa</hi>m <hi rend="grantha">mārggaśira</hi>-<hi rend="grantha">śuddha</hi>-<hi rend="grantha">panca</hi>miyum <hi rend="grantha">śu</hi>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		kā<supplied reason="omitted">r</supplied>ttikai-mātam <num value="25">2 <g type="numeral">10</g> 5</num> <gap reason="lost" extent="unknown" unit="character"/>
 	</p>
