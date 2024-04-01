@@ -97,28 +97,31 @@
 	-->
 	
 	<p>
-		<lb n="1"/><num value="1300"><g type="numeral">1000</g> 3 <g type="numeral">100</g></num> Utiroṟkāri-varu<hi rend="grantha">ṣa</hi>m kā<supplied reason="omitted">r</supplied>ttikai-mātam patiṉāḷān tiyati
+		<lb n="1"/><num value="1300"><g type="numeral">1000</g> 3 <g type="numeral">100</g></num> Utiroṟkāri-varu<hi rend="grantha">ṣa</hi>m kā<supplied reason="omitted">r</supplied>ttikai-mātam patiṉāḷān<!--EF: ḷ? should be l--> tiyati
 	</p>
 	<p>
-		tiruñāṉacampantaṉ <supplied reason="undefined">paṭṭam</supplied> kamuku vaittārai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ<supplied reason="undefined">-p-payir</supplied>kku na <gap reason="lost" extent="unknown" unit="character"/> ttu<supplied reason="undefined">k ku</supplied>ṭutta paṭikku <gap reason="lost" extent="unknown" unit="character"/> taṟu vaittu veṭ <gap reason="lost" extent="unknown" unit="character"/> kamavum aṟuttu kuṭu<supplied reason="undefined">kka</supplied> kaṭavat' āka<supplied reason="undefined">vu</supplied>m
+		tiru-ñāṉa-campantaṉ <supplied reason="undefined">paṭṭam</supplied> kamuku vaittārai<!--EF: meaning?--> k<choice><orig>i</orig><reg>ī</reg></choice>ḻ<supplied reason="undefined">-p-payir</supplied>kku na <gap reason="lost" extent="unknown" unit="character"/> ttu<supplied reason="undefined">-k ku</supplied>ṭutta paṭikku <gap reason="lost" extent="unknown" unit="character"/> taṟu vaittu veṭ <gap reason="lost" extent="unknown" unit="character"/> kamavum<!--EF: meaning?--> aṟuttu kuṭu<supplied reason="undefined">kka</supplied> kaṭavat' āka<supplied reason="undefined">vu</supplied>m
 	</p>
 	<p>
-		ka <supplied reason="undefined">ṟppit</supplied>teṉ <gap reason="lost" extent="unknown" unit="character"/> ṅkal-āka k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-payirā <gap reason="lost" extent="unknown" unit="character"/> r aḷavum 
+		ka<supplied reason="undefined">ṟppit</supplied>teṉ <gap reason="lost" extent="unknown" unit="character"/> ṅkal-āka k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-payirā <gap reason="lost" extent="unknown" unit="character"/> r aḷavum 
 		<lb n="2"/>
-		kamuku palamāṉāl oṉṟu pattā<supplied reason="undefined">yu</supplied>m peṟa kaṭavākavum
+		kamuku palamāṉāl oṉṟu pattā<supplied reason="undefined">yu</supplied>m peṟa-kaṭa-v-ākavum
 	</p>
 	
 	<p>
-		teṉamaram palā Ivai <supplied reason="undefined"><num value="10"><!--EF: between 11 and 19--><g type="numeral">10</g> <gap reason="lost" quantity="1" unit="character"/></num></supplied> Iḷamariyāti peṟa kaṭavākavum
+		teṉamaram<!--EF: teṉa = ?--> palā Ivai <supplied reason="undefined"><num value="10"><!--EF: a number between 11 and 19--><g type="numeral">10</g> <gap reason="lost" quantity="1" unit="character"/></num></supplied> Iḷamariyāti peṟa-kaṭa-v-ākavum
 	</p>
 	
 	<p>
-		kuṭivāram oṉṟu pāta <gap reason="lost" extent="unknown" unit="character"/> kaipaṟṟu pala Upa <gap reason="lost" extent="unknown" unit="character"/> kaparāyuṇṭākil na <gap reason="lost" extent="unknown" unit="character"/> ṉā <gap reason="lost" extent="unknown" unit="character"/> piṉ <supplied reason="undefined">c<choice><orig>i</orig><reg>ī</reg></choice></supplied>-pātamē nayiṉaṉ āḷuṭaiyapiḷḷaiyār c<choice><orig>i</orig><reg>ī</reg></choice>-pātamē <gap reason="lost" extent="unknown" unit="character"/> tala <gap reason="lost" quantity="1" unit="character"/><!--EF: update= missing consonant--> eṭṭā 
-		<lb n="3"/>yuṇṭākil cipatta <gap reason="lost" extent="unknown" unit="character"/> ḷpaṭṭatu paṭakavākavum
+		kuṭi-vāram oṉṟu pāta <gap reason="lost" extent="unknown" unit="character"/> kai-paṟṟu pala Upa <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	<p>
+		kaparāy-uṇṭākil<!--EF: meaning?--> na <gap reason="lost" extent="unknown" unit="character"/> ṉā <gap reason="lost" extent="unknown" unit="character"/> piṉ <supplied reason="undefined">c<choice><orig>i</orig><reg>ī</reg></choice></supplied>-pātamē nayiṉaṉ āḷuṭaiya-piḷḷaiyār c<choice><orig>i</orig><reg>ī</reg></choice>-pātamē <gap reason="lost" extent="unknown" unit="character"/> tala <gap reason="lost" quantity="1" unit="character"/><!--EF: update= missing consonant--> eṭṭā 
+		<lb n="3"/>y-uṇṭākil cipatta <gap reason="lost" extent="unknown" unit="character"/> ḷpaṭṭatu paṭaka-v-ākavum
 		</p>
 	<p>
-		āḷuṭaiyapiḷḷaiyār pātamē kāvalai  
-	</p>
+		āḷuṭaiya-piḷḷaiyār pātamē kāvalai  
+	</p>		
 	         	
          </div>
         
@@ -134,7 +137,34 @@
 </div>-->
 	
 <div type="translation" resp="part:emfr">
-         </div>
+	
+	<p n="1">	
+		<supplied reason="subaudible">Year</supplied> 1300, year Rudhirodgārin, month of Kārttikai, fourteenth <foreign>tithi</foreign>. 
+	</p>
+	
+	<p n="1">	
+		...
+		should be assigned to give
+		...
+	</p>
+	<p n="1-2">	
+		...
+		should be assigned to obtain
+		...
+	</p>
+	<p n="2">	
+		...
+		should be assigned to obtain
+		...
+	</p>
+	<p n="2-3">	
+		If ...;
+		if ...		
+	</p>
+	<p n="3">	
+		The feet of Āḷuṭaiya-piḷḷaiyār <supplied reason="subaudible">are</supplied> the protection <supplied reason="subaudible">of this donation</supplied>.
+	</p>
+</div>
 
 <div type="commentary">
            
