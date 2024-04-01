@@ -89,13 +89,19 @@
 <body>
       
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-		
+	
+	<!--
+		Check from photos.
+		Check initial vowels from photos
+		Check/Add notes form UV PhD
+	-->
+	
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti</hi>			
 	</ab>
 	<p>
 		<hi rend="grantha">śrīman· mahā-maṇḍalīśvaran· harihara-rāya-vipāṭan·</hi> 
-		<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kkut tappuva<hi rend="grantha">rā</hi>yar kaṇṭaṉ kaṇṭa-nāṭu ko<hi rend="grantha">ṇḍu</hi> 
+		<lb n="2"/>pā<hi rend="grantha">ṣai</hi>kku-t tappu-v-a<hi rend="grantha">rā</hi>yar kaṇṭaṉ kaṇṭa-nāṭu ko<hi rend="grantha">ṇḍu</hi> 
 		<lb n="3"/>koṇṭa-nāṭu ko<hi rend="grantha">ṭā</hi>kā<hi rend="grantha">n· pūrvva-dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇa-<hi rend="grantha">pa<choice><sic>cś</sic><corr>śc</corr></choice>ima</hi> 
 		<lb n="4" break="no"/>-Utta<hi rend="grantha">ra-catu-samudrādi</hi>pati c<choice><orig>i</orig><reg>ī</reg></choice><choice><orig>ṟ</orig><reg>r</reg></choice>-vīra-p-pi<choice><orig>ṟ</orig><reg>r</reg></choice>atā<hi rend="grantha">pa</hi>-kiṟuṭṭaṇa 
 		<lb n="5" break="no"/>tēva-mak<choice><sic>a</sic><corr>ā</corr></choice>-Irācā-piṟiti<supplied reason="omitted">vi</supplied>-Irācciyam paṇṇi 
@@ -107,18 +113,31 @@
 	<!--Check against photos from here-->
 	<p>
 		ceyaṅ-koṇṭa-cōḻa-maṇṭalam-āṉa toṇṭai-maṇṭalattu 
-		<lb n="9"/>kāli<supplied reason="lost">yūr-kōṭṭa</supplied>ttu <gap reason="lost" quantity="1" unit="character"/>livaṉa <gap reason="lost" quantity="4" unit="character"/> ūr <gap reason="lost" quantity="4" unit="character"/> maru <gap reason="lost" extent="unknown" unit="character"/>ntaṟa-cōḻa-catuvēti-maṇṭalattu 
-		<lb n="10"/>Ūr kaṇakku mācaṉa-p-piriyar va <gap reason="lost" quantity="1" unit="character"/> unayiṉūr puttiraṉ komāṇaṟku cōḻa-maṇṭalattu Irācā 
-		<lb n="11" break="no"/>tirāca-vaḷanāṭṭu tirukkaḻumalattu cī-kālimutaliyār tāṉattārum nilamum maṇai yum vilaippira 
-		<lb n="12"/>māṇam paṇṇīk<!--CHECK ī--> kuṭutta paṭi maṇai Oṉṟukku <gap reason="lost" quantity="1" unit="character"/> llai Āvatu tirukkaḻumalattil 
-		<lb n="13"/>Irācākkaḷ tampirāṉ tiruviti teru mēl-tuṇṭattil teṉ-ci<supplied reason="lost">ṟā</supplied>kilē mēṟk' aṭaiya k<choice><orig>i</orig><reg>ī</reg></choice>ḻ mēl 
-		<lb n="14" break="no"/>-kolam-uṭaiyāṉ <gap reason="lost" quantity="6" unit="character"/> kku maṇai Oṉṟu nila-vēlikku tirukaḻumalattil nilam kālacaṅkaṉa 
-		<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> Oṉṟu te Āka <g type="nilam"/> 1 <g type="vēli"/> maṇai 1 Inta nilam vēlikkum maṇai Oṉṟukkum vilai Āka 
-		<lb n="16"/>niṉṟai paṭi paṇṇiṉa poṉ pattu Intap poṉ pattukku maṇai Oṉṟum nilam vēliyum vilai Ākavum Inta maṇai 
-		<lb n="17"/>Oṉṟum nilam vēliyum nāyaṉār periya-nāyaṉārkkum nāyaṉār <gap reason="lost" quantity="5" unit="character"/> rāṇṟkum<!--CHECK--> tamm-uṭaiya taṉ 
-		<lb n="18"/><gap reason="lost" quantity="17" unit="character"/> ḷ <gap reason="lost" quantity="1" unit="character"/> lakkaikku <gap reason="lost" quantity="5" unit="character"/> caittapaṭiyā<unclear>pa</unclear>la puṟavari 
-		<lb n="19"/>māṉiyam-āka <supplied reason="lost">Inta taṉmam canti</supplied>rātitta-varaiyum naṭakkak kaṭava <gap reason="lost" quantity="12" unit="character"/> matattu 
-		<lb n="20"/>nilamu maṇaiyum vilaip piramāṇam paṇṇik kuṭutta <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ṇarkku kāḻimuta</supplied>liyār tāṉ 
+		<lb n="9"/>kāli<supplied reason="lost">yūr-kōṭṭa</supplied>ttu <gap reason="lost" quantity="1" unit="character"/> livaṉa <gap reason="lost" quantity="4" unit="character"/> ūr <gap reason="lost" quantity="4" unit="character"/> maru <gap reason="lost" extent="unknown" unit="character"/> ntaṟa-cōḻa-catu<!--CHECK! cuntara°?-->vēti-maṇṭalattu 
+		<lb n="10"/>Ūr-kaṇakku mācaṉa-p-piriyar va <gap reason="lost" quantity="1" unit="character"/> unayiṉūr puttiraṉ komāṇaṟku cōḻa-maṇṭalattu Irācā 
+		<lb n="11" break="no"/>tirāca-vaḷanāṭṭu tiru-k-kaḻumalattu cī-kāli-mutaliyār tāṉattārum nilamum maṇai yum vilai-p-pira 
+		<lb n="12"/>māṇam paṇṇīk<!--CHECK ī--> kuṭutta paṭi maṇai Oṉṟukku <gap reason="lost" quantity="1" unit="character"/> llai Āvatu
+	</p>
+	<p>
+		tiru-k-kaḻumalattil 
+		<lb n="13"/>Irācākkaḷ tampirāṉ tiru-viti<!--EF: tiruvīti?--> teru mēl-tuṇṭattil teṉ-ci<supplied reason="lost">ṟā</supplied>kilē mēṟk' aṭaiya k<choice><orig>i</orig><reg>ī</reg></choice>ḻ mēl 
+		<lb n="14" break="no"/>-kolam-uṭaiyāṉ <gap reason="lost" quantity="6" unit="character"/> kku maṇai Oṉṟu nila-vēlikku tiru-kaḻumalattil nilam kālacaṅkaṉa 
+		<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> Oṉṟu te<!--EF: a symbol?--> Āka <g type="nilam"/> 1 <g type="vēli"/> maṇai 1
+	</p>
+	<p>
+		Inta nilam vēlikkum maṇai Oṉṟukkum vilai Āka 
+		<lb n="16"/>niṉṟai paṭi paṇṇiṉa poṉ pattu
+	</p>
+	<p>
+		Inta-p poṉ pattukku maṇai Oṉṟum nilam vēliyum vilai Ākavum
+	</p>
+	
+	<p>
+		Inta maṇai 
+		<lb n="17"/>Oṉṟum nilam vēliyum nāyaṉār periya-nāyaṉārkkum nāyaṉār <gap reason="lost" quantity="5" unit="character"/> rāṇṟkum<!--CHECK--> ta<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiya taṉ 
+		<lb n="18"/><gap reason="lost" quantity="17" unit="character"/> ḷ <gap reason="lost" quantity="1" unit="character"/> lakkaikku <gap reason="lost" quantity="5" unit="character"/> caittapaṭiyā<unclear>pa</unclear>la<!--EF: meaning? icaitta paṭi ...--> puṟavari 
+		<lb n="19"/>māṉiyam-āka <supplied reason="lost">Inta taṉmam canti</supplied>rātitta-varaiyum naṭakka-k kaṭava <gap reason="lost" quantity="12" unit="character"/> matattu 
+		<lb n="20"/>nilamu maṇaiyum vilai-p-piramāṇam paṇṇi-k kuṭutta <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">ṇarkku kāḻimuta</supplied>liyār tāṉ 
 		<lb n="21"/>tāṉattārōm		
 	</p>
 	<p>
@@ -139,7 +158,44 @@
 </div>-->
 	
 <div type="translation" resp="part:emfr">
-         </div>
+         
+	<p n="1">
+		Prosperity!
+	</p>	
+	
+	<p n="1-8">
+		In the day of the <foreign>nakṣatra</foreign> Acuvati, a Friday, which coincides with
+		...
+		which was current upon Śaka 1413,
+		when
+		the glorious ... the glorious heroic and majestuous Lord Kiṟuṭṭaṇa<note>Sanskrit Kṛṣṇa.</note> Mahārāja was currently ruling the earth.
+	</p>
+	
+	<p n="8-12">...
+		having made a sale document
+		...
+		the boundaries are <supplied reason="subaudible">as follows</supplied>:
+	</p>	
+		
+	<p n="13-15">So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+		...
+	</p>
+			
+	<p n="15-16">So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+		...
+	</p>
+			
+	<p n="16">There should be <supplied reason="explanation"><foreign>ākavum</foreign></supplied>...
+	</p>
+			
+	<p n="16-21">...
+		We, the trustees
+		...
+	</p>
+			
+	<p n="21">These are the signature of ...
+	</p>
+</div>
 
 <div type="commentary">
            
