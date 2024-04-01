@@ -103,67 +103,113 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">śrīma</hi>ṉ-ma<hi rend="grantha">hā</hi>maṇṭali<hi rend="grantha">śvaran pūrva-dakṣi</hi>ṇa-Uttara-<hi rend="grantha">sa</hi>muttirātipati <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">harihara-rā</hi>yaṉ kumaraṉ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-viruppaṇa-Uṭaiyāṟku <hi rend="grantha">pr̥thivi-rājyam</hi> cellā niṉṟa <hi rend="grantha">śakāpta</hi>m <num value="1305"><g type="numeral">1000</g> 3 <g type="numeral">100</g> <g type="numeral">10</g> 5</num> ṉ mēl<!--EF: correcetd from mela--> <hi rend="grantha">śrī-mukhavarṣa</hi>m <hi rend="grantha">mārggaśira</hi>-<hi rend="grantha">śuddha</hi>-<hi rend="grantha">panca</hi>miyum <hi rend="grantha">śu</hi>
+		<hi rend="grantha">śrīma</hi>ṉ-ma<hi rend="grantha">hā</hi>-maṇṭal<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvaran pūrva-dakṣi</hi>ṇa-Uttara-<hi rend="grantha">sa</hi>muttirātipati-<hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">harihara-rā</hi>yaṉ kumaraṉ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-viruppaṇa-Uṭaiyāṟku <hi rend="grantha">pr̥thivi-rājyam</hi> cellā niṉṟa <hi rend="grantha">śakāpta</hi>m <num value="1305"><g type="numeral">1000</g> 3 <g type="numeral">100</g> <g type="numeral">10</g> 5</num> ṉ mēl<!--EF: corrected from mela--> <hi rend="grantha">śrī-mukhavarṣa</hi>m <hi rend="grantha">mārggaśira</hi>-<hi rend="grantha">śuddha</hi>-<hi rend="grantha">panca</hi>miyum <hi rend="grantha">śu</hi>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		kā<supplied reason="omitted">r</supplied>ttikai-mātam <num value="25">2 <g type="numeral">10</g> 5</num> <gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 	<p>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		cōḻa-maṇṭalattu kāvēri<supplied reason="undefined">kkum</supplied> koḷḷiṭattukkum naṭuppaṭṭa paṟṟu rā<hi rend="grantha">jādhi</hi>rāca-vaḷanāṭṭu kiḻakku vaṭakālaṉu <gap reason="lost" extent="unknown" unit="character"/> -t tillai-viṭaṅka-nallūr aṭaippiṉ paṭi
+		cōḻa-maṇṭalattu kāvēri<supplied reason="undefined">kkum</supplied> koḷḷiṭattukkum naṭu-p-paṭṭa paṟṟu rā<hi rend="grantha">jādhi</hi>rāca-vaḷanāṭṭu kiḻakku vaṭa-kālaṉu <gap reason="lost" extent="unknown" unit="character"/> -t tillai-viṭaṅka-nallūr aṭaippiṉ paṭi
 		
 		<lb n="2"/>
 		<g type="nilam"/> <num value="60">6 <g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> <g type="mā"/> 
 		
-	<list>
-		<item>
-		nāyaṉār āḷuṭaiya-piḷḷaiyāṟku
-		<g type="nilam"/> <num value="10"><g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="40">4 <g type="numeral">10</g></num> <g type="mā"/>
-		</item>
+		<list>
+			<item>
+				nāyaṉār āḷuṭaiya-piḷḷaiyāṟku
+				<g type="nilam"/> <num value="10"><g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="40">4 <g type="numeral">10</g></num> <g type="mā"/>
+			</item>
+			
+			<item>		
+				<hi rend="grantha">bhāradvāj<choice><sic>i</sic><corr>a</corr></choice>-gotra</hi>ttu <hi rend="grantha">Apastambha</hi>-<hi rend="grantha">sūtra</hi>ttu kamukai Aruṇa<hi rend="grantha">giri-śiva</hi>ṟku Ivv-ūr nattam uṭpaṭa maṭa-p-puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="80">8 <g type="numeral">10</g></num> <g type="mā"/>
+			</item>
+			
+			<item>			
+				Inta <hi rend="grantha">gotra</hi>ttu Inta <hi rend="grantha">su<!--EF: ū?-->tra</hi>ttu <hi rend="grantha">rāmanā<choice><orig>dh</orig><reg>th</reg></choice>a-bhaṭṭa</hi>ṟku <hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ’ i<!--EF: na > n=ṉ? + see below: pūtāṉataṇṭiṟaiyilikku--> <gap reason="lost" extent="unknown" unit="character"/>
+			</item>
+			
+			<item>
+				<gap reason="lost" extent="unknown" unit="character"/> ṇi<hi rend="grantha">śra</hi>ṟku
+				<g type="nilam"/> 5 <g type="vēli"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
+			</item>
+			
+			<item>			
+				c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-tiru-neṟi-māḷikai-maṭattu mutaliyāṟku maṭa-p-puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
+			</item>
+			
+			<item>
+				<hi rend="grantha">pūja-kālaśvāmi</hi> tiru-ñāna-campanta-paṇṭitaṟku pūtāṉa-taṇṭ’ iṟaiyil<!--EF: yil > yili--> 
+				<lb n="3" break="no"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
+			</item>
+			
+			<item>
+				tēvakaṉmi <hi rend="grantha">kāśya</hi>paṉ kāḻi-kaṟpaka-paṭṭaṟku pūtāṉa-taṇṭ’ iṟaiyilikku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
+			</item>
+		</list> 
+		Āka <g type="nilam"/> 
 		
-		<item>		
-		<hi rend="grantha">bhāradvāj<choice><sic>i</sic><corr>a</corr></choice>-gotra</hi>ttu <hi rend="grantha">Apastambha</hi>-<hi rend="grantha">sūtra</hi>ttu kamukai Aruṇa<hi rend="grantha">giri-śiva</hi>ṟku Ivv-ūr nattam uṭpaṭa maṭa-p puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="vēli"/>kku <g type="nilam"/> <num value="80">8 <g type="numeral">10</g></num> <g type="mā"/>
-		</item>
-		
-		<item>			
-			Inta <hi rend="grantha">gotra</hi>ttu Inta <hi rend="grantha">su<!--EF: ū?-->tra</hi>ttu <hi rend="grantha">rāmanā<choice><orig>dh</orig><reg>th</reg></choice>a-bhaṭṭa</hi>ṟku <hi rend="grantha">bhū<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na<!--EF: na > n=ṉ? + see below: pūtāṉataṇṭiṟaiyilikku--> taṇṭi <gap reason="lost" extent="unknown" unit="character"/> ṇi<hi rend="grantha">śra</hi>ṟku
-		
-		<g type="nilam"/> 5 <g type="vēli"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
-		</item>
-		
-		<item>			
-			c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-tiru-neṟimāḷikai-maṭattu mutaliyāṟku maṭa-p-puṟam <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
-		</item>
-		
-		<item>
-			<hi rend="grantha">pūja-kālaśvāmi</hi> tiru-ñānacampanta-paṇṭitaṟku pūtāṉataṇṭiṟaiyil 
-			<lb n="3" break="no"/>kku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/> 
-		</item>
-		
-		<item>
-			tēvakaṉmi <hi rend="grantha">kāśya</hi>paṉ kāḻikaṟpakapaṭṭaṟku pūtāṉa<!--EF: ṉa > ṉ-->taṇṭiṟaiyilikku <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="mā"/>
-		</item>
-	</list> 
-		āka <g type="nilam"/> 
-		
-		<num value="60">6 <g type="numeral">10</g></num> <g type="vēli"/> maṉul <g type="nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> <g type="mā"/> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam iru-nūṟṟu nāṟpatu māvum <hi rend="grantha">sarvadāṉya</hi>m-āka<!--EF: should sarva-mānya--> <hi rend="grantha">candrāditya</hi>-varaiyum naṭattik koḷḷa Itukku virōtañ-ceytāruṇ <gap reason="lost" extent="unknown" unit="character"/><!--EF: restore kallilum--> cempilum veṭṭik koḷḷa Ip-paṭikku <hi rend="grantha">dharmma</hi>-cātaṉa-p-paṭṭaiya-kuṭuttamaikku
+		<num value="60">6 <g type="numeral">10</g></num> <g type="vēli"/> maṉul<!--EF: meaning?--> <g type="nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> <g type="mā"/>
 	</p>
+	<p>
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam iru-nūṟṟu nāṟ-patu māvum <hi rend="grantha">sarva-dāṉya</hi>m-āka<!--EF: should sarva-mānya--> <hi rend="grantha">candrāditya</hi>-varaiyum naṭatti-k koḷḷa Itukku virōtañ-ceytāruṇ<!--EF: final ṇ is weird--> <gap reason="lost" extent="unknown" unit="character"/><!--EF: restore kallilum--> cempilum veṭṭi-k koḷḷa Ip-paṭikku <hi rend="grantha">dharmma</hi>-cātaṉa-p-paṭṭaiya-kuṭuttamaikku
+	</p>
+	
+	<gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
 	         	
          </div>
         
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">..</rdg>
+		<app loc="1">
+			<lem><hi rend="grantha">śu</hi><gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><hi rend="grantha">śukla-pakṣa</hi>ttu</foreign> or a variant of it.</note>
 		</app>
+		
+		<app loc="2">
+			<lem><hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ’ i<gap reason="lost" extent="unknown" unit="character"/>
+			</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ’ iṟaiyilikku <g type="nilam"/> <num value="40">4 <g type="numeral">10</g></num> <g type="mā"/></foreign>. There are indeed 40 <foreign>mā</foreign>s missing to make the total of 240 <foreign>mā</foreign>s.</note>
+		</app>		
+		
 	</listApp>
 	
-</div>-->
+</div>
 	
 <div type="translation" resp="part:emfr">
-         </div>
+	
+	<p n="1">Prosperity!</p>
+	<p n="1"><supplied reason="lost">Date/Day</supplied> 25, of the month of Kārttikai, <supplied reason="lost">bright fortnight</supplied>,
+		...
+		when
+		the glorious ... the glorious heroic Lord Viruppaṇa<note>Sanskrit Virūpākṣa.</note> was currently ruling the earth.</p>
+	
+	<p n="1-3">So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied> ...
+		a land of 240 <foreign>mā</foreign>s, <supplied reason="subaudible">as follows</supplied>:
+		
+		<list>
+			<item>a land of 40 <foreign>mā</foreign>s ...,</item>
+			<item>a land of 80 <foreign>mā</foreign>s ...,</item>
+			<item><supplied reason="lost">a land of 40 <foreign>mā</foreign>s</supplied> ...,</item>
+			<item>a land of 20 <foreign>mā</foreign>s ...,</item>
+			<item>a land of 20 <foreign>mā</foreign>s ...,</item>
+			<item>a land of 20 <foreign>mā</foreign>s ...,</item>
+			<item>a land of 20 <foreign>mā</foreign>s ...,</item>
+		</list>
+		
+		<supplied reason="subaudible">there is</supplied> a land of 240 <foreign>mā</foreign>s.
+	</p>
+	<p n="3">This land of two hundred fourty <supplied reason="explanation">240</supplied> <foreign>mā</foreign>s,
+		...
+		for the donation 
+		...
+		<gap reason="undefined"/><note>We miss apparently the signatories. It is not clear if the record is lacunose or incomplete.</note>
+	</p>
+	
+</div>
 
 <div type="commentary">
            
@@ -179,7 +225,7 @@
 	
 	<listBibl type="primary">
 				
-		<bibl>
+		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">282-283</citedRange>
 			<citedRange unit="item">17</citedRange>
