@@ -101,7 +101,7 @@
 		<milestone type="pagelike" n="A" unit="zone"/>
 		<label xml:lang="eng">First Base Portion</label>
 		
-		<lb n="1"/>tiripuvaṉa-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-rācēntira-<supplied reason="lost">tē</supplied>vaṟku yāṇṭu Āṟā 
+		<lb n="1"/>tiri-puvaṉa-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-rācēntira-<supplied reason="lost">tē</supplied>vaṟku yāṇṭu Āṟ-ā 
 		<lb n="2" break="no"/>vatu mīṉa-nāyaṟṟu A<hi rend="grantha">para-pakṣa</hi>ttu ti<supplied reason="lost">vi</supplied>tiyaiyum vi<!--EF: vī?-->
 		<lb n="3" break="no"/>yāḻa-k-kiḻamaiyum peṟṟa citti<unclear>r</unclear>ai-<unclear>n</unclear>āḷ
 	</p>
@@ -111,18 +111,20 @@
 		<lb n="4" break="no"/>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t tiru-k-kaḻumala-n<supplied reason="lost">ā</supplied>ṭṭu <hi rend="grantha"><choice><orig>bama</orig><reg>brahma</reg></choice>de</hi>yam 
 		<lb n="5"/>tiru-k-kaḻuma<add place="below">la</add>ttu Āḷuṭaiya-piḷḷaiyār t<supplied reason="lost">ē</supplied>va-kaṉmikaḷōm 
 		<lb n="6"/>kulōttuṅka-cōḻa-vaḷanāṭṭu tiru-na<supplied reason="lost">ṟ</supplied>aiyūr-nāṭṭu vēḷ<choice><orig>u</orig><reg>ū</reg></choice>r 
-		<lb n="7"/>vēḷ<choice><orig>u</orig><reg>ū</reg></choice>r kiḻavaṉ Utaiyañ-ceytāṉ <supplied reason="lost">c</supplied>entāmaraikkaṇṇa 
+		<lb n="7"/>vēḷ<choice><orig>u</orig><reg>ū</reg></choice>r<!--EF: one vēḷuṟ = surplus--> kiḻavaṉ Utaiyañ-ceytāṉ <supplied reason="lost">c</supplied>en-tāmarai-k-kaṇṇa 
 		
 		<milestone type="pagelike" n="B" unit="zone" break="no"/>
 		<label xml:lang="eng">Second Base Portion</label>
 		
-		<lb n="8" break="no"/>ṉ-āṉa ticai-viḷaṅku-cōḻa-viḻuppa<!--EF: corr to pēr?-->raiyaṉukku nila-p parivattaṇai paṇṇ<unclear>i</unclear>ṉa paṭiyāvatu 
-		<lb n="9"/>It-tēvar tēvataṉam tiru-<choice><orig>n</orig><reg>ṉ</reg></choice>āṉa-campanta-maṅkalattu tē<unclear>va</unclear>r kāṇiyāy Aṭai muta<supplied reason="lost">l ko</supplied>ḷḷum 
-		<lb n="10"/>nilattu cuttamali-vat<choice><sic>a</sic><corr>i</corr></choice>kku kiḻāku<!--EF: not kilākku--> Irā<hi rend="grantha">je</hi>ntira-cōḻa-vāy<unclear>k</unclear>kālukku vaṭakku 2 <g type="kaṇṇāṟu"/> 1 catirattu naṭuvi<supplied reason="lost">ṟ pu</supplied>ṟam 
-		<lb n="11"/>paḷḷam <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> Itaṉ mēṟku taṭar <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <num value="14"><g type="numeral">10</g> 4</num>vum<!--EF: Am?--> Ivaṉukku <g type="nellu"/>kku <g type="nellu"/>m Anta<supplied reason="lost">rā</supplied> 
-		<lb n="12"/>yam Iṟukka-k kāṇi-y-āka kuṭuttu Itukku-t talai-<supplied reason="lost">mā</supplied>ṟu vēḷkāṉiyāy <g type="nellu"/>kku nellum Anta<supplied reason="lost">rā</supplied><supplied reason="omitted">yam</supplied>
+		<lb n="8" break="no"/>ṉ-āṉa ticai-viḷaṅku-cōḻa-viḻuppa<!--EF: corr to pēr?-->raiyaṉukku nila-p parivattaṇai paṇṇ<unclear>i</unclear>ṉa paṭi y-āvatu
+	</p>
+	<p>
+		<lb n="9"/>It-tēvar tēvataṉam tiru-<choice><orig>n</orig><reg>ṉ</reg></choice>āṉa-campanta-maṅkalattu tē<unclear>va</unclear>r kāṇi-y-āy Aṭai muta<supplied reason="lost">l ko</supplied>ḷḷum 
+		<lb n="10"/>nilattu cutta-mali-vat<choice><sic>a</sic><corr>i</corr></choice>kku kiḻāku<!--EF: not kilākku--> Irā<hi rend="grantha">je</hi>ntira-cōḻa-vāy<unclear>k</unclear>kālukku vaṭakku 2 <g type="kaṇṇāṟu"/> 1 catirattu naṭuvi<supplied reason="lost">ṟ pu</supplied>ṟam 
+		<lb n="11"/>paḷḷam <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> Itaṉ mēṟku taṭar<!--EF: tiṭar?--> <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <num value="14"><g type="numeral">10</g> 4</num>vum<!--EF: Am?--> Ivaṉukku <g type="nellu"/>kku <g type="nellu"/>m Anta<supplied reason="lost">rā</supplied> 
+		<lb n="12"/>yam Iṟukka-k kāṇi-y-āka kuṭuttu Itukku-t talai-<supplied reason="lost">mā</supplied>ṟu vēḷ-kāṉi-y-āy <g type="nellu"/>kku nellum Anta<supplied reason="lost">rā</supplied><supplied reason="omitted">yam</supplied>
 		<lb n="13"/>Iṟukkiṟa nilattu I<supplied reason="omitted">v</supplied>-vatikku kiḻakku Iv-vā<supplied reason="omitted">y</supplied>kkālukku vaṭāku<!-- vaākku in PhD. EF: corr to vaṭakku? With first k looking like -ā--> 2 <g type="kaṇṇāṟu"/> 2 catirattu teṟkil pōṉa ceva <gap reason="lost" quantity="2" unit="character"/> 
-		<lb n="14"/>viḷai <g type="nilam"/> <g type="undefined"/><g type="undefined"/><g type="undefined"/> m taṭar <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="nilam"/> <g type="undefined"/> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Iraṇṭu māv<choice><sic>a</sic><corr>u</corr></choice>m tēvar-kāṇip paṟṟāṉa ni<supplied reason="lost">la</supplied>ttu <g type="gomutraFinal">.</g>
+		<lb n="14"/>viḷai <g type="nilam"/> <g type="undefined"/> <g type="undefined"/><g type="undefined"/> m taṭar<!--EF: tiṭar?--> <g type="nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="nilam"/> <g type="undefined"/> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Iraṇṭu māv<choice><sic>a</sic><corr>u</corr></choice>m tēvar-kāṇi-p paṟṟ-āṉa ni<supplied reason="lost">la</supplied>ttu <g type="gomutraFinal">.</g>
 	</p>
 	
 </div>
@@ -143,10 +145,13 @@
 <div type="translation" resp="part:emfr">
             
             <p n="1-2">
-            	Sixth year of the glorious king Vīrarājendra, the emperor of the three worlds.
+            	Sixth year of the glorious king Vīrarājendra, the emperor of the three worlds,
+            	...
             </p>
 	
-	<p n="2">
+	<p n="2-8">
+		This is the manner in which ...
+		made a change <supplied reason="subaudible"><foreign>parivattaṇai</foreign></supplied>
 		...
 	</p>
 	
