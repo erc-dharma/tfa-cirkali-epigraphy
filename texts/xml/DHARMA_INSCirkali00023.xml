@@ -93,40 +93,48 @@
 	
 	<!--EF: checked on photos; only main changes indicated in comments--> 
 	<p>
-		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">mahā-ma<!--EF: mama > ma; see photos-->ṇḍa</hi>lēcura<hi rend="grantha">n· hariharaRĀ</hi>ya-vipāṭa<hi rend="grantha">n·</hi> pā<hi rend="grantha">ṣaik</hi>kut tappuvarā<!--EF: maybe again RĀ-->ya<supplied reason="omitted">r</supplied> kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇṭa<hi rend="grantha">n·</hi> kaṇṭaṉāṭu koṇṭu koṇṭaṉāṭu koṭātā<hi rend="grantha">n·</hi> pūṟuva-te<hi rend="grantha">kṣi</hi>ṇa-paccima-Uttira-catu<hi rend="grantha">sa</hi>mu<gap reason="lost" extent="unknown" unit="character"/><!--EF: restore text here from parallel inscriptions-->
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">mahā-ma<!--EF: mama > ma; see photos-->ṇḍa</hi>lēcura<hi rend="grantha">n· hariharaRĀ</hi>ya-vipāṭa<hi rend="grantha">n·</hi> pā<hi rend="grantha">ṣaik</hi>ku-t tappu-v-arā<!--EF: maybe again RĀ-->ya<supplied reason="omitted">r</supplied> kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice><!--EF: omitted in PhD--> kaṇṭa<hi rend="grantha">n·</hi> kaṇṭaṉāṭu koṇṭu koṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>āṭu koṭātā<hi rend="grantha">n·</hi> pūṟuva-te<hi rend="grantha">kṣi</hi>ṇa-paccima-Uttira-catu-<hi rend="grantha">sa</hi>mu<gap reason="lost" extent="unknown" unit="character"/><!--EF: restore text here from parallel inscriptions-->
 		<!--EF: not on photos from here-->
 		ti <hi rend="grantha">śrī</hi>-vēṅkaṭa-<hi rend="grantha">devasya<!--EF: "sya" = surplus?--></hi>rāyar piritivi
 		
 		<!--@ EF: check on photos from here-->
-		<lb n="2" break="no"/>-<gap reason="lost" extent="unknown" unit="character"/>llā niṉṟa cakāptam <num value="1520"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g></num> cellā niṉṟa viḷum<hi rend="grantha">bi</hi> <hi rend="grantha">sa</hi>ṅvaṟ<hi rend="grantha">sa</hi>rattu <hi rend="grantha">siṅha</hi>-nāyaṟṟu pūruva-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">sapta</hi>miyum <hi rend="grantha">so</hi>ma-vāramum peṟṟa Anurātā-na<hi rend="grantha">kṣatra</hi>ttu nāḷ
+		<lb n="2" break="no"/>-<gap reason="lost" extent="unknown" unit="character"/>llā niṉṟa cakāptam <num value="1520"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 2 <g type="numeral">10</g></num> cellā niṉṟa viḷum<hi rend="grantha">bi</hi>-<hi rend="grantha">sa</hi>ṅvaṟ<hi rend="grantha">sa</hi>rattu <hi rend="grantha">siṅha</hi>-nāyaṟṟu pūruva-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">sapta</hi>miyum <hi rend="grantha">so</hi>ma-vāramum peṟṟa Anurātā-na<hi rend="grantha">kṣatra</hi>ttu nāḷ
 	</p>
 	
 	<p>
 		<gap reason="lost" extent="unknown" unit="character"/> miyāṟ <hi rend="grantha">Āpaduddhāraṇa</hi>ṟku 
-		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> tiruppaṇi vēlaikkārarkku <hi rend="grantha">s</hi>vāmiyār āpatu<hi rend="grantha">ddhā</hi>raṇa-vira<hi rend="grantha">prasā</hi>ti-y-āna rāca-ri<hi rend="grantha">ṣi</hi>-viṭṭalē<hi rend="grantha">śva</hi>ra-c-cōḻa-kōṉār <hi rend="grantha">dhamma</hi>m-āka <hi rend="grantha">s</hi>vāmiyār āpa<hi rend="grantha">du</hi><gap reason="lost" extent="unknown" unit="character"/>ṟku ma<hi rend="grantha">hā-bhiṣe</hi>kam naṭṭak kave 
-		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ṭu<hi rend="grantha">ṣa</hi>kat tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i <hi rend="grantha">go</hi>miya <hi rend="grantha">A</hi>piṭa-<hi rend="grantha">sna</hi>panam paṇṇina paṭiyālē <hi rend="grantha">bhutā</hi>ṉattukku <choice><orig>ṉ</orig><reg>n</reg></choice>āyaṉār tiru-t-tōṇipuram-uṭaiya ṉāyaṉār tiruṉāmattuk kāṇiyāna ci <gap reason="lost" extent="unknown" unit="character"/> nāyaṉār kōyil ka 
+		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> tiru-p-paṇi vēlaikkārarkku <hi rend="grantha">s</hi>vāmiyār āpatu<hi rend="grantha">ddhā</hi>raṇa-v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">prasā</hi>ti-y-āna rāca-ri<hi rend="grantha">ṣi</hi>-viṭṭalē<hi rend="grantha">śva</hi>ra-c-cōḻa-kōṉār <hi rend="grantha">dhamma</hi>m-āka <hi rend="grantha">s</hi>vāmiyār āpa<hi rend="grantha">du</hi><gap reason="lost" extent="unknown" unit="character"/>ṟku<!--EF: suggest restoration from parallel--> ma<hi rend="grantha">hā-bhiṣe</hi>kam naṭṭa-k kave<!--EF: meaning?--> 
+		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ṭu<hi rend="grantha">ṣa</hi>ka-t tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i <hi rend="grantha">go</hi>miya<!--EF: meaning?--> <hi rend="grantha">A</hi>piṭa-<hi rend="grantha">sna</hi>panam paṇṇina paṭiyālē <hi rend="grantha">bhutā</hi>ṉattukku<!--EF: meaning?--> <choice><orig>ṉ</orig><reg>n</reg></choice>āyaṉār tiru-t-tōṇi-puram-uṭaiya ṉāyaṉār tiru-ṉāmattu-k-kāṇi-y-āna ci<!--EF: probabky "cī"--> <gap reason="lost" extent="unknown" unit="character"/> nāyaṉār kōyil <choice><unclear>-k</unclear><unclear>ka</unclear></choice> 
 		<lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="6"/>ca<hi rend="grantha">ndrārkka</hi>m-āka ca<hi rend="grantha">ndrādi</hi>titta-varaiyum <hi rend="grantha">sarva</hi>-māṉiyam-āka <hi rend="grantha">putra-pautra-pa</hi>ramparai-y-āka Aṉupavittu koḷḷak kaṭavar ākavum
+		<lb n="6"/>ca<hi rend="grantha">ndrārkka</hi>m-āka ca<hi rend="grantha">ndrādi</hi>titta-varaiyum <hi rend="grantha">sarva</hi>-māṉiyam-āka <hi rend="grantha">putra-pautra-pa</hi>ramparai-y-āka Aṉupavittu koḷḷa-k kaṭavar ākavum
 	</p>
 	
 	<p>
-		inta <hi rend="grantha">pratiṣṭai</hi>kku Āka pirama-p-pura-nāyaka <gap reason="lost" extent="unknown" unit="character"/> 
+		Inta <hi rend="grantha">pratiṣṭai</hi>kku Āka pirama-p-pura-nāyaka <gap reason="lost" extent="unknown" unit="character"/> 
 	</p>
 	         	
          </div>
         
 <div type="apparatus">
 	
-	<listApp><!--EF suggestion-->
-		<app loc="3">
+	<listApp>
+		
+		<!--<app loc="2"><!-\-EF suggestion: Restore gap: rācciyam ce-\->
+			<lem>...</lem>
+			<rdg source="bib:Veluppillai2013_01">...</rdg>
+		</app>-->
+		
+		<app loc="3"><!--EF suggestion-->
 			<lem>āpa<hi rend="grantha">du</hi><supplied reason="lost"><hi rend="grantha">ddhāraṇa</hi></supplied>ṟku</lem>
 			<rdg source="bib:Veluppillai2013_01">āpa<hi rend="grantha">du</hi><gap reason="lost" extent="unknown" unit="character"/>ṟku</rdg>
 		</app>
+		
 	</listApp>	
 </div>
 		
 <div type="translation" resp="part:emfr">
-         </div>
+         
+</div>
 
 <div type="commentary">
            
