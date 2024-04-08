@@ -103,29 +103,99 @@
 	
 	<p>
 		rā<hi rend="grantha">jādh<choice><sic>a</sic><corr>i</corr></choice></hi>rā<hi rend="grantha">ja</hi>-vaḷa<choice><orig>n</orig><reg>ṉ</reg></choice>āṭṭu-t tiru-k-kaḻumala-<supplied reason="lost"><choice><orig>n</orig><reg>ṉ</reg></choice>ā</supplied><unclear>ṭ</unclear>ṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻa 
-		<lb n="3" break="no"/><supplied reason="lost"><choice><orig>n</orig><reg>ṉ</reg></choice>al</supplied>lūr parikkirakattu <supplied reason="lost">mu</supplied>tal aṭaippu cuvāmi <hi rend="grantha">sa</hi>n=to<hi rend="grantha">ṣa</hi>-p-pallavarayaṉum parā<hi rend="grantha">kra</hi>ma-cōḻa-p-pa<supplied reason="lost">lla</supplied>varayaṉum 
-		<lb n="4"/>c<supplied reason="lost">e</supplied>mpiyaṉ pallavarayaṉum cempiyaṉ viḻupparayaṉum kulōttuṅka-cōḻa-p-palla-<supplied reason="lost">va</supplied>rayaṉum ta 
-		<lb n="5" break="no"/><gap reason="lost" quantity="4" unit="character"/>-<supplied reason="lost">pallavarayaṉum Atikāra-ṉāyaka-p</supplied>-pallavaraiyaṉum kaṅkai-koṇṭa-cōḻa-p-pallavarayaṉu 
-		<lb n="6" break="no"/>m Irācaṉārācaṇa-p-pallavarayaṉum māṉa <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="7" break="no"/>-cōḻa-kōṉ pallavarayaṉum Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-pallavarayaṉum malaiya-rāyaṉum Ālāla-cuntara-p-pallavaraya 
-		<lb n="8" break="no"/>ṉum c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-p-pallavarayaṉum vikkirama-cōḻa-p-pallavarayaṉum kaṭampa-rāyaṉum caṇpayarāyaṉum kaṅkamāṉu 
-		<lb n="9" break="no"/>m vilaṅkāmoḻi-p-pallavarayaṉum vānavaṉ pallavarayaṉum cuttamali-viḻupparayaṉum kolla 
-		<lb n="10" break="no"/>ttaraiyaṉum Uḷḷiṭṭa parikkirakattōm In-nāṭṭu tiru-k-kaḻumalattu Āḷuṭaiyapiḷḷaiyār kōyili 
-		<lb n="11" break="no"/>l eḻunt-aruḷi-y-irukkum maṅ<supplied reason="subaudible">ka</supplied>yaṟkaraici-ṉācciyāṟku <unclear>Amu</unclear>tu c<choice><orig>e</orig><reg>ey</reg></choice>taruḷukaikku tiru-maṭai-p-paḷḷi-p-puṟam-āka ṉāṅkaḷ 
+		<lb n="3" break="no"/><supplied reason="lost"><choice><orig>n</orig><reg>ṉ</reg></choice>al</supplied>lūr parikkirakattu
+		
+		<list>
+			<item>
+				<supplied reason="lost">mu</supplied>tal aṭaippu cuvāmi <hi rend="grantha">sa</hi>n=to<hi rend="grantha">ṣa</hi>-p-pallava-rayaṉum
+			</item>
+			<item>
+				parā<hi rend="grantha">kra</hi>ma-cōḻa-p-pa<supplied reason="lost">lla</supplied>va-rayaṉum
+			</item>
+			<item>
+				<lb n="4"/>c<supplied reason="lost">e</supplied>mpiyaṉ pallava-rayaṉum
+			</item>
+			<item>
+				cempiyaṉ viḻuppa-rayaṉum
+			</item>
+			<item>
+				kulōttuṅka-cōḻa-p-palla-<supplied reason="lost">va</supplied>rayaṉum
+			</item>
+			<item>
+				ta 
+				<lb n="5" break="no"/><gap reason="lost" quantity="4" unit="character"/>-<supplied reason="lost">pallavarayaṉum</supplied>
+			</item>
+			<item>
+				<supplied reason="lost">Atikāra-ṉāyaka-p</supplied>-pallava-r<choice><orig>ai</orig><reg>a</reg></choice>yaṉum
+			</item>
+			<item>
+				kaṅkai-koṇṭa-cōḻa-p-pallava-rayaṉu 
+		<lb n="6" break="no"/>m
+			</item>
+			<item>
+				Irācaṉārācaṇa-p-pallava-rayaṉum
+			</item>
+			<item>
+				māṉa <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="7" break="no"/>-cōḻa-kōṉ pallava-rayaṉum
+			</item>
+			<item>
+				Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-pallava-rayaṉum
+			</item>
+			<item>
+				malaiya-rāyaṉum
+			</item>
+			<item>
+				Ālāla-cuntara-p-pallava-raya 
+		<lb n="8" break="no"/>ṉum
+			</item>
+			<item>
+				c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-p-pallava-rayaṉum
+			</item>
+			<item>
+				vikkirama-cōḻa-p-pallava-rayaṉum
+			</item>
+			<item>
+				kaṭampa-rāyaṉum
+			</item>
+			<item>
+				caṇpaya-rāyaṉum
+			</item>
+			<item>
+				kaṅkamāṉu 
+		<lb n="9" break="no"/>m
+			</item>
+			<item>
+				vilaṅkāmoḻi-p-pallava-rayaṉum
+			</item>
+			<item>
+				vānavaṉ pallava-rayaṉum
+			</item>
+			<item>
+				cutta-mali-viḻuppa-rayaṉum
+			</item>
+			<item>
+				kolla 
+		<lb n="10" break="no"/>ttaraiyaṉum
+			</item>
+		</list> 
+		
+		Uḷḷiṭṭa parikkirakattōm In-nāṭṭu tiru-k-kaḻumalattu Āḷuṭaiya-piḷḷaiyār kōyili 
+		<lb n="11" break="no"/>l eḻunt-aruḷi-y-irukkum maṅ<supplied reason="subaudible">ka</supplied>yaṟkaraici-ṉācciyāṟku <unclear>Amu</unclear>tu c<choice><orig>e</orig><reg>ey</reg></choice>t-aruḷukaikku tiru-maṭai-p-paḷḷi-p-puṟam-āka <choice><orig>ṉ</orig><reg>n</reg></choice>āṅkaḷ 
 		<lb n="12"/>viṟṟu-k kuṭutta nilam āvatu
 	</p>
 	
 	<p>
 		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu <hi rend="grantha">brahmade</hi>yam tiru-k-kaḻumalattu v<choice><orig>i</orig><reg>ī</reg></choice>ra<unclear>-cōḻa</unclear>-<supplied reason="lost">nallūr</supplied> <gap reason="lost" quantity="8" unit="character"/> Eṅka 
-		<lb n="13" break="no"/><supplied reason="lost">ḷ nilattu cuttamali-vatikku mēṟku Irācēntira-cōḻa-vāykkālukku-t teṟku Iraṇṭā 
-		<lb n="14" break="no"/>ṅ kaṇṇāṟṟu mutaṟ catirattu Āḷuṭaiya-piḷḷaiyār tiru-naṉtavaṉattukku mēṟku</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="15"/><gap reason="lost" quantity="3" unit="character"/> ta-vatikkuk kiḻakku pārattu<supplied reason="lost">vā</supplied>ci tivākaraṉ <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">śva</hi> kollai-vatikku-t teṟku pārattu<supplied reason="lost">vāci</supplied> <gap reason="lost" quantity="3" unit="character"/> vatti <hi rend="grantha">śva</hi> 
-		<lb n="16" break="no"/><gap reason="lost" quantity="2" unit="character"/>-y-āṉa kollai ṉilattukku va <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">nā</supplied>ṉk' ellaiyuḷ <choice><orig>ṉ</orig><reg>n</reg></choice>aṭuvupaṭṭa kollai <g type="nilam"/> 1/2<!--EF: abbrev for nilam instead?--> 2 <g type="mā"/> <g type="mukkāṇi"/>
+		<lb n="13" break="no"/><supplied reason="lost">ḷ nilattu cutta-mali-vatikku mēṟku Irācēntira-cōḻa-vāykkālukku-t teṟku Iraṇṭā 
+		<lb n="14" break="no"/>ṅ kaṇṇāṟṟu mutaṟ catirattu Āḷuṭaiya-piḷḷaiyār tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>ta-vaṉattukku mēṟku</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="15"/><gap reason="lost" quantity="3" unit="character"/> ta-vatikku-k kiḻakku pārattu<supplied reason="lost">vā</supplied>ci tivākaraṉ <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">śva</hi><!--EF: not clear--> kollai-vatikku-t teṟku pārattu<supplied reason="lost">vāci</supplied> <gap reason="lost" quantity="3" unit="character"/> vatti <hi rend="grantha">śva</hi> 
+		<lb n="16" break="no"/><gap reason="lost" quantity="2" unit="character"/>-y-āṉa kollai ṉilattukku va <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">nā</supplied>ṉk' ellaiyuḷ <choice><orig>ṉ</orig><reg>n</reg></choice>aṭuvu-paṭṭa kollai <g type="nilam"/> 1/2<!--EF: abbrev for nilam instead?--> 2 <g type="mā"/> <g type="mukkāṇi"/><!--Check fractions and symbols-->
 	</p>
 	
 	<p>
-		<lb n="17"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Araiyē Iraṇṭu mā mu-k-kāṇiyum mikuti-k kuṟaivu Uḷḷaṭaṅka viṟṟu-k kuṭuttu-k koḻ 
-		<lb n="18" break="no"/>vat-āṉa Emmil icai<choice><orig>ṉ</orig><reg>n</reg></choice>ta vilai-p-poruḷ Aṉṟāṭu <choice><orig>ṉ</orig><reg>n</reg></choice>aṟ-kācu <num value="64">6 <g type="numeral">10</g> 4</num>
+		<lb n="17"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Araiyē Iraṇṭu mā mu-k-kāṇiyum mikuti-k kuṟaivu Uḷḷ-aṭaṅka viṟṟu-k kuṭuttu-k koḻ 
+		<lb n="18" break="no"/>vat-āṉa Emmil icai<choice><orig>ṉ</orig><reg>n</reg></choice>ta vilai-p-poruḷ Aṉṟ-āṭu <choice><orig>ṉ</orig><reg>n</reg></choice>aṟ-kācu <num value="64">6 <g type="numeral">10</g> 4</num>
 	</p>
 	<p>
 		Ik-kācu Aṟupattu ṉālum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam kācu 
@@ -133,7 +203,7 @@
 	</p>
 	<p>
 		Ik-kācu nūṟṟ' aimpatu 
-		<lb n="20" break="no"/>m <supplied reason="lost">ā</supplied>vaṇakace<hi rend="grantha">nti</hi>ye kāṭa<gap reason="lost" quantity="3" unit="character"/>kkaccila vaṟa-k koṇṭu viṟṟu vilai-y-āvaṇam cai <gap reason="lost" quantity="2" unit="character"/> Ittōm ma 
+		<lb n="20" break="no"/>m <supplied reason="lost">ā</supplied>vaṇakace<hi rend="grantha">nti</hi>ye<!--EF: meaning? Check photo--> kāṭa<gap reason="lost" quantity="3" unit="character"/>kkaccila<!--EF: meaning?--> vaṟa-k koṇṭu viṟṟu vilai-y-āvaṇam cai <gap reason="lost" quantity="2" unit="character"/> Ittōm <!--EF: meaning?--> ma 
 		<lb n="21"/>ṅkayaṟkaraci-ṉācciyāṟku v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻa- <gap reason="lost" extent="unknown" unit="character"/> tōm
 	</p>
 	
@@ -150,15 +220,76 @@
 		<lb n="26" break="no"/>v-uṭaiyāṉ piraḷaiya-viṭaṅkan Eḻuttu
 	</p>
 	<p>
-		parikkirakattāril Eḻuttiṭṭār
-		cempiyaṉ pallavaraiyaṉ cempiyaṉ 
-		<lb n="27"/>viḻupparaiyaṉ kulōttuṅka-cōḻa-p-pallavaraiyaṉ tēvarkaḷ <supplied reason="lost">ṉāya</supplied>kaṉ pukali<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu ve-ḷāṉ piraḷaiya 
-		<lb n="28" break="no"/>-viṭaṅka-p-pallavaraiyaṉ poṟkōyiṟ-cōḻa-p-pallavaraiyaṉ <gap reason="lost" quantity="2" unit="character"/>ticaivāraṇa-p-pallavaraiyaṉ I 
-		<lb n="29"/>rācaṉārācaṇa-p-pallavaraiyaṉ Irā<hi rend="grantha">jādha</hi>rā<hi rend="grantha">ja</hi>-p-pallavaraiyaṉ tiru-ṉāṉa-campanta-p-pallavaraiyaṉ cu 
-		<lb n="30" break="no"/>vāmi-<hi rend="grantha">santoṣa</hi>-p-pallavaraiyaṉ Atikāra-nāyaka-p-pallavaraiyaṉ kaṅkai-koṇṭa-cōḻa 
-		<lb n="31" break="no"/>-pallavaraiyaṉ kaṅkaimāṉ Atikaimāṉ <gap reason="lost" extent="unknown" unit="character"/> vaḻupparaiyaṉ cuttamali-viḻuppa 
-		<lb n="32" break="no"/>raiyaṉ kaṭakāvāṇa-p-pallavaraiyaṉ <unclear>vikkirama-cōḻa-p-pallavaraiyaṉ Aḻayāḷuṭaiyā</unclear> 
+		parikkirakattāril Eḻutt-iṭṭār
+		<list>
+			<item>
+				cempiyaṉ pallavaraiyaṉ
+			</item>
+			<item>
+				cempiyaṉ 
+		<lb n="27"/>viḻupparaiyaṉ
+			</item>
+			<item>
+				kulōttuṅka-cōḻa-p-pallavaraiyaṉ
+			</item>
+			<item>
+				tēvarkaḷ <supplied reason="lost">ṉāya</supplied>kaṉ pukali-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu veḷāṉ
+			</item>
+			<item>
+				iraḷaiya 
+		<lb n="28" break="no"/>-viṭaṅka-p-pallavaraiyaṉ
+			</item>
+			<item>
+				poṟ-kōyiṟ-cōḻa-p-pallavaraiyaṉ
+			</item>
+			<item>
+				<gap reason="lost" quantity="2" unit="character"/>ticaivāraṇa-p-pallavaraiyaṉ
+			</item>
+			<item>
+				I 
+		<lb n="29"/>rācaṉārācaṇa-p-pallavaraiyaṉ
+			</item>
+			<item>
+				Irā<hi rend="grantha">jādha</hi>rā<hi rend="grantha">ja</hi>-p-pallavaraiyaṉ
+			</item>
+			<item>
+				tiru-ṉāṉa-campanta-p-pallavaraiyaṉ
+			</item>
+			<item>
+				cu 
+		<lb n="30" break="no"/>vāmi-<hi rend="grantha">santoṣa</hi>-p-pallavaraiyaṉ
+			</item>
+			<item>
+				Atikāra-nāyaka-p-pallavaraiyaṉ
+			</item>
+			<item>
+				kaṅkai-koṇṭa-cōḻa 
+		<lb n="31" break="no"/>-pallavaraiyaṉ
+			</item>
+			<item>
+				kaṅkaimāṉ
+			</item>
+			<item>
+				Atikaimāṉ
+			</item>
+			<item>
+				<gap reason="lost" extent="unknown" unit="character"/> va<!--EF: viḷu°?-->ḻupparaiyaṉ
+			</item>
+			<item>
+				cutta-mali-viḻuppa 
+		<lb n="32" break="no"/>raiyaṉ
+			</item>
+			<item>
+				kaṭakāvāṇa-p-pallavaraiyaṉ
+			</item>
+			<item>
+				<unclear>vikkirama-cōḻa-p-pallavaraiyaṉ</unclear>
+			</item>
+			<item>
+				<unclear>Aḻayāḷuṭaiyā</unclear> 
 		<lb n="33"/>ṉ tiruvāṟ-uṭaiyaṉ piḷḷai-vēḷāṉ <g type="gomutraFinal">.</g>
+			</item>
+			</list>
 	</p>
 	         	
          </div>
