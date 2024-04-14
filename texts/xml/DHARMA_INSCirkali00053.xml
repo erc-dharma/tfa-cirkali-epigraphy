@@ -112,7 +112,8 @@
 	
 <div type="apparatus">
 	
-	<app loc="2"><!--EF: assessed from photo-->
+	<listApp>
+		<app loc="2"><!--EF: assessed from photo-->
 		<lem>...</lem>
 		<rdg source="bib:Veluppillai2013_01">kiyiṟuttu</rdg>
 	</app>
@@ -121,6 +122,7 @@
 		<lem>...</lem>
 		<rdg source="bib:Veluppillai2013_01">vaḷakaṭa</rdg>
 	</app>
+	</listApp>
 	
 </div>
 		
