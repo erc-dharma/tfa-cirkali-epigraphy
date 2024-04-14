@@ -141,6 +141,8 @@
 	
 <div type="apparatus">
 	
+	<listApp>
+		
 	<!--<app loc="0"><!-\-EF: assessed from photo-\->
 		<lem>...</lem>
 		<rdg source="bib:Veluppillai2013_01">....</rdg>
@@ -159,7 +161,7 @@
 	<app loc="6"><!--EF: assessed from photo-->
 		<lem><supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum</lem>
 		<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="5" unit="character"/>yum</rdg>
-	</app>
+	</app></listApp>
 	
 </div>
 	

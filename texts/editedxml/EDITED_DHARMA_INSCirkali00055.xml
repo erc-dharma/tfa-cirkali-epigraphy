@@ -144,16 +144,19 @@
 		<rdg source="bib:Veluppillai2013_01">...</rdg>
 	</app>-->
 	
-	<app loc="1"><!--EF: assessed from photo-->
-		<lem><hi rend="grantha"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg></hi>tēvanu</lem>
-		<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="1" unit="character"/>kevatu</rdg>
-	</app>	
-	
-	<app loc="4"><!--EF: assessed from photo-->
-		<lem><hi rend="grantha">śi</hi>va<hi rend="grantha">brā</hi></lem>
-		<note>Probably to be restored as <foreign><hi rend="grantha">śi</hi>va<hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi>ṇar</supplied></foreign></note>
-	</app>	
-	
+	<listApp>
+		
+		<app loc="1"><!--EF: assessed from photo-->
+			<lem><hi rend="grantha"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg></hi>tēvanu</lem>
+			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="1" unit="character"/>kevatu</rdg>
+		</app>	
+		
+		<app loc="4"><!--EF: assessed from photo-->
+			<lem><hi rend="grantha">śi</hi>va<hi rend="grantha">brā</hi></lem>
+			<note>Probably to be restored as <foreign><hi rend="grantha">śi</hi>va<hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi>ṇar</supplied></foreign></note>
+		</app>
+		
+	</listApp>	
 	
 </div>
 		

@@ -122,10 +122,12 @@
 	
 <div type="apparatus">
 	
-	<app loc="1"><!--EF: assessed from photo-->
+	<listApp>
+		<app loc="1"><!--EF: assessed from photo-->
 		<lem><gap reason="illegible" quantity="1" unit="character"/> <num value="0.0625">1/16</num> <num value="0.0125"><unclear>1/80</unclear></num> <gap reason="lost" quantity="3" unit="character"/> </lem>
 		<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/></rdg>
 	</app>
+	</listApp>
 	
 </div>
 		
