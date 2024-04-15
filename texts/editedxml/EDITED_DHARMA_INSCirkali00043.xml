@@ -100,32 +100,32 @@
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		It-tēvaṟku Oṉpatāvatu nāḷil
+		It-tēvaṟku Oṉpat-āvatu nāḷil
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<hi rend="grantha">de</hi>viyāṉa kulōttuṅkacōḻa-c-ca
+		<hi rend="grantha">de</hi>vi-y-āṉa kulōttuṅka-cōḻa-c-ca
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṟkku pū<hi rend="grantha">jai</hi>kkum tiruppaṇik kumuṭa
+		ṟkku pū<hi rend="grantha">jai</hi>kkum tiru-p-paṇi-k kumuṭa
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ya iṟaiyili ceytu v-iṭṭa nilattu
+		ya Iṟai-y-ili ceytu v-iṭṭa nilattu
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		lē mutal koṇṭu Ūrkiḻ iṉa
+		lē mutal koṇṭu Ūrkiḻ i<choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		kku kiḻakku mulaparu<hi rend="grantha">ṣa</hi>-vāykkāluk
+		kku kiḻakku m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣa</hi>-vāykkāluk<supplied reason="lost">ku</supplied>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
@@ -136,18 +136,18 @@
 	
 </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
              
 	<listApp>
 		
-		<app loc="4"><!-\-EF-\->
-			<lem>...</lem>
-			<rdg source="bib:Veluppillai2013_01"></rdg>
+		<app loc="6"><!--EF-->
+			<lem>vāykkāluk<supplied reason="lost">ku</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:Veluppillai2013_01">°vāykkāluk</rdg>
 		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
          
 <div type="translation" resp="part:emfr">
                         

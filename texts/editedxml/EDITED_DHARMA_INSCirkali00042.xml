@@ -100,12 +100,12 @@
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		kuṭal-āka tiru-nāmattu-k kāṇi-y-āka koṇṭa
+		kuṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> tiru-nāmattu-k-kāṇi-y-āka koṇṭa
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		lattu vēṟu piṟiṉta Oṇveli Ākkūril vaṭamatu
+		lattu vēṟu piṟiṉta Oṇveli Ākkūril vaṭa-matu
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
@@ -120,12 +120,12 @@
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṟa vāyaṉ kuḷaṅkaraikkum Inna
+		ṟa vāyaṉ kuḷaṅ-karaikkum In-na
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		va <gap reason="lost" extent="unknown" unit="character"/>laikku vaṭakkum me
+		va <gap reason="lost" extent="unknown" unit="character"/> laikku vaṭakkum me
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
@@ -137,7 +137,7 @@
 		<lb n="8"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		naṭuvu-paṭṭa viriṇi
+		naṭuvu-paṭṭa viriṇi<!--EF: meaning?-->
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	

@@ -105,22 +105,22 @@
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṭalāka Ivv-ūr piṭākai cāttamaṅka
+		ṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2-->Ivv-ūr piṭākai cātta-maṅka
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		mā mukkāṇi Araik kāṇiyum nā
+		mā mu-k-kāṇi Arai-k-kāṇiyum nā
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		m āka Ūrpaṭi nilam iru-pattu
+		m Āka Ūr-paṭi nilam Iru-pattu
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		rilē eṟṟi taram iṭṭu koṇṭu I
+		rilē Eṟṟi taram iṭṭu koṇṭu I
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
@@ -130,7 +130,7 @@
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṇāṟṟu iraṇṭāñ catirattu Uḷ
+		<supplied reason="lost">ka</supplied>ṇāṟṟu Iraṇṭāñ catirattu Uḷ
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="8"/>
@@ -141,18 +141,19 @@
 	
 </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
              
 	<listApp>
 		
-		<app loc="4"><!-\-EF-\->
-			<lem>...</lem>
-			<rdg source="bib:Veluppillai2013_01"></rdg>
+		<app loc="7"><!--EF-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ka</supplied>ṇāṟṟu</lem>
+			<rdg source="bib:Veluppillai2013_01">ṇāṟṟu</rdg>
+			<note>The supplied <foreign>ka</foreign> should have been on a block left of the present one.</note>
 		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
          
 <div type="translation" resp="part:emfr">
                         
