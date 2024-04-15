@@ -99,7 +99,7 @@
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<milestone n="2" unit="block" type="gridlike"/>
-		<hi rend="grantha"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg></hi>tēvanu
+		<hi rend="grantha"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg>-</hi>tēva<choice><orig>n</orig><reg>ṉ</reg></choice>u
 		
 		<lb n="2" break="no"/>
 		<milestone n="1" unit="block" type="gridlike"/>
@@ -117,7 +117,7 @@
 		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<milestone n="2" unit="block" type="gridlike"/>
-		ku <hi rend="grantha">śi</hi>va<hi rend="grantha">brā</hi>
+		ku <hi rend="grantha">śi</hi>va-<hi rend="grantha">brā</hi>
 		
 		<lb n="5" break="no"/>
 		<milestone n="1" unit="block" type="gridlike"/>

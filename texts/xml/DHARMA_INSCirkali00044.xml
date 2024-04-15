@@ -103,16 +103,16 @@
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		kkumuṭalāka Ivūr piṭākai tirukkuru
+		kkum uṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> Ivūr piṭākai tiru-k-kuru
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
-		ṉṟu Iṟukka niccayitta nilattu Ūrk
+		ṉṟu Iṟukka niccayitta nilattu Ūr-k
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		Ip-paṭi nellukku Ivv-ūril taramili
+		Ip-paṭi nellukku Ivv-ūril taram ili
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
@@ -122,29 +122,35 @@
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṇāṟṟ' iraṇṭāñ catirattu kiḻakk' aṭaiya
+		<supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ catirattu kiḻakk' aṭaiya
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ḻakk' aṭaiyavum v-iṭṭa Ūrpaṭinilam nālu mā
+		<supplied reason="lost">ki</supplied>ḻakk' aṭaiyavum v-iṭṭa Ūr-paṭi nilam nālu mā
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
              
 	<listApp>
 		
-		<app loc="4"><!-\-EF-\->
-			<lem>...</lem>
-			<rdg source="bib:Veluppillai2013_01"></rdg>
+		<app loc="6"><!--EF-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ</lem>
+			<rdg source="bib:Veluppillai2013_01">ṇāṟṟiraṇṭāñ</rdg>
 		</app>
+		
+		<app loc="7"><!--EF-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ki</supplied>ḻakk' aṭaiyavum</lem>
+			<rdg source="bib:Veluppillai2013_01">ḻakkaṭaiyavum</rdg>
+		</app>
+		
 		
 	</listApp>
 	
-</div>-->
+</div>
          
 <div type="translation" resp="part:emfr">
                         

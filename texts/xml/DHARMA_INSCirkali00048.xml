@@ -95,25 +95,25 @@
             
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">	
 	
-	<p>
+<!--EF: check on photos!!!-->	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		Āḷuṭaiyapiḷḷaiyār pacānat tiruppu putiyutu tiruppāvā
+		Āḷuṭaiya-piḷḷaiyār pacāna-t tiruppu putiyutu tiru-p-pāvā
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṭayāka Amutu ceytaruḷi <hi rend="grantha">śrī</hi>mā<hi rend="grantha">heśva</hi>rkkum tāṉattārkkum <supplied reason="lost">li</supplied>
+		ṭay-āka Amutu ceyt-aruḷi <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>rkkum tāṉattārkkum <supplied reason="lost">li</supplied><!--EF:??? see photo-->
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		rumuṉappukkamāka Āyiram maṭakkil Iṭṭu <hi rend="grantha">prasā</hi>tikkapoṉakap
+		rumuṉappukkam-āka<!--EF: change to ru-muṉ vaḷakkam-āka; see photo--> Āyiram maṭakkil Iṭṭu <hi rend="grantha">prasā</hi>tikka pōṉaka-p
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		paḻa ārici paṉṉiru kalattukkum Itukku vēṇṭuṅ kaṟiyamu<supplied reason="lost">tu</supplied>
+		paḻa Arici<!--ārici in PhD--> paṉṉ-iru-kalattukkum Itukku vēṇṭuṅ kaṟi-y-amu<supplied reason="lost">tu</supplied>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
@@ -123,21 +123,21 @@
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		koṇṭu celutta tirunāmattu kāṇiyāka kollikuṟumpuṭai<supplied reason="lost">ya</supplied>
+		koṇṭu celutta tiru-nāmattu-kāṇi-y-āka kollikuṟump-uṭai<supplied reason="lost">ya</supplied>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">ā</supplied>ṇṭār celvamalku pakal pōlum peroḷiyāka kācu tantu <supplied reason="lost">n</supplied>
+		<supplied reason="lost">ā</supplied>ṇṭār celvamalku pakal pōlum pēr-oḷi-y-āka kācu tantu <supplied reason="lost">n</supplied>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="8"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">ē</supplied> c<supplied reason="lost">e</supplied>mpiyan paṇamaṅkalattu piṟinta vikkiramacōḻa-k-kollai
+		<supplied reason="lost">ē</supplied> c<supplied reason="lost">e</supplied>mpiyan paṇa-maṅkalattu piṟinta vikkirama-cōḻa-k-kollai
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="9"/>
-		<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">āraiyil i</supplied>ṟai-mikuti <supplied reason="lost">koṇṭu Ip-paṭi cantirātittaval</supplied>  
+		<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">āraiyil i</supplied>ṟai-mikuti <supplied reason="lost">koṇṭu Ip-paṭi cantirātitta-val</supplied>  
 				
 	</p>
 	

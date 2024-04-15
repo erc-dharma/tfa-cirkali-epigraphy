@@ -98,19 +98,19 @@
 	</ab>
 	
 	<p>
-		v<supplied reason="lost">ī</supplied>rarā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear>
+		v<supplied reason="lost">ī</supplied>ra-rā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear>
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>		
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/><milestone n="1" unit="block" type="gridlike"/>
-		tirukkaḻumala<choice><orig>ṉ</orig><reg>n</reg></choice>āṭu v<choice><orig>i</orig><reg>ī</reg></choice>racōḻa
+		tiru-k-kaḻumala-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻa
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/><milestone n="1" unit="block" type="gridlike"/>
-		viṭaṅkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">ji</hi>curamuṭai
+		viṭaṅkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>curam-uṭai
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
@@ -120,17 +120,17 @@
 	</p>
 	
 	<p>
-		Ivvūril<!--EF:vo ? ril--> ti
+		Ivv-ūril<!--EF:vo ? ril--> ti
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/><milestone n="1" unit="block" type="gridlike"/>
-		cavāy<supplied reason="omitted">k</supplied>kāluku teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: muṉ I-->
+		ca-vāy<supplied reason="omitted">k</supplied>kāluku teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: muṉ I-->
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/><milestone n="1" unit="block" type="gridlike"/>
-		<supplied reason="lost">I</supplied><unclear>ru</unclear>mā varaiyum cantirātittavarai ce<unclear>l</unclear>
+		<supplied reason="lost">I</supplied><unclear>ru</unclear>-mā varaiyum cantirātitta-varai ce<unclear>l</unclear>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>		
 	</p>
@@ -174,7 +174,7 @@
 		<gap reason="lost"/>
 		Vīrarājendra
 		<gap reason="lost"/>
-		in the Tirukkaḻumalanāṭu, Vīracōḻa<gap reason="lost"/>
+		in the Tirukkaḻumalanāṭu, Vīracōḻa <gap reason="lost"/>
 		<gap reason="lost"/>
 		Viṭaṅkanallūr, the Lord of the Rājeśvara
 		<gap reason="lost"/>
@@ -189,7 +189,7 @@
 		canal <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied>, in the first canal <supplied reason="explanation"><foreign>kaṇṇāru</foreign></supplied>
 		<gap reason="lost"/>
 		up to <unclear>two</unclear> <foreign>mā</foreign>s,
-		<supplied reason="lost">this should</supplied> go as long as the moon and the sun
+		<supplied reason="lost">this should</supplied> proceed as long as the moon and the sun
 		<gap reason="lost"/>		
 	</p>
 </div>

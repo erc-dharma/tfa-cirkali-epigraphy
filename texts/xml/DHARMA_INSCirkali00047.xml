@@ -100,22 +100,22 @@
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		la puvaṉaccakrava<choice><orig>tti</orig><reg>rtti</reg></choice>kaḷ <hi rend="grantha">śrī</hi>kō-p-peruñ-ciṅka-tēva
+		<supplied reason="lost">caka</supplied>la-puvaṉa-c-cakrava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēva
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṅkaḷukkum Uṭalāka naṭuvilnāṭāṉa Irā<supplied reason="omitted">ja</supplied>rā<hi rend="grantha">ja</hi>		
+		ṅkaḷukkum Uṭal-āka naṭuvil-nāṭ-āṉa Irā<supplied reason="omitted">ja</supplied>-rā<hi rend="grantha">ja</hi>		
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ḷḷaiyār kōyi<supplied reason="undefined">li</supplied>l tiruppatiyam viṇṇappañ <supplied reason="undefined">c</supplied>e
+		ḷḷaiyār kōyi<supplied reason="undefined">li</supplied>l tiru-p-patiyam viṇṇappañ <supplied reason="undefined">c</supplied>e
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		ṉṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā
+		<supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
@@ -128,18 +128,33 @@
 	
 </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
              
 	<listApp>
 		
-		<app loc="4"><!-\-EF-\->
-			<lem>...</lem>
-			<rdg source="bib:Veluppillai2013_01"></rdg>
+		<app loc="1"><!--EF-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">caka</supplied>la-puvaṉa°</lem>
+			<rdg source="bib:Veluppillai2013_01">°lapuvaṉa°</rdg>
+		</app>
+		
+		<app loc="3"><!--EF-->
+			<lem>viṇṇappañ <supplied reason="undefined">c</supplied>e <gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:Veluppillai2013_01">The lacuna is obviously a form of <foreign>cey-tal</foreign>, as <foreign>viṇṇappañ cey-tal</foreign>, litteraly "to make a request", is a current expression for the recitation of hymns (<foreign>tiruppatiyam</foreign>).</rdg>
+		</app>
+		
+		<app loc="4"><!--EF-->
+			<lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></lem>
+			<rdg source="bib:Veluppillai2013_01">ṉṉila<supplied reason="undefined">m</supplied></rdg>
+		</app>
+		
+		<app loc="4"><!--EF-->
+			<lem>t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied><gap reason="lost" extent="unknown" unit="character"/></lem>
+			<rdg source="bib:Veluppillai2013_01">t<supplied reason="undefined">e</supplied>vatāṉa kā</rdg>
 		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
          
 <div type="translation" resp="part:emfr">
                         
