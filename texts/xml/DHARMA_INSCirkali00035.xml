@@ -100,8 +100,8 @@
 	</ab>
 	
 	<p>
-		tiripuvaṉa-c-cakkarava<choice><orig>tti</orig><reg>rtti</reg></choice>kaḷ 
-		<lb n="2"/><hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēvarkku yāṇṭu 3 Āvatu 
+		tiri-puvaṉa-c-cakkarava<reg>r</reg>ttikaḷ 
+		<lb n="2"/><hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēvarkku yāṇṭu 3-Āvatu 
 		<lb n="3" break="no"/>ḷ <num value="219">2 <g type="numeral">100</g> <g type="numeral">10</g> 9</num>-l
 	</p>
 	
@@ -110,12 +110,12 @@
 		<lb n="4" break="no"/><supplied reason="lost">la</supplied>-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu-t tiru-k-kaḻumalattu Āḷuṭaiya-piḷ<supplied reason="lost">ḷ</supplied>ai 
 		<lb n="5" break="no"/>yār tiru-k-kōyil mutal <hi rend="grantha">prā</hi>kārattu tirumatiṉ ti<supplied reason="lost">ru</supplied> 
 		<lb n="6" break="no"/>-paṇikku kaṅkai-koṇṭa-cōḻapurattu kaṅ<supplied reason="lost">k</supplied>ai 
-		<lb n="7" break="no"/>-koṇṭa-cōḻaṉ tiru-matiḷukk-uḷḷ<choice><orig>u</orig><reg>a</reg></choice> vaṭakū 
+		<lb n="7" break="no"/>-koṇṭa-cōḻaṉ tiru-matiḷukk-uḷḷ<choice><orig>u</orig><reg>a</reg></choice> vaṭak-ū 
 		<milestone n="2" type="pagelike" unit="block" break="no"/>
 		<lb n="8" break="no"/>ṟ<unclear>i</unclear>l Uttama-cōḻa-p-peru<choice><orig>ṉ</orig><reg>n</reg></choice>-teruvil vāṇa 
 		<lb n="9" break="no"/>-māḷikai Uṭaiyāṉ vempaṉ vaiciyār 
 		<lb n="10"/>makaṉ Ārampūṇṭāṉ It-tiru-p-paṇikku <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="11"/>ñcacalākai Accu Iru-nūṟu Ivaṉ Akam-uṭaiyā 
+		<lb n="11" break="no"/>ñca-calākai Accu Iru-nūṟu Ivaṉ Akam-uṭaiyā 
 		<lb n="12" break="no"/><gap reason="lost" quantity="11" unit="character"/> tiru-p-paṇi-k kuṭal-āka ku <gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="13"/>Iṭṭu māṟi poṉ Aṟu kaḻañcum Ivaṉ aṭi piraḷa <gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="14"/>mayai viṟṟa Eṭṭu māṟi poṉ Aṟu<!--EF: 83 = in fact Aṟu just like above--> kaḻañcum
