@@ -97,8 +97,8 @@
                
 	<!--Check initial vowels-->
 	
-	<ab>		
-		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label><lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
+		<milestone type="pagelike" n="A" unit="zone"/><label xml:lang="eng">First Wall Portion</label><lb n="1"/>svasti śrī
 	</ab>
 	
 	<p>

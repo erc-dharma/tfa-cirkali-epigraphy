@@ -97,8 +97,8 @@
 	-->
 	
 	<!--EF: gap lengths and initial vowels after SII-->
-	<ab>
-		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/><supplied reason="lost">svasti śrī</supplied>
 	</ab>
 	
 	<p>
