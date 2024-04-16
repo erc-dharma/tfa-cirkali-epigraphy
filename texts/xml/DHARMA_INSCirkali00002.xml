@@ -97,8 +97,8 @@
     
 	<!--Check initial vowels-->
 	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="ddanda">.</g>                  
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī <g type="ddanda">.</g>                  
 	</ab>
 	
 	<p>
