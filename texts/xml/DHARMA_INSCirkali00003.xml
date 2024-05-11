@@ -10,6 +10,13 @@
 			<titleStmt>
 				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga Cōḻa, year 9</title>
 				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:utve">
+						<surname>Veluppillai</surname>
+						<forename>Uthaya</forename>
+					</persName>
+				</respStmt>
+				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<surname>Francis</surname>
@@ -19,14 +26,7 @@
 						<forename>Uthaya</forename>
 						<surname>Veluppillai</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<forename>Uthaya</forename>
-						<surname>Veluppillai</surname>
-					</persName>
-				</respStmt>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -239,13 +239,10 @@
 
 <div type="bibliography">
 	
-           <p>First reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/125).</p>
-	<p>Reported again in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>
-	
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 990).</p>
-	<p>Re-edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 3), based on autopsy, photos, ASI transcript (consulted in Mysore) and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
-	
-	<p>Re-edited and encoded here for DHARMA (ERC n° 809994) by Uthaya Veluppillai (2022).</p>
+           <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/125), in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>	
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.990).</p>
+	<p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 3), based on autopsy, photos, ASI transcript (consulted in Mysore) and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
+	<p>This edition by Uthaya Veluppillai (2022).</p>
 	
 	<listBibl type="primary">
 		
