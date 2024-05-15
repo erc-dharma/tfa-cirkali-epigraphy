@@ -10,17 +10,17 @@
 			<titleStmt>
 				<title>Cīrkāḻi, Tōṇipuram temple, time of Kulottuṅga, year 10</title>
 				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:utve">
+						<surname>Veluppillai</surname>
+						<forename>Uthaya</forename>
+					</persName>
+				</respStmt>
+				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<surname>Francis</surname>
 						<forename>Emmanuel</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<forename>Uthaya</forename>
-						<surname>Veluppillai</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>

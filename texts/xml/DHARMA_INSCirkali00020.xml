@@ -10,21 +10,17 @@
 			<titleStmt>
 				<title>Cīrkāḻi, Tōṇipuram temple, Śaka 1410</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
+					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
 						<surname>Veluppillai</surname>
 						<forename>Uthaya</forename>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:emfr">
+						<surname>Francis</surname>
+						<forename>Emmanuel</forename>
 					</persName>
 				</respStmt>
 			</titleStmt>
