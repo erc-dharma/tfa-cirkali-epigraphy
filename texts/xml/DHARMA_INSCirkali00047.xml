@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, time of Kōpperuñciṅkaṉ, year lost</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, time of Kōpperuñciṅkaṉ, year lost</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -95,30 +95,20 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">caka</supplied>la-puvaṉa-c-cakrava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēva
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
+		la-puvaṉa-c-cakrava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēva
+				
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		ṅkaḷukkum Uṭal-āka naṭuvil-nāṭ-āṉa Irā<supplied reason="omitted">ja</supplied>-rā<hi rend="grantha">ja</hi>		
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
+		ṅkaḷukkum Uṭal-āka naṭuvil-nāṭ-āṉa Irā<supplied reason="omitted">ja</supplied>-rā<hi rend="grantha">ja</hi>
+				
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ḷḷaiyār kōyi<supplied reason="undefined">li</supplied>l tiru-p-patiyam viṇṇappañ <supplied reason="undefined">c</supplied>e
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
+		ṉ-ṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ḻa-p-pal<supplied reason="lost">la</supplied>varaiyaṉē
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 	</p>
 	
@@ -129,23 +119,27 @@
 	<listApp>
 		
 		<app loc="1"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">caka</supplied>la-puvaṉa°</lem>
-			<rdg source="bib:Veluppillai2013_01">°lapuvaṉa°</rdg>
+			<lem>lapuvaṉa°</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><supplied reason="lost">caka</supplied>lapuvaṉa°</foreign>.</note>
 		</app>
 		
 		<app loc="3"><!--EF-->
-			<lem>viṇṇappañ <supplied reason="undefined">c</supplied>e <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:Veluppillai2013_01">The lacuna is obviously a form of <foreign>cey-tal</foreign>, as <foreign>viṇṇappañ cey-tal</foreign>, litteraly "to make a request", is a current expression for the recitation of hymns (<foreign>tiruppatiyam</foreign>).</rdg>
+			<lem>viṇṇappañ <supplied reason="undefined">c</supplied>e</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored with a form of <foreign>viṇṇappañ cey-tal</foreign>, litteraly "to make a request", a current expression for the recitation of hymns (<foreign>tiruppatiyam</foreign>).</note>
 		</app>
 		
 		<app loc="4"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></lem>
-			<rdg source="bib:Veluppillai2013_01">ṉṉila<supplied reason="undefined">m</supplied></rdg>
+			<lem>ṉṉila<supplied reason="undefined">m</supplied></lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></foreign>.</note>
 		</app>
 		
 		<app loc="4"><!--EF-->
-			<lem>t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied><gap reason="lost" extent="unknown" unit="character"/></lem>
+			<lem>t<supplied reason="undefined">ē</supplied>vatāṉakā</lem>
 			<rdg source="bib:Veluppillai2013_01">t<supplied reason="undefined">e</supplied>vatāṉa kā</rdg>
+			<note>The lacuna can be restored as <foreign>t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied></foreign></note>
 		</app>
 		
 	</listApp>

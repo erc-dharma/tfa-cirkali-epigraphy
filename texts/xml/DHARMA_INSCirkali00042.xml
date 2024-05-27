@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -93,46 +93,30 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		kuṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> tiru-nāmattu-k-kāṇi-y-āka koṇṭa
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		lattu vēṟu piṟiṉta Oṇveli Ākkūril vaṭa-matu
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		pakkal koṇṭa maṇali Oṉṟu per-kūva-p-paṭṭa nila
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		pala-vāykkālukkum pūtaṉūr-uṭaiyāṉ nila
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ṟa vāyaṉ kuḷaṅ-karaikkum In-na
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		va <gap reason="lost" extent="unknown" unit="character"/> laikku vaṭakkum me
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		tēvatānattukku-k ki
-		<gap reason="lost" extent="unknown" unit="character"/>
+		tēva-tānattukku-k ki
 		
 		<lb n="8"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		naṭuvu-paṭṭa viriṇi<!--EF: meaning?-->
-		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>

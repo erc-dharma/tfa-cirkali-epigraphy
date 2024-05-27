@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -93,39 +93,25 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ḻa-caturvēti-ma<supplied reason="lost">ṅkalattu</supplied> veḷḷāṉ paṟṟil
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		kkum uṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> Ivūr piṭākai tiru-k-kuru
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ṉṟu Iṟukka niccayitta nilattu Ūr-k
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		Ip-paṭi nellukku Ivv-ūril taram ili
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		l koṇṭu nāṅkūr vatikku kiḻakku kaṇ
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ catirattu kiḻakk' aṭaiya
-		<gap reason="lost" extent="unknown" unit="character"/>
+		ṇāṟṟ' iraṇṭāñ catirattu kiḻakk' aṭaiya
 		
 		<lb n="7"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">ki</supplied>ḻakk' aṭaiyavum v-iṭṭa Ūr-paṭi nilam nālu mā
-		<gap reason="lost" extent="unknown" unit="character"/>
+		ḻakk' aṭaiyavum v-iṭṭa Ūr-paṭi nilam nālu mā
 	</p>
 	
 </div>
@@ -135,13 +121,16 @@
 	<listApp>
 		
 		<app loc="6"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ</lem>
-			<rdg source="bib:Veluppillai2013_01">ṇāṟṟiraṇṭāñ</rdg>
+			<lem>ṇāṟṟiraṇṭāñ</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><supplied reason="lost">ka</supplied>ṇāṟṟiraṇṭāñ</foreign></note>
 		</app>
 		
 		<app loc="7"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ki</supplied>ḻakk' aṭaiyavum</lem>
-			<rdg source="bib:Veluppillai2013_01">ḻakkaṭaiyavum</rdg>
+			<lem>ḻakkaṭaiyavum</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><supplied reason="lost">ki</supplied>ḻakkaṭaiyavum</foreign></note>
+			
 		</app>
 		
 		

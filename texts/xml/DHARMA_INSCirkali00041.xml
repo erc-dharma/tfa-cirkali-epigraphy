@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -93,60 +93,28 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		tu tiru-vēkampam-uṭaiya nāyana
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		ṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2-->Ivv-ūr piṭākai cātta-maṅka
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		mā mu-k-kāṇi Arai-k-kāṇiyum nā
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		m Āka Ūr-paṭi nilam Iru-pattu
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		rilē Eṟṟi taram iṭṭu koṇṭu I
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		ṭi nilam nāl mā <gap reason="lost" quantity="1" unit="character"/> Ivv-ūril
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<supplied reason="lost">ka</supplied>ṇāṟṟu Iraṇṭāñ catirattu Uḷ
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
+		ṇāṟṟu Iraṇṭāñ catirattu Uḷ
 		
 		<lb n="8"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		ṉaḷā <gap reason="lost" extent="unknown" unit="character"/> ṉa<hi rend="grantha">ja</hi>kkum tiru-ma
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>
@@ -156,9 +124,9 @@
 	<listApp>
 		
 		<app loc="7"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ka</supplied>ṇāṟṟu</lem>
-			<rdg source="bib:Veluppillai2013_01">ṇāṟṟu</rdg>
-			<note>The supplied <foreign>ka</foreign> should have been on a block left of the present one.</note>
+			<lem>ṇāṟṟu</lem>
+			<rdg source="bib:Veluppillai2013_01"/>
+			<note>The lacuna can be restored as <foreign><supplied reason="lost">ka</supplied>ṇāṟṟu</foreign>.</note>
 		</app>
 		
 	</listApp>

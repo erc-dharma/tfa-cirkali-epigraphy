@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -95,47 +95,30 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		Āḷuṭaiya-piḷḷaiyār pacāna-t tiruppu putiyutu tiru-p-pāvā
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ṭay-āka Amutu ceyt-aruḷi <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>rkkum tāṉattārkkum <supplied reason="lost">li</supplied><!--EF:??? see photo-->
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		rumuṉappukkam-āka<!--EF: change to ru-muṉ vaḷakkam-āka; see photo--> Āyiram maṭakkil Iṭṭu <hi rend="grantha">prasā</hi>tikka pōṉaka-p
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		paḻa Arici<!--ārici in PhD--> paṉṉ-iru-kalattukkum Itukku vēṇṭuṅ kaṟi-y-amu<supplied reason="lost">tu</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		<supplied reason="lost">vi</supplied>ñcaṉattukkum tēvai ce<choice><orig>vv</orig><reg>yv</reg></choice>ārkku vēṇṭuvaṉa vayi<supplied reason="lost">ṟṟu</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		koṇṭu celutta tiru-nāmattu-kāṇi-y-āka kollikuṟump-uṭai<supplied reason="lost">ya</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		<supplied reason="lost">ā</supplied>ṇṭār celvamalku pakal pōlum pēr-oḷi-y-āka kācu tantu <supplied reason="lost">n</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="8"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		<supplied reason="lost">ē</supplied> c<supplied reason="lost">e</supplied>mpiyan paṇa-maṅkalattu piṟinta vikkirama-cōḻa-k-kollai
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<lb n="9"/>
-		<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">āraiyil i</supplied>ṟai-mikuti <supplied reason="lost">koṇṭu Ip-paṭi cantirātitta-val</supplied>  
+		<lb n="9"/><supplied reason="lost">āraiyil i</supplied>ṟai-mikuti <supplied reason="lost">koṇṭu Ip-paṭi cantirātitta-val</supplied>  
 				
 	</p>
 	

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -94,44 +94,28 @@
 	<p>
 		
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		yanāṟku I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu tiruvāli-y-āṉa mu-muṭi-cōḻa
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		cempaṅ-uṭi kuḷa-k-kuṭi-y-āna kulōttuṅka-cōḻa
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		Iṟuttu varukiṟa nilattukku Ivv-ūril tām peṟā
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		tu varukiṟa nilattilē mutal koṇṭu I <gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		tirunāmattu-k-kāṇiyum-āka Ūravar pū<hi rend="grantha">jai</hi>kkum tiru
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		kku kiḻakku tiru-ñāṉa-campanta-vāykkālukku
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		catirattu mēṟk' aṭaiya v-iṭṭa nilam muṉṟu mā
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="8"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ṟṟili-y-āṉa Ūr-p-paṭi nilam oru mā <g type="pc">.</g>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 	</p>
 	

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, fragment</title>
+				<title>Cīrkāḻi, Campantar temple, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment mentioning land boundaries.</summary>
+						<summary>Records land boundaries.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -91,7 +91,7 @@
 	<p><gap reason="lost" extent="unknown" unit="line"/></p>
 	
 	<p>
-		<lb n="1"/><unclear>ti</unclear>tu-k-kaḻumalattu Ūr māviyan=ti 
+		<lb n="1"/><unclear>ti</unclear>ru-k-kaḻumalattu Ūr māviyan=ti 
 		<lb n="2" break="no"/>ki y-iṟuttu Iṟai-mikuti koṇ 
 		<!--EF: see CEC 31, l.7: Ūr māvintavāyiṟuttu iṟai mikiti koṇṭu celuttuvatāka koṇṭu v-iṭṭatu-->
 		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
@@ -106,17 +106,17 @@
 	
 </div>
 	
-<div type="apparatus">
+<!--<div type="apparatus">
 	
 	<listApp>
-		<app loc="2">
-		<lem>ki y-iṟuttu</lem>
-		<rdg source="bib:Veluppillai2013_01">kiyiṟuttu</rdg>
+		<app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:Veluppillai2013_01"></rdg>
 	</app>
 		
 	</listApp>
 	
-</div>
+</div>-->
 		
 <div type="translation" resp="part:emfr">
 	

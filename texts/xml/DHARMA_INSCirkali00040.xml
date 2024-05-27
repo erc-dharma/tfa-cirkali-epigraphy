@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -94,39 +94,19 @@
 	<p>
 		
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		<unclear>n</unclear>āyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>tattu<!--EF:pakṣattu?--> <hi rend="grantha">tri</hi>ti 
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		y-āṉa kulōttuṅka-cōḻa-nallūr
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		pakkalum ivaṉ mātāviṉ pakkalum
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		lum iṟuttu Iṟai-mikuti koṇṭu tiru
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		veṉavāvūr-uṭaiyāṉ kaṇṇavi<gap reason="lost" quantity="1" unit="character"/>t<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg>
-		<milestone n="2" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>

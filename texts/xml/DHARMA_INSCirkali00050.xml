@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of Vīrarā[jendra], year lost</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, time of Vīrarā<unclear>jendra</unclear>, year lost</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment. First block/fragment of at least 2 blocks/fragments. Land donation.</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs, of which the present one is the first. Land donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

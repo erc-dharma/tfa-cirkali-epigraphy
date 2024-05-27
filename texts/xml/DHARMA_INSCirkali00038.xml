@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, time of Rājarāja, year 2</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, time of Rājarāja, year 2</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -48,7 +48,7 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs.</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs, of which the present one is the first.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>

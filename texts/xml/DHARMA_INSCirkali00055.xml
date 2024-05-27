@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, fragment</title>
+				<title>Cīrkāḻi, Tōṇipuram temple, fragment, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment mentioning Śivabrāhmaṇas.</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs, of which the present one is the last. Mentions Śivabrāhmaṇas.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -92,39 +92,21 @@
 	
 	<p>
 		<lb n="1"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		<hi rend="grantha"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ya</seg>-</hi>tēva<choice><orig>n</orig><reg>ṉ</reg></choice>u
 		
 		<lb n="2" break="no"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		kku kama Ivū 
 		
 		<lb n="3" break="no"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" quantity="1" unit="character"/> rā <gap reason="lost" quantity="1" unit="character"/><!--EF: rār *--> camupaya 
 		
 		<lb n="4" break="no"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		ku <hi rend="grantha">śi</hi>va-<hi rend="grantha">brā</hi>
 		
 		<lb n="5" break="no"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		yānupaya
 		
 		<lb n="6"/>
-		<milestone n="1" unit="block" type="gridlike"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="2" unit="block" type="gridlike"/>
 		<g type="gomutraFinal">.</g>
 					
 	</p>

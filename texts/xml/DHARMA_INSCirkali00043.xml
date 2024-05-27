@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Campantar temple, fragment, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -93,39 +93,25 @@
 	
 	<p>
 		<lb n="1"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		It-tēvaṟku Oṉpat-āvatu nāḷil
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		<hi rend="grantha">de</hi>vi-y-āṉa kulōttuṅka-cōḻa-c-ca
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ṟkku pū<hi rend="grantha">jai</hi>kkum tiru-p-paṇi-k kumuṭa
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		ya Iṟai-y-ili ceytu v-iṭṭa nilattu
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		lē mutal koṇṭu Ūrkiḻ i<choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		kku kiḻakku m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣa</hi>-vāykkāluk<supplied reason="lost">ku</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
+		kku kiḻakku m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣa</hi>-vāykkāluk
 		
 		<lb n="7"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
 		Āṟāṅ kaṇṇāṟṟ' iraṇṭān tuṇṭattu
-		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
 </div>
@@ -135,8 +121,9 @@
 	<listApp>
 		
 		<app loc="6"><!--EF-->
-			<lem>vāykkāluk<supplied reason="lost">ku</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:Veluppillai2013_01">°vāykkāluk</rdg>
+			<lem>vāykkāluk</lem>
+			<rdg source="bib:Veluppillai2013_01"></rdg>
+			<note>The lacuna can be restored as <foreign>vāykkāluk<supplied reason="lost">ku</supplied></foreign>.</note>
 		</app>
 		
 	</listApp>
