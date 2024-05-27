@@ -48,11 +48,11 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>...</p>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -94,37 +94,51 @@
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		It-tēvaṟku Oṉpat-āvatu nāḷil
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		<hi rend="grantha">de</hi>vi-y-āṉa kulōttuṅka-cōḻa-c-ca
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		ṟkku pū<hi rend="grantha">jai</hi>kkum tiru-p-paṇi-k kumuṭa
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		ya Iṟai-y-ili ceytu v-iṭṭa nilattu
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		lē mutal koṇṭu Ūrkiḻ i<choice><unclear>ṉa</unclear><unclear>ṉ</unclear></choice>
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		kku kiḻakku m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣa</hi>-vāykkāluk<supplied reason="lost">ku</supplied>
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		Āṟāṅ kaṇṇāṟṟ' iraṇṭān tuṇṭattu
+		<milestone n="2?" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	

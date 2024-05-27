@@ -48,11 +48,11 @@
 						<!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>...</p>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -95,27 +95,37 @@
 		
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		<unclear>n</unclear>āyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>tattu<!--EF:pakṣattu?--> <hi rend="grantha">tri</hi>ti 
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		y-āṉa kulōttuṅka-cōḻa-nallūr
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		pakkalum ivaṉ mātāviṉ pakkalum
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		lum iṟuttu Iṟai-mikuti koṇṭu tiru
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
+		<milestone n="1" unit="block" type="gridlike"/>
 		veṉavāvūr-uṭaiyāṉ kaṇṇavi<gap reason="lost" quantity="1" unit="character"/>t<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg>
+		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
