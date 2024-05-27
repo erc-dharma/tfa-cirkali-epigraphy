@@ -93,10 +93,10 @@
 	
 	<p>
 		<lb n="1"/>
-		tu tiru-vēkampam-uṭaiya nāyana
+		tu tiru-v-ēkampam-uṭaiya nāyan
 		
 		<lb n="2"/>
-		ṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2-->Ivv-ūr piṭākai cātta-maṅka
+		ṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> Ivv-ūr piṭākai cātta-maṅka
 		
 		<lb n="3"/>
 		mā mu-k-kāṇi Arai-k-kāṇiyum nā
@@ -108,13 +108,13 @@
 		rilē Eṟṟi taram iṭṭu koṇṭu I
 		
 		<lb n="6"/>
-		ṭi nilam nāl mā <gap reason="lost" quantity="1" unit="character"/> Ivv-ūril
+		ṭi nilam nāl mā <gap reason="lost" quantity="2" unit="character"/> Ivv-ūril
 		
 		<lb n="7"/>
 		ṇāṟṟu Iraṇṭāñ catirattu Uḷ
 		
 		<lb n="8"/>
-		ṉaḷā <gap reason="lost" extent="unknown" unit="character"/> ṉa<hi rend="grantha">ja</hi>kkum tiru-ma
+		ṉaḷā<!--EF: ṉ ṉā--> <gap reason="lost" quantity="4" unit="character"/> ṉa<hi rend="grantha">ja</hi><!--EF: la *-->kkum tiru-ma
 	</p>
 	
 </div>

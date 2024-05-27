@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs. Mentions lands.</summary>
+						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs, of which the present one is the last. Mentions lands.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -88,6 +88,7 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	
+	<!--There is one more line on top of the block?-->
 	<p>
 		<lb n="1"/>
 		ṟukkum Iṟai y-iṟuttu mikuti 
@@ -96,8 +97,7 @@
 		ṉ pakkal vilai-koṇṭa nilattu <gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
-		<milestone n="2" unit="block" type="gridlike"/>
-		k<supplied reason="lost">o</supplied>ṇṭu v-iṭṭa tiru-k-kaḻumala-nāṭṭu pātir<choice><unclear>a</unclear><unclear>i</unclear></choice>-k-kuṭi-y 
+		k<supplied reason="lost">o</supplied><!--EF: kompu only is supplied-->ṇṭu v-iṭṭa tiru-k-kaḻumala-nāṭṭu pātir<choice><unclear>a</unclear><unclear>i</unclear></choice>-k-kuṭi-y 
 		
 		<lb n="4"/>
 		vikuṟumpūril tiṭar cey nilam Arai In-nila

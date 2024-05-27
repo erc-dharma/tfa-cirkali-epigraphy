@@ -95,18 +95,18 @@
 	
 	<p>
 		v<supplied reason="lost">ī</supplied>ra-rā<hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira</unclear>
-		<gap reason="lost" quantity="2" unit="character" precision="low"/>		
+		<gap reason="lost" quantity="3" unit="character" precision="low"/>		
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/><milestone n="1" unit="block" type="gridlike"/>
-		tiru-k-kaḻumala-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭu v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻa
+		tiru-k-kaḻumala-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭu v<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>ra-cōḻa
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/><milestone n="1" unit="block" type="gridlike"/>
-		viṭaṅkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear>rā<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>curam-uṭai
+		viṭaṅkana<choice><orig>l</orig><reg>ll</reg></choice>ūr <unclear>I</unclear><!--EF: certainly not like the "I" next line-->rā<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>curam-uṭai
 		<gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
@@ -121,12 +121,12 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/><milestone n="1" unit="block" type="gridlike"/>
-		ca-vāy<supplied reason="omitted">k</supplied>kāluku teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: muṉ I-->
+		ca-vāy<supplied reason="omitted">k</supplied>kālu<choice><sic>k</sic><corr>kk</corr></choice>u teṟku mutaṟ kaṇṇāṟṟu mutaṟ<!--EF: "muṉ I"? "ta" unclear anyway-->
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/><milestone n="1" unit="block" type="gridlike"/>
-		<supplied reason="lost">I</supplied><unclear>ru</unclear>-mā varaiyum cantirātitta-varai ce<unclear>l</unclear>
+		<supplied reason="lost">I</supplied><unclear>ru</unclear>-mā v-araiyum cantirātitta-varai ce<unclear>l</unclear>
 		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>		
 	</p>
