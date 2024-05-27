@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p>...</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -139,7 +139,7 @@
 		</app>
 		
 		<app loc="4"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></lem>
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></lem>
 			<rdg source="bib:Veluppillai2013_01">ṉṉila<supplied reason="undefined">m</supplied></rdg>
 		</app>
 		
@@ -152,18 +152,18 @@
 	
 </div>
          
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
                         
 	<p>            	
             	
             </p>	
 	
-</div>
+</div>-->
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
-        	
+</div>-->
+	
 <div type="bibliography">  
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/367).</p>

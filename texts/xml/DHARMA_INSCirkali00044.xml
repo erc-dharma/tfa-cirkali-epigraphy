@@ -102,7 +102,8 @@
 		kkum uṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> Ivūr piṭākai tiru-k-kuru
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
-		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
 		ṉṟu Iṟukka niccayitta nilattu Ūr-k
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
@@ -134,7 +135,7 @@
 	<listApp>
 		
 		<app loc="6"><!--EF-->
-			<lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ</lem>
+			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ka</supplied>ṇāṟṟ' iraṇṭāñ</lem>
 			<rdg source="bib:Veluppillai2013_01">ṇāṟṟiraṇṭāñ</rdg>
 		</app>
 		
@@ -148,18 +149,18 @@
 	
 </div>
          
-<div type="translation" resp="part:emfr">
-                        
-	<p>            	
+<!--<div type="translation" resp="part:emfr">
 		
-            </p>	
+		<p>            	
+			
+		</p>	
+		
+</div>-->
 	
-</div>
-            
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
-        	
+</div>-->
+	
 <div type="bibliography">  
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/369).</p>

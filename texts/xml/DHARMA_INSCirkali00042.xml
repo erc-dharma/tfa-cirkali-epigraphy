@@ -94,60 +94,44 @@
 	<p>
 		<lb n="1"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		kuṭal-āka<!--EF: see [e]ṅkaḷukkum Uṭal-āka in CEC47.2--> tiru-nāmattu-k-kāṇi-y-āka koṇṭa
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		lattu vēṟu piṟiṉta Oṇveli Ākkūril vaṭa-matu
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		pakkal koṇṭa maṇali Oṉṟu per-kūva-p-paṭṭa nila
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		pala-vāykkālukkum pūtaṉūr-uṭaiyāṉ nila
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		ṟa vāyaṉ kuḷaṅ-karaikkum In-na
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		va <gap reason="lost" extent="unknown" unit="character"/> laikku vaṭakkum me
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="7"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		tēvatānattukku-k ki
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="8"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
-		<milestone n="1" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		naṭuvu-paṭṭa viriṇi<!--EF: meaning?-->
-		<milestone n="2" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	
@@ -166,18 +150,18 @@
 	
 </div>-->
          
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
                         
 	<p>            	
             	
             </p>	
 	
-</div>
+</div>-->
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
-        	
+</div>-->
+	
 <div type="bibliography">  
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/369).</p>
