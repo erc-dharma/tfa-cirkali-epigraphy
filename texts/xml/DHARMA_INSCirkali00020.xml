@@ -53,7 +53,8 @@
 					<physDesc>
 						<handDesc>
 							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-							<!--Grantha pa, va, Tamil pa similar.-->
+							<!--Grantha and Tamil pa, va similar.-->
+							<!--Tamil -ā and ra not distinct; both like modern ra; has an oblique line on bottom of main stroke; same oblique line for ṉa, ṇa, ḷa.-->
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -100,35 +101,35 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">śakā<choice><sic>ppt</sic><corr>bd</corr></choice>am·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num> m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka-<hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi> 
-		<lb n="2" break="no"/><hi rend="grantha">sara</hi>ttu tulā-nāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇa-pakṣa</hi>ttu puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->-vāramum peṟṟa <supplied reason="lost">makara-na<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
+		<hi rend="grantha">śakā<choice><sic>ppt</sic><corr>bd</corr></choice>am·</hi> <num value="1410"><g type="numeral">1000</g> 4 <g type="numeral">100</g> <g type="numeral">10</g></num>-m <hi rend="grantha">mel</hi> cellā niṉṟa kilaka-<hi rend="grantha">sa</hi>ṇva<hi rend="grantha">t·</hi><!--EF: unclear in fact?--> 
+		<lb n="2" break="no"/><hi rend="grantha">sarattu</hi> tulā-nāyaṟṟu <hi rend="grantha">k<choice><orig>i</orig><reg>ṛ</reg></choice>ṣṇa-pakṣattu</hi> puta<supplied reason="lost">ṉ</supplied><!--EF: looks like visarga, another example below-->-vāramum peṟṟa <supplied reason="lost">makara-na<hi rend="grantha">kṣa</hi>ttira</supplied><unclear>ttu</unclear>
 	</p>
 	
 	<p>
-		<lb n="3"/><hi rend="grantha">śrīman·</hi>-<hi rend="grantha">paṭṭukkaṭṭāri</hi>-pa<hi rend="grantha">śa</hi>-payaṅkara-matiyāta<!--EF: what does this word mean?-->-maṉṉar maṇa<supplied reason="lost">māṉa</supplied><!--EF: what does this word mean?-->-<hi rend="grantha">kā</hi>ñcīpu<hi rend="grantha">ra</hi>
-		<lb n="4" break="no"/>-va<hi rend="grantha">rādh<choice><orig>i</orig><reg>ī</reg></choice>śva</hi>ra-<hi rend="grantha">ko</hi>nē<hi rend="grantha">ri-deva-mahārāśā</hi> c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi kōyil tā<choice><orig>n</orig><reg>ṉ</reg></choice>attāṟku taṅka<surplus>ḷ</surplus> 
-		<lb n="5" break="no"/>ḷ kōyil cīrmai <hi rend="grantha">sarva</hi>mum <hi rend="grantha">mānnya</hi>m-āka naṭakkum paṭiyum kaṟpittu 
+		<lb n="3"/><hi rend="grantha">śrīman·</hi>-<hi rend="grantha">paṭṭu</hi>kka<hi rend="grantha">ṭṭāri</hi>-pa<hi rend="grantha">śa</hi>-payaṅkara-matiyāta<!--EF: what does this word mean?-->-maṉṉar maṇa<supplied reason="lost">māṉa</supplied><!--EF: what does this word mean?-->-<hi rend="grantha">kā</hi>ñcīpu<hi rend="grantha">ra</hi><!--EF: unclear in fact?-->
+		<lb n="4" break="no"/>-va<hi rend="grantha">rādh<choice><orig>i</orig><reg>ī</reg></choice>śvara-ko</hi>nē<hi rend="grantha">ri-deva-mahārāśā</hi> c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi kōyil tā<choice><orig>n</orig><reg>ṉ</reg></choice>attāṟku taṅka<surplus>ḷ</surplus> 
+		<lb n="5" break="no"/>ḷ kōyil cīrmai <hi rend="grantha">sarvva</hi>mum <hi rend="grantha">mānnya</hi>m-Āka naṭakkum paṭiyum kaṟpittu 
 		<lb n="6"/>I<hi rend="grantha">ra</hi>ṇṭ' āṟṟu-p-paṟṟu c<choice><orig>i</orig><reg>ī</reg></choice>rmaikku kuru-kula-<hi rend="grantha">rā</hi>ya Iṭṭa muṟiyilum kūṭā 
-		<lb n="7"/>kūṭāmal muṟipiṟinta niṉṟayam Ākaiyāle Am-mari<choice><orig>yy</orig><reg>y</reg></choice>āt<supplied reason="omitted">ay</supplied>ilē<!--EF: letters inserted--> paṭṭaṭaicāttāma<!--EF: m NOT ma at the end--> kal 
-		<lb n="8"/>veṭ=ṭi-vari paṟaiyā-vari Uḷḷiṭṭa vakaiyum <hi rend="grantha">sarvva-mānnya</hi>m-Āka naṭakkum paṭiyum taṅkaḷ 
-		<lb n="9"/>taṅkaḷ kōyil cīrmai-y-āṉa vaṭa-kāvēri-nallūr kīḻ-naṟ-koṟṟaṅkuṭi ti<unclear>r</unclear>u-nāvukkaraca 
+		<lb n="7"/>kūṭāmal muṟipiṟinta niṉṟayam Ākaiyāle A<add place="below">m</add>-mari<add place="below">yāti</add>yilē paṭṭaṭaicāttāma<!--EF: m NOT ma at the end?--> kal 
+		<lb n="8" break="no"/>-veṭ=ṭi-vari paṟaiyā<!--EF: paṟaiyar?-->-vari Uḷḷiṭṭa vakaiyum <hi rend="grantha">sarvva-mānnya</hi>m-Āka naṭakkum paṭiyum taṅkaḷ 
+		<lb n="9"/>taṅkaḷ kōyil cīrmai-y-āṉa vaṭa-kāvēri-nallūr kīḻ-naṟ-koṟṟaṅkuṭi ti<unclear>r</unclear>u-nāvukkarac<unclear>u</unclear><!--EF:not ° kkaraca-->
 		<lb n="10" break="no"/>-nallūr viṭu nilam kīṟā-nallūr viṭu nilam Uḷḷiṭṭa vakaiyilē nāṟ-pattu Iru-vēl<supplied reason="omitted">i</supplied> ni 
-		<lb n="11" break="no"/>lam paṇṇai-y-āka-p patintu naṭantu vantatu Eṉṟa paṭiyālē Anta Ūrkaḷ muṉpu pō<surplus>lē</surplus> 
+		<lb n="11" break="no"/>lam paṇṇai-y-āka-p patintu naṭantu vantatu Eṉṟa paṭiyālē Anta Ūr<unclear>ka</unclear>ḷ muṉpu pō<surplus>lē</surplus> 
 		<lb n="12" break="no"/>lē kōyil paṇṭārattilē kaṇṭu koḷḷum paṭiyum muṉṉē kaṟpittu Inta nilattu-k 
 		<lb n="13" break="no"/>ku Aṭṭavaṇai puṟavarikku kaṇakkāl Uṇṭānaṉāṉa<!--EF: uṇṭā[n>ṉ]a poṉ--> kuru-kula-Irāyaṉ pēril kutta 
-		<lb n="14" break="no"/>kai-p paṭi mutalilē celaviṭṭu <hi rend="grantha">sarvva</hi>mum mā<hi rend="grantha">nnya</hi>m-Āka naṭakkum paṭi kaṟpitta Aḷavukku Im 
-		<lb n="15" break="no"/>-mariyātayilē Inta vakaikku Uṇṭīr<!--EF: ??--> Āṉa poṉ kōyil paṇṭārattilē kaṇṭu ko 
+		<lb n="14" break="no"/>kai-p paṭi mutalilē celav' iṭṭu <hi rend="grantha">sarvva</hi>mum mā<hi rend="grantha">nnya</hi>m-Āka naṭakkum paṭi kaṟpitta Aḷavukku Im 
+		<lb n="15" break="no"/>-mariyātayilē Inta vakaikku Uṇṭīr<!--EF: ?? "ṭ[i>ī]r"?--> Āṉa poṉ kōyil paṇṭārattilē kaṇṭu ko 
 		<lb n="16" break="no"/>ṇṭu pūcai tiru-p-paṇi tāḻv' aṟa naṭatti Oṉṟukkum Añcāma<add place="below">l</add> Irukkavum
 	</p>
 	
 	<p>
-		<gap reason="lost" quantity="4" unit="character"/> yāṟuvo-tara <gap reason="lost" quantity="1" unit="character"/><!--EF: kūḻaiy[o]ṟuvotaraḥ-->
-		<lb n="17"/>ḻai yovalacā<!--EF: lacā not very clear-->cantaicātivariyiṉ vari <hi rend="grantha">sarvva</hi>mum <hi rend="grantha">mānnya</hi>m-Āka kalluveṭṭu vittu pūcai
+		<gap reason="lost" quantity="4" unit="character"/> yāṟuvo-tara <gap reason="lost" quantity="1" unit="character"/><!--EF: kūḻaiy[o]ṟuvotaraḥ, where ḥ = ṉ ? like in "putaṉ" above-->
+		<lb n="17"/>ḻai yovalacā<!--EF: lacā not very clear; "ḷacāra"?-->-cantai-cāti-variyiṉ vari <hi rend="grantha">sarvva</hi>mum mā<hi rend="grantha">nnya</hi>m-āka kalluveṭṭu vittu pūcai
 		<lb n="18"/>tiru-p-paṇi tāḻvu Aṟa naṭattavum <g type="pc">.</g>
 	</p>
 	
 	<p>
-		caṟuvamum mā<choice><sic>ṉini</sic><corr>n</corr></choice>yam-āka kalluveṭṭi nāṭṭi-k koṇṭu pū 
+		caṟuvamum mā<choice><sic>ṉi</sic><corr>n</corr></choice>niyam-āka kalluveṭṭi nāṭṭi-k koṇṭu pū 
 		<lb n="19" break="no"/>cai tiru-p-paṇi naṭatti Oṉṟukkum Añcāmal Irukkavum <g type="pc">.</g> <g type="ddanda">.</g>
 	</p>
 	
@@ -139,7 +140,7 @@
 	
 	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		
-		<l n="a">dāna-pālanayo<lb n="20" break="no"/>r mmadhye</l>
+		<l n="a">dāna-pālanayo<lb n="20" break="no"/>r mmadhye<!--EF: even possibly "ddhye"--></l>
 		<l n="b">dānāt· śreyo 'nupālanam· <g type="ddanda">.</g></l>
 		<l n="c">dānāt· svargam<surplus>·</surplus> avāpnoti</l>
 		<l n="d">pālanād accyutam· padam· <g type="danda">.</g></l></lg>
@@ -150,8 +151,8 @@
 	</p> 
 	
 	<p>
-		Iruṅkoḷa-pāṇṭināṭu vaṅkāram-uṭaiyār <hi rend="grantha">puṣpa</hi>-vaṉa-p-perumāḷ kuru-kula-rāyar pērālē ca<hi rend="grantha">rvva-mā</hi> 
-		<lb n="22" break="no"/><hi rend="grantha">nnya</hi>m-Āka nirupam varukaiyil Avar paṇṇuvitta <hi rend="grantha">dharmmam·</hi> <g type="gomutraFinal">.</g>
+		Iruṅ-koḷa-pāṇṭi-nāṭu vaṅkāram-uṭaiyĀR <hi rend="grantha">puṣpa</hi>-vaṉa-p-perumāḷ kuru-kula-rāyar pērālē ca<hi rend="grantha">rvva-</hi>mā
+		<lb n="22" break="no"/><hi rend="grantha">nnya</hi>m-Āka nirupam varukaiyil Avar paṇṇuvitta <hi rend="grantha">dharmmam·</hi><!--EF: even possibly "ddha"--> <g type="gomutraFinal">.</g>
 	</p>	
 </div>
 
