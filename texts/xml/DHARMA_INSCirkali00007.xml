@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of Rājakesarivarman, year 7+1</title>
+				<title>Cīrkāḻi, Brahmapurīśvara, time of Rājakesarivarman, year 7+1</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -44,14 +44,15 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
+						<idno/><!-- don't modify this -->
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary><bibl><ptr target="bib:ARIE1918-1919"/></bibl> (p. 33):
+							<quote>Much damaged and stones out of order. The introduction commences with the words <foreign>cīr maṉṉi malar makaḷum</foreign>, etc. Seems to record a sale in publication of a land situated in Paṉaṅkuṭi, a hamlet of Tiruvāli alias Mummuṭicōḻa-caturvedimaṅgalam, in Rājādhirāja-vaḷanāṭu, to the temple of Tiruttōṇipuramuṭaiyār and the shrine of Tiruveṇkāṭuṭaiyār set up in it by a certain Kāliṅka-rāyaṉ. Mentions the Royal Secretary (<foreign>tirumantiravōlai</foreign>) Neṟiyuṭaiccōḻa-Mūvēntavēḷāṉ.</quote><!--see/add further comments in UV phD.--></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>							
+							<p/>							
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -88,7 +89,7 @@
 <text xml:space="preserve">
 <body>
       
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">	
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">	
 	<p>
 		[text not available]
 	</p>
@@ -110,9 +111,9 @@
          
 </div>-->
 
-<div type="commentary">
+<!--<div type="commentary">
            
-</div>
+</div>-->
 
 <div type="bibliography">
 	
