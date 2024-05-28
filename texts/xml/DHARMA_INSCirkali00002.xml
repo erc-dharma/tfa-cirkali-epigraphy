@@ -96,6 +96,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
     
 	<!--Check initial vowels-->
+	<!--Initial vowels from ASI transcript probably not all marked!!-->
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī <g type="ddanda">.</g>                  
@@ -123,7 +124,7 @@
 	
 	<p>	
 		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nāṅkūr-<choice><sic>a</sic><corr>ā</corr></choice>ṉa tiru
-		<lb n="14" break="no"/>-c-ciṟṟampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-carupvita<!--EF: pvita. sic in transcript-->
+		<lb n="14" break="no"/>-c-ciṟṟampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-ca<sic>rupvita</sic>
 		<lb n="15" break="no"/>-maṅkalattu teṉ-piṭākai kiṭāraṅ-koṇṭa-cōḻa
 		<lb n="16" break="no"/><supplied reason="undefined">na</supplied>ll<choice><sic>ua</sic><corr>ū</corr></choice>ril kāṇi Uṭaiya poṉṉuḻāṉ aiyya
 		<lb n="17" break="no"/><supplied reason="undefined">nam</supplied>pi Uṭaiyāṉum tiru-vāykkulam-uṭaiyāṉ ai
@@ -180,6 +181,12 @@
 			<lem>cāmu<lb n="5" break="no"/><supplied reason="undefined">tāyam</supplied></lem>
 			<note>The ASI transcript reads only the syllables <foreign>cāmu</foreign>. The present restoration is proposed by G. Vijayavenugopal.</note>
 		</app>
+		
+		<app loc="14">
+			<lem>°ca<sic>rupvita</sic><lb n="15" break="no"/>maṅkalattu</lem>
+			<note>Sic in ASI transcript. Reads <foreign>caturppētimaṅkalattu</foreign>.</note>
+		</app>
+		
 	</listApp>
 </div>
          
@@ -262,6 +269,4 @@
       </body>
   </text>
 </TEI>
-<!--
-	Initial vowels from ASI transcript probably not all marked!! Check possible?
--->
+

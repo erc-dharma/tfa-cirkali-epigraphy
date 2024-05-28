@@ -159,8 +159,8 @@
 		<lb n="47"/><gap reason="lost" quantity="4" unit="character"/> kku Iraṇṭilum <gap reason="lost" quantity="7" unit="character"/>
 		<lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="49"/><supplied reason="lost">canti</supplied>rātittavaṟ cella-k kaṭavat' āka 
-		<lb n="50"/><supplied reason="lost">vum Itu paṉ-</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai <gap reason="lost" quantity="4" unit="character"/>
-		<lb n="51"/><gap reason="lost" quantity="7" unit="character" precision="low"/> ttu <g type="gomutraFinal">.</g>	
+		<lb n="50"/><supplied reason="lost">vum Itu paṉ-</supplied><hi rend="grantha">mahe</hi> <space type="defect"/> <hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai <gap reason="lost" quantity="4" unit="character"/>
+		<lb n="51"/><gap reason="lost" quantity="7" unit="character" precision="low"/> t <space type="defect"/> tu <g type="gomutraFinal">.</g>	
 	</p>
 	
 </div>
@@ -205,7 +205,7 @@
 			<rdg source="bib:Veluppillai2013_01">kaṭavatāka<lb n="50"/><gap reason="lost" quantity="5" unit="character"/>  <hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra</rdg>
 		</app>
 		
-		<app loc="49"><!--EF: assessed from photo: à voir-->
+		<app loc="49">
 			<lem>°ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai <gap reason="lost" quantity="4" unit="character"/></lem>
 			<rdg source="bib:Veluppillai2013_01">°ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="11" unit="character"/></rdg>
 		</app>
