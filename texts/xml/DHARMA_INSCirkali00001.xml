@@ -160,7 +160,7 @@
 		<lb n="48"/><gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="49"/><supplied reason="lost">canti</supplied>rātittavaṟ cella-k kaṭavat' āka 
 		<lb n="50"/><supplied reason="lost">vum Itu paṉ-</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra-ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai <gap reason="lost" quantity="4" unit="character"/>
-		<lb n="51"/><gap reason="lost" quantity="8" unit="character"/> ttu <g type="gomutraFinal">.</g>	
+		<lb n="51"/><gap reason="lost" quantity="7" unit="character" precision="low"/> ttu <g type="gomutraFinal">.</g>	
 	</p>
 	
 </div>
@@ -181,7 +181,7 @@
 		
 				
 		<app loc="6">
-			<lem>tirukkaḻumalattu</lem><!--EF: assessed from photo-->
+			<lem>tirukkaḻumalattu</lem>
 			<rdg source="bib:Veluppillai2013_01">tirukkaḻumattu</rdg>
 		</app>		
 		
@@ -190,22 +190,22 @@
 			<note>Reading of the ASI transcript.</note>
 		</app>
 						
-		<app loc="26"><!--EF: assessed from photo-->
+		<app loc="26">
 			<lem><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">Ira</supplied><lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied><lb n="28" break="no"/>tirattuc</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="4" unit="character"/><lb n="27" break="no"/>ṇṭāṅ muta<gap reason="lost" quantity="4" unit="character"/><lb n="28" break="no"/>tirattuc</rdg>
 		</app>
 						
-		<app loc="49"><!--EF: assessed from photo-->
+		<app loc="49">
 			<lem><supplied reason="lost">canti</supplied>rātittavaṟ</lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="5" unit="character"/>rātittavaṟ</rdg>
 		</app>
 		
-		<app loc="49"><!--EF: assessed from photo-->
+		<app loc="49">
 			<lem>kaṭavatāka<lb n="50"/><supplied reason="lost">vum Itu paṉ</supplied><hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra°</lem>
 			<rdg source="bib:Veluppillai2013_01">kaṭavatāka<lb n="50"/><gap reason="lost" quantity="5" unit="character"/>  <hi rend="grantha">mahe</hi><hi rend="grantha"><unclear>ś</unclear></hi><hi rend="grantha">va</hi>ra</rdg>
 		</app>
 		
-		<app loc="49"><!--EF: assessed from photo-->
+		<app loc="49"><!--EF: assessed from photo: à voir-->
 			<lem>°ra<hi rend="grantha"><unclear>kṣ</unclear></hi>ai <gap reason="lost" quantity="4" unit="character"/></lem>
 			<rdg source="bib:Veluppillai2013_01">°ra<hi rend="grantha"><supplied reason="lost">kṣ</supplied></hi>ai <gap reason="lost" quantity="11" unit="character"/></rdg>
 		</app>
@@ -264,9 +264,10 @@
 	</p>
 	
 </div>
-<div type="commentary">
 	
-</div>
+<!--<div type="commentary">
+	
+</div>-->
          
 <div type="bibliography">
       
@@ -279,7 +280,7 @@
 		<bibl n="UV">
 			<ptr target="bib:Veluppillai2013_01"/>
 			<citedRange unit="page">228-233</citedRange>
-			<citedRange unit="item">12</citedRange>
+			<citedRange unit="item">1</citedRange>
 		</bibl>
 		
 	</listBibl>

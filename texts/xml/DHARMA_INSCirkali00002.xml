@@ -114,26 +114,26 @@
 		<lb n="6" break="no"/>ytāṉ tāḻi-y-āṉa cōḷēntira-ci
 		<lb n="7" break="no"/>ṅka-viḻupparayaṉ-ēṉ irā<hi rend="grantha">jā</hi>ti
 		<lb n="8" break="no"/>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-p piramatēyam
-		<lb n="9"/>tiru-k-kaḻumalattu Uṭaiyār<!--EF: tirukkaḻumalattuṭaiyār in first encoding--> tiru-t-tō
+		<lb n="9"/>tiru-k-kaḻumalattu Uṭaiyār tiru-t-tō
 		<lb n="10" break="no"/>ṇi-puram-uṭaiyārkkum periya nācciyār
-		<lb n="11" break="no"/>kkum cantirātutta-varai<!--EF: °titta°?--> Aṭaikkā-y-amutu pā
+		<lb n="11" break="no"/>kkum cantirāt<choice><sic>u</sic><corr>i</corr></choice>tta-varai Aṭaikkā-y-amutu pā
 		<lb n="12" break="no"/>kkum tēvūr ilai-y-amutu paṟṟum amutu c<choice><orig>e</orig><reg>ey</reg></choice>t-aruḷa
 		<lb n="13"/>nāṉ v-iṭṭa nilam āvatu
 	</p>
 	
 	<p>	
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nāṅkūr-āṉa<!--EF: nāṅkūraṉā in first encoding; nāṅkūraṉa in PhD--> tiru
-		<lb n="14" break="no"/>-c-ciṟṟampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-carupvita<!--EF: pvita. Sic?-->
+		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nāṅkūr-<choice><sic>a</sic><corr>ā</corr></choice>ṉa tiru
+		<lb n="14" break="no"/>-c-ciṟṟampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-carupvita<!--EF: pvita. sic in transcript-->
 		<lb n="15" break="no"/>-maṅkalattu teṉ-piṭākai kiṭāraṅ-koṇṭa-cōḻa
-		<lb n="16" break="no"/><supplied reason="undefined">na</supplied>lluril<!--EF: lūril?--> kāṇi Uṭaiya poṉṉuḻāṉ aiyya
+		<lb n="16" break="no"/><supplied reason="undefined">na</supplied>ll<choice><sic>ua</sic><corr>ū</corr></choice>ril kāṇi Uṭaiya poṉṉuḻāṉ aiyya
 		<lb n="17" break="no"/><supplied reason="undefined">nam</supplied>pi Uṭaiyāṉum tiru-vāykkulam-uṭaiyāṉ ai
 		<lb n="18" break="no"/><supplied reason="undefined">y</supplied>ya-nampiyum aiyya-nampi-tēvaṉum uḷḷiṭṭ
-		<lb n="19" break="no"/><supplied reason="undefined">ār pa</supplied>kal<!--EF: pakkal?--> nāṉ peṟṟ-uṭai-y-ēṉ-āy eṉṉut-āy<!--EF: traduction de ces deux termes = ?--> varukiṟa ko<!--EF: k' ellai for kollai?-->
+		<lb n="19" break="no"/><supplied reason="undefined">ār pa</supplied>kkal nāṉ peṟṟ-uṭai-y-ēṉ-āy Eṉṉut-āy varukiṟa ko
 		<lb n="20" break="no"/>llai nilattukku		
 	</p>
 	
 	<p>		
-		mēl-pāṟk' ellai kārai <gap reason="illegible" extent="unknown" unit="character"/> <supplied reason="lost">vāy</supplied><!--EF addtion-->
+		mēl-pāṟk' ellai kārai <gap reason="illegible" extent="unknown" unit="character"/> <supplied reason="lost">vāy</supplied>
 		<lb n="21" break="no"/>kālukku kiḻakkum
 		vaṭa-pāṟk' ellai kāvēri <gap reason="illegible" extent="unknown" unit="character"/>
 		<lb n="22" break="no"/>kum tiru-vēṅkāṭṭu mu <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="illegible" extent="unknown" unit="character"/>
@@ -144,11 +144,12 @@
 	
 	<p>		
 		<lb n="26" break="no"/>ṉ ātittaṉ nārāyaṇaṉ uyya-k-koṇṭāṉ nilam iraṇṭu mācciṉṉamum ai
-		<lb n="27" break="no"/>yya-nampi Uṭaiyāṉ i<hi rend="grantha">rājarāja</hi>-p peru<!--EF: peṟu?--> vilai koṇṭu Aṉupa<supplied reason="undefined">vi</supplied>kkiṟa nilam
+		<lb n="27" break="no"/>yya-nampi Uṭaiyāṉ i<hi rend="grantha">rājarāja</hi>-p peru vilai koṇṭu Aṉupa<supplied reason="undefined">vi</supplied>kkiṟa nilam
 		<lb n="28"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu māvum ivarkaḷ pakkal kaḷattūr-uṭaiyāṉ tāyilum nallāṉ vi
 		<lb n="29" break="no"/><supplied reason="undefined">lai</supplied> ko<supplied reason="undefined">ṇṭu</supplied> muṉpu Ilai-y-amutu tōṭṭam-āka viḷai-
 		<lb n="30" break="no"/>nilam eṭṭu māvum āka nilam araiyē
-		<lb n="31"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mācciṉṉamum nīkki nīkki<!--EF nikki nīkki in PHD--> niṉṟa Eṉṉu
+		<lb n="31"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mācciṉṉamum n<choice><orig>i</orig><reg>ī</reg></choice>kki 
+		nīkki niṉṟa Eṉṉu
 		<lb n="32" break="no"/>tāy varukiṟa nilam araiyum in-nilattu
 		<lb n="33"/>Opāti Āṟiṭu paṭukaiyum potuvum po
 		<lb n="34" break="no"/>tāriyuṅ kiṇaṟuṅ kuḷamum ma
