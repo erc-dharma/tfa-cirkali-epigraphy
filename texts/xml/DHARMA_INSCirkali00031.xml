@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, time of Rājarāja, year 11</title>				
+				<title>Cīrkāḻi, Brahmapurīśvara, time of Rājarāja, year 11</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -145,19 +145,19 @@
 	
 </div>
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
+            </div>-->
         	
 <div type="bibliography">  
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/123).</p>
 	<p>Reported again in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/379).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5, no. 998).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.998).</p>
 	<p>Re-edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 31), based on autopsy, photos (G. Ravindran, EFEO, 2005), and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
 	
-	<p>This edition by Uthaya Veluppillai (2024). Encoded and reviewed by Emmanuel Francis.</p>
+	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
 		
 	<listBibl type="primary">
 		

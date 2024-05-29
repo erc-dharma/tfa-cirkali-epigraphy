@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Tōṇipuram temple, time of Vēṅkaṭa Deva Rāya, Śaka year 1520</title>
+				<title>Cīrkāḻi, Brahmapurīśvara, time of Vēṅkaṭa Deva Rāya, Śaka year 1520</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -132,20 +132,20 @@
 	</listApp>	
 </div>
 		
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
          
-</div>
+</div>-->
 
-<div type="commentary">
+<!--<div type="commentary">
            
-         </div>
+         </div>-->
 
 <div type="bibliography">
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/398).</p>
 	<p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 23), with the help of Dr. G. Vijayavenugopal (EFEO, Pondicherry) and Prof. Y. Subbarayalu (IFP, Pondicherry), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
 		
-	<p>This edition by Uthaya Veluppillai (2024). Encoded and reviewed by Emmanuel Francis.</p>
+	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
 	
 	<listBibl type="primary">
 				

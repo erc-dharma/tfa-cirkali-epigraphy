@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, no king, no year</title>				
+				<title>Cīrkāḻi, Brahmapurīśvara, no king, no year</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -136,7 +136,7 @@
 	<!--Report notes from PhD translation-->
 </div>
 	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
             
             <p n="1">
             	Prosperity! Fortune!
@@ -152,11 +152,11 @@
 	
 	<p n="13"></p>
 	
-</div>
+</div>-->
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
+            </div>-->
         	
 <div type="bibliography">  
 	
@@ -164,7 +164,7 @@
 	
 	<p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 37), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
 	
-	<p>This edition by Uthaya Veluppillai (2024). Encoded and reviewed by Emmanuel Francis.</p>
+	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
 			
 	<listBibl type="primary">
 				

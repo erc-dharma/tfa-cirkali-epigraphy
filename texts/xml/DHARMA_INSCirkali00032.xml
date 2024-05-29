@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, time of Vīrarājendra, year 6</title>				
+				<title>Cīrkāḻi, Brahmapurīśvara, time of Vīrarājendra, year 6</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -151,9 +151,9 @@
 	
 </div>
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
+            </div>-->
         	
 <div type="bibliography">  
 	
@@ -161,7 +161,7 @@
 	
 	<p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 32), based on autopsy and photos (G. Ravindran, EFEO, 2005).</p>
 	
-	<p>This edition by Uthaya Veluppillai (2024). Encoded and reviewed by Emmanuel Francis.</p>
+	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
 	
 		
 	<listBibl type="primary">

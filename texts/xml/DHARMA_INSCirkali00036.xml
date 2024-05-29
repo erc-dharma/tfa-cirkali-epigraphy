@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, king's name lost, year 3</title>				
+				<title>Cīrkāḻi, Brahmapurīśvara, king's name lost, year 3</title>				
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -131,17 +131,17 @@
 	
 </div>-->
          
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
             
             <p>            	
             	
             </p>	
 	
-</div>
+</div>-->
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
+            </div>-->
         	
 <div type="bibliography">  
 	
@@ -149,7 +149,7 @@
 	
 	<p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 36), based on ASI transcript (consulted in Mysore).</p>
 	
-	<p>This edition by Uthaya Veluppillai (2024). Encoded and reviewed by Emmanuel Francis.</p>
+	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
 	
 		
 	<listBibl type="primary">

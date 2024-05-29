@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Campantar temple, time of Kulottuṅga Cōḻa, year 4</title>
+				<title>Cīrkāḻi, Brahmapurīśvara, time of Kulottuṅga Cōḻa, year 4</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:utve">
@@ -281,9 +281,9 @@
 	<!--Report notes from PhD translation-->
             </div>
             
-<div type="commentary">
+<!--<div type="commentary">
                 
-            </div>
+            </div>-->
         	
 <div type="bibliography">
       
