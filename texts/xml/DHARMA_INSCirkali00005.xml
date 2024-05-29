@@ -99,7 +99,7 @@
 	<!--Check/Add notes form UV PhD-->	
 	
 	<p>
-		<lb n="1"/><hi rend="grantha">tri-bhu</hi>vaṉa-c-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="undefined"><hi rend="grantha">rājarā</hi></supplied> 
+		<lb n="1"/><hi rend="grantha">tri-bhu</hi>vaṉa-c-cakkara-varttikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="undefined"><hi rend="grantha">rājarā</hi></supplied> 
 		<lb n="2" break="no"/><hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num> Āvatu nāḷ <num value="458">4 
 		<lb n="3"/><g type="numeral">100</g> 5 <g type="numeral">10</g> 8</num>-ṉāl
 	</p>
@@ -112,10 +112,10 @@
 		<lb n="7" break="no"/>tu ceyta <gap reason="lost" extent="unknown" unit="character"/> paṭ 
 		<lb n="8" break="no"/>ṭarkaḷil <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kū</supplied>
 		<lb n="9" break="no"/>ṟṟattu <gap reason="lost" extent="unknown" unit="character"/> caruppēti 
-		<lb n="10" break="no"/>-maṅkalat<supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">dakṣi</hi>naimūrtti-pa 
-		<lb n="11" break="no"/>ṭṭar I <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">po</supplied>ṉṉiṉ vaṭṭil oṉṟiṉāl 
+		<lb n="10" break="no"/>-maṅkalat<supplied reason="lost">tu</supplied> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">dakṣi</hi>nai-mūrtti-pa 
+		<lb n="11" break="no"/>ṭṭar I <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">po</supplied>ṉṉiṉ vaṭṭil Oṉṟiṉāl 
 		<lb n="12"/>Oṉpatē <gap reason="lost" extent="unknown" unit="character"/> lē Arai-k-kāl māṟi Eḻuttu 
-		<lb n="13"/>veṭṭupa <gap reason="lost" extent="unknown" unit="character"/> ṉ irupatt' oṉpatiṉ kaḻañcē mu-k-kāl 
+		<lb n="13"/>veṭṭupa <gap reason="lost" extent="unknown" unit="character"/> ṉ Irupatt' oṉpatiṉ kaḻañcē mu-k-kāl 
 	</p>
 	         	
          </div>
@@ -139,7 +139,7 @@
 	
 	<p n="3-13">
 		<gap reason="lost"/>
-		the temple of the Lord, the Lord of Tiruttōṇipuram, in <supplied reason="undefined">Tiru</supplied>kkaḻumalam, in the Tirukkaḵalumala<supplied reason="undefined">nāṭu</supplied>, <supplied reason="subaudible">itself</supplied> in the Rājadhirājavaḷanāṭu
+		the temple of the Lord, the Lord of Tiruttōṇipuram, in <supplied reason="undefined">Tiru</supplied>kkaḻumalam, in the Tirukkaḵalumala<supplied reason="undefined">nāṭu</supplied>, <supplied reason="subaudible">itself</supplied> in the Rā<hi rend="grantha">jā</hi>tirā<hi rend="grantha">ja</hi>vaḷanāṭu<note>That is, Rājadhirājavaḷanāṭu.</note>
 		<gap reason="lost"/> among the Bhaṭṭas <supplied reason="explanation"><foreign>paṭṭarkaḷil</foreign></supplied>
 		<gap reason="lost"/> who made water-offerings <supplied reason="explanation"><foreign>taṇṇīr-amutu</foreign></supplied>
 		<gap reason="lost"/> Dakṣiṇāmūrti Bhaṭṭa

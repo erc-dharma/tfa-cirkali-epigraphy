@@ -127,32 +127,17 @@
 	         	
          </div>
         
-<div type="apparatus">
+<!--<div type="apparatus">
 	
 	<listApp>
-		<app loc="2">
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>lai koṇṭa</lem>
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/>lai koṇṭa</rdg>
-		</app>
-		
-		<app loc="2">
-			<lem>kiḻakk' a<supplied reason="lost">ṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem>
-			<rdg source="bib:Veluppillai2013_01">kiḻakka <gap reason="lost" extent="unknown" unit="character"/></rdg>
-		</app>
-					
-		<app loc="6">
-			<lem>kuṭuttēṉ</lem>
-			<rdg source="bib:Veluppillai2013_01">kuṭutte <gap reason="lost" quantity="1" unit="character"/></rdg>
-		</app>
-		
-		<app loc="7">
-			<lem><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kuṭut</supplied>tēṉ</lem>
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/> teṉ</rdg>
-		</app>
+		<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Veluppillai2013_01"></rdg>
+		</app>		
 	
 	</listApp>
 	
-</div>
+</div>-->
 	
 <!--<div type="translation" resp="part:emfr">
          </div>-->

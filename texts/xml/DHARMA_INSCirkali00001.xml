@@ -188,11 +188,6 @@
 			<lem><supplied reason="lost">tiruñāṉacampantaṉ</supplied></lem>
 			<note>Conjectural reading of the ASI transcript.</note>
 		</app>
-						
-		<app loc="26">
-			<lem><gap reason="lost" quantity="4" unit="character"/><supplied reason="lost">Ira</supplied><lb n="27" break="no"/>ṇṭāṅ kaṇṇāṟṟu muta<supplied reason="lost">ṟ cati</supplied><lb n="28" break="no"/>tirattuc</lem>
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" quantity="4" unit="character"/><lb n="27" break="no"/>ṇṭāṅ muta<gap reason="lost" quantity="4" unit="character"/><lb n="28" break="no"/>tirattuc</rdg>
-		</app>
 		
 		<app loc="26">
 			<lem><unclear>miḻā</unclear>l<unclear>ai</unclear>n<unclear>ā</unclear>ṭṭu</lem>
