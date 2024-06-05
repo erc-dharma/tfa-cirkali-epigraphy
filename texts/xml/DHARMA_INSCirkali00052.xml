@@ -90,12 +90,12 @@
 		
 	<p>
 		<lb n="1"/>
-		<gap reason="illegible" quantity="1" unit="character"/> <num value="0.0625">1/16</num> <num value="0.0125"><unclear>1/80</unclear></num>
+		<gap reason="illegible" quantity="1" unit="character"/> <num value="0.075">1/16 <unclear>1/80</unclear></num>
 		<gap reason="lost" quantity="3" unit="character"/> 
 		Itil ti
 				
 		<lb n="2"/>
-		<num value="0.0625"><unclear>1/16</unclear></num> <gap reason="lost" quantity="2" unit="character"/>
+		<num value="0.062"><unclear>1/16</unclear></num> <gap reason="lost" quantity="2" unit="character"/>
 		3 catirattu <g type="nilam"/> <num value="0.5">1/2</num>
 		
 		<lb n="3"/>
@@ -108,7 +108,7 @@
 	
 	<listApp>
 		<app loc="1"><!--EF: assessed from photo-->
-			<lem><gap reason="illegible" quantity="1" unit="character"/> <num value="0.0625">1/16</num> <num value="0.0125"><unclear>1/80</unclear></num> <gap reason="lost" quantity="3" unit="character"/></lem>
+			<lem><gap reason="illegible" quantity="1" unit="character"/> <num value="0.075">1/16 <unclear>1/80</unclear></num> <gap reason="lost" quantity="3" unit="character"/></lem>
 			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/></rdg>
 		</app>
 		<app loc="3">

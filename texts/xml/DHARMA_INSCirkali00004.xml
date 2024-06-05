@@ -185,7 +185,7 @@
 		viracci
 		<lb n="56" break="no"/>yaṉ cēnta<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-vēṇkāṭ-uṭaiyāṉ
 		<lb n="57"/>Uḷḷiṭṭār pakkal koṇṭa kollai 
-		<lb n="58"/>kuḻi <num value="100"><g type="numeral">100</g></num>-m Āka-k kollai kuḻi <num value="1000"><g type="numeral">1000</g></num> nilam <num value="0.5"><g type="numeral">1/2</g></num>
+		<lb n="58"/>kuḻi <num value="100"><g type="numeral">100</g></num>-m Āka-k kollai kuḻi <num value="1000"><g type="numeral">1000</g></num> nilam <num value="0.5">1/2</num>
 		
 		I<choice><orig>ṉ</orig><reg>n</reg></choice>
 		<lb n="59" break="no"/>-nilam Araiyil Iva<supplied reason="omitted">r</supplied>kaḷukku <hi rend="grantha">ji</hi>vanattuk
