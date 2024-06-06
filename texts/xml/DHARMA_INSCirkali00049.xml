@@ -92,7 +92,7 @@
 <div type="edition">	
 	
 	<!--Check/Update line numbering-->
-	<div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	<head>First Pillar</head>
 		
 		<p>
@@ -104,7 +104,7 @@
 	</div>
 	
 	
-	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	<head>Second Pillar</head>
 		
 		<p>
@@ -115,7 +115,7 @@
 	</div>
 	
 	
-	<div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	<head>Third Pillar</head>
 		
 		<p>
