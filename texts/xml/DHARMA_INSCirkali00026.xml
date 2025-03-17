@@ -180,7 +180,7 @@
 			
 			<item>
 				tiru-c-ciṟṟampalam-uṭaiyāṉ <hi rend="grantha">sai<supplied reason="lost">jñā</supplied></hi>
-				<lb n="27" break="no"/>taṉamaikku-p<!--EF: check reading!!--> paṭṭa-p-piriyaṉ vā<hi rend="grantha">jya</hi><choice><orig>n</orig><reg>ṉ</reg></choice> Arukkaṉ <supplied reason="lost">ā</supplied>ḷ-uṭaiyāṉ
+				<lb n="27" break="no"/>taṉmaikku-p paṭṭa-p-piriyaṉ vā<hi rend="grantha">jya</hi><choice><orig>n</orig><reg>ṉ</reg></choice> Arukkaṉ <supplied reason="lost">ā</supplied>ḷ-uṭaiyāṉ
 			</item>
 			
 			<item>
@@ -189,11 +189,11 @@
 			</item>
 			
 			<item>
-				pālā<hi rend="grantha">śrī</hi>yaṉ piraḷaya-viṭaṅkaṉ tiru-t-<supplied reason="lost">ō</supplied>ṇi_puram-uṭaiyāṉ vājyaṉ tēvaṉ tiru-t<lb n="29" break="no"/>-tōṇi-puram-uṭaiyāṉ
+				pālā<hi rend="grantha">śrī</hi>yaṉ piraḷaya-viṭaṅkaṉ tiru-t-<supplied reason="lost">ō</supplied>ṇi-puram-uṭaiyāṉ vājyaṉ tēvaṉ tiru-t<lb n="29" break="no"/>-tōṇi-puram-uṭaiyāṉ
 			</item>
 			
 			<item>
-				<hi rend="grantha">saijñā</hi>taṉamaikku paṭṭa-<unclear>p</unclear>-piriyaṉ <unclear>cāpānati-cēṉtaṉ</unclear> v<choice><orig>i</orig><reg>ī</reg></choice>ra-pattaraṉ
+				<hi rend="grantha">saijñā</hi>taṉmaikku paṭṭa-<unclear>p</unclear>-piriyaṉ <unclear>cāpānati-cēṉtaṉ</unclear> v<choice><orig>i</orig><reg>ī</reg></choice>ra-pattaraṉ
 			</item>
 			
 			<item>
@@ -202,7 +202,7 @@
 			</item>
 			
 			<item>
-				<hi rend="grantha"><unclear>saijñā</unclear></hi>taṉamaikku
+				<hi rend="grantha"><unclear>saijñā</unclear></hi>taṉmaikku
 				<lb n="31"/>paṭṭa-p-piriyaṉ piraḷaya-viṭaṅkaṉ tēva<supplied reason="lost">ṉ</supplied>
 			</item>
 			
@@ -263,18 +263,22 @@
 	
 </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
              
-	<listApp>
-		
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">...</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>-->
+    <listApp>
+        
+        <app loc="26">
+            <lem><hi rend="grantha">sai<supplied reason="lost">jñā</supplied></hi>°</lem>
+            <note>That is, Sanskrit <foreign>saṃjñā</foreign>. See also following lines.</note>
+        </app><app loc="27">
+            <lem>°taṉmaikkup</lem>
+            <rdg source="bib:Veluppillai2013_01">°taṉmaikkup</rdg>
+            <note>Same correction in the following lines.</note>
+        </app>
+        
+    </listApp>
+    
+</div>
             
 <div type="translation" xml:lang="fra" source="bib:Veluppillai2013_01">
 	
@@ -287,40 +291,40 @@
         	
 <div type="bibliography">
       
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/381).</p>
-	
-	<p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 26), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
-	
-	<p>This edition by Uthaya Veluppillai (2022).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl>
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">296-301</citedRange>
-			<citedRange unit="item">26</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">33</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">381</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">550</citedRange>
-			<citedRange unit="item">Tj. 2414</citedRange>			
-		</bibl>
-	</listBibl>
-	
-            </div>
-        </body>
-    </text>
+    <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/381).</p>
+    
+    <p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 26), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
+    
+    <p>This online edition by Uthaya Veluppillai and Emmanuel Francis.</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="UV">
+            <ptr target="bib:Veluppillai2013_01"/>
+            <citedRange unit="page">296-301</citedRange>
+            <citedRange unit="item">26</citedRange>
+        </bibl>
+        
+    </listBibl>
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1918-1919"/>
+            <citedRange unit="page">33</citedRange>
+            <citedRange unit="appendix">B/1918</citedRange>
+            <citedRange unit="item">381</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Mahalingam1992_01"/>
+            <citedRange unit="page">550</citedRange>
+            <citedRange unit="item">Tj. 2414</citedRange>			
+        </bibl>
+    </listBibl>
+    
+</div>
+</body>
+	</text>
 </TEI>
 <!--
 		Cīrkāḻi, Tōṇipuram temple, Campantar shrine
