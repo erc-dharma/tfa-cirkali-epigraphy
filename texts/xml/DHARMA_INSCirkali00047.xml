@@ -5,199 +5,199 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, fragment, time of Kōpperuñciṅkaṉ, year lost</title>				
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
-				</respStmt>	
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00047</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-                     Licence. To view a copy of the licence, visit
-                     https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
-                     Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
-                     USA.</p>
-						<p>Copyright (c) 2019-2025 by John Doe.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>...</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-               under the European Union's Horizon 2020 research and innovation programme (grant
-               agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                  ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-                     <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-03">Revise encoding</change>
-			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
-		</revisionDesc>
-	</teiHeader>
-	
-<text xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, fragment, time of Kōpperuñciṅkaṉ, year lost</title>				
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <surname>Francis</surname>
+                        <forename>Emmanuel</forename>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00047</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
+                            Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
+                            USA.</p>
+                        <p>Copyright (c) 2019-2025 by John Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Fragment on an orphan stone slab. The inscription was engraved on at least two stone slabs.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-03">Revise encoding</change>
+            <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
         
-<body>
+        <body>
             
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">	
-	
-	<!--EF: update gap lengths after SII-->
-	
-	<p>
-		<lb n="1"/>
-		la-puvaṉa-c-cakrava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēva
-				
-		<lb n="2"/>
-		ṅkaḷukkum Uṭal-āka naṭuvil-nāṭ-āṉa Irā<supplied reason="omitted">ja</supplied>-rā<hi rend="grantha">ja</hi>
-				
-		<lb n="3"/>
-		ḷḷaiyār kōyi<supplied reason="undefined">li</supplied>l tiru-p-patiyam viṇṇappañ <supplied reason="undefined">c</supplied>e
-		
-		<lb n="4"/>
-		ṉ-ṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā
-		
-		<lb n="5"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		ḻa-p-pal<supplied reason="lost">la</supplied>varaiyaṉē
-		
-	</p>
-	
-</div>
-            
-<div type="apparatus">
-             
-	<listApp>
-		
-		<app loc="1"><!--EF-->
-			<lem>lapuvaṉa°</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<note>The lacuna can be restored as <foreign><supplied reason="lost">caka</supplied>lapuvaṉa°</foreign>.</note>
-		</app>
-		
-		<app loc="3"><!--EF-->
-			<lem>viṇṇappañ <supplied reason="undefined">c</supplied>e</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<note>The lacuna can be restored with a form of <foreign>viṇṇappañ cey-tal</foreign>, litteraly "to make a request", a current expression for the recitation of hymns (<foreign>tiruppatiyam</foreign>).</note>
-		</app>
-		
-		<app loc="4"><!--EF-->
-			<lem>ṉṉila<supplied reason="undefined">m</supplied></lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<note>The lacuna can be restored as <foreign><supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></foreign>.</note>
-		</app>
-		
-		<app loc="4"><!--EF-->
-			<lem>t<supplied reason="undefined">ē</supplied>vatāṉakā</lem>
-			<rdg source="bib:Veluppillai2013_01">t<supplied reason="undefined">e</supplied>vatāṉa kā</rdg>
-			<note>The lacuna can be restored as <foreign>t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied></foreign></note>
-		</app>
-		
-	</listApp>
-	
-</div>
-         
-<!--<div type="translation" resp="part:emfr">
-                        
-	<p>            	
-            	
-            </p>	
-	
-</div>-->
-            
-<!--<div type="commentary">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">	
                 
-</div>-->
-	
-<div type="bibliography">  
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/367).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.252)</p>
-	<p>Re-edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 47), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
-	
-	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
-			
-	<listBibl type="primary">
-				
-		<bibl n="VVA">
-			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-			<citedRange unit="page">157</citedRange>
-			<citedRange unit="item">252</citedRange>
-		</bibl>
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">339-340</citedRange>
-			<citedRange unit="item">47</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">32</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">367</citedRange>
-		</bibl>
-				
-		<!--<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page"></citedRange>
-			<citedRange unit="item"></citedRange>			
-		</bibl>-->
-		
-	</listBibl>
-	
+                <!--EF: update gap lengths after SII-->
+                
+                <p>
+                    <lb n="1"/>
+                    la-puvaṉa-c-cakrava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-peruñ-ciṅka-tēva
+                    
+                    <lb n="2"/>
+                    ṅkaḷukkum Uṭal-āka naṭuvil-nāṭ-āṉa Irā<supplied reason="omitted"><hi rend="grantha">ja</hi></supplied>-rā<hi rend="grantha">ja</hi>
+                    
+                    <lb n="3"/>
+                    ḷḷaiyār kōyi<supplied reason="undefined">li</supplied>l tiru-p-patiyam viṇṇappañ <supplied reason="undefined">c</supplied>e
+                    
+                    <lb n="4"/>
+                    ṉ-ṉila<supplied reason="undefined">m O</supplied>ṉṟē Oṉpatu māvum t<supplied reason="undefined">ē</supplied>vatāṉa-kā
+                    
+                    <lb n="5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ḻa-p-pal<supplied reason="lost">la</supplied>varaiyaṉē
+                    
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1"><!--EF-->
+                        <lem>lapuvaṉa°</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <note>The lacuna can be restored as <foreign><supplied reason="lost">caka</supplied>lapuvaṉa°</foreign>.</note>
+                    </app>
+                    
+                    <app loc="3"><!--EF-->
+                        <lem>viṇṇappañ <supplied reason="undefined">c</supplied>e</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <note>The lacuna can be restored with a form of <foreign>viṇṇappañ cey-tal</foreign>, litteraly "to make a request", a current expression for the recitation of hymns (<foreign>tiruppatiyam</foreign>).</note>
+                    </app>
+                    
+                    <app loc="4"><!--EF-->
+                        <lem>ṉṉila<supplied reason="undefined">m</supplied></lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <note>The lacuna can be restored as <foreign><supplied reason="lost">I</supplied>ṉ-ṉila<supplied reason="undefined">m</supplied></foreign>.</note>
+                    </app>
+                    
+                    <app loc="4"><!--EF-->
+                        <lem>t<supplied reason="undefined">ē</supplied>vatāṉakā</lem>
+                        <rdg source="bib:Veluppillai2013_01">t<supplied reason="undefined">e</supplied>vatāṉa kā</rdg>
+                        <note>The lacuna can be restored as <foreign>t<supplied reason="undefined">ē</supplied>vatāṉa-kā<supplied reason="lost">ṇi</supplied></foreign></note>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p>            	
+                
+                </p>	
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">  
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/367).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (<ref target="DHARMA_INSSIIv12p0i0252">SII 12.252</ref>)</p>
+                <p>Re-edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 47), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
+                
+                <p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="VVA">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">157</citedRange>
+                        <citedRange unit="item">252</citedRange>
+                    </bibl>
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">339-340</citedRange>
+                        <citedRange unit="item">47</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">32</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">367</citedRange>
+                    </bibl>
+                    
+                    <!--<bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page"></citedRange>
+                        <citedRange unit="item"></citedRange>			
+                        </bibl>-->
+                    
+                </listBibl>
+                
             </div>
         </body>
     </text>
