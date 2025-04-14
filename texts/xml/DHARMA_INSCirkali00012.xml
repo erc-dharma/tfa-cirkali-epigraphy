@@ -5,356 +5,356 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, time of Kōpperuñciṅkaṉ, year lost</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
-				</respStmt>	
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00012</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by John Doe.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-03">Revise encoding</change>
-			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-<body>
-      
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	<!--
-		Check/Add notes form UV PhD
-	-->
-	
-	<!--EF: gap lengths and initial vowels after SII-->
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><supplied reason="lost">svasti śrī</supplied>
-	</ab>
-	
-	<p>
-		<supplied reason="lost">cakala-puvaṉa-c-cakka</supplied>rava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="lost">kō-p</supplied>-peruñ-ciṅka-tēvaṟkku yāṇṭu <gap reason="lost" quantity="8" unit="character"/>-<supplied reason="undefined">nāyaṟṟu</supplied> pū<hi rend="grantha">rvva-pakṣa</hi>ttu <hi rend="grantha">pratha</hi><supplied reason="undefined">maiyum</supplied> caṉi-k-kiḻamaiyum peṟṟa <supplied reason="undefined">pūca</supplied>ttu ṉāḷ
-	</p>
-	
-	<p>
-		<hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t 
-		<lb n="2"/>
-		<gap reason="lost" quantity="8" unit="character"/>
-		ṭayār <supplied reason="lost">tiru-t-tōṇi</supplied>-puram-uṭaiyār kō<supplied reason="undefined">yil-k</supplied>-kaṇakka <gap reason="lost" quantity="9" unit="character"/> tiru-k-kaṭalukku Eḻun=t-aruḷi-c ceyta Amaitta-ṉārāya 
-		<lb n="3" break="no"/>
-		<gap reason="lost" quantity="8" unit="character"/>
-		kat <gap reason="lost" quantity="8" unit="character"/>
-		cāttaṉ peru-vēmp-uṭaiya <gap reason="lost" quantity="9" unit="character"/> ṟkku Icaivu-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭutta paric' āvatu
-	</p>
-	
-	<p>
-		Uṭaiyār tiru		
-		<lb n="4" break="no"/>-
-		<gap reason="lost" quantity="8" unit="character"/>
-		yā <gap reason="lost" quantity="8" unit="character"/> tiru-vāli-y-āṉa Etirili-cōḻa-c-catu<hi rend="grantha">rvve</hi><supplied reason="undefined">ti-maṅ</supplied>kala <gap reason="lost" quantity="5" unit="character"/> piṟinta Eṇ-vēli Ākkūril Āta-maṅ<supplied reason="undefined">ka</supplied>la-v<choice><orig>i</orig><reg>ī</reg></choice>ra-c<supplied reason="undefined">ō</supplied>ḻaṉār 
-		
-		<lb n="5"/>
-		<gap reason="lost" quantity="7" unit="character"/>
-		ātta <gap reason="lost" quantity="5" unit="character"/> vēmp-uṭaiyār tiru-nāmattu-k kāṇi-y-āka-k koṇṭa A <gap reason="lost" quantity="6" unit="character"/>
-		ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="nilam"/> <g type="kāl"/> <g type="mukkāṇi"/> <g type="mākāṇi"/> <g type="araikkāṇi"/> Iṉ 
-		
-		<lb n="6"/>
-		<gap reason="lost" quantity="8" unit="character"/>
-		Arai-k-kāṇikkum tēvātāṉa-k-kaṭamaiyum puravu <gap reason="lost" quantity="7" unit="character"/> Iṟu <gap reason="lost" quantity="8" unit="character"/> maiyum ceytāl peṟuvat' oṉṟum illai Eṉṟum 
-		
-		<lb n="7"/>
-		<gap reason="lost" quantity="8" unit="character"/>
-		nṉā <gap reason="lost" quantity="2" unit="character"/> vi<supplied reason="undefined">ḷai</supplied>-nilattilē Ātalum <gap reason="lost" quantity="6" unit="character"/> yār Eḻunt-aruḷi Iru <gap reason="lost" quantity="6" unit="character"/> taiva <gap reason="lost" quantity="3" unit="character"/> ṟṟa Iṟai-y-ili-y-āka-c cila nilam peṟa vēṇum y-eṉṟum I<choice><orig>ṉ</orig><reg>n</reg></choice>ta
-		
-		<lb n="8"/>
-		<supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu tiru-k-kaḻuma<supplied reason="undefined">la</supplied> <gap reason="lost" quantity="10" unit="character"/> Ip-paṭi <gap reason="lost" quantity="2" unit="character"/> van eṉṟum Aruḷi-c-c<choice><orig>e</orig><reg>ey</reg></choice>kai <gap reason="lost" quantity="3" unit="character"/> ya muṟ-kuṟitta Iraṇṭu v<supplied reason="undefined">ē</supplied>li <gap reason="lost" quantity="6" unit="character"/> pottaka-p paṭi nilam Eṭṭu mā-k-kā
-		<lb n="9" break="no"/>
-		<supplied reason="lost">ṇi</supplied> <gap reason="lost" quantity="7" unit="character"/>
-		raṇa-t-tē <gap reason="lost" quantity="10" unit="character"/> <supplied reason="lost">ti</supplied>
-		ru-k-kaḻumalattu tiru-nāmattu-k kāṇiyil Ivaṟkku kāṇiyum Iṟai-y-ili-yu<choice><orig>mm</orig><reg>m</reg></choice>-āka <supplied reason="undefined">v-iṭṭa</supplied> cuttamalli-vatikku kiḻakkum rā<hi rend="grantha">jendra</hi>-cōḻa-vāykkā 
-		<lb n="10" break="no"/>
-		<gap reason="lost" quantity="8" unit="character"/>
-		cā<hi rend="grantha">sta</hi>ṉ peru<supplied reason="lost">-vēmp-uṭaiyā</supplied>r <supplied reason="undefined">tiru</supplied>-<supplied reason="omitted">k</supplied>-kōyil viḷāka-k-kaṇṭattu y-inta-p peru-vēmpu-Uṭaiyār Eḻunt-aru<supplied reason="undefined">ḷi-y-i</supplied>runta kōyi<choice><orig>ll</orig><reg>l</reg></choice>um tiru-muṟṟattukkum pe <gap reason="lost" quantity="3" unit="character"/> kkum y-i<choice><orig>ṉ</orig><reg>n</reg></choice> 
-		
-		<lb n="11" break="no"/><supplied reason="undefined">ta</supplied> paric' āvatu
-		<gap reason="lost" quantity="10" unit="character"/>
-		m-āka v-iṭṭa Ūr <g type="nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="nilam"/> <g type="kāṇi"/> <g type="araikkāṇi"/> <g type="kīḻ"/> <g type="araikkāṇi"/> <g type="kāl"/> y-i<choice><orig>-n</orig><reg>n-n</reg></choice>ilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
-		<gap reason="lost" quantity="4" unit="character"/>
-		cāttaṉ peru-vē <gap reason="lost" quantity="3" unit="character"/> 
-		<lb n="12" break="no"/>tu Ivar Eḻunt-aruḷi
-		<gap reason="lost" quantity="10" unit="character"/>
-		mā-t- to<supplied reason="undefined">ṭ</supplied>ṭam-āka kuṭuttōm
-	</p>
-	
-	<p>
-		In-<choice><orig>ṉ</orig><reg>n</reg></choice>ilattu mēṉōkkiṉa maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nōkkiṉa kiṇaṟum maṟṟum Eppēṟpaṭṭa Urimaikaḷum A 
-		<lb n="13" break="no"/>ka-p-paṭa-k
-		<gap reason="lost" quantity="10" unit="character"/>		
-		vut' ākavum
-	</p>
-	
-	<p>
-		I<choice><orig>-ṉ</orig><reg>n-n</reg></choice>ilattukku <supplied reason="undefined">Oṭaiyilē</supplied>
-		<gap reason="lost" quantity="5" unit="character"/>
-		payiṟ-k-ko<supplied reason="lost">ḷḷa-k kaṭa</supplied>vat' ākavum
-	</p>
-	
-	<p>
-		<g type="nilam"/> kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kālum cantirātitta-varaiyum y-ivar 
-		<gap reason="lost" quantity="5" unit="character"/>
-		
-		<lb n="14"/>y-iṟai-y-ili-yum
-		<gap reason="lost" quantity="9" unit="character"/>
-		cammatittu Icaivu-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭuttōm
-	</p>
-	<p>
-		ma<hi rend="grantha">hā</hi>-cā<supplied reason="undefined"><hi rend="grantha">sta</hi></supplied>ṉ peru-vēmp-uṭaiyār kōyil-p paṭimattāṟku Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tiru-k-kōyi
-		<gap reason="lost" quantity="5" unit="character"/>
-		<lb n="15"/>
-		tōm
-	</p>
-	
-	<p>
-		<list>
-		<item>Ip-paṭi <gap reason="lost" quantity="10" unit="character"/> -k-kaṇakku kaṇpūr-uṭaiyāṉ c<choice><orig>i</orig><reg>ī</reg></choice>-mā<hi rend="grantha">heśva</hi>ra-p-piriyaṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai kōyil kaṇakku virāṇam-uṭaiyāṉ tiru-v-ēkampa-p-piriyaṉ Eḻuttu</item>
-		<item>Ip-paṭikku I <gap reason="lost" quantity="5" unit="character"/>
-		<lb n="16"/>kaṉmi poṟ-<supplied reason="lost">kōyil-paṭṭaṉ E</supplied>ḻuttu</item>
-		<item>Ip-paṭikku Ivai kōyil-<surplus>k</surplus><!--EF check!-->-kaṇakku virāṇam-uṭaiyāṉ tiru-t-tōṇi-puram-uṭaiyān Eḻuttu</item>
-		<item>Ip-paṭikku Ivai virāṇam-uṭaiyāṉ paṉaittaḻumpaṉ E<supplied reason="lost">ḻuttu</supplied></item>
-		<item><supplied reason="lost">Ippa</supplied>
-		<lb n="17" break="no"/>ṭikku Ivai ka <gap reason="lost" quantity="10" unit="character"/> Eḻuttu </item>
-		<item>Ip-paṭikku Ivai koyil-k-kaṇakku tiru-niṉṟavūr-uṭaiyāṉ Eḻuttu</item> 
-		<item>Ip-paṭikku Ivai tēvarkaṉmi muṭi-vaḻaṅku-cōḻa-paṭṭaṉ Eḻuttu</item> 
-		<item>Ip-paṭi <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tē</supplied>
-		<lb n="18" break="no"/>varkaṉmi til<supplied reason="lost">lai</supplied>- <gap reason="lost" quantity="8" unit="character"/> ṉ Eḻuttu</item>
-		<item>I<supplied reason="lost">p-paṭikku I</supplied>v<supplied reason="lost">ai</supplied> c<choice><orig>i</orig><reg>ī</reg></choice>-mā<hi rend="grantha">heśvara</hi>-kaṇkāṇi kōyil-kaṇakku māmpāttaḻaiyāṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai <hi rend="grantha">śrī</hi>-kāri <gap reason="lost" extent="unknown" unit="character"/></item>
-		</list>
-	</p>
-	         	
-	<p>
-		<gap reason="lost" extent="unknown" unit="line"/>
-	</p>
-	
-         </div>
-        
-<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="1">
-			<lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> cakalapuvaṉaccakka</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="11" unit="character"/></rdg>
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent ="unknown" unit="character"/></rdg>
-		</app>
-		
-		<app loc="1">
-			<lem><hi rend="grantha">śrī</hi><supplied reason="lost">kōp</supplied>peruñ</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">śrī</hi> <gap reason="lost" quantity="2" unit="character"/> peruñ</rdg>
-			<rdg source="bib:Veluppillai2013_01"><hi rend="grantha">śrī</hi><gap reason="lost" extent ="unknown" unit="character"/>peruñ°</rdg>
-		</app>
-		
-		<app loc="2">
-			<lem><supplied reason="lost">tiruttōṇi</supplied>puramuṭaiyār</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="5" unit="character"/>puramuṭaiyār</rdg>
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/>puramuṭaiyār</rdg>
-		</app>
-		
-		<app loc="8">
-			<lem><supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="8" unit="character"/>ḷaṉāṭṭu</rdg>					</app>		
-			
-		<app loc="8">
-			<lem>mākkā	<lb n="9" break="no"/><gap reason="lost" quantity="8" unit="character"/></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">mākkā<lb n="9" break="no"/><gap reason="lost" quantity="8" unit="character"/></rdg>		
-			<rdg source="bib:Veluppillai2013_01">mākkā<lb n="9" break="no"/><gap reason="lost" extent="unknown" unit="character"/></rdg>			
-		</app>		
-		
-		<app loc="10">
-			<lem>peru<supplied reason="lost">vēmpuṭaiyā</supplied>r</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">peru <gap reason="lost" quantity="4" unit="character"/>r</rdg>
-		</app>
-						
-		<app loc="16">
-			<lem>poṟ<supplied reason="lost">kōyilpaṭṭaṉ E</supplied>ḻuttu</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">poṟ<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"/> ḻuttu</rdg>
-		</app>
-		
-		<app loc="17">
-			<lem><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tē</supplied><lb n="18" break="no"/>varkaṉmi</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>varkaṉmi</rdg>			
-			<rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/><lb n="18" break="no"/>varkaṉmi</rdg>
-		</app>
-		
-		<app loc="18">
-			<lem>I<supplied reason="lost">p-paṭikku I</supplied>v<supplied reason="lost">ai</supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01">I <gap reason="lost" quantity="7" unit="character"/> va</rdg>			
-			<rdg source="bib:Veluppillai2013_01">I <gap reason="lost" extent="unknown" unit="character"/> va</rdg>
-		</app>	
-		
-	</listApp>
-	
-</div>
-	
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">
-		<supplied reason="lost">Prosperity! Fortune!</supplied>
-	</p>
-	
-	<p n="1">
-		<gap reason="undefined"/> year of the glorious Kōpperuñciṅkaṉ, emperor of all worlds, in the month of <gap reason="undefined"/>, in the first fortnight, first day, on the day of <foreign>pūcam</foreign><note>That is, the <foreign>nakṣatra</foreign> <foreign>puṣya</foreign>.</note>, which coincides with a Saturday. 
-	</p>
-	
-	<p n="1-3">
-		This is the manner in which <gap reason="ellipsis"/> has given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> <gap reason="ellipsis"/>
-	</p>
-	
-	<p n="3-12">
-		We have given as great garden <gap reason="ellipsis"/>
-	</p>
-	
-	<p n="12-13">
-		Let there be that <gap reason="lost"/> in this land, the trees <gap reason="ellipsis"/>, the wells <gap reason="ellipsis"/>
-	</p>
-	
-	<p n="13">
-		Let there be that there is obligation to obtain crop <gap reason="ellipsis"/>
-	</p>
-	
-	<p n="13-14">
-		We have given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> <gap reason="ellipsis"/> as long as the moon and the sun <gap reason="ellipsis"/>
-	</p>
-	
-	<p n="14-15">
-		<supplied reason="lost">We have given</supplied> <gap reason="ellipsis"/> <supplied reason="lost">in</supplied> the glorious temple <supplied reason="subaudible">of</supplied> the Lord, the Lord of Tiruttōṇipuram, for the <foreign>paṭimattār</foreign><note>See MTL, s.v. <foreign>paṭimattōṉ</foreign>: "Temple-priest divinely inspired and possessed of oracular powers".</note> of the temple of Mahāśāsta, the lord of Peruvēmpu.
-	</p>
-	
-	<p n="15-18">
-		[list of signatories]
-	</p>
-         </div>
-
-<!--<div type="commentary">
-           
-         </div>-->
-
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/391).</p>
-	<p>Edited, with summary, in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.253).</p>
-	
-	<p>Re-edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 12), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
-		
-	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
-
-	
-	<listBibl type="primary">
-					
-		<bibl n="VVA">
-			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-			<citedRange unit="page">157-158</citedRange>
-			<citedRange unit="item">253</citedRange>
-		</bibl>
-		
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">272-275</citedRange>
-			<citedRange unit="item">12</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">33</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">391</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">552</citedRange>
-			<citedRange unit="item">Tj. 2425</citedRange>			
-		</bibl>
-		
-	</listBibl>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, time of Kōpperuñciṅkaṉ, year lost</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <surname>Francis</surname>
+                        <forename>Emmanuel</forename>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00012</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-03">Revise encoding</change>
+            <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <!--
+                    Check/Add notes form UV PhD
+                -->
+                
+                <!--EF: gap lengths and initial vowels after SII-->
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/><supplied reason="lost">svasti śrī</supplied>
+                </ab>
+                
+                <p>
+                    <supplied reason="lost">cakala-puvaṉa-c-cakka</supplied>rava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-<supplied reason="lost">kō-p</supplied>-peruñ-ciṅka-tēvaṟkku yāṇṭu <gap reason="lost" quantity="8" unit="character"/>-<supplied reason="undefined">nāyaṟṟu</supplied> pū<hi rend="grantha">rvva-pakṣa</hi>ttu <hi rend="grantha">pratha</hi><supplied reason="undefined">maiyum</supplied> caṉi-k-kiḻamaiyum peṟṟa <supplied reason="undefined">pūca</supplied>ttu ṉāḷ
+                </p>
+                
+                <p>
+                    <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t 
+                    <lb n="2"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    ṭayār <supplied reason="lost">tiru-t-tōṇi</supplied>-puram-uṭaiyār kō<supplied reason="undefined">yil-k</supplied>-kaṇakka <gap reason="lost" quantity="9" unit="character"/> tiru-k-kaṭalukku Eḻun=t-aruḷi-c ceyta Amaitta-ṉārāya 
+                    <lb n="3" break="no"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    kat <gap reason="lost" quantity="8" unit="character"/>
+                    cāttaṉ peru-vēmp-uṭaiya <gap reason="lost" quantity="9" unit="character"/> ṟkku Icaivu-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭutta paric' āvatu
+                </p>
+                
+                <p>
+                    Uṭaiyār tiru		
+                    <lb n="4" break="no"/>-
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    yā <gap reason="lost" quantity="8" unit="character"/> tiru-vāli-y-āṉa Etirili-cōḻa-c-catu<hi rend="grantha">rvve</hi><supplied reason="undefined">ti-maṅ</supplied>kala <gap reason="lost" quantity="5" unit="character"/> piṟinta Eṇ-vēli Ākkūril Āta-maṅ<supplied reason="undefined">ka</supplied>la-v<choice><orig>i</orig><reg>ī</reg></choice>ra-c<supplied reason="undefined">ō</supplied>ḻaṉār 
+                    
+                    <lb n="5"/>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    ātta <gap reason="lost" quantity="5" unit="character"/> vēmp-uṭaiyār tiru-nāmattu-k kāṇi-y-āka-k koṇṭa A <gap reason="lost" quantity="6" unit="character"/>
+                    ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="nilam"/> 1/4 3/64 3/80 1/160 Iṉ 
+                    
+                    <lb n="6"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    Arai-k-kāṇikkum tēvātāṉa-k-kaṭamaiyum puravu <gap reason="lost" quantity="7" unit="character"/> Iṟu <gap reason="lost" quantity="8" unit="character"/> maiyum ceytāl peṟuvat' oṉṟum illai Eṉṟum 
+                    
+                    <lb n="7"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    nṉā <gap reason="lost" quantity="2" unit="character"/> vi<supplied reason="undefined">ḷai</supplied>-nilattilē Ātalum <gap reason="lost" quantity="6" unit="character"/> yār Eḻunt-aruḷi Iru <gap reason="lost" quantity="6" unit="character"/> taiva <gap reason="lost" quantity="3" unit="character"/> ṟṟa Iṟai-y-ili-y-āka-c cila nilam peṟa vēṇum y-eṉṟum I<choice><orig>ṉ</orig><reg>n</reg></choice>ta
+                    
+                    <lb n="8"/>
+                    <supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu tiru-k-kaḻuma<supplied reason="undefined">la</supplied> <gap reason="lost" quantity="10" unit="character"/> Ip-paṭi <gap reason="lost" quantity="2" unit="character"/> van eṉṟum Aruḷi-c-c<choice><orig>e</orig><reg>ey</reg></choice>kai <gap reason="lost" quantity="3" unit="character"/> ya muṟ-kuṟitta Iraṇṭu v<supplied reason="undefined">ē</supplied>li <gap reason="lost" quantity="6" unit="character"/> pottaka-p paṭi nilam Eṭṭu mā-k-kā
+                    <lb n="9" break="no"/>
+                    <supplied reason="lost">ṇi</supplied> <gap reason="lost" quantity="7" unit="character"/>
+                    raṇa-t-tē <gap reason="lost" quantity="10" unit="character"/> <supplied reason="lost">ti</supplied>
+                    ru-k-kaḻumalattu tiru-nāmattu-k kāṇiyil Ivaṟkku kāṇiyum Iṟai-y-ili-yu<choice><orig>mm</orig><reg>m</reg></choice>-āka <supplied reason="undefined">v-iṭṭa</supplied> cuttamalli-vatikku kiḻakkum rā<hi rend="grantha">jendra</hi>-cōḻa-vāykkā 
+                    <lb n="10" break="no"/>
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    cā<hi rend="grantha">sta</hi>ṉ peru<supplied reason="lost">-vēmp-uṭaiyā</supplied>r <supplied reason="undefined">tiru</supplied>-<supplied reason="omitted">k</supplied>-kōyil viḷāka-k-kaṇṭattu y-inta-p peru-vēmpu-Uṭaiyār Eḻunt-aru<supplied reason="undefined">ḷi-y-i</supplied>runta kōyi<choice><orig>ll</orig><reg>l</reg></choice>um tiru-muṟṟattukkum pe <gap reason="lost" quantity="3" unit="character"/> kkum y-i<choice><orig>ṉ</orig><reg>n</reg></choice> 
+                    
+                    <lb n="11" break="no"/><supplied reason="undefined">ta</supplied> paric' āvatu
+                    <gap reason="lost" quantity="10" unit="character"/>
+                    m-āka v-iṭṭa Ūr <g type="nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="nilam"/> 1/80 1/160 <g type="kīḻ"/> 1/160 1/4 y-i<choice><orig>-n</orig><reg>n-n</reg></choice>ilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+                    <gap reason="lost" quantity="4" unit="character"/>
+                    cāttaṉ peru-vē <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="12" break="no"/>tu Ivar Eḻunt-aruḷi
+                    <gap reason="lost" quantity="10" unit="character"/>
+                    mā-t- to<supplied reason="undefined">ṭ</supplied>ṭam-āka kuṭuttōm
+                </p>
+                
+                <p>
+                    In-<choice><orig>ṉ</orig><reg>n</reg></choice>ilattu mēṉōkkiṉa maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nōkkiṉa kiṇaṟum maṟṟum Eppēṟpaṭṭa Urimaikaḷum A 
+                    <lb n="13" break="no"/>ka-p-paṭa-k
+                    <gap reason="lost" quantity="10" unit="character"/>		
+                    vut' ākavum
+                </p>
+                
+                <p>
+                    I<choice><orig>-ṉ</orig><reg>n-n</reg></choice>ilattukku <supplied reason="undefined">Oṭaiyilē</supplied>
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    payiṟ-k-ko<supplied reason="lost">ḷḷa-k kaṭa</supplied>vat' ākavum
+                </p>
+                
+                <p>
+                    <g type="nilam"/> kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kālum cantirātitta-varaiyum y-ivar 
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    
+                    <lb n="14"/>y-iṟai-y-ili-yum
+                    <gap reason="lost" quantity="9" unit="character"/>
+                    cammatittu Icaivu-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭuttōm
+                </p>
+                <p>
+                    ma<hi rend="grantha">hā</hi>-cā<supplied reason="undefined"><hi rend="grantha">sta</hi></supplied>ṉ peru-vēmp-uṭaiyār kōyil-p paṭimattāṟku Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tiru-k-kōyi
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="15"/>
+                    tōm
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Ip-paṭi <gap reason="lost" quantity="10" unit="character"/> -k-kaṇakku kaṇpūr-uṭaiyāṉ c<choice><orig>i</orig><reg>ī</reg></choice>-mā<hi rend="grantha">heśva</hi>ra-p-piriyaṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai kōyil kaṇakku virāṇam-uṭaiyāṉ tiru-v-ēkampa-p-piriyaṉ Eḻuttu</item>
+                        <item>Ip-paṭikku I <gap reason="lost" quantity="5" unit="character"/>
+                            <lb n="16"/>kaṉmi poṟ-<supplied reason="lost">kōyil-paṭṭaṉ E</supplied>ḻuttu</item>
+                        <item>Ip-paṭikku Ivai kōyil-<surplus>k</surplus><!--EF check!-->-kaṇakku virāṇam-uṭaiyāṉ tiru-t-tōṇi-puram-uṭaiyān Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai virāṇam-uṭaiyāṉ paṉaittaḻumpaṉ E<supplied reason="lost">ḻuttu</supplied></item>
+                        <item><supplied reason="lost">Ippa</supplied>
+                            <lb n="17" break="no"/>ṭikku Ivai ka <gap reason="lost" quantity="10" unit="character"/> Eḻuttu </item>
+                        <item>Ip-paṭikku Ivai koyil-k-kaṇakku tiru-niṉṟavūr-uṭaiyāṉ Eḻuttu</item> 
+                        <item>Ip-paṭikku Ivai tēvarkaṉmi muṭi-vaḻaṅku-cōḻa-paṭṭaṉ Eḻuttu</item> 
+                        <item>Ip-paṭi <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tē</supplied>
+                            <lb n="18" break="no"/>varkaṉmi til<supplied reason="lost">lai</supplied>- <gap reason="lost" quantity="8" unit="character"/> ṉ Eḻuttu</item>
+                        <item>I<supplied reason="lost">p-paṭikku I</supplied>v<supplied reason="lost">ai</supplied> c<choice><orig>i</orig><reg>ī</reg></choice>-mā<hi rend="grantha">heśvara</hi>-kaṇkāṇi kōyil-kaṇakku māmpāttaḻaiyāṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai <hi rend="grantha">śrī</hi>-kāri <gap reason="lost" extent="unknown" unit="character"/></item>
+                    </list>
+                </p>
+                
+                <p>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> cakalapuvaṉaccakka</supplied></lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="11" unit="character"/></rdg>
+                        <rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent ="unknown" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem><hi rend="grantha">śrī</hi><supplied reason="lost">kōp</supplied>peruñ</lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01"><hi rend="grantha">śrī</hi> <gap reason="lost" quantity="2" unit="character"/> peruñ</rdg>
+                        <rdg source="bib:Veluppillai2013_01"><hi rend="grantha">śrī</hi><gap reason="lost" extent ="unknown" unit="character"/>peruñ°</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem><supplied reason="lost">tiruttōṇi</supplied>puramuṭaiyār</lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="5" unit="character"/>puramuṭaiyār</rdg>
+                        <rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/>puramuṭaiyār</rdg>
+                    </app>
+                    
+                    <app loc="8">
+                        <lem><supplied reason="lost">rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>va</supplied>ḷa<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="8" unit="character"/>ḷaṉāṭṭu</rdg>					</app>		
+                    
+                    <app loc="8">
+                        <lem>mākkā	<lb n="9" break="no"/><gap reason="lost" quantity="8" unit="character"/></lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">mākkā<lb n="9" break="no"/><gap reason="lost" quantity="8" unit="character"/></rdg>		
+                        <rdg source="bib:Veluppillai2013_01">mākkā<lb n="9" break="no"/><gap reason="lost" extent="unknown" unit="character"/></rdg>			
+                    </app>		
+                    
+                    <app loc="10">
+                        <lem>peru<supplied reason="lost">vēmpuṭaiyā</supplied>r</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">peru <gap reason="lost" quantity="4" unit="character"/>r</rdg>
+                    </app>
+                    
+                    <app loc="16">
+                        <lem>poṟ<supplied reason="lost">kōyilpaṭṭaṉ E</supplied>ḻuttu</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">poṟ<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"/> ḻuttu</rdg>
+                    </app>
+                    
+                    <app loc="17">
+                        <lem><gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tē</supplied><lb n="18" break="no"/>varkaṉmi</lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>varkaṉmi</rdg>			
+                        <rdg source="bib:Veluppillai2013_01"><gap reason="lost" extent="unknown" unit="character"/><lb n="18" break="no"/>varkaṉmi</rdg>
+                    </app>
+                    
+                    <app loc="18">
+                        <lem>I<supplied reason="lost">p-paṭikku I</supplied>v<supplied reason="lost">ai</supplied></lem>
+                        <rdg source="bib:VenkatasubbaAyyar1943_01">I <gap reason="lost" quantity="7" unit="character"/> va</rdg>			
+                        <rdg source="bib:Veluppillai2013_01">I <gap reason="lost" extent="unknown" unit="character"/> va</rdg>
+                    </app>	
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    <supplied reason="lost">Prosperity! Fortune!</supplied>
+                </p>
+                
+                <p n="1">
+                    <gap reason="undefined"/> year of the glorious Kōpperuñciṅkaṉ, emperor of all worlds, in the month of <gap reason="undefined"/>, in the first fortnight, first day, on the day of <foreign>pūcam</foreign><note>That is, the <foreign>nakṣatra</foreign> <foreign>puṣya</foreign>.</note>, which coincides with a Saturday. 
+                </p>
+                
+                <p n="1-3">
+                    This is the manner in which <gap reason="ellipsis"/> has given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> <gap reason="ellipsis"/>
+                </p>
+                
+                <p n="3-12">
+                    We have given as great garden <gap reason="ellipsis"/>
+                </p>
+                
+                <p n="12-13">
+                    Let there be that <gap reason="lost"/> in this land, the trees <gap reason="ellipsis"/>, the wells <gap reason="ellipsis"/>
+                </p>
+                
+                <p n="13">
+                    Let there be that there is obligation to obtain crop <gap reason="ellipsis"/>
+                </p>
+                
+                <p n="13-14">
+                    We have given a deed of agreement <supplied reason="explanation"><foreign>icaivu-tīṭṭu</foreign></supplied> <gap reason="ellipsis"/> as long as the moon and the sun <gap reason="ellipsis"/>
+                </p>
+                
+                <p n="14-15">
+                    <supplied reason="lost">We have given</supplied> <gap reason="ellipsis"/> <supplied reason="lost">in</supplied> the glorious temple <supplied reason="subaudible">of</supplied> the Lord, the Lord of Tiruttōṇipuram, for the <foreign>paṭimattār</foreign><note>See MTL, s.v. <foreign>paṭimattōṉ</foreign>: "Temple-priest divinely inspired and possessed of oracular powers".</note> of the temple of Mahāśāsta, the lord of Peruvēmpu.
+                </p>
+                
+                <p n="15-18">
+                    [list of signatories]
+                </p>
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/391).</p>
+                <p>Edited, with summary, in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (<ref target="DHARMA_INSSIIv12p0i0253">SII 12.253</ref>).</p>
+                
+                <p>Re-edited in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 12), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>
+                
+                <p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
+                
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="VVA">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">157-158</citedRange>
+                        <citedRange unit="item">253</citedRange>
+                    </bibl>
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">272-275</citedRange>
+                        <citedRange unit="item">12</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">33</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">391</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">552</citedRange>
+                        <citedRange unit="item">Tj. 2425</citedRange>			
+                    </bibl>
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 <!--
-	METADATA:
+    METADATA:
 -->
