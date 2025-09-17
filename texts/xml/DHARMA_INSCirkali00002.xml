@@ -5,262 +5,262 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, time of Vīrarājendra, year 7</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
-					<persName ref="part:utve">
-						<forename>Uthaya</forename>
-						<surname>Veluppillai</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00002</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by John	Doe.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:utve" when="2022-10-14">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-      
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, time of Vīrarājendra, year 7</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:emfr">
+                        <surname>Francis</surname>
+                        <forename>Emmanuel</forename>
+                    </persName>
+                    <persName ref="part:utve">
+                        <forename>Uthaya</forename>
+                        <surname>Veluppillai</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00002</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by John	Doe.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:utve" when="2022-10-14">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-	<!--Update ref. bibliogr. dans les notes UV-->
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī <g type="ddanda">.</g>                  
-	</ab>
-	
-	<p>
-		tiri-puvana-cakkara
-		<lb n="2" break="no"/><supplied reason="undefined">va</supplied>rttikaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-rā<hi rend="grantha">jenti</hi>ra-tēva
-		<lb n="3" break="no"/><supplied reason="undefined">ṟ</supplied>ku yāṇṭu Ēḻ-āvatu
-	</p>
-	
-	<p>
-		<hi rend="grantha">śrī</hi>-pātan tā
-		<lb n="4" break="no"/>ṅkum tiru-<supplied reason="undefined">paḷ</supplied>ḷi-c civiyārkku-c cāmu
-		<lb n="5" break="no"/><supplied reason="undefined">tāyam</supplied> <gap reason="illegible" extent="unknown" unit="character"/> karuppūr-uṭaiyāṉ Utaiyañ-ce
-		<lb n="6" break="no"/>ytāṉ tāḻi-y-āṉa cōḷēntira-ci
-		<lb n="7" break="no"/>ṅka-viḻupparayaṉ-ēṉ Irā<hi rend="grantha">jā</hi>ti
-		<lb n="8" break="no"/>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-p pirama-tēyam
-		<lb n="9"/>tiru-k-kaḻumalattu Uṭaiyār tiru-t-tō
-		<lb n="10" break="no"/>ṇi-puram-uṭaiyārkkum periya nācciyār
-		<lb n="11" break="no"/>kkum cantirāt<choice><sic>u</sic><corr>i</corr></choice>tta-varai Aṭaikkā-y-amutu pā
-		<lb n="12" break="no"/>kkum tēvūr Ilai-y-amutu paṟṟum Amutu c<choice><orig>e</orig><reg>ey</reg></choice>t-aruḷa
-		<lb n="13"/>nāṉ v-iṭṭa nilam āvatu
-	</p>
-	
-	<p>	
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nāṅkūr-<choice><sic>a</sic><corr>ā</corr></choice>ṉa tiru
-		<lb n="14" break="no"/>-c-ciṟṟ-ampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-ca<sic>rupvita</sic>
-		<lb n="15" break="no"/>-maṅkalattu teṉ-piṭākai kiṭāraṅ-koṇṭa-cōḻa
-		<lb n="16" break="no"/><supplied reason="undefined">na</supplied>ll<choice><sic>u</sic><corr>ū</corr></choice>ril kāṇi-Uṭaiya poṉṉuḻāṉ Aiyya
-		<lb n="17" break="no"/><supplied reason="undefined">nam</supplied>pi Uṭaiyāṉum tiru-vāy-k-kulam-uṭaiyāṉ Ai
-		<lb n="18" break="no"/><supplied reason="undefined">y</supplied>ya-nampiyum Aiyya-nampi-tēvaṉum Uḷḷiṭṭ
-		<lb n="19" break="no"/><supplied reason="undefined">ār pa</supplied>kkal nāṉ peṟṟ-uṭai-y-ēṉ-āy Eṉṉut-āy varukiṟa ko
-		<lb n="20" break="no"/>llai nilattukku		
-			
-		<list>
-			<item>mēl-pāṟk' ellai kārai <gap reason="illegible" extent="unknown" unit="character"/> <supplied reason="lost">vāy</supplied>
-				<lb n="21" break="no"/>kālukku kiḻakkum</item>
-			<item>vaṭa-pāṟk' ellai kāvēri <gap reason="illegible" extent="unknown" unit="character"/>
-				<lb n="22" break="no"/>kum tiru-vēṅkāṭṭu mu <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="illegible" extent="unknown" unit="character"/>
-				<lb n="23" break="no"/>ḷḷaiyār Ilai-y-amutu <gap reason="illegible" extent="unknown" unit="character"/>
-				<lb n="24"/><gap reason="illegible" extent="unknown" unit="character"/> tiru-vēṅkāṭṭu mu <gap reason="illegible" extent="unknown" unit="character"/></item>
-		</list>
-		
-		<lb n="25"/>peru-nāṉk' ellai <gap reason="illegible" extent="unknown" unit="character"/>
-		
-		<gap reason="illegible" extent="unknown" unit="character"/>
-		<lb n="26" break="no"/>ṉ Ātittaṉ nārāyaṇaṉ Uyya-k-koṇṭāṉ nilam Iraṇṭu mā-c-ciṉṉamum Ai
-		<lb n="27" break="no"/>yya-nampi Uṭaiyāṉ I<hi rend="grantha">rājarāja</hi>-p peru vilai koṇṭu Aṉupa<supplied reason="undefined">vi</supplied>kkiṟa nilam
-		<lb n="28"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu māvum Ivarkaḷ pakkal kaḷattūr-uṭaiyāṉ tāyilum nallāṉ vi
-		<lb n="29" break="no"/><supplied reason="undefined">lai</supplied> ko<supplied reason="undefined">ṇṭu</supplied> muṉpu Ilai-y-amutu tōṭṭam-āka viḷai
-		<lb n="30" break="no"/>nilam Eṭṭu māvum Āka nilam Araiyē
-		<lb n="31"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā-c-ciṉṉamum n<choice><orig>i</orig><reg>ī</reg></choice>kki 
-		nīkki niṉṟa Eṉṉu
-		<lb n="32" break="no"/>tāy varukiṟa nilam Araiyum In-nilattu
-		<lb n="33"/>Opāti Āṟiṭu paṭukaiyum potuvum po
-		<lb n="34" break="no"/>tāriyuṅ kiṇaṟuṅ kuḷamum ma
-		<lb n="35" break="no"/>ṟṟum Eppērppaṭṭa Urimaika
-		<lb n="36" break="no"/>ḷum Aka-p-paṭa vanta nilam ci
-		<lb n="37" break="no"/>va-nāmattu-k kāṇi-y-āka-k kai
-		<lb n="38" break="no"/>-k-koṇṭu Iṟai Iṟuttu I 
-		<lb n="39" break="no"/><supplied reason="undefined">ṟ</supplied>ai-mikutikku nittaṟ paṭi nāḷ O 
-		<lb n="40" break="no"/>ṉṟukku Aṭai-k-kāy-amutu pākku Iru-nū 
-		<lb n="41" break="no"/>ṟum tēvūr Ilai-y-amutu paṟṟu Āṟum ni 
-		<lb n="42" break="no"/>tta-nimantam-āka cantirātitta-varai c
-		<lb n="43" break="no"/>ella-k kaṭavat-āka viṭṭu-k kuṭuttēṉ ka
-		<lb n="44" break="no"/><supplied reason="undefined">ruppūr-u</supplied>ṭaiyāṉ Uta
-		<lb n="45" break="no"/>yañ-ce<supplied reason="undefined">ytāṉ tāḻi</supplied>-y-āṉa cōḷēntira-ciṅka-viḻupparāya 
-		<lb n="46" break="no"/><supplied reason="undefined">ṉ-ēṉ</supplied>
-	</p>
-	
-	<p>
-		Itu <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-Ira<hi rend="grantha">kṣai</hi> <g type="ddanda">.</g> 
-	</p>
-</div>
-	
-<div type="apparatus">
-                          
-	<listApp>
-                  
-		<app loc="4">
-			<lem>cāmu<lb n="5" break="no"/><supplied reason="undefined">tāyam</supplied></lem>
-			<note>The ASI transcript reads only the syllables <foreign>cāmu</foreign>. The present restoration suggested by G. Vijayavenugopal.</note>
-		</app>
-		
-		<app loc="14">
-			<lem>°ca<sic>rupvita</sic><lb n="15" break="no"/>maṅkalattu</lem>
-			<note>Sic in ASI transcript. Reads <foreign>caruppētimaṅkalattu</foreign>.</note>
-		</app>
-		
-	</listApp>
-</div>
-         
-<div type="translation" xml:lang="fra" resp="part:utve">
-	
-	<!--Report notes from PhD translation-->
-	
-	<p n="1-13">
-		Que la prospérité soit! 
-		En la septième année <supplied reason="subaudible">de règne</supplied> de Vīrarājendradeva, empereur des trois mondes;
-		moi Utaiyañceytāṉ Tāḻi alias Cōḷentiraciṅka Viḻupparayaṉ<note>Dans l’état actuel des recherches, l’identité de ce donateur reste obscure mais son titre de Viḻupparayaṉ précédé du titre royal Cōḷentiraciṅka suggère qu’il est une autorité politique de poids, au moins au niveau local, proche du pouvoir royal. Voir KARASHIMA, SUBBARAYALU, MATSUI (1978 : lii-lv).</note>,
-		propriétaire <supplied reason="subaudible">terrien</supplied> à Karuppūr, représentant des porteurs de palanquin <supplied reason="explanation"><foreign>civiyārkku-c cāmu<supplied reason="undefined">tāyam</supplied></foreign><note>Ce donateur assume aussi une fonction liée au <foreign>cāmutāyam</foreign>. Plusieurs inscriptions de Citamparam du XIIIe siècle évoquent, parmi les groupes employés dans le temple, destinataires des actes que constituent les inscriptions, celui des <foreign>cāmutāyañceyvārkaḷ</foreign> ‘ceux qui font <foreign>cāmutāyam</foreign>’ (SII 4.222.2 et 229.6; SII 8.44.2, 47.2, 48.1, 49.1, 51.2, 52.1, 53.2, 54.3, 55.2, 56.1; SII 12.149.2, 151.3, 152.3, 154.2, 159.2, 160.7, 171.2, 172.2, 173.3, 174.3, 175.6, 201.2, 209.2; SITI 18, 19 et 20). Un individu s’y distingue par sa nomination personnelle : ‘Tirumāḷikaikkūṟu’ Tillaiyampalap Pallavarāyaṉ <foreign>camutāyam</foreign> du temple d’Āḷuṭaiyār (SII 4.222.1-2).
-			La traduction proposée par ORR (2004 : 234) pour ce groupe, « those who do [the task of] the assembly », qui figure, selon cet auteur parmi les comités qui veillaient au bon fonctionnement des affaires économiques et cultuelles du temple, ne nous convainc pas. De quelle assemblée s’agit-il? Quelle est sa fonction? SUBBARAYALU (2003), s.v. <foreign>sāmutāyañ ceyvārkaḷ</foreign>, comprend qu’il s’agit d’un groupe important attaché au temple de Citamparam et donne la référence SII 12.154. Or, cette définition vague est inexacte car ce groupe se rencontre ailleurs.
-			En effet, le texte de SII 8.205 enregistre une transaction signée par les membres d’une assemblée villageoise, un <foreign>ūr</foreign>, à Muṉiyūr (Kumpakōṇam tk.) la vingt-huitième année de règne de Rājarāja III. Deux de ces membres sont désignés par le terme <foreign>cāmutāyam</foreign> suivi du lieu d’origine (l. 4) : il est clair ici que le terme s’applique aussi à des individus. De plus, une inscription datant de la huitième année de règne de Kulottuṅga III à Tārācuram (Dar. a.8, l. 4) compte deux occurrences du terme <foreign>cāmutāyam</foreign>. Ce terme est précédé d’un nom propre (<foreign>Vatuli Ārā amudu śrī...ṉāṉa Madurāntakap-Pirammarāyaṉ</foreign>) et, plus bas, d’un groupe particulier au datif (<foreign>tirupaḷḷitto[ṅ]gaḷuḍaiyārgaḷukku</foreign>). 
-			Il nous apparaît évident ici que <foreign>cāmutāyam</foreign> désigne la fonction d’un individu lié à un groupe desservant le temple. Enfin, une épigraphe <foreign>pāṇḍya</foreign> de Tirunaḷḷāṟu (PI 491), qui daterait de 1333, enregistre la vente d’un service de <foreign>cāmutāyam</foreign> (<foreign>cāmatāyappaṇi oṉṟu</foreign>) du temple à un certain Vāṇātarāja Brahmārāyaṉ pour cinquante <foreign>paṇam</foreign>, l. 4 et 6. Elle contient aussi deux occurrences du terme <foreign>cāmutāyam</foreign> dans une liste des signataires, aux côtés des surveillants, des comptables et des officiants du temple. Le terme s’y rattache clairement à deux individus en rapport avec deux groupes professionnels de gardiens et de porteurs : l. 19 <foreign>tirumeykkāppārkku cāmutāyam nāṭuṭaināyakap Pallavaraiyaṉ </foreign>et l. 20 <foreign>cipātantāṅkum cāmutāyam periyanāyakaṉ tiruvalañcuḻipiccaṉ</foreign>.
-			Ainsi, suivant l’ARE 1965-66, introduction p. 7, sur ce texte publié dans PI 491, <foreign>cāmutāyappaṇi</foreign> serait un service effectué par un groupe dans le temple, dont les droits d’acquisition sont monnayables et dont le représentant est qualifié de <foreign>cāmutāyam</foreign>. P. R. SRINIVASAN suit cette interprétation, pour Dar. a.8, l. 4, et propose la traduction suivante : « Vātuli Ārā amudu Śrī ...n alias Madhurāntakap-Pirammārāyaṉ (…) should stand as their representative. For his work, he should get (…), as well as an annual cash amount equal to that which was received by the representative of the class of people called Tirupaḷḷittoṅgaḷuḍaiyār ». Puis, ce chercheur ajoute dans ses notes : « The real purport of the record was to make provision for the gold workers of the temple through the institution of a <foreign>samudāyam</foreign> which was entrusted to the care of a Pirammārāyaṉ ».
-			Pour nous, considérant la ressemblance des titres de haut rang des représentants et de l’acquéreur des droits (Viḻupparayaṉ, Pallavaraiyaṉ et Brahmārāyaṉ) dans ces inscriptions, nous pensons que le représentant peut être celui qui possède les droits d’un service particulier dans le temple. Et s’il en était ainsi, le donateur serait ici le représentant des porteurs de palanquin et le propriétaire des droits de ce service.</note></supplied> <supplied reason="subaudible">de la couche sacrée</supplied> <supplied reason="explanation"><foreign>tiru-paḷḷi</foreign></supplied> qui portent les pieds sacrés <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>-pātan tāṅkum</foreign><note>La relative <foreign>pātan tāṅkum</foreign> a pour sujet les porteurs <foreign>civiyār</foreign> et non la couche <foreign>tirupaḷḷi</foreign> qui est à considérer comme leur complément. La relative renvoie à l’image classique des dévots qui se couronnent des pieds d’une figure sainte. Ainsi, le dévot est souvent désigné par le terme <foreign>aṭiyaṉ</foreign>, « celui qui est aux pieds [du seigneur] ».</note></supplied>, pour la grande Dame Periyanācciyār et le Seigneur propriétaire de Tiruttōṇipuram de Tirukkaḻu-malam, <foreign>brahmadeya</foreign> du Rājādhirājavaḷanāṭu, tant que durent lune et soleil, pour qu’<supplied reason="subaudible">ils</supplied> fassent la grâce de manger des bottes de feuilles <supplied reason="subaudible">de bétel</supplied> de Tevūr et des noix d’arec<note>Les éléments comestibles offerts aux divinités et aux personnages saints sont suffixés par <foreign>-amutu</foreign>, « ambroisie », nourriture par excellence des dieux. Par exemple, dans SII 5.642.44-47, comme ici et ailleurs dans le corpus, les différents composants du repas divin sont ainsi assimilés à de l’ambroisie : <foreign>tiruvamutu</foreign> est le riz, l’ambroisie sacrée (parce que l. 44 du riz décortiqué <foreign>arici</foreign> est offert pour le préparer), <foreign>kaṟiyamutu</foreign> les mets, <foreign>miḷakamutu</foreign> le poivre, <foreign>uppamutu</foreign> le sel, <foreign>neyyamutu</foreign> le beurre clarifié et <foreign>aṭaikkāyamutu</foreign> les noix d’arec. Sur l’usage identique de ce terme dans la littérature religieuse; cf. VELUPPILLAI (2013).</note>, j’ai donné la terre suivante :
-	</p>
-	<p n="13-43">
-		<supplied reason="subaudible">située</supplied> à Kiṭāraṅkoṇṭacōḻanallūr, hameau au sud de Nāṅkūr de ce <foreign>nāṭu</foreign><note>Nāṅkūr est une localité du Nāṅkūrnāṭu dans le Rājādhirājavaḷanāṭu (SUBBARAYALU (1973 : 104)
-et carte 10). Le terme <foreign>nāṭu</foreign> (l. 13) précédé du démonstratif (<foreign>innāṭu</foreign>) renvoie dans le cas présent à la division territoriale du <foreign>vaḷanāṭu</foreign> sus-mentionné, le Rājādhirājavaḷanāṭu (l. 7-8).</note> alias irucciṟṟampalamuṭaiyār Śrīpātatūḷiccaruppētimaṅkalam. J’ai obtenu <supplied reason="subaudible">cette terre</supplied> auprès de <supplied reason="explanation"><foreign>uḷḷiṭṭār</foreign><note>Le terme <foreign>uḷḷiṭṭār</foreign> signifierait « les autres » (KARASHIMA (*2001a [1966] : 181, n. 5) et impliquerait alors des individus qui ne sont pas mentionnés dans l’inscription. Littéralement, il a le sens de « ceux qui sont inclus ».</note></supplied> l’ayant droit <supplied reason="explanation"><foreign>kāṇi-Uṭaiya</foreign></supplied> Poṉṉulāṉ Aiyya Nampi Uṭaiyāṉ, d’Aiyya Nampi, un propriétaire <supplied reason="subaudible">terrien</supplied> de Tiruvāykkulam, et d’Aiyya Nampitēvaṉ.
-		De cette terre de verger, devenu mienne, la limite ouest est l’est de <gap reason="lost"/>, la limite nord est <supplied reason="subaudible">le sud de</supplied> <gap reason="lost"/> de la Kāveri <gap reason="lost"/> Tiruveṅkāṭu <gap reason="lost"/>; ainsi sont les quatre grandes limites. <gap reason="lost"/> <supplied reason="subaudible">ayant déduit</supplied> deux <foreign>mācciṉṉam</foreign> de la terre d’Ātittaṉ Nārāyaṇaṉ Uyyakoṇṭāṉ, trois <foreign>mā</foreign> de la terre achetée au prix fixé par Irājarāja dont jouit Aiyya Nampi Uṭaiyāṉ, et huit <foreign>mā</foreign> de la terre achetée jadis
-		en tant que verger d’aréquiers, auprès d’eux <supplied reason="explanation"><foreign>ivarkaḷ pakkal</foreign><note>Il est difficile de déterminer s’il s’agit d’un singulier honorifique renvoyant à Aiyya Nampi Uṭaiyāṉ ou d’un pluriel désignant Atittaṉ Nārāyaṇaṉ Uyyakoṇṭāṉ et Aiyya Nampi Uṭaiyāṉ.</note></supplied> par Tāyilum Nallāṉ, un propriétaire
-		<supplied reason="subaudible">terrien</supplied> de Kaḷattūr, soit ayant déduit une demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied> et trois <foreign>mācciṉṉam</foreign> de terre,
-		<supplied reason="subaudible">puis de</supplied> la terre restante d’une demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, qui est mienne, sont inclus les <supplied reason="subaudible">droits
-		sur</supplied> les <foreign>opāti</foreign><note>Du sanskrit <foreign>upādhi</foreign>, taxe prélevée sur les propriétaires, SUBBARAYALU (*2001f [1984] : 61).</note>, les terres au bord des rivières, les <foreign>paṭikai</foreign>, les terres communes, les
-		<foreign>potāri</foreign>, les puits, les bassins et comprenant toutes autres sortes de droits. De cette
-		terre, ayant fait une propriété au nom de Śiva et ayant payé les taxes, et pour les
-		taxes supplémentaires, moi, Utaiyañceytāṉ Tāḻi alias Cōḷentiraciṅka Viḻupparayaṉ,
-		un propriétaire <supplied reason="subaudible">terrien</supplied> de Karuppūr, éternellement et une fois par jour, tant que
-		durent lune et soleil, en tant que service éternel au temple, je donne deux cents noix
-		d’arec et six bottes de feuilles <supplied reason="subaudible">de bétel</supplied> de Tēvūr. Ceci est sous la protection des
-		Śrīmāheśvara.
-	</p>
-	
-         </div>
-         
-<!--<div type="commentary">
-	
-</div>-->
- 
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>
-	<p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 2), based on the ASI transcript (consulted in Mysore).</p>
-	<p>This edition by Uthaya Veluppillai (2022). French translation (2024) adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>.</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">233-238</citedRange>
-			<citedRange unit="item">2</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">31</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">360</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">549</citedRange>
-			<citedRange unit="item">Tj. 2410</citedRange>			
-		</bibl>
-		
-	</listBibl>
-</div>
-      </body>
-  </text>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--Update ref. bibliogr. dans les notes UV-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="ddanda">.</g>                  
+                </ab>
+                
+                <p>
+                    tiri-puvana-cakkara
+                    <lb n="2" break="no"/><supplied reason="undefined">va</supplied>rttikaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice>ra-rā<hi rend="grantha">jenti</hi>ra-tēva
+                    <lb n="3" break="no"/><supplied reason="undefined">ṟ</supplied>ku yāṇṭu Ēḻ-āvatu
+                </p>
+                
+                <p>
+                    <hi rend="grantha">śrī</hi>-pātan tā
+                    <lb n="4" break="no"/>ṅkum tiru-<supplied reason="undefined">paḷ</supplied>ḷi-c civiyārkku-c cāmu
+                    <lb n="5" break="no"/><supplied reason="undefined">tāyam</supplied> <gap reason="illegible" extent="unknown" unit="character"/> karuppūr-uṭaiyāṉ Utaiyañ-ce
+                    <lb n="6" break="no"/>ytāṉ tāḻi-y-āṉa cōḷēntira-ci
+                    <lb n="7" break="no"/>ṅka-viḻupparayaṉ-ēṉ Irā<hi rend="grantha">jā</hi>ti
+                    <lb n="8" break="no"/>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-p pirama-tēyam
+                    <lb n="9"/>tiru-k-kaḻumalattu Uṭaiyār tiru-t-tō
+                    <lb n="10" break="no"/>ṇi-puram-uṭaiyārkkum periya nācciyār
+                    <lb n="11" break="no"/>kkum cantirāt<choice><sic>u</sic><corr>i</corr></choice>tta-varai Aṭaikkā-y-amutu pā
+                    <lb n="12" break="no"/>kkum tēvūr Ilai-y-amutu paṟṟum Amutu c<choice><orig>e</orig><reg>ey</reg></choice>t-aruḷa
+                    <lb n="13"/>nāṉ v-iṭṭa nilam āvatu
+                </p>
+                
+                <p>	
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nāṅkūr-<choice><sic>a</sic><corr>ā</corr></choice>ṉa tiru
+                    <lb n="14" break="no"/>-c-ciṟṟ-ampalam-uṭaiyār <hi rend="grantha">śrī</hi>-pāta-tūḷi-c-ca<sic>rupvita</sic>
+                    <lb n="15" break="no"/>-maṅkalattu teṉ-piṭākai kiṭāraṅ-koṇṭa-cōḻa
+                    <lb n="16" break="no"/><supplied reason="undefined">na</supplied>ll<choice><sic>u</sic><corr>ū</corr></choice>ril kāṇi-Uṭaiya poṉṉuḻāṉ Aiyya
+                    <lb n="17" break="no"/><supplied reason="undefined">nam</supplied>pi Uṭaiyāṉum tiru-vāy-k-kulam-uṭaiyāṉ Ai
+                    <lb n="18" break="no"/><supplied reason="undefined">y</supplied>ya-nampiyum Aiyya-nampi-tēvaṉum Uḷḷiṭṭ
+                    <lb n="19" break="no"/><supplied reason="undefined">ār pa</supplied>kkal nāṉ peṟṟ-uṭai-y-ēṉ-āy Eṉṉut-āy varukiṟa ko
+                    <lb n="20" break="no"/>llai nilattukku		
+                    
+                    <list>
+                        <item>mēl-pāṟk' ellai kārai <gap reason="illegible" extent="unknown" unit="character"/> <supplied reason="lost">vāy</supplied>
+                            <lb n="21" break="no"/>kālukku kiḻakkum</item>
+                        <item>vaṭa-pāṟk' ellai kāvēri <gap reason="illegible" extent="unknown" unit="character"/>
+                            <lb n="22" break="no"/>kum tiru-vēṅkāṭṭu mu <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="illegible" extent="unknown" unit="character"/>
+                            <lb n="23" break="no"/>ḷḷaiyār Ilai-y-amutu <gap reason="illegible" extent="unknown" unit="character"/>
+                            <lb n="24"/><gap reason="illegible" extent="unknown" unit="character"/> tiru-vēṅkāṭṭu mu <gap reason="illegible" extent="unknown" unit="character"/></item>
+                    </list>
+                    
+                    <lb n="25"/>peru-nāṉk' ellai <gap reason="illegible" extent="unknown" unit="character"/>
+                    
+                    <gap reason="illegible" extent="unknown" unit="character"/>
+                    <lb n="26" break="no"/>ṉ Ātittaṉ nārāyaṇaṉ Uyya-k-koṇṭāṉ nilam Iraṇṭu mā-c-ciṉṉamum Ai
+                    <lb n="27" break="no"/>yya-nampi Uṭaiyāṉ I<hi rend="grantha">rājarāja</hi>-p peru vilai koṇṭu Aṉupa<supplied reason="undefined">vi</supplied>kkiṟa nilam
+                    <lb n="28"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu māvum Ivarkaḷ pakkal kaḷattūr-uṭaiyāṉ tāyilum nallāṉ vi
+                    <lb n="29" break="no"/><supplied reason="undefined">lai</supplied> ko<supplied reason="undefined">ṇṭu</supplied> muṉpu Ilai-y-amutu tōṭṭam-āka viḷai
+                    <lb n="30" break="no"/>nilam Eṭṭu māvum Āka nilam Araiyē
+                    <lb n="31"/>m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā-c-ciṉṉamum n<choice><orig>i</orig><reg>ī</reg></choice>kki 
+                    nīkki niṉṟa Eṉṉu
+                    <lb n="32" break="no"/>tāy varukiṟa nilam Araiyum In-nilattu
+                    <lb n="33"/>Opāti Āṟiṭu paṭukaiyum potuvum po
+                    <lb n="34" break="no"/>tāriyuṅ kiṇaṟuṅ kuḷamum ma
+                    <lb n="35" break="no"/>ṟṟum Eppērppaṭṭa Urimaika
+                    <lb n="36" break="no"/>ḷum Aka-p-paṭa vanta nilam ci
+                    <lb n="37" break="no"/>va-nāmattu-k kāṇi-y-āka-k kai
+                    <lb n="38" break="no"/>-k-koṇṭu Iṟai Iṟuttu I 
+                    <lb n="39" break="no"/><supplied reason="undefined">ṟ</supplied>ai-mikutikku nittaṟ paṭi nāḷ O 
+                    <lb n="40" break="no"/>ṉṟukku Aṭai-k-kāy-amutu pākku Iru-nū 
+                    <lb n="41" break="no"/>ṟum tēvūr Ilai-y-amutu paṟṟu Āṟum ni 
+                    <lb n="42" break="no"/>tta-nimantam-āka cantirātitta-varai c
+                    <lb n="43" break="no"/>ella-k kaṭavat-āka viṭṭu-k kuṭuttēṉ ka
+                    <lb n="44" break="no"/><supplied reason="undefined">ruppūr-u</supplied>ṭaiyāṉ Uta
+                    <lb n="45" break="no"/>yañ-ce<supplied reason="undefined">ytāṉ tāḻi</supplied>-y-āṉa cōḷēntira-ciṅka-viḻupparāya 
+                    <lb n="46" break="no"/><supplied reason="undefined">ṉ-ēṉ</supplied>
+                </p>
+                
+                <p>
+                    Itu <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-Ira<hi rend="grantha">kṣai</hi> <g type="ddanda">.</g> 
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="4">
+                        <lem>cāmu<lb n="5" break="no"/><supplied reason="undefined">tāyam</supplied></lem>
+                        <note>The ASI transcript reads only the syllables <foreign>cāmu</foreign>. The present restoration suggested by G. Vijayavenugopal.</note>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem>°ca<sic>rupvita</sic><lb n="15" break="no"/>maṅkalattu</lem>
+                        <note>Sic in ASI transcript. Reads <foreign>caruppētimaṅkalattu</foreign>.</note>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:utve">
+                
+                <!--Report notes from PhD translation-->
+                
+                <p n="1-13">
+                    Que la prospérité soit! 
+                    En la septième année <supplied reason="subaudible">de règne</supplied> de Vīrarājendradeva, empereur des trois mondes;
+                    moi Utaiyañceytāṉ Tāḻi alias Cōḷentiraciṅka Viḻupparayaṉ<note>Dans l’état actuel des recherches, l’identité de ce donateur reste obscure mais son titre de Viḻupparayaṉ précédé du titre royal Cōḷentiraciṅka suggère qu’il est une autorité politique de poids, au moins au niveau local, proche du pouvoir royal. Voir KARASHIMA, SUBBARAYALU, MATSUI (1978 : lii-lv).</note>,
+                    propriétaire <supplied reason="subaudible">terrien</supplied> à Karuppūr, représentant des porteurs de palanquin <supplied reason="explanation"><foreign>civiyārkku-c cāmu<supplied reason="undefined">tāyam</supplied></foreign><note>Ce donateur assume aussi une fonction liée au <foreign>cāmutāyam</foreign>. Plusieurs inscriptions de Citamparam du XIIIe siècle évoquent, parmi les groupes employés dans le temple, destinataires des actes que constituent les inscriptions, celui des <foreign>cāmutāyañceyvārkaḷ</foreign> ‘ceux qui font <foreign>cāmutāyam</foreign>’ (SII 4.222.2 et 229.6; SII 8.44.2, 47.2, 48.1, 49.1, 51.2, 52.1, 53.2, 54.3, 55.2, 56.1; SII 12.149.2, 151.3, 152.3, 154.2, 159.2, 160.7, 171.2, 172.2, 173.3, 174.3, 175.6, 201.2, 209.2; SITI 18, 19 et 20). Un individu s’y distingue par sa nomination personnelle : ‘Tirumāḷikaikkūṟu’ Tillaiyampalap Pallavarāyaṉ <foreign>camutāyam</foreign> du temple d’Āḷuṭaiyār (SII 4.222.1-2).
+                        La traduction proposée par ORR (2004 : 234) pour ce groupe, « those who do [the task of] the assembly », qui figure, selon cet auteur parmi les comités qui veillaient au bon fonctionnement des affaires économiques et cultuelles du temple, ne nous convainc pas. De quelle assemblée s’agit-il? Quelle est sa fonction? SUBBARAYALU (2003), s.v. <foreign>sāmutāyañ ceyvārkaḷ</foreign>, comprend qu’il s’agit d’un groupe important attaché au temple de Citamparam et donne la référence SII 12.154. Or, cette définition vague est inexacte car ce groupe se rencontre ailleurs.
+                        En effet, le texte de SII 8.205 enregistre une transaction signée par les membres d’une assemblée villageoise, un <foreign>ūr</foreign>, à Muṉiyūr (Kumpakōṇam tk.) la vingt-huitième année de règne de Rājarāja III. Deux de ces membres sont désignés par le terme <foreign>cāmutāyam</foreign> suivi du lieu d’origine (l. 4) : il est clair ici que le terme s’applique aussi à des individus. De plus, une inscription datant de la huitième année de règne de Kulottuṅga III à Tārācuram (Dar. a.8, l. 4) compte deux occurrences du terme <foreign>cāmutāyam</foreign>. Ce terme est précédé d’un nom propre (<foreign>Vatuli Ārā amudu śrī...ṉāṉa Madurāntakap-Pirammarāyaṉ</foreign>) et, plus bas, d’un groupe particulier au datif (<foreign>tirupaḷḷitto[ṅ]gaḷuḍaiyārgaḷukku</foreign>). 
+                        Il nous apparaît évident ici que <foreign>cāmutāyam</foreign> désigne la fonction d’un individu lié à un groupe desservant le temple. Enfin, une épigraphe <foreign>pāṇḍya</foreign> de Tirunaḷḷāṟu (PI 491), qui daterait de 1333, enregistre la vente d’un service de <foreign>cāmutāyam</foreign> (<foreign>cāmatāyappaṇi oṉṟu</foreign>) du temple à un certain Vāṇātarāja Brahmārāyaṉ pour cinquante <foreign>paṇam</foreign>, l. 4 et 6. Elle contient aussi deux occurrences du terme <foreign>cāmutāyam</foreign> dans une liste des signataires, aux côtés des surveillants, des comptables et des officiants du temple. Le terme s’y rattache clairement à deux individus en rapport avec deux groupes professionnels de gardiens et de porteurs : l. 19 <foreign>tirumeykkāppārkku cāmutāyam nāṭuṭaināyakap Pallavaraiyaṉ </foreign>et l. 20 <foreign>cipātantāṅkum cāmutāyam periyanāyakaṉ tiruvalañcuḻipiccaṉ</foreign>.
+                        Ainsi, suivant l’ARE 1965-66, introduction p. 7, sur ce texte publié dans PI 491, <foreign>cāmutāyappaṇi</foreign> serait un service effectué par un groupe dans le temple, dont les droits d’acquisition sont monnayables et dont le représentant est qualifié de <foreign>cāmutāyam</foreign>. P. R. SRINIVASAN suit cette interprétation, pour Dar. a.8, l. 4, et propose la traduction suivante : « Vātuli Ārā amudu Śrī ...n alias Madhurāntakap-Pirammārāyaṉ (…) should stand as their representative. For his work, he should get (…), as well as an annual cash amount equal to that which was received by the representative of the class of people called Tirupaḷḷittoṅgaḷuḍaiyār ». Puis, ce chercheur ajoute dans ses notes : « The real purport of the record was to make provision for the gold workers of the temple through the institution of a <foreign>samudāyam</foreign> which was entrusted to the care of a Pirammārāyaṉ ».
+                        Pour nous, considérant la ressemblance des titres de haut rang des représentants et de l’acquéreur des droits (Viḻupparayaṉ, Pallavaraiyaṉ et Brahmārāyaṉ) dans ces inscriptions, nous pensons que le représentant peut être celui qui possède les droits d’un service particulier dans le temple. Et s’il en était ainsi, le donateur serait ici le représentant des porteurs de palanquin et le propriétaire des droits de ce service.</note></supplied> <supplied reason="subaudible">de la couche sacrée</supplied> <supplied reason="explanation"><foreign>tiru-paḷḷi</foreign></supplied> qui portent les pieds sacrés <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>-pātan tāṅkum</foreign><note>La relative <foreign>pātan tāṅkum</foreign> a pour sujet les porteurs <foreign>civiyār</foreign> et non la couche <foreign>tirupaḷḷi</foreign> qui est à considérer comme leur complément. La relative renvoie à l’image classique des dévots qui se couronnent des pieds d’une figure sainte. Ainsi, le dévot est souvent désigné par le terme <foreign>aṭiyaṉ</foreign>, « celui qui est aux pieds [du seigneur] ».</note></supplied>, pour la grande Dame Periyanācciyār et le Seigneur propriétaire de Tiruttōṇipuram de Tirukkaḻu-malam, <foreign>brahmadeya</foreign> du Rājādhirājavaḷanāṭu, tant que durent lune et soleil, pour qu’<supplied reason="subaudible">ils</supplied> fassent la grâce de manger des bottes de feuilles <supplied reason="subaudible">de bétel</supplied> de Tevūr et des noix d’arec<note>Les éléments comestibles offerts aux divinités et aux personnages saints sont suffixés par <foreign>-amutu</foreign>, « ambroisie », nourriture par excellence des dieux. Par exemple, dans SII 5.642.44-47, comme ici et ailleurs dans le corpus, les différents composants du repas divin sont ainsi assimilés à de l’ambroisie : <foreign>tiruvamutu</foreign> est le riz, l’ambroisie sacrée (parce que l. 44 du riz décortiqué <foreign>arici</foreign> est offert pour le préparer), <foreign>kaṟiyamutu</foreign> les mets, <foreign>miḷakamutu</foreign> le poivre, <foreign>uppamutu</foreign> le sel, <foreign>neyyamutu</foreign> le beurre clarifié et <foreign>aṭaikkāyamutu</foreign> les noix d’arec. Sur l’usage identique de ce terme dans la littérature religieuse; cf. VELUPPILLAI (2013).</note>, j’ai donné la terre suivante :
+                </p>
+                <p n="13-43">
+                    <supplied reason="subaudible">située</supplied> à Kiṭāraṅkoṇṭacōḻanallūr, hameau au sud de Nāṅkūr de ce <foreign>nāṭu</foreign><note>Nāṅkūr est une localité du Nāṅkūrnāṭu dans le Rājādhirājavaḷanāṭu (SUBBARAYALU (1973 : 104)
+                        et carte 10). Le terme <foreign>nāṭu</foreign> (l. 13) précédé du démonstratif (<foreign>innāṭu</foreign>) renvoie dans le cas présent à la division territoriale du <foreign>vaḷanāṭu</foreign> sus-mentionné, le Rājādhirājavaḷanāṭu (l. 7-8).</note> alias irucciṟṟampalamuṭaiyār Śrīpātatūḷiccaruppētimaṅkalam. J’ai obtenu <supplied reason="subaudible">cette terre</supplied> auprès de <supplied reason="explanation"><foreign>uḷḷiṭṭār</foreign><note>Le terme <foreign>uḷḷiṭṭār</foreign> signifierait « les autres » (KARASHIMA (*2001a [1966] : 181, n. 5) et impliquerait alors des individus qui ne sont pas mentionnés dans l’inscription. Littéralement, il a le sens de « ceux qui sont inclus ».</note></supplied> l’ayant droit <supplied reason="explanation"><foreign>kāṇi-Uṭaiya</foreign></supplied> Poṉṉulāṉ Aiyya Nampi Uṭaiyāṉ, d’Aiyya Nampi, un propriétaire <supplied reason="subaudible">terrien</supplied> de Tiruvāykkulam, et d’Aiyya Nampitēvaṉ.
+                    De cette terre de verger, devenu mienne, la limite ouest est l’est de <gap reason="lost"/>, la limite nord est <supplied reason="subaudible">le sud de</supplied> <gap reason="lost"/> de la Kāveri <gap reason="lost"/> Tiruveṅkāṭu <gap reason="lost"/>; ainsi sont les quatre grandes limites. <gap reason="lost"/> <supplied reason="subaudible">ayant déduit</supplied> deux <foreign>mācciṉṉam</foreign> de la terre d’Ātittaṉ Nārāyaṇaṉ Uyyakoṇṭāṉ, trois <foreign>mā</foreign> de la terre achetée au prix fixé par Irājarāja dont jouit Aiyya Nampi Uṭaiyāṉ, et huit <foreign>mā</foreign> de la terre achetée jadis
+                    en tant que verger d’aréquiers, auprès d’eux <supplied reason="explanation"><foreign>ivarkaḷ pakkal</foreign><note>Il est difficile de déterminer s’il s’agit d’un singulier honorifique renvoyant à Aiyya Nampi Uṭaiyāṉ ou d’un pluriel désignant Atittaṉ Nārāyaṇaṉ Uyyakoṇṭāṉ et Aiyya Nampi Uṭaiyāṉ.</note></supplied> par Tāyilum Nallāṉ, un propriétaire
+                    <supplied reason="subaudible">terrien</supplied> de Kaḷattūr, soit ayant déduit une demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied> et trois <foreign>mācciṉṉam</foreign> de terre,
+                    <supplied reason="subaudible">puis de</supplied> la terre restante d’une demi <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, qui est mienne, sont inclus les <supplied reason="subaudible">droits
+                        sur</supplied> les <foreign>opāti</foreign><note>Du sanskrit <foreign>upādhi</foreign>, taxe prélevée sur les propriétaires, SUBBARAYALU (*2001f [1984] : 61).</note>, les terres au bord des rivières, les <foreign>paṭikai</foreign>, les terres communes, les
+                    <foreign>potāri</foreign>, les puits, les bassins et comprenant toutes autres sortes de droits. De cette
+                    terre, ayant fait une propriété au nom de Śiva et ayant payé les taxes, et pour les
+                    taxes supplémentaires, moi, Utaiyañceytāṉ Tāḻi alias Cōḷentiraciṅka Viḻupparayaṉ,
+                    un propriétaire <supplied reason="subaudible">terrien</supplied> de Karuppūr, éternellement et une fois par jour, tant que
+                    durent lune et soleil, en tant que service éternel au temple, je donne deux cents noix
+                    d’arec et six bottes de feuilles <supplied reason="subaudible">de bétel</supplied> de Tēvūr. Ceci est sous la protection des
+                    Śrīmāheśvara.
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>
+                <p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 2), based on the ASI transcript (consulted in Mysore).</p>
+                <p>This edition by Uthaya Veluppillai (2022). French translation (2024) adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">233-238</citedRange>
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">31</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">360</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">549</citedRange>
+                        <citedRange unit="item">Tj. 2410</citedRange>			
+                    </bibl>
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 
