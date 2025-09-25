@@ -261,46 +261,56 @@
                 
                 </div>-->
             
-<div type="bibliography">
+            <div type="bibliography">
                 
-    <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/363).</p>	
-    <p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 1), with the help of Dr. G. Vijayavenugopal (EFEO, Pondicherry), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>	
-    <p>This digital edition by Uthaya Veluppillai and Emmanuel Francis. French translation adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>. English translation by Emmanuel Francis.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="UV">
-            <ptr target="bib:Veluppillai2013_01"/>
-            <citedRange unit="page">228-233</citedRange>
-            <citedRange unit="item">1</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1918-1919"/>
-            <citedRange unit="page">31</citedRange>
-            <citedRange unit="appendix">B/1918</citedRange>
-            <citedRange unit="item">363</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Karashima+al1978_01"/>			
-        </bibl>
-        
-        <bibl n="TVM">
-            <ptr target="bib:Mahalingam1992_01"/>
-            <citedRange unit="page">549</citedRange>
-            <citedRange unit="item">Tj. 2408</citedRange>			
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:NilakantaSastri1955_01"/>			
-        </bibl>
-        
-    </listBibl>
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/363).</p>	
+                
+                <p>
+                    Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 1), with the help of Dr. G. Vijayavenugopal (EFEO, Pondicherry), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).
+                    Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.363).
+                </p>	
+                <p>This digital edition by Uthaya Veluppillai and Emmanuel Francis. French translation adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>. English translation by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">228-233</citedRange>
+                        <citedRange unit="item">1</citedRange>
+                    </bibl>
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Swaminathan2024_01"/>
+                        <citedRange unit="page">557-558</citedRange>
+                        <citedRange unit="item">363</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">31</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">363</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Karashima+al1978_01"/>			
+                    </bibl>
+                    
+                    <bibl n="TVM">
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">549</citedRange>
+                        <citedRange unit="item">Tj. 2408</citedRange>			
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:NilakantaSastri1955_01"/>			
+                    </bibl>
+                    
+                </listBibl>
             </div>
         </body>
     </text>
