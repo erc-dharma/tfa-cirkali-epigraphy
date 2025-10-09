@@ -10,19 +10,16 @@
             <titleStmt>
                 <title>Cīrkāḻi, Brahmapurīśvara, Śaka 1410</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:utve">
                         <surname>Veluppillai</surname>
                         <forename>Uthaya</forename>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
                     <persName ref="part:emfr">
-                        <surname>Francis</surname>
                         <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
                     </persName>
-                </respStmt>
+                </respStmt>	
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
