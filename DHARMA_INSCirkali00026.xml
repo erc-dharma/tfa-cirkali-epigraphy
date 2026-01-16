@@ -26,6 +26,10 @@
 						<forename>Uthaya</forename>
 						<surname>Veluppillai</surname>
 					</persName>
+					<persName ref="part:reda">
+						<surname>Renato</surname>
+						<forename>Dávalos</forename>
+					</persName>
 				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
@@ -281,6 +285,24 @@
 </div>
             
 <div type="translation" xml:lang="fra" source="bib:Veluppillai2013_01">
+	<p n="1-6">
+		En la 4e année <supplied reason="subaudible">de règne</supplied> de Kulottuṅga-cōla-deva, empereur des trois mondes ; à partir du mois de Karkaṭaka, <supplied reason="subaudible">un acte est adressé</supplied> à tous ceux du <foreign>kūṭṭam</foreign><note>Ce terme désignerait le corps exécutif d’une <foreign>sabhā</foreign>, <bibl><ptr target="bib:NilakantaSastri1955_01"/></bibl> (*2000 : 498-501).</note> qui s’occupe des affaires villageoises à Tirukkaḻumalam, brahmadeya de Tirukkaḻumala-nāṭu dans le R̄ajādhirāja-vaḷanāṭu. <supplied reason="subaudible">Cet acte</supplied> a été vu par l’expert en tamoul du palais<note><foreign>Tirumāḷikai</foreign> renvoie évidemment au temple de Campantar.</note> d’Aḷuṭaiyapiḷḷai. 
+	</p>
+	<p n="7-17">
+		<supplied reason="subaudible">voici</supplied> les terres données comme non imposables pour ouvrir les <title>Tirumuṟai</title> qui étaient installés dans le <foreign>Tirukkaikoṭṭi</foreign> de ce temple, pour réinstaller ceux qui étaient abîmés, puis pour en installer de nouveaux :
+		<list>
+			<item>
+				<supplied reason="subaudible">La terre qui se trouve</supplied> à l’est de la <foreign>vati</foreign> Caṇṭeśvara de ce village, au nord du canal Niṉṟān, le deuxième carré du premier canalicule, près de Kiliṟaiyāṅkuṭṭi. <supplied reason="subaudible">Elle a été achetée</supplied> à Pāraṭṭūvācī Śrīkāḻiṉāṭuṭaiyān Tiruveṉkāṭuṭaiyān. Cette terre de 2,5 <foreign>mā</foreign>, <foreign>araikkāṇi</foreign> et <foreign>muntirikai</foreign> inclut les rivages, les terres <foreign>tiṭal</foreign> et les étangs, ainsi que la terre résidentielle qui est à l’ouest.
+			</item>
+			<item>
+				<supplied reason="subaudible">La terre qui se trouve</supplied> à l’ouest de la <foreign>vati</foreign> Cuttamali, au nord du canal Niṉṟān, 3ᵉ carré du premier canalicule. <supplied reason="subaudible">Elle a été acquise auprès</supplied> de Pālāśrīyan Mātevan <gap reason="undefined"></gap> ainsi que la terre sèche de la terre sèche <supplied reason="explanation"><foreign>puṇceynilattu uṭaiya puṇceynilam</foreign></supplied> au nord-ouest.
+			</item>
+		</list>
+	</p>
+	<p n="18-22">
+		Ayant pris en main cette terre exemptée et invendable tant que durent lune et soleil, nous avons dit que nous ne prélèverons pas les taxes muṭṭaiyāḷ, veṭṭi, cilvari, et peruvari<note>Sur une interprétation de ces taxes qui portent en partie sur l’irrigation <supplied reason="explanation"><foreign>muṭṭaiyāḷ</foreign> et <foreign>veṭṭi</foreign></supplied> cf. <bibl><ptr target="bib:Heitzman1997_01"/></bibl> (*2001 [1997] : 162-163) et en particulier les notes 27 et 28 p. 177, <bibl><ptr target="bib:Veluthat1993_01"/></bibl> (1993 : 147) et Karashima (*2001c [1972]) pour les fréquences et occurrences de ces termes dans les inscriptions.</note>. Cette terre prise en main jouie, et la fermeture de <title>Tirumuṟai</title> retirée, que l’on grave ainsi sur la pierre de palais et sur cuivre.
+		
+	</p>
 	
 	<!--Report notes from PhD translation-->
             </div>
@@ -295,7 +317,7 @@
     
     <p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 26), based on autopsy, photos (G. Ravindran, EFEO, 2005), and ASI transcript (consulted in Mysore).</p>
     
-    <p>This digital edition by Uthaya Veluppillai and Emmanuel Francis.</p>
+    <p>This digital edition by Uthaya Veluppillai, Emmanuel Francis, and Renato Dávalos.</p>
     
     <listBibl type="primary">
         
@@ -320,7 +342,28 @@
             <citedRange unit="page">550</citedRange>
             <citedRange unit="item">Tj. 2414</citedRange>			
         </bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:NilakantaSastri1955_01"/>
+    		<citedRange unit="page">498-501</citedRange>
+    	</bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:Heitzman1997_01"/>
+    		<citedRange unit="page">162-163</citedRange>
+    	</bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:Veluthat1993_01"/>
+    		<citedRange unit="page">147</citedRange>
+    	</bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:Veluthat1993_01"/>
+    		<citedRange unit="page">147</citedRange>
+    	</bibl>
     </listBibl>
+	
     
 </div>
 </body>
