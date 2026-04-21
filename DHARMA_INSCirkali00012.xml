@@ -123,7 +123,7 @@
                     <lb n="5"/>
                     <gap reason="lost" quantity="7" unit="character"/>
                     ātta <gap reason="lost" quantity="5" unit="character"/> vēmp-uṭaiyār tiru-nāmattu-k kāṇi-y-āka-k koṇṭa A <gap reason="lost" quantity="6" unit="character"/>
-                    ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="nilam"/> 1/4 3/64 3/80 1/160 Iṉ 
+                    ṉṟu pēr-kūva-p-paṭṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam pottaka-p paṭi <g type="tam-nilam"/> 1/4 3/64 3/80 1/160 Iṉ 
                     
                     <lb n="6"/>
                     <gap reason="lost" quantity="8" unit="character"/>
@@ -145,7 +145,7 @@
                     
                     <lb n="11" break="no"/><supplied reason="undefined">ta</supplied> paric' āvatu
                     <gap reason="lost" quantity="10" unit="character"/>
-                    m-āka v-iṭṭa Ūr <g type="nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="nilam"/> 1/80 1/160 <g type="kīḻ"/> 1/160 1/4 y-i<choice><orig>-n</orig><reg>n-n</reg></choice>ilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+                    m-āka v-iṭṭa Ūr <g type="tam-nilam"/> kuḻi <num value="200">2 <g type="numeral">100</g></num> y-ik-kuḻi y-iru-nūṟṟiṉāl <g type="tam-nilam"/> 1/80 1/160 <g type="kīḻ"/> 1/160 1/4 y-i<choice><orig>-n</orig><reg>n-n</reg></choice>ilam kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ kālum y-i<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
                     <gap reason="lost" quantity="4" unit="character"/>
                     cāttaṉ peru-vē <gap reason="lost" quantity="3" unit="character"/> 
                     <lb n="12" break="no"/>tu Ivar Eḻunt-aruḷi
@@ -167,7 +167,7 @@
                 </p>
                 
                 <p>
-                    <g type="nilam"/> kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kālum cantirātitta-varaiyum y-ivar 
+                    <g type="tam-nilam"/> kāṇi Arai-k-kāṇi-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kālum cantirātitta-varaiyum y-ivar 
                     <gap reason="lost" quantity="5" unit="character"/>
                     
                     <lb n="14"/>y-iṟai-y-ili-yum
