@@ -63,17 +63,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -120,8 +117,8 @@
 		<lb n="11" break="no"/>y Ūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ iṟai-y-ili Uḷppaṭa-p piṟin=tamaiyil I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai 
 		<lb n="12"/>māṟu namm-<choice><orig>u</orig><reg>ū</reg></choice>r-p piṭākai kula-māṇikka-nallūr-k kaṭṭaḷaiyil ti<supplied reason="lost">ru</supplied>-p-pāṟ 
 		<lb n="13" break="no"/>-pō<choice><orig>n</orig><reg>ṉ</reg></choice>akam-āka yāṇṭu Āṟ-āvatu mutal v-iṭṭa Irā<hi rend="grantha">ja</hi>-Irā<hi rend="grantha">ja</hi>-vatikku-k kiḻakku mu 
-		<lb n="14" break="no"/>-m-muṭi-cōḻa-vāykkālukku vaṭakku 3 <g type="tam-kannaru"/> 3 tuṇṭattu 4 <g type="tam-kannaru"/> 1 tuṇṭattum ki 
-		<lb n="15" break="no"/>ḻakk' aṭaiya kulaiyum tiṭalum teṅkā tuṇṭattu<!--EF: check: letters inserted from above--> nilaiyum Aka-p-paṭa <g type="tam-nilam"/> 4 <supplied reason="lost">1/80</supplied> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ila 
+		<lb n="14" break="no"/>-m-muṭi-cōḻa-vāykkālukku vaṭakku 3 <g ref="sym:tam-kannaru"/> 3 tuṇṭattu 4 <g ref="sym:tam-kannaru"/> 1 tuṇṭattum ki 
+		<lb n="15" break="no"/>ḻakk' aṭaiya kulaiyum tiṭalum teṅkā tuṇṭattu<!--EF: check: letters inserted from above--> nilaiyum Aka-p-paṭa <g ref="sym:tam-nilam"/> 4 <supplied reason="lost">1/80</supplied> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ila 
 		<lb n="16" break="no"/><supplied reason="lost">nālu māvukku</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">viyunta Iṟai Iyi</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">taṉūrilē eṟṟiṇta<!--EF: "ṇt" really?:--> Iṟukka I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>i</supplied> 
 		<lb n="17" break="no"/>la nālu māvum kācu <supplied reason="lost">ko</supplied>ḷḷā Iṟai-y-ili-y-āka-k kai-k koṇtu payir<!--EF: standardise to "ṟ"?-->-c ce 
 		<lb n="18" break="no"/>ytu tiru-p-pār-pō<choice><orig>n</orig><reg>ṉ</reg></choice>a<supplied reason="lost">ka</supplied>-p-puṟam-āka Amutu ceyt-aruḷa-p paṇṇuka paṉiyā 
@@ -140,7 +137,7 @@
 		<lb n="26" break="no"/>tu <supplied reason="lost">mā</supplied>-tēva-paṭṭaṉ cuppirama<choice><orig>ṇṇ</orig><reg>ṇ</reg></choice>iya-paṭṭaṉ cāntūrar nampi pirākai-c-cantira-cēkara-paṭṭaṉ kavi 
 		<lb n="27" break="no"/><supplied reason="lost">ṇiyaṉ</supplied> cuntara<!--EF: "ā" changed to "ara"-->-t-toṭ-uṭaiyāṉ kaviniyaṉ <supplied reason="lost">Arumoḻi-tēvaṉ tir<choice><orig>i</orig><reg>u</reg></choice>-c-ciṟṟampala</supplied>m-uṭaiyāṉ paṭṭa 
 		<lb n="28" break="no"/><supplied reason="lost">ṉ ta</supplied>ñca-pōcaṉ <supplied reason="lost">ti</supplied>ru-c-ciṟṟampalam-uṭaiyāṉ vakuntuci<!--EF: meaning?--> tiru-vēṇkāṭu-paṭṭaṉ pārattuvāci 
-		<lb n="29"/>tiru-vēṇkāṭ-uṭaiyāṉ tiru-c-ciṟṟampalam-uṭaiyāṉ kākkaṇṭ<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="subaudible">r</supplied> <hi rend="grantha">dakṣi</hi>ṇā-m<choice><orig>u</orig><reg>ū</reg></choice><reg>r</reg>tti-paṭṭaṉ <g type="gomutraFinal">.</g>  
+		<lb n="29"/>tiru-vēṇkāṭ-uṭaiyāṉ tiru-c-ciṟṟampalam-uṭaiyāṉ kākkaṇṭ<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="subaudible">r</supplied> <hi rend="grantha">dakṣi</hi>ṇā-m<choice><orig>u</orig><reg>ū</reg></choice><reg>r</reg>tti-paṭṭaṉ <g ref="sym:flourish-taperOut" type="punctuation">.</g>  
 	</p>
 	         	
          </div>

@@ -64,17 +64,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -111,16 +108,16 @@
 		cōḻa-maṇṭalattu kāvēri<supplied reason="undefined">kkum</supplied> koḷḷiṭattukkum naṭu-p-paṭṭa paṟṟu rā<hi rend="grantha">jādhi</hi>rāca-vaḷanāṭṭu kiḻakku vaṭa-kālaṉu <gap reason="lost" extent="unknown" unit="character"/> -t tillai-viṭaṅka-nallūr aṭaippiṉ paṭi
 		
 		<lb n="2"/>
-		<g type="tam-nilam"/> <num value="60">6 <g type="numeral">10</g></num> <g type="tam-veli"/>kku <g type="tam-nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> 1/80 
+		<g ref="sym:tam-nilam"/> <num value="60">6 <g type="numeral">10</g></num> <g ref="sym:tam-veli"/>kku <g ref="sym:tam-nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> 1/80 
 		
 		<list>
 			<item>
 				nāyaṉār āḷuṭaiya-piḷḷaiyāṟku
-				<g type="tam-nilam"/> <num value="10"><g type="numeral">10</g></num> <g type="tam-veli"/>kku <g type="tam-nilam"/> <num value="40">4 <g type="numeral">10</g></num> 1/80
+				<g ref="sym:tam-nilam"/> <num value="10"><g type="numeral">10</g></num> <g ref="sym:tam-veli"/>kku <g ref="sym:tam-nilam"/> <num value="40">4 <g type="numeral">10</g></num> 1/80
 			</item>
 			
 			<item>		
-				<hi rend="grantha">bhāradvāj<choice><sic>i</sic><corr>a</corr></choice>-gotra</hi>ttu <hi rend="grantha">Apastambha</hi>-<hi rend="grantha">sūtra</hi>ttu kamukai Aruṇa<hi rend="grantha">giri-śiva</hi>ṟku Ivv-ūr nattam uṭpaṭa maṭa-p-puṟam <g type="tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g type="tam-veli"/>kku <g type="tam-nilam"/> <num value="80">8 <g type="numeral">10</g></num> 1/80
+				<hi rend="grantha">bhāradvāj<choice><sic>i</sic><corr>a</corr></choice>-gotra</hi>ttu <hi rend="grantha">Apastambha</hi>-<hi rend="grantha">sūtra</hi>ttu kamukai Aruṇa<hi rend="grantha">giri-śiva</hi>ṟku Ivv-ūr nattam uṭpaṭa maṭa-p-puṟam <g ref="sym:tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> <g ref="sym:tam-veli"/>kku <g ref="sym:tam-nilam"/> <num value="80">8 <g type="numeral">10</g></num> 1/80
 			</item>
 			
 			<item>			
@@ -129,25 +126,25 @@
 			
 			<item>
 				<gap reason="lost" extent="unknown" unit="character"/> ṇi<hi rend="grantha">śra</hi>ṟku
-				<g type="tam-nilam"/> 5 <g type="tam-veli"/>kku <g type="tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80 
+				<g ref="sym:tam-nilam"/> 5 <g ref="sym:tam-veli"/>kku <g ref="sym:tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80 
 			</item>
 			
 			<item>			
-				c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-tiru-neṟi-māḷikai-maṭattu mutaliyāṟku maṭa-p-puṟam <g type="tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80
+				c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-tiru-neṟi-māḷikai-maṭattu mutaliyāṟku maṭa-p-puṟam <g ref="sym:tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80
 			</item>
 			
 			<item>
 				<hi rend="grantha">pūja-kālaśvāmi</hi> tiru-ñāna-campanta-paṇṭitaṟku pūtāṉa-taṇṭ' iṟaiyil<!--EF: yil > yili--> 
-				<lb n="3" break="no"/>kku <g type="tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80 
+				<lb n="3" break="no"/>kku <g ref="sym:tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80 
 			</item>
 			
 			<item>
-				tēvakaṉmi <hi rend="grantha">kāśya</hi>paṉ kāḻi-kaṟpaka-paṭṭaṟku pūtāṉa-taṇṭ' iṟaiyilikku <g type="tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80
+				tēvakaṉmi <hi rend="grantha">kāśya</hi>paṉ kāḻi-kaṟpaka-paṭṭaṟku pūtāṉa-taṇṭ' iṟaiyilikku <g ref="sym:tam-nilam"/> <num value="20">2 <g type="numeral">10</g></num> 1/80
 			</item>
 		</list> 
-		Āka <g type="tam-nilam"/> 
+		Āka <g ref="sym:tam-nilam"/> 
 		
-		<num value="60">6 <g type="numeral">10</g></num> <g type="tam-veli"/> maṉul<!--EF: meaning?--> <g type="tam-nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> 1/80
+		<num value="60">6 <g type="numeral">10</g></num> <g ref="sym:tam-veli"/> maṉul<!--EF: meaning?--> <g ref="sym:tam-nilam"/> <num value="240">2 <g type="numeral">100</g> 4 <g type="numeral">10</g></num> 1/80
 	</p>
 	<p>
 		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam iru-nūṟṟu nāṟ-patu māvum <hi rend="grantha">sarva-dāṉya</hi>m-āka<!--EF: should sarva-mānya--> <hi rend="grantha">candrāditya</hi>-varaiyum naṭatti-k koḷḷa Itukku virōtañ-ceytāruṇ<!--EF: final ṇ is weird--> <gap reason="lost" extent="unknown" unit="character"/><!--EF: restore kallilum--> cempilum veṭṭi-k koḷḷa Ip-paṭikku <hi rend="grantha">dharmma</hi>-cātaṉa-p-paṭṭaiya-kuṭuttamaikku
@@ -170,7 +167,7 @@
 			<lem><hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ' i<gap reason="lost" extent="unknown" unit="character"/>
 			</lem>
 			<rdg source="bib:Veluppillai2013_01"/>
-			<note>The lacuna can be restored as <foreign><hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ' iṟaiyilikku <g type="tam-nilam"/> <num value="40">4 <g type="numeral">10</g></num> 1/80</foreign>. There are indeed 40 <foreign>mā</foreign>s missing to make the total of 240 <foreign>mā</foreign>s.</note>
+			<note>The lacuna can be restored as <foreign><hi rend="grantha">bhū-<choice><orig>d</orig><reg>t</reg></choice>ā</hi>na-taṇṭ' iṟaiyilikku <g ref="sym:tam-nilam"/> <num value="40">4 <g type="numeral">10</g></num> 1/80</foreign>. There are indeed 40 <foreign>mā</foreign>s missing to make the total of 240 <foreign>mā</foreign>s.</note>
 		</app>		
 		
 	</listApp>

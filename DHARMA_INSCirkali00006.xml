@@ -63,17 +63,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -93,7 +90,7 @@
 	<!--Check/Add notes form UV PhD-->
 	
 	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
 	</ab>
 	
 	<p>
@@ -109,7 +106,7 @@
 		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum taṅkaḷukku cērvai-y-āṉa Iṭaṅkaḷilē kaṭamai Uḷḷiṭṭaṉa celavākkuvat-āka-p paṟṟi-p payir ceytu koṇṭu tāṅkaḷ I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai-māṟu taṅkaḷ pēril Añc-āvatukku Aṭai-p-paṉai nila <gap reason="undefined" extent="unknown" unit="character"/>l taṅkaḷ v-iṭṭa paṭikku tāṅkaḷ Eḻuti-k kuṭutta <choice><sic>Ā</sic><corr>A</corr></choice><supplied reason="undefined">v</supplied>v-ōlai-p paṭi
 	
 		tiru-t-tōṇi-purattu
-		<lb n="3"/>tiṭṭaiyil piṟinta Irācēntira-cōḻa-nallūrāl v-iṭṭa nilam ēḻ' araiyum tiru-k-kaḻumalattu v-iṭṭa nilam Iraṇṭ' araiyum Āka v-iṭṭa nilam mu-p-patiṟṟu vēliyum Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyaṟkkum Amutu-paṭi cāttu-p-paṭi Uḷḷiṭṭa nitta <g type="tam-nilam"/>n taṅkaḷukku tēva-tāṉam-āka Iṭṭa nilam patiṉāl vēliyum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tēva-tāṉatt-uṭaṉē kūṭṭi-k koṇṭu payir ceytu Itaṉ-uṭal kōyil paṇṭārattilē kūṭṭi-k koṇṭu Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyāṟkum Amutu-paṭi cāttu-p paṭi Uḷḷiṭṭa pala-nimantaṅkaḷukkum 
+		<lb n="3"/>tiṭṭaiyil piṟinta Irācēntira-cōḻa-nallūrāl v-iṭṭa nilam ēḻ' araiyum tiru-k-kaḻumalattu v-iṭṭa nilam Iraṇṭ' araiyum Āka v-iṭṭa nilam mu-p-patiṟṟu vēliyum Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyaṟkkum Amutu-paṭi cāttu-p-paṭi Uḷḷiṭṭa nitta <g ref="sym:tam-nilam"/>n taṅkaḷukku tēva-tāṉam-āka Iṭṭa nilam patiṉāl vēliyum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tēva-tāṉatt-uṭaṉē kūṭṭi-k koṇṭu payir ceytu Itaṉ-uṭal kōyil paṇṭārattilē kūṭṭi-k koṇṭu Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyāṟkum Amutu-paṭi cāttu-p paṭi Uḷḷiṭṭa pala-nimantaṅkaḷukkum 
 		<lb n="4"/>maṭattil nāḷ vaṟa Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar pēr paṉṉiraṇṭukkum Im-maṭattu nōkki Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar<surplus>ṟ</surplus>kku Ākki Iṭṭu Irukkum <hi rend="grantha">māhe</hi>curarkkum muṉṟ' arai vēliyum Āka nilam patiṉ aṟu vēliyum Āka tēva-tāṉam Uṭpaṭa nilam mu-p-patiṟṟu vēliyum Ip-pērkaḷāl Aṉupavittu-k koḷḷum Āṟ-āvatu mutal mutal aṭaṅkalum Iṟai-y-ili-y-āka-k kuṭuttōm
 	</p>
 	

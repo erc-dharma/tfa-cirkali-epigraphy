@@ -72,24 +72,20 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-11-03" status="draft"
-                >Updating toward the encoding
+            <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
                 template v03</change>
             <change who="part:axja" when="2020-08-01">Update the template</change>
             <change who="part:utve" when="2019-11-18">Creation of the file</change>
@@ -126,7 +122,7 @@
                     Iv-vūr caṇṭē<hi rend="grantha">śva</hi>ra-vatikku-k kiḻakku niṉṟā
                     <lb n="11" break="no"/>n-vāykkālukku va<unclear>ṭa</unclear>kku mutaṟ-kaṇṇāṟṟu Iraṇṭāñ cati<supplied reason="lost">rat</supplied>tu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Iṟaiyā
                     <lb n="12" break="no"/>ṅ-kuṭṭi pāl pārattūvāci <hi rend="grantha">śrī</hi>-kāḻināṭ-uṭaiyān tiru-vēṇkāṭ-uṭaiyān nila
-                    <lb n="13" break="no"/>ttu viḷai <g type="tam-nilam"/> 1/10 1/2 1/160 1/320<!--Check again! PhD = N 2M½ ½K Q--> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam  Iru-mā-v-arai Arai-k-<supplied reason="lost">kā</supplied>ṇi mu<supplied reason="lost">nti</supplied>rikai
+                    <lb n="13" break="no"/>ttu viḷai <g ref="sym:tam-nilam"/> 1/10 1/2 1/160 1/320<!--Check again! PhD = N 2M½ ½K Q--> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam  Iru-mā-v-arai Arai-k-<supplied reason="lost">kā</supplied>ṇi mu<supplied reason="lost">nti</supplied>rikai
                     <lb n="14"/><gap reason="illegible" extent="unknown" unit="character"> </gap> <supplied reason="lost">I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilañ cūln=ta kulaiyum tiṭalum kuḷamum kiḻakk' aṭain=ta cōḻa</supplied>- <gap reason="illegible" extent="unknown" unit="character"> </gap>
                     <lb n="15"/><gap reason="illegible" quantity="2" unit="character"/> meṟk' aṭaiya kuṭi-<supplied reason="lost">y-iru</supplied>ppu-t tiṭar-ṉilamum cutta-mali-vatikku mēṟku ṉiṉṟā
                     <lb n="16" break="no"/><supplied reason="lost">ṉ-vāykkālu</supplied>kku vaṭakku <supplied reason="lost">muta</supplied>ṟ kaṇṇāṟṟu 3-<choice><orig>n</orig><reg>ñ</reg></choice><!--EF: standardised--> catirattu pālā<hi rend="grantha">śrī</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> mā-tē
@@ -295,7 +291,7 @@
                             <supplied reason="subaudible">La terre qui se trouve</supplied> à l’est de la <foreign>vati</foreign> Caṇṭeśvara de ce village, au nord du canal Niṉṟān, le deuxième carré du premier canalicule, près de Kiliṟaiyāṅkuṭṭi. <supplied reason="subaudible">Elle a été achetée</supplied> à Pāraṭṭūvācī Śrīkāḻiṉāṭuṭaiyān Tiruveṉkāṭuṭaiyān. Cette terre de 2,5 <foreign>mā</foreign>, <foreign>araikkāṇi</foreign> et <foreign>muntirikai</foreign> inclut les rivages, les terres <foreign>tiṭal</foreign> et les étangs, ainsi que la terre résidentielle qui est à l’ouest.
                         </item>
                         <item>
-                            <supplied reason="subaudible">La terre qui se trouve</supplied> à l’ouest de la <foreign>vati</foreign> Cuttamali, au nord du canal Niṉṟān, 3ᵉ carré du premier canalicule. <supplied reason="subaudible">Elle a été acquise auprès</supplied> de Pālāśrīyan Mātevan <gap reason="undefined"></gap> ainsi que la terre sèche de la terre sèche <supplied reason="explanation"><foreign>puṇceynilattu uṭaiya puṇceynilam</foreign></supplied> au nord-ouest.
+                            <supplied reason="subaudible">La terre qui se trouve</supplied> à l’ouest de la <foreign>vati</foreign> Cuttamali, au nord du canal Niṉṟān, 3ᵉ carré du premier canalicule. <supplied reason="subaudible">Elle a été acquise auprès</supplied> de Pālāśrīyan Mātevan <gap reason="undefined"/> ainsi que la terre sèche de la terre sèche <supplied reason="explanation"><foreign>puṇceynilattu uṭaiya puṇceynilam</foreign></supplied> au nord-ouest.
                         </item>
                     </list>
                 </p>

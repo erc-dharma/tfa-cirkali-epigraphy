@@ -63,17 +63,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -122,7 +119,7 @@
 		tiru-k-kaḻumalattil 
 		<lb n="13"/>Irācākkaḷ tampirāṉ tiru-viti<!--EF: tiruvīti?--> teru mēl-tuṇṭattil teṉ-ci<supplied reason="lost">ṟā</supplied>kilē mēṟk' aṭaiya k<choice><orig>i</orig><reg>ī</reg></choice>ḻ mēl 
 		<lb n="14" break="no"/>-kolam-uṭaiyāṉ <gap reason="lost" quantity="6" unit="character"/> kku maṇai Oṉṟu nila-vēlikku tiru-kaḻumalattil nilam kālacaṅkaṉa 
-		<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> Oṉṟu te<!--EF: a symbol?--> Āka <g type="tam-nilam"/> 1 <g type="tam-veli"/> maṇai 1
+		<lb n="15"/>paṭṭil aṟamaṉa <gap reason="lost" extent="unknown" unit="character"/> Oṉṟu te<!--EF: a symbol?--> Āka <g ref="sym:tam-nilam"/> 1 <g ref="sym:tam-veli"/> maṇai 1
 	</p>
 	<p>
 		Inta nilam vēlikkum maṇai Oṉṟukkum vilai Āka 

@@ -64,17 +64,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -104,10 +101,10 @@
 	<p>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<hi rend="grantha">jādhirāja</hi>-vaḷa-nāṭṭu tiru-k-kaḻumala-nāṭṭu <gap reason="lost" extent="unknown" unit="character"/> caturve<!--EF:Grantha?-->ti-maṅkalattu-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ piṭākai paṇa-maṅ <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="2"/>tiru-ñāṉa-campanta-vatikku kiḻakku Etirili-cōḻa-vāykkālukku vaṭakku 6 <g type="tam-kannaru"/> 1 catirattu <g type="tam-nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> Itil teṉ-mēṟk' aṭaiya O<!--EF: Ō?-->mām puliyūṟ-pāṟpati pā <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>lai koṇṭa <g type="tam-nilam"/> 1 <g type="undefined"/> Iv-vatikku-k kiḻakku Etirili-cōḻa-vāykkālukku vaṭakku Ik-kaṇṇāṟṟu 4 catirattu kiḻakk' a<supplied reason="lost">ṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="3"/>pacaḷai-t tiru-c-ciṟṟampalam-uṭaiyāṉ paṭṭaṉ Uḷḷiṭṭār pakkal vilai koṇṭa <g type="tam-nilam"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/>m Ālāla-cuntara-vatikku-k kiḻakku Acañcalaṉ <gap reason="lost" extent="unknown" unit="character"/> kku vaṭakku <g type="tam-nilam"/> 4 catirattu mēṟk' aṭaiya <g type="tam-nilam"/> 4 <g type="undefined"/> n<choice><orig>i</orig><reg>ī</reg></choice>kki-k kiḻakk' aṭaiya kauvuṉa-c-cappu-paṭṭaṉ pakkal vilai koṇṭu <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="4"/>Itaṉ kiḻakku <g type="tam-nilam"/> 6 <g type="undefined"/> kiḻakk' aṭaiya Ivaṉ pakkal vilai koṇṭa <g type="tam-nilam"/> <g type="undefined"/> <g type="undefined"/>m Iv-vatikku-k kiḻakku Iv-vāy-k-kālukku vaṭakku 2-n tuṇṭattu <g type="tam-nilam"/> <gap reason="lost" extent="unknown" unit="character"/> mēṟk' aṭaiya <g type="tam-nilam"/> 1 <g type="undefined"/> n<choice><orig>i</orig><reg>ī</reg></choice>kki Itaṉ kiḻakk' aṭaiya prā<!--Check: Grantha?-->ntūr pātapatipāka-paṭṭaṉ Uḷḷiṭṭār pakkal vilai koṇṭa <g type="tam-nilam"/> <gap reason="lost" extent="unknown" unit="character"/> 
-		<lb n="5"/><g type="tam-nilam"/> vēliyum uṭaiyār tiru-t-tōṇi-puram-uṭaiya nāyaṉāṟku-t tiru-nanta-vaṉa-p-puṟam ākka<!--EF: sic?--> kuṭuttēṉ nālūr<!--EF: sic? nallūr? see nalūr, line 8--> mā-tēva-paṭṭaṉ-ēṉ
+		<lb n="2"/>tiru-ñāṉa-campanta-vatikku kiḻakku Etirili-cōḻa-vāykkālukku vaṭakku 6 <g ref="sym:tam-kannaru"/> 1 catirattu <g ref="sym:tam-nilam"/> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> Itil teṉ-mēṟk' aṭaiya O<!--EF: Ō?-->mām puliyūṟ-pāṟpati pā <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">vi</supplied>lai koṇṭa <g ref="sym:tam-nilam"/> 1 <g ref="sym:unclassified" type="symbol">*</g> Iv-vatikku-k kiḻakku Etirili-cōḻa-vāykkālukku vaṭakku Ik-kaṇṇāṟṟu 4 catirattu kiḻakk' a<supplied reason="lost">ṭaiya</supplied> <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="3"/>pacaḷai-t tiru-c-ciṟṟampalam-uṭaiyāṉ paṭṭaṉ Uḷḷiṭṭār pakkal vilai koṇṭa <g ref="sym:tam-nilam"/> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>m Ālāla-cuntara-vatikku-k kiḻakku Acañcalaṉ <gap reason="lost" extent="unknown" unit="character"/> kku vaṭakku <g ref="sym:tam-nilam"/> 4 catirattu mēṟk' aṭaiya <g ref="sym:tam-nilam"/> 4 <g ref="sym:unclassified" type="symbol">*</g> n<choice><orig>i</orig><reg>ī</reg></choice>kki-k kiḻakk' aṭaiya kauvuṉa-c-cappu-paṭṭaṉ pakkal vilai koṇṭu <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="4"/>Itaṉ kiḻakku <g ref="sym:tam-nilam"/> 6 <g ref="sym:unclassified" type="symbol">*</g> kiḻakk' aṭaiya Ivaṉ pakkal vilai koṇṭa <g ref="sym:tam-nilam"/> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>m Iv-vatikku-k kiḻakku Iv-vāy-k-kālukku vaṭakku 2-n tuṇṭattu <g ref="sym:tam-nilam"/> <gap reason="lost" extent="unknown" unit="character"/> mēṟk' aṭaiya <g ref="sym:tam-nilam"/> 1 <g ref="sym:unclassified" type="symbol">*</g> n<choice><orig>i</orig><reg>ī</reg></choice>kki Itaṉ kiḻakk' aṭaiya prā<!--Check: Grantha?-->ntūr pātapatipāka-paṭṭaṉ Uḷḷiṭṭār pakkal vilai koṇṭa <g ref="sym:tam-nilam"/> <gap reason="lost" extent="unknown" unit="character"/> 
+		<lb n="5"/><g ref="sym:tam-nilam"/> vēliyum uṭaiyār tiru-t-tōṇi-puram-uṭaiya nāyaṉāṟku-t tiru-nanta-vaṉa-p-puṟam ākka<!--EF: sic?--> kuṭuttēṉ nālūr<!--EF: sic? nallūr? see nalūr, line 8--> mā-tēva-paṭṭaṉ-ēṉ
 		
 		toṭṭi-ceykku kiḻakku Oṭampo<!--EF: pō?-->kikku mēṟku campanta-perumāṉ eṉṟu pēr-kūva-p-paṭṭa tiru-nanta-vaṉam kuḻi <num value="250">2 <g type="numeral">100</g> 5 <g type="numeral">10</g></num> Ik-kuḻi Iru <gap reason="lost" extent="unknown" unit="character"/> 
 		<lb n="6"/>Aimpatum Eṉ cantāṉattāril Eṉ kaṉu<hi rend="grantha">ṣa</hi>ṉ<!--EF: meaning?--> tillai-nāyakarum māṇikka-k-kūttarum Inta-t tiru-nanta-vaṉam ceytu Uṭaiyār tiru-t-tōṇi-puram-uṭaiya nāyaṉār tiru-p-pū-maṇṭapattē tiru-p-paḷḷi-t-tāmam paṇimāṟavum<!--EF: meaning?--> Ivarkaḷukku <hi rend="grantha">jī</hi>vaṉā<hi rend="grantha">-śeṣa</hi>m-āka-k kuṭuttē<supplied reason="lost">ṉ</supplied></p>

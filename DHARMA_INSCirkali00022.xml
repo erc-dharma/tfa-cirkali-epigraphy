@@ -64,17 +64,14 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<!-- UPDATE the link once the release is made official -->
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -93,7 +90,7 @@
 	<!--EF: to be carefully checked again-->
 	<!--Check initial vowels-->
 	<p>
-		<lb n="1"/>vikkirama-varu<hi rend="grantha">ṣa</hi>ttiṟku-c cellum vi<hi rend="grantha">ṣu</hi>-<g type="tam-varusam"/>m<!--EF: A in the phD not Ā though--> cittirai-<g type="tam-matam"/> 1 l<!--EF: "l" for locative or symbol for tēti = tithi--> <gap reason="lost" extent="unknown" unit="character"/> mutali<!--EF mutal?--> nāḷ
+		<lb n="1"/>vikkirama-varu<hi rend="grantha">ṣa</hi>ttiṟku-c cellum vi<hi rend="grantha">ṣu</hi>-<g ref="sym:tam-varusam"/>m<!--EF: A in the phD not Ā though--> cittirai-<g ref="sym:tam-matam"/> 1 l<!--EF: "l" for locative or symbol for tēti = tithi--> <gap reason="lost" extent="unknown" unit="character"/> mutali<!--EF mutal?--> nāḷ
 	</p>
 	
 	<p>
@@ -108,8 +105,8 @@
 		kaṇṇārkuḻali<!--EF: kaṇṇaṟu?--> maṉaikku vaṭakku
 		
 		cetirā-p-piccaṉ maṉaikku <gap reason="lost" extent="unknown" unit="character"/> maṉai <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="4"/>vilai-y-āka niṉṟaiyam paṇṇiṉa <g type="tam-nilam"/> k<hi rend="grantha">r̥ṣṇa</hi>-rāyaṉ cantiyil amutu ceykiṟa Amutil kāṇi-y-āṭci-k-kārar aṭaippu piṟacāta 
-		<lb n="5" break="no"/>-Amutu <g type="undefined"/><!--EF: @ in phD = abréviation de mesures de terrain?--> Appam 1 vaṭai 1 Aṭaikkā-y-amutu 1 Ilaiyamutu 2 Āka Inta vakai vilai-y-āka niṉṟayam<!--EF: standardise to niṉṟaiyam?--> paṇṇiṉa 
+		<lb n="4"/>vilai-y-āka niṉṟaiyam paṇṇiṉa <g ref="sym:tam-nilam"/> k<hi rend="grantha">r̥ṣṇa</hi>-rāyaṉ cantiyil amutu ceykiṟa Amutil kāṇi-y-āṭci-k-kārar aṭaippu piṟacāta 
+		<lb n="5" break="no"/>-Amutu <g ref="sym:unclassified" type="symbol">*</g><!--EF: @ in phD = abréviation de mesures de terrain?--> Appam 1 vaṭai 1 Aṭaikkā-y-amutu 1 Ilaiyamutu 2 Āka Inta vakai vilai-y-āka niṉṟayam<!--EF: standardise to niṉṟaiyam?--> paṇṇiṉa 
 		<lb n="6"/>Appam oṉṟum vaṭai Oṉṟum aṭaikkā-y-amu<supplied reason="lost">tu</supplied> Ilai-y-amutu Iraṇṭum aramakku vilaikkuṟaviṟ<!--EF: meaning of kast two words?--> <gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="7"/>koḷḷavum inta <gap reason="lost" extent="unknown" unit="character"/> yum amutu paṇiyāramum aṭa<!--EF: correct to "ṭāi"?-->kkāy-ilai-y-amutum cantirātitta-varaiyum aṉupavip 
 		<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
