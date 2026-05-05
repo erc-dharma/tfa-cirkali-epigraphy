@@ -119,12 +119,12 @@
                 <p>
                     <gap reason="lost" quantity="4" unit="character"/> yāṟuvo-tara <gap reason="lost" quantity="1" unit="character"/><!--EF: kūḻaiy[o]ṟuvotaraḥ, where ḥ = ṉ ? like in "putaṉ" above-->
                     <lb n="17"/>ḻai yovalacā<!--EF: lacā not very clear; "ḷacāra"?-->-cantai-cāti-variyiṉ vari <hi rend="grantha">sarvva</hi>mum mā<hi rend="grantha">nnya</hi>m-āka kalluveṭṭu vittu pūcai
-                    <lb n="18"/>tiru-p-paṇi tāḻvu Aṟa naṭattavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="18"/>tiru-p-paṇi tāḻvu Aṟa naṭattavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
                 <p>
                     caṟuvamum mā<choice><sic>ṉi</sic><corr>n</corr></choice>niyam-āka kalluveṭṭi nāṭṭi-k koṇṭu pū 
-                    <lb n="19" break="no"/>cai tiru-p-paṇi naṭatti Oṉṟukkum Añcāmal Irukkavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> <g ref="sym:doubleBar" type="punctuation">.</g>
+                    <lb n="19" break="no"/>cai tiru-p-paṇi naṭatti Oṉṟukkum Añcāmal Irukkavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g>
                 </p>
                 
                 <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">

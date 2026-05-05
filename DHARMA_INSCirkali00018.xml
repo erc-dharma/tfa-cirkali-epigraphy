@@ -95,7 +95,7 @@
 	<gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
 	
 	<p>
-		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> viruppa<choice><sic>ṉ</sic><corr>ṇ</corr></choice>a Uṭaiyār <hi rend="grantha">pr̥thivi</hi>-rāc<unclear>ciyam paṇṇi-y-aruḷā niṉṟa</unclear> <hi rend="grantha">śakā<choice><sic>p</sic><corr>b</corr></choice>da</hi>m <num value="1319"><unclear><g type="numeral">1000</g> 3 <g type="numeral">100</g></unclear> <g type="numeral">10</g> 9</num>-ṉ mēl collā<!--EF: cellā?--> niṉṟa <hi rend="grantha">Īśvara</hi>-varu<hi rend="grantha">ṣa</hi>m paṅkuṉi-mātam <num value="11"><g type="numeral">10</g> 1</num> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> viruppa<choice><sic>ṉ</sic><corr>ṇ</corr></choice>a Uṭaiyār <hi rend="grantha">pr̥thivi</hi>-rāc<unclear>ciyam paṇṇi-y-aruḷā niṉṟa</unclear> <hi rend="grantha">śakā<choice><sic>p</sic><corr>b</corr></choice>da</hi>m <num value="1319"><unclear><g type="numeral">1000</g> 3 <g type="numeral">100</g></unclear> <g type="numeral">10</g> 9</num>-ṉ mēl collā<!--EF: cellā?--> niṉṟa <hi rend="grantha">Īśvara</hi>-varu<hi rend="grantha">ṣa</hi>m paṅkuṉi-mātam <num value="11"><g type="numeral">10</g> 1</num> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
 	</p>
 	
 	<p>	
