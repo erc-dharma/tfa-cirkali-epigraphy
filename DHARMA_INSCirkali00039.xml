@@ -134,8 +134,8 @@
                 
                 <listApp>                
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Veluppillai2013_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Veluppillai2013_01"/>
                     </app>
                     
                 </listApp>
