@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Cīrkāḻi, Brahmapurīśvara, time of Vīrarājendra, year 7</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:utve">
                         <surname>Veluppillai</surname>
                         <forename>Uthaya</forename>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:emfr">
                         <surname>Francis</surname>
                         <forename>Emmanuel</forename>
