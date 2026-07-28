@@ -10,17 +10,14 @@
             <titleStmt>
                 <title>Cīrkāḻi, Brahmapurīśvara, time of Kōpperuñciṅkaṉ, year lost</title>
                 <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:utve">
                         <surname>Veluppillai</surname>
                         <forename>Uthaya</forename>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:emfr">
-                        <surname>Francis</surname>
                         <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
                     </persName>
                 </respStmt>	
             </titleStmt>

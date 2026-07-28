@@ -5,176 +5,173 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, time of Rājarāja, year 10</title>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="contributor">EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00009.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-03">Revise encoding</change>
-			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-<body>
-      
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<!--Check/Add notes form UV PhD-->
-	
-	<p>
-		<gap reason="lost" extent="unknown" unit="line"/>
-	</p>
-	
-	<p>
-		<lb n="1"/>lum paṭi Āḷuṭaiya-nāyaṉāṟku virutu<!--sic indeed-->-rāya-payaṅkara-vaḷa-nāṭṭu nāka-maṅkalattu Iṭaiyūr-āṉa <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-nallūrilum mataṭṭai-y-āṉa teṉ-cāttaṅ-kuṭiyilum tiru-nāmattu-k-kāṇi-y-āṉa ṉilam Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟkum Uṭaiyār tiru-k-koṭikkā-Uṭaiyāṟkkum tēva-tāṉamum tiṟa-p-pumākaiyālai In-nilam Ivar māṟi tēva-tāṉam ākavum
-	</p>
-	<p>
-		<gap reason="lost" extent="unknown" unit="character"/> kāṇi māṟiṉa nilattukkum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟkku mēl-āṟṟūr-āṉa <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-caruppēti-maṅkalattu-p pirinta vikkirama-cōḻa-marutūril tēva-tāṉam-āṉa nila māṟi Āḷuṭaiya-nāyaṉārkku <hi rend="grantha">de</hi>vatāṉam-āka Iṭṭa nilam
-	</p>
-	<p>
-		Ai-vēlikkum talai-māṟu tiruvāli-y-āṉa mu-m-muṭi-cōḻa-c-caruppēti-maṅkalattu-p paḻaṇtiṟappil tēva-tāṉam-āṉa nilattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tiru-nāmattu-k kā 
-		<lb n="2" break="no"/>ṇi-y-āṉa nilam Iru-patt' āṟē Iraṇṭu māvum patt-āvatu mutal tēva-tāṉattu māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēva-tānam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa ceyyum paṭi vaṉtattu<!--sic indeed--> ceyyum paṭi-p paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Iru-patt' āṟē Iraṇṭu māvum tēva-tāṉam-āka v-iṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi-c colluvatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
-	</p>
-	<p>
-		cēti-kula-rāyarkku-c collum paṭi Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟku virita<!--EF: viruta below; emend here?-->-rāya-payaṅkara-vaḷanāṭṭil tēva-tāṉam-āṉa ṉilattu cērv-illāta nila māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai-māṟu Iṭukiṟa nilattukk' uṭal-āka<!--uṭal = syn. mutal--> tiruvāli-y-āṉa mu-m-muṭi-cōḻa-c-caru-p-pēti-maṅkalattu-t tiṟappil I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tiru-nāmattu-k kāṇi-y-āṉa nilam patiṉ Oṉṟ' araiyē muṉṟu mā-k-kāṇi muntirikai-c ciṉṉamum patt-āvatu mutal tēva-tāṉam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa tiru-muka 
-		<lb n="3" break="no"/>poṉattu<!--EF: meaning?--> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēva-tāṉam-āka viṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi colluvatē <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
-	</p>
-	<p>
-		kaṉaka-rāyarkku-c collum paṭi Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟku virutarāya-payaṅkara-vaḷanāṭṭu-t tēva-tāṉam-āṉa Ūrkaḷil cērv-allāmai māṟiṉa Ūrkaḷukku-t talai-māṟu rā<hi rend="grantha">jā</hi>tirāya-vaḷaṉāṭṭu vaṭa-kāviri-nallūr-āṉa Etirili-cōḻaṉmaṇa-kuṭiyil tiṟappu nilam pattē muṉṟu mā-k-kāṇi muntirikai-k kīḻ aṟu <unclear>mā va</unclear>raiyum patt-āvatu mutal tēva-tāṉam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa tirucakam poṉattu<!--EF: meaning?--> tiru-muka-p paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēva-tāṉam-āka v-iṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi colluvatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
-	</p>
-	<p>		
-		tiri-puvaṉa-c-cakkara-va<reg>r</reg>kaḷ <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu patt-āvatu Irā<hi rend="grantha"><unclear>jā</unclear></hi><hi rend="grantha">dhi</hi>rā<hi rend="grantha">ja</hi>-vaḷaṉāṭṭu-t tiru-k-kaḻumala-nāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kō 
-		<lb n="4" break="no"/>yil Āti-caṇṭē<hi rend="grantha">śva</hi>rar tiru-v-aruḷāl I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-k-kaṇkāṇi ceyvārkaḷum cī-kāriyam ceyvāṉum tēvakaṉmi kōyil-kaṇakkaṉum Ivv-aṉaivōm I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tēva-tāṉam vaṭa-kāviri-nallūr-āṉa Etirili-cōḻaṉ-maṇa-k-kuṭi-k kuṭi-makkaḷukku Iṟukka niccayittu-k kāṇi y-iṭṭu-k kuṭutta paric' āvatu
-	</p>
-	<p>		
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku virita<!--sic indeed-->-rāya-payaṅkara-vaḷa-nāṭṭu tēva-tāṉam-āṉa nilattu-c cērv-allāmaiyil māṟi paṟṟukku Okka<!--EF: meaning?-->-tēva-tāṉam iṭukiṟa nilattukku Oṉpat-āvatu nāḷ mu-ṉ-ṉūṟṟu Aim-pati<choice><orig>n</orig><reg>ṉ</reg></choice> āṟu Iṭṭa niṇaippiṉ paṭi malaiya-p-piya-rāyarai-p paṟṟu māṟi Ivv-ūril tēva-tāṉam iṭṭa nilam <num value="13"><g type="numeral">10</g> 3</num> 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 <num value="0.5">1/2</num> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam pattē muṉṟu mā-k-kāṇi muṉtirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṟu mā v-araiyum patt-āvatu kār mutal 
-		<lb n="5"/>kaṭamai y-irukkum iṭattu muṉpu Ivv-ūril I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēva-tāṉam-āṉa nilam āṟ' arai vēlikkum kaṭamai koḷḷum paṭikku Ivarkaḷukku kuṭutta kaṭai-p paṭi-p paṭiyē vēli Oṉṟukku nūṟṟu Iru-patiṉ kalam-āka vanta nellu Irukkavum Irukkum iṭattu nāṭṭukku Iṭṭa niṇaippum Akamum peṟavum Oṭṭu-p paṭi nel kalattu-k kuṟuṇi nā-ṉāḻi-y-āka vanta nellu taraviṭupūriti-y-āka<!--EF: meaning?--> n<choice><orig>i</orig><reg>ī</reg></choice>kkavum n<choice><orig>i</orig><reg>ī</reg></choice>kki niṉṟa nellukku talaiyaka-p paṭi kācu Iṭavum kuṭimai-p pottaka-p paṭi vēli Oṉṟukku Iru-kalam-āka vaṉta nellu-t taraviṭupūriṭṭaṉē kūṭṭi-k-kai vilai-p paṭi kācu Iṭavu<unclear>m a</unclear>rai nāḻi kōyiṟ peṟu Iṟukka-k kaṭavarkaḷ ākavum
-	</p>
-	<p>		
-		maṟṟu Oṉṟum kaṭavat-allāt-at'<!--EF: meaning?--> ākavum
-	</p>
-	<p>
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam <num value="13"><g type="numeral">10</g> 3</num> 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 1/2 rayum muṉpu Ivv-ūril tēva-tāṉam-āṉa nilam 6 1/2 vēliyum 
-		<lb n="6" break="no"/>-<unclear>āka</unclear> nilam <num value="16"><g type="numeral">10</g> 6</num> 1/2 3 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 1/2 kkum Ip-paṭiyē ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirātitta-vaṟ I<choice><orig>r</orig><reg>ṟ</reg></choice>ukka-k kaṭavarkaḷ-āka-k kalveṭṭi-k kuṭuttōm		
-		Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvaṟ tiru-v-aruḷāl I<choice><orig>n-ṉ</orig><reg>n-n</reg></choice>āyaṉār kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-k-kaṇkāṇi ceyvārkaḷum c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyam ceyvāṉum tēvakaṉmi kōyiṟ-kaṇakkaṉum Ivv-aṇaivōm
-	</p>
-	<p>
-		<list>
-		<item>Ip-paṭikku Ivai kōyiṟ-kaṇakku virāṇam-uṭaiyāṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai kōyiṟ-kaṇakku-t tiruniṉṟa-Ūr-uṭaiyāṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai kōyil kaṇakku puṅkūr-uṭaiyāṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai koyil kaṇakku tālūr-uṭaiyāṉ Eḻuttu</item>
-		<item>Ip-paṭikku Ivai kanmi nāṟpatt-eṇ-ṇ-āyira-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇakku poṟ-kōyil-paṭṭaṉ Eḻuttu</item> 
-		<item>Ip-paṭikku Ivai tēvakaṉmi muṭivaḻaṅku-cōḻa-paṭṭaṉ Eḻuttu</item>
-		<item><lb n="7"/><unclear>Ip-paṭi</unclear>kku Ivai c<choice><orig>i</orig><reg>ī</reg></choice>-<unclear>mā</unclear><hi rend="grantha">heśva</hi>ra-kaṇk<choice><sic>a</sic><corr>ā</corr></choice>ṇi-k kaṇakku kaṇiccai-p-pākkam-uṭaiyāṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></item>
-		</list>
-	</p>
-	         	
-         </div>
-        
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">..</rdg>
-		</app>
-	</listApp>
-	
-</div>-->
-	
-<!--<div type="translation" resp="part:emfr">
-	
-</div>-->
-
-<div type="commentary">
-           <p xml:lang="fra">
-           	L’inscription a été répertoriée comme la suite de ARE 1918 393 (CEC 8) sur la transcription de l’ASI. Or, elle se trouve sur la face nord du mur d’enceinte, en-dessous de CEC 11. Elle ne peut être ni la suite directe de CEC 8 par son emplacement ni celle de CEC 11 par son contenu. Elle comporte sept lignes sur une longueur de plus de treize mètres. Le début manque.
-           </p>
-	<p>The name of the king and his regnal year appear at the end of line 4. It was probably already mentioned at the beginning, now lost, of the record.</p>
-         </div>
-
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/393).</p>
-	
-	<p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 9), based on ASI transcript (consulted in Mysore), and on autopsy (2005, 2006) for portions legible <hi rend="italic">in situ</hi>.</p>		
-	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
-
-	
-	<listBibl type="primary">
-					
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">264-268</citedRange>
-			<citedRange unit="item">9</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">34</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">393</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">548</citedRange>
-			<citedRange unit="item">Tj. 2403</citedRange>			
-		</bibl>
-		
-	</listBibl>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, time of Rājarāja, year 10</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00009.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-03">Revise encoding</change>
+            <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--Check/Add notes form UV PhD-->
+                
+                <p>
+                    <gap reason="lost" extent="unknown" unit="line"/>
+                </p>
+                
+                <p>
+                    <lb n="1"/>lum paṭi Āḷuṭaiya-nāyaṉāṟku virutu<!--sic indeed-->-rāya-payaṅkara-vaḷa-nāṭṭu nāka-maṅkalattu Iṭaiyūr-āṉa <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-nallūrilum mataṭṭai-y-āṉa teṉ-cāttaṅ-kuṭiyilum tiru-nāmattu-k-kāṇi-y-āṉa ṉilam Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟkum Uṭaiyār tiru-k-koṭikkā-Uṭaiyāṟkkum tēva-tāṉamum tiṟa-p-pumākaiyālai In-nilam Ivar māṟi tēva-tāṉam ākavum
+                </p>
+                <p>
+                    <gap reason="lost" extent="unknown" unit="character"/> kāṇi māṟiṉa nilattukkum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟkku mēl-āṟṟūr-āṉa <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-caruppēti-maṅkalattu-p pirinta vikkirama-cōḻa-marutūril tēva-tāṉam-āṉa nila māṟi Āḷuṭaiya-nāyaṉārkku <hi rend="grantha">de</hi>vatāṉam-āka Iṭṭa nilam
+                </p>
+                <p>
+                    Ai-vēlikkum talai-māṟu tiruvāli-y-āṉa mu-m-muṭi-cōḻa-c-caruppēti-maṅkalattu-p paḻaṇtiṟappil tēva-tāṉam-āṉa nilattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tiru-nāmattu-k kā 
+                    <lb n="2" break="no"/>ṇi-y-āṉa nilam Iru-patt' āṟē Iraṇṭu māvum patt-āvatu mutal tēva-tāṉattu māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēva-tānam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa ceyyum paṭi vaṉtattu<!--sic indeed--> ceyyum paṭi-p paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam Iru-patt' āṟē Iraṇṭu māvum tēva-tāṉam-āka v-iṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi-c colluvatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </p>
+                <p>
+                    cēti-kula-rāyarkku-c collum paṭi Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟku virita<!--EF: viruta below; emend here?-->-rāya-payaṅkara-vaḷanāṭṭil tēva-tāṉam-āṉa ṉilattu cērv-illāta nila māṟi I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai-māṟu Iṭukiṟa nilattukk' uṭal-āka<!--uṭal = syn. mutal--> tiruvāli-y-āṉa mu-m-muṭi-cōḻa-c-caru-p-pēti-maṅkalattu-t tiṟappil I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tiru-nāmattu-k kāṇi-y-āṉa nilam patiṉ Oṉṟ' araiyē muṉṟu mā-k-kāṇi muntirikai-c ciṉṉamum patt-āvatu mutal tēva-tāṉam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa tiru-muka 
+                    <lb n="3" break="no"/>poṉattu<!--EF: meaning?--> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēva-tāṉam-āka viṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi colluvatē <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </p>
+                <p>
+                    kaṉaka-rāyarkku-c collum paṭi Uṭaiyār tiru-t-tōṇi-puram-uṭaiyāṟku virutarāya-payaṅkara-vaḷanāṭṭu-t tēva-tāṉam-āṉa Ūrkaḷil cērv-allāmai māṟiṉa Ūrkaḷukku-t talai-māṟu rā<hi rend="grantha">jā</hi>tirāya-vaḷaṉāṭṭu vaṭa-kāviri-nallūr-āṉa Etirili-cōḻaṉmaṇa-kuṭiyil tiṟappu nilam pattē muṉṟu mā-k-kāṇi muntirikai-k kīḻ aṟu <unclear>mā va</unclear>raiyum patt-āvatu mutal tēva-tāṉam-āka Iṭṭu <hi rend="grantha">prasā</hi>tañ ceyt-aruḷiṉa tirucakam poṉattu<!--EF: meaning?--> tiru-muka-p paṭiyē I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam tēva-tāṉam-āka v-iṭṭu-k kuṭukka-p paṇṇuvatē Ip-paṭi colluvatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </p>
+                <p>		
+                    tiri-puvaṉa-c-cakkara-va<reg>r</reg>kaḷ <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu patt-āvatu Irā<hi rend="grantha"><unclear>jā</unclear></hi><hi rend="grantha">dhi</hi>rā<hi rend="grantha">ja</hi>-vaḷaṉāṭṭu-t tiru-k-kaḻumala-nāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kō 
+                    <lb n="4" break="no"/>yil Āti-caṇṭē<hi rend="grantha">śva</hi>rar tiru-v-aruḷāl I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-k-kaṇkāṇi ceyvārkaḷum cī-kāriyam ceyvāṉum tēvakaṉmi kōyil-kaṇakkaṉum Ivv-aṉaivōm I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉār tēva-tāṉam vaṭa-kāviri-nallūr-āṉa Etirili-cōḻaṉ-maṇa-k-kuṭi-k kuṭi-makkaḷukku Iṟukka niccayittu-k kāṇi y-iṭṭu-k kuṭutta paric' āvatu
+                </p>
+                <p>		
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku virita<!--sic indeed-->-rāya-payaṅkara-vaḷa-nāṭṭu tēva-tāṉam-āṉa nilattu-c cērv-allāmaiyil māṟi paṟṟukku Okka<!--EF: meaning?-->-tēva-tāṉam iṭukiṟa nilattukku Oṉpat-āvatu nāḷ mu-ṉ-ṉūṟṟu Aim-pati<choice><orig>n</orig><reg>ṉ</reg></choice> āṟu Iṭṭa niṇaippiṉ paṭi malaiya-p-piya-rāyarai-p paṟṟu māṟi Ivv-ūril tēva-tāṉam iṭṭa nilam <num value="13"><g type="numeral">10</g> 3</num> 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 <num value="0.5">1/2</num> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam pattē muṉṟu mā-k-kāṇi muṉtirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ aṟu mā v-araiyum patt-āvatu kār mutal 
+                    <lb n="5"/>kaṭamai y-irukkum iṭattu muṉpu Ivv-ūril I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku tēva-tāṉam-āṉa nilam āṟ' arai vēlikkum kaṭamai koḷḷum paṭikku Ivarkaḷukku kuṭutta kaṭai-p paṭi-p paṭiyē vēli Oṉṟukku nūṟṟu Iru-patiṉ kalam-āka vanta nellu Irukkavum Irukkum iṭattu nāṭṭukku Iṭṭa niṇaippum Akamum peṟavum Oṭṭu-p paṭi nel kalattu-k kuṟuṇi nā-ṉāḻi-y-āka vanta nellu taraviṭupūriti-y-āka<!--EF: meaning?--> n<choice><orig>i</orig><reg>ī</reg></choice>kkavum n<choice><orig>i</orig><reg>ī</reg></choice>kki niṉṟa nellukku talaiyaka-p paṭi kācu Iṭavum kuṭimai-p pottaka-p paṭi vēli Oṉṟukku Iru-kalam-āka vaṉta nellu-t taraviṭupūriṭṭaṉē kūṭṭi-k-kai vilai-p paṭi kācu Iṭavu<unclear>m a</unclear>rai nāḻi kōyiṟ peṟu Iṟukka-k kaṭavarkaḷ ākavum
+                </p>
+                <p>		
+                    maṟṟu Oṉṟum kaṭavat-allāt-at'<!--EF: meaning?--> ākavum
+                </p>
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam <num value="13"><g type="numeral">10</g> 3</num> 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 1/2 rayum muṉpu Ivv-ūril tēva-tāṉam-āṉa nilam 6 1/2 vēliyum 
+                    <lb n="6" break="no"/>-<unclear>āka</unclear> nilam <num value="16"><g type="numeral">10</g> 6</num> 1/2 3 1/80 1/320+ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <hi rend="check">1/4</hi> 1/80 1/2 kkum Ip-paṭiyē ca<choice><orig>ṉ</orig><reg>n</reg></choice>tirātitta-vaṟ I<choice><orig>r</orig><reg>ṟ</reg></choice>ukka-k kaṭavarkaḷ-āka-k kalveṭṭi-k kuṭuttōm		
+                    Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvaṟ tiru-v-aruḷāl I<choice><orig>n-ṉ</orig><reg>n-n</reg></choice>āyaṉār kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-k-kaṇkāṇi ceyvārkaḷum c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyam ceyvāṉum tēvakaṉmi kōyiṟ-kaṇakkaṉum Ivv-aṇaivōm
+                </p>
+                <p>
+                    <list>
+                        <item>Ip-paṭikku Ivai kōyiṟ-kaṇakku virāṇam-uṭaiyāṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai kōyiṟ-kaṇakku-t tiruniṉṟa-Ūr-uṭaiyāṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai kōyil kaṇakku puṅkūr-uṭaiyāṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai koyil kaṇakku tālūr-uṭaiyāṉ Eḻuttu</item>
+                        <item>Ip-paṭikku Ivai kanmi nāṟpatt-eṇ-ṇ-āyira-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇakku poṟ-kōyil-paṭṭaṉ Eḻuttu</item> 
+                        <item>Ip-paṭikku Ivai tēvakaṉmi muṭivaḻaṅku-cōḻa-paṭṭaṉ Eḻuttu</item>
+                        <item><lb n="7"/><unclear>Ip-paṭi</unclear>kku Ivai c<choice><orig>i</orig><reg>ī</reg></choice>-<unclear>mā</unclear><hi rend="grantha">heśva</hi>ra-kaṇk<choice><sic>a</sic><corr>ā</corr></choice>ṇi-k kaṇakku kaṇiccai-p-pākkam-uṭaiyāṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></item>
+                    </list>
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="line">
+                <lem>...</lem>
+                <rdg source="bib:AuthorYear_01">..</rdg>
+                </app>
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                </div>-->
+            
+            <div type="commentary">
+                <p xml:lang="fra">
+                    L’inscription a été répertoriée comme la suite de ARE 1918 393 (CEC 8) sur la transcription de l’ASI. Or, elle se trouve sur la face nord du mur d’enceinte, en-dessous de CEC 11. Elle ne peut être ni la suite directe de CEC 8 par son emplacement ni celle de CEC 11 par son contenu. Elle comporte sept lignes sur une longueur de plus de treize mètres. Le début manque.
+                </p>
+                <p>The name of the king and his regnal year appear at the end of line 4. It was probably already mentioned at the beginning, now lost, of the record.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/393).</p>
+                
+                <p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 9), based on ASI transcript (consulted in Mysore), and on autopsy (2005, 2006) for portions legible <hi rend="italic">in situ</hi>.</p>		
+                <p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis.</p>
+                
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">264-268</citedRange>
+                        <citedRange unit="item">9</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">34</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">393</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">548</citedRange>
+                        <citedRange unit="item">Tj. 2403</citedRange>			
+                    </bibl>
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 <!--
-	METADATA:
+    METADATA:
 -->

@@ -5,271 +5,264 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, time of Kulottuṅga Cōḻa, year 9</title>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName ref="part:utve">
-						<surname>Veluppillai</surname>
-						<forename>Uthaya</forename>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="contributor">EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<surname>Francis</surname>
-						<forename>Emmanuel</forename>
-					</persName>
-					<persName ref="part:utve">
-						<forename>Uthaya</forename>
-						<surname>Veluppillai</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00003.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:utve" when="2022-11-07">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-      
-<body>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, time of Kulottuṅga Cōḻa, year 9</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00003.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:utve" when="2022-11-07">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī </hi><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
-	</ab>
-	
-	<p>
-		tiri-puvaṉa-c-cakkarava<choice><orig>t</orig><reg>rt</reg></choice>ti<unclear>ka</unclear>ḷ maturai koṇṭ-aruḷiṉa <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 9-Āvatu nāḷ <num value="176"><g type="numeral">100</g> 7 <g type="numeral">10</g> 6</num>-l 
-	</p>
-	
-	<p>
-		Antarāyam pāṭṭam Uḷ-paṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p <unclear>puṟa</unclear>-Iṟaiyili Iṭṭa Irā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-tō <space type="unclassified"/> ṇi-puram-uṭaiyārkum periya-nācciyār<supplied reason="omitted">k</supplied>kum tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p-puṟa-Iṟai-y-ili-y-āka kāṇiyāḷar nilai niṉṟu payir ce<unclear>y</unclear>tu kaṭamai Iṟātu
-		
-		paṟṟili-y-āy ivarkaḷukku Iṟai-p-puṇai-p paṭṭa karai-p-paṭaiyilārkku taṇṭal nāyakam Araiyaṅ <unclear>ka</unclear>ṭal-ko<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>amitantāṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Amarakōṉ pal<unclear>la</unclear> <space type="unclassified"/> varaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-naṭṭamāṭi-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vēta-va<choice><orig>n</orig><reg>ṉ</reg></choice>a-nāyaka<unclear>-p pa</unclear>llavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>m canta</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <unclear>kō</unclear>va<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-c-ciṟṟ-ampala-viḻupparaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um caṉtaṉ 
-		<lb n="2"/>kulāvaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a ciṅkaḷāṉtaka-p-pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um ceṅkaṇmāl p<unclear>e</unclear>riyā<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a nampiyārūr-p pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um pakkal Ik-kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra<hi rend="grantha">de</hi>var tiru-nāmattu vilai-koṇṭa piramāṇa-<unclear>p</unclear> paṭi
-		
-		kā<supplied reason="lost">ṇi māṟiṉa veṇ</supplied>ṇaiyūr-nāṭṭu nakkaṉ pāṭi-y-āṉa Aḻakiya-rāma-pa<choice><orig>ṭ</orig><reg>ṭṭ</reg></choice>inam Uṭaiyār cuṅka<unclear>n</unclear>tavutt-aruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <space type="unclassified"/> kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>varkku <num value="16"><g type="numeral">10</g> <unclear>6</unclear></num>-<unclear>Ā</unclear>vatu tiru-v-ulak-aḷanta kaṇakku-p paṭi niṅkal n<choice><orig>i</orig><reg>ī</reg></choice><unclear>k</unclear>ki <supplied reason="lost">paṉai niṉṟa kollai</supplied><unclear>yu</unclear>m Uvarum Uppumaṇṇum Āy <unclear>A</unclear>ṟuk' e<unclear>ḻu</unclear>ṉta paṭutaṟaiyum Eṉṟu <unclear>Aḷanta</unclear> nilattu nel payirum puṉ pa<unclear>yiru</unclear>m ceytum mara-nilaiyum <unclear>Ā</unclear>y varukiṟa nilam Uḷpaṭa ce<supplied reason="lost">yyalām payir <choice><orig>ce</orig><reg>cey</reg></choice>tu</supplied> <space type="unclassified"/> m maram ākkiyum U<gap reason="lost" quantity="2" unit="character"/>ṭṭu<!--contra SII--> tiru-nuntā-viḷakku Erikka Iṭukiṟa nila<unclear>m eṉ</unclear>ṉuṭaiya<!--contra SII--> <gap reason="lost" quantity="6" unit="character" precision="low"/>kku <unclear>A</unclear>ṭai-p-pāy varukiṟa paṭiyum tavirṉtu yāṇ<supplied reason="lost">ṭu 9</supplied>-Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal A<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
-		<lb n="3" break="no"/>rāyam pāṭṭam Uḷpaṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p-puṟa-Iṟai-y-ili Iṭṭa ni<unclear>la</unclear>m <num value="57">5 <g type="numeral">10</g> 7</num> <supplied reason="subaudible"><g ref="sym:tam-veli"/></supplied> 4 1/80 1/320+ <g ref="sym:tam-kil"/> 1/2+ 1/20+ <g ref="sym:tam-yantu"/> <g ref="sym:tam-nel"/> <num value="1710"><g type="numeral">1000</g> 7 <g type="numeral">100</g> <g type="numeral">10</g></num> <g ref="sym:tam-yantu"/><!--contra SII--> y<unclear>ā</unclear>ṇṭu 9-Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal Antarāyam pāṭṭam Uḷpaṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakkup puṟa Iṟaiyili Iṭṭamaikku I<unclear>vv-ūr</unclear> <num value="16"><unclear><g type="numeral">10</g> 6</unclear></num>-<unclear>Āvatu</unclear> Aḷavil kaṭalil tirai Ēṟi-vāy Aruku Ilippū<unclear>ṭu</unclear>m Irāva<space type="unclassified"/>ṇaṉ mēr-vāyum <unclear>E</unclear>luntu maṇal kuṉṟāna nilamum paṭṭinavar kuṭi Iruppā<choice><orig>n</orig><reg>ṉ</reg></choice>a nilamum-āy <unclear>ni</unclear>ṅka<supplied reason="lost">l-āṉa nīr</supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">ṇi</supplied><unclear>lattu</unclear><!--contra SII--> paṉaiyum Iluppayum Uḷḷiṭṭu mara-mā-k-kalām nilam Ākki Ituvum tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakkukku Uṭal āvatu
-	</p>
-	
-	<p>
-		<list>
-			
-			<item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>-karaṇa-nā<unclear>ya</unclear>kam pantaṇai-nallūr Uṭai<unclear>yāṉ</unclear> Eḻuttu <space type="unclassified"/></item>
-			
-			<item>Ivai <unclear>puravu-vari c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-<unclear>karaṇa</unclear>-nāyakam <supplied reason="lost">pirimayaṉ Eḻu</supplied>ttu <g ref="sym:dash" type="punctuation">.</g></item> 
-			
-			<item>Ivai vāṉa<unclear>vaṅ c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-<unclear>karaṇaṅ</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>v-ūr kiḻa</unclear>vaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item> 
-			
-			<item>Ivai pu<unclear>ravu-vari c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-karaṇa-nā<unclear>ya</unclear>kam Ārūr Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu</item> 
-			
-			<item><lb n="4"/>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>-karaṇattu muka-veṭṭi kurukāṭi-kiḻāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>karaṇattu muka-veṭṭi kumāra-maṅkalam-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>karaṇattu muka-veṭṭi peru-maṅkalam-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai <unclear>puravu-vari</unclear> c<choice><orig>i</orig><reg>ī</reg></choice>ka<unclear>raṇat</unclear>tu muka-veṭṭi mēlūr-Uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai cēṟa-kōṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai kuru-kula-rāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai cōḻa-viccātira-p-pallavaraiyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai vilāṭattarayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai paṅkaḷarāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai mēlnāṭṭarayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai vēcālipparayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai vāḷuvarāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>Ivai <gap reason="lost" quantity="8" unit="character"/> <unclear>Eḻuttu</unclear> <g ref="sym:dash" type="punctuation">.</g></item>
-			
-			<item>I<unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>nāta-piriyaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></unclear></item>
-		</list>
-	</p>
-</div>
-	
-<div type="apparatus">
-	
-	<!--CHECK SII edition.-->
-	<listApp>
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1925_01">...</rdg>
-			<rdg source="bib:Veluppillai2013_01">...</rdg>
-			<note/>
-		</app>-->
-		<app loc="1">
-			<lem>karaippaṭaiyilārkku</lem>
-			<rdg source="bib:Veluppillai2013_01"/>
-			<rdg source="bib:KrishnaSastri1925_01">karaippaṭaiyilār<supplied reason="omitted">k</supplied>ku</rdg>
-			<note/>
-		</app>
-		
-		<app loc="2">
-			<lem>kulāvaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a</lem>
-			<rdg source="bib:KrishnaSastri1925_01"><unclear>kulāva</unclear>ṉā<unclear>na</unclear></rdg>
-			<rdg source="bib:Veluppillai2013_01">kulāvaṉāna</rdg>
-			<note/>
-		</app>
-	</listApp>
-	
-</div>
-         
-<div type="translation" xml:lang="fra" resp="part:utve">
-	
-	<!--Report notes from PhD translation-->
-	
-	<p>
-		Que la prospérité soit!
-		En la 9e année, le 176e jour <supplied reason="subaudible">du règne</supplied> de Śrīkulottuṅgacōḻadeva
-		qui fit la grâce de prendre Maturai, empereur des trois mondes; la terre
-		donnée comme non imposable, incluant <supplied reason="subaudible">les taxes</supplied> <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, pour
-		<supplied reason="subaudible">offrir/entretenir</supplied> une lampe perpétuelle au Seigneur propriétaire de Tiruttōṇipuram
-		à Tirukkaḻumalam dans Irājādhirājavaḷanāṭu et à Periyanācciyār, en tant que terre
-		non imposable pour une lampe perpétuelle <supplied reason="subaudible">est</supplied> devenue une terre incultivée <supplied reason="subaudible">car</supplied>
-		les ayant-droits, qui l’occupaient et la cultivaient, n’avaient pas payé la taxe <foreign>kaṭamai</foreign>.
-	</p>
-	<p>
-		<supplied reason="subaudible">Moi</supplied>, un propriétaire <supplied reason="subaudible">terrien</supplied> de Nakkaṉpāṭi alias Aḻakiyarāmapaṭṭinam dans Veṉṉaiyūrnāṭu,
-		j'ai acquis les droits, selon le document de l’achat au nom d’Ādicaṇḍeśvaradeva de ce
-		temple, auprès de <supplied reason="subaudible">ceux qui</supplied> s’étaient portés garants pour eux <supplied reason="explanation"><foreign>kāṇiyālar</foreign></supplied> : <supplied reason="subaudible">auprès
-		d’</supplied>Araiyan Kaṭalkoḷamitantāṉ alias Amarakoṉ Pallavaraiyan, <foreign>taṇṭal nāyakam</foreign> pour
-		les <foreign>karaippaṭaiyilār</foreign>, d’Araiyan Tirunaṭṭamāṭiyāṉ alias Vetavananāyaka Pallavaraiyan,
-		de Cantan Kovan alias Tirucciṟṟampala Viḻupparaiyan, de Caṉtaṉ Kulāvaṉ alias Ciṅkaḷāṉtaka
-		Pallavaraiyan, et de Ceṅkaṇmāl Periyān alias Nampiyārur Pallavaraiyan.
-	</p>
-	<p>
-		Selon les comptes qui ont permis d’établir le cadastre du « territoire consacré »
-		<supplied reason="explanation"><foreign>tiruvulakaḷanta kaṇakkuppaṭi</foreign></supplied> la 16e année <supplied reason="subaudible">de règne</supplied> du Kulottuṅgacōḻadeva qui a
-		anéanti les douanes, la terre donnée pour allumer une lampe perpétuelle — ayant
-		retiré ce qui est à retirer, faisant du <foreign>nelpayir</foreign> et <foreign>puṉpayir</foreign> sur les terres cadastrées
-		comme palmeraies, comme <supplied reason="subaudible">marais</supplied> salants, comme terres salées et comme terres
-		difficiles où s’élève l’<foreign>aṟuku</foreign>, faisant aussi les <foreign>payir</foreign> faisables sur la terre qui vient comme
-		terre à arbres, faisant des palmeraies et excluant la portion qui vient comme limite <gap reason="lost"/>
-		ma <gap reason="lost"/> — est <supplied reason="subaudible">cette</supplied> terre donnée comme non imposable pour <supplied reason="subaudible">entretenir</supplied> une lampe
-		perpétuelle, incluant <supplied reason="subaudible">les taxes suivantes</supplied> <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, à partir de la moisson
-		de la 9e année <supplied reason="subaudible">de règne, terre qui vaut</supplied> 1710 <supplied reason="subaudible"><foreign>kalam</foreign></supplied> de paddy pour 57 <supplied reason="subaudible"><foreign>vēli</foreign></supplied> 4 <foreign>mā
-		muntiri kīḻ</foreign> demi <foreign>mā</foreign>.
-	</p>
-	<p>
-		Pour l’exemption de la terre pour <supplied reason="subaudible">entretenir</supplied> une lampe perpétuelle incluant les
-		taxes comme <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, à partir de la moisson de la 9e année <supplied reason="subaudible">de règne</supplied>,
-		selon le cadastre de la 16e année de cette ville, <supplied reason="subaudible">je donne</supplied> la terre devenue colline
-		de sable où poussent l’<foreign>īlippūṭu</foreign>, l’<foreign>irāvaṇaṉ</foreign> et le <foreign>mervāy</foreign> près de l’embouchure qui
-		renvoie les vagues dans la mer, <gap reason="lost"/> la terre où demeurent les pêcheurs <gap reason="lost"/>, et faisant
-		d’<supplied reason="subaudible">elle</supplied> une terre à faire des arbres incluant les palmiers et les <foreign>iluppai</foreign>. Elle forme
-		aussi le capital de la terre pour <supplied reason="subaudible">entretenir</supplied> la lampe perpétuelle.
-	</p>
-	<p>
-		Ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> de Pantaṇainallūr,
-		<foreign>puravuvari cikaraṇa ṉāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par </supplied> la signature de Pirimayaṉ, <foreign>puravuvari
-		cikaraṇa ṉāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature du <foreign>kiḻavaṉ</foreign> de … Vāṉavaṅcikaraṇaṅ …;
-		ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> d’Ārūr, <foreign>puravuvari cikaraṇa
-		nāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature du <foreign>kiḻāṉ</foreign> de Kurukāṭi, <foreign>puravuvari cikaraṇattu
-		mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> du Kumāramaṅkalam,
-		<foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire
-		<supplied reason="subaudible">terrien</supplied> de Perumaṅkalam, <foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied>
-		la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied>de Melūr, <foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>;
-		ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Ceṟakoṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de
-		Kurukularāyaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Coḻaviccātira Pallavaraiyaṉ;
-		ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Vilāṭattarayaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature
-		de Paṅkaḷarāyaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Melnāṭṭarayaṉ; ceci <supplied reason="subaudible">est légalisé
-		par</supplied> la signature de Vecālipparayaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Vāḷuvarāyaṉ;
-		ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de <gap reason="lost"/>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de <gap reason="lost"/> ṉātapiriyaṉ.
-	</p>
-         </div>
-         
-<!--<div type="commentary">
-	
-</div>-->
-
-<div type="bibliography">
-	
-           <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/125), in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>	
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.990).</p>
-	<p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 3), based on autopsy, photos (Emmanuel Francis, 2004), ASI transcript (consulted in Mysore) and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
-	<p>This edition by Uthaya Veluppillai (2022). French translation (2024) adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>.</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="KS">
-			<ptr target="bib:KrishnaSastri1925_01"/>
-			<citedRange unit="page">376</citedRange>
-			<citedRange unit="item">990</citedRange>
-		</bibl>
-	
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">239-245</citedRange>
-			<citedRange unit="item">3</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1895-1896"/>
-			<citedRange unit="page">13</citedRange>
-			<citedRange unit="appendix">B/1896</citedRange>
-			<citedRange unit="item">125</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">31</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">365</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">550</citedRange>
-			<citedRange unit="item">Tj. 2411</citedRange>			
-		</bibl>
-		
-	</listBibl>
-</div>
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī </hi><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </ab>
+                
+                <p>
+                    tiri-puvaṉa-c-cakkarava<choice><orig>t</orig><reg>rt</reg></choice>ti<unclear>ka</unclear>ḷ maturai koṇṭ-aruḷiṉa <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 9-Āvatu nāḷ <num value="176"><g type="numeral">100</g> 7 <g type="numeral">10</g> 6</num>-l 
+                </p>
+                
+                <p>
+                    Antarāyam pāṭṭam Uḷ-paṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p <unclear>puṟa</unclear>-Iṟaiyili Iṭṭa Irā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-vaḷanāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-tō <space type="unclassified"/> ṇi-puram-uṭaiyārkum periya-nācciyār<supplied reason="omitted">k</supplied>kum tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p-puṟa-Iṟai-y-ili-y-āka kāṇiyāḷar nilai niṉṟu payir ce<unclear>y</unclear>tu kaṭamai Iṟātu
+                    
+                    paṟṟili-y-āy ivarkaḷukku Iṟai-p-puṇai-p paṭṭa karai-p-paṭaiyilārkku taṇṭal nāyakam Araiyaṅ <unclear>ka</unclear>ṭal-ko<choice><orig>ḷ</orig><reg>ḷḷ</reg></choice>amitantāṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Amarakōṉ pal<unclear>la</unclear> <space type="unclassified"/> varaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um Araiya<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-naṭṭamāṭi-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vēta-va<choice><orig>n</orig><reg>ṉ</reg></choice>a-nāyaka<unclear>-p pa</unclear>llavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>m canta</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <unclear>kō</unclear>va<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-c-ciṟṟ-ampala-viḻupparaiya<choice><orig>n</orig><reg>ṉ</reg></choice>um caṉtaṉ 
+                    <lb n="2"/>kulāvaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a ciṅkaḷāṉtaka-p-pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um ceṅkaṇmāl p<unclear>e</unclear>riyā<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a nampiyārūr-p pallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice>um pakkal Ik-kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra<hi rend="grantha">de</hi>var tiru-nāmattu vilai-koṇṭa piramāṇa-<unclear>p</unclear> paṭi
+                    
+                    kā<supplied reason="lost">ṇi māṟiṉa veṇ</supplied>ṇaiyūr-nāṭṭu nakkaṉ pāṭi-y-āṉa Aḻakiya-rāma-pa<choice><orig>ṭ</orig><reg>ṭṭ</reg></choice>inam Uṭaiyār cuṅka<unclear>n</unclear>tavutt-aruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <space type="unclassified"/> kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>varkku <num value="16"><g type="numeral">10</g> <unclear>6</unclear></num>-<unclear>Ā</unclear>vatu tiru-v-ulak-aḷanta kaṇakku-p paṭi niṅkal n<choice><orig>i</orig><reg>ī</reg></choice><unclear>k</unclear>ki <supplied reason="lost">paṉai niṉṟa kollai</supplied><unclear>yu</unclear>m Uvarum Uppumaṇṇum Āy <unclear>A</unclear>ṟuk' e<unclear>ḻu</unclear>ṉta paṭutaṟaiyum Eṉṟu <unclear>Aḷanta</unclear> nilattu nel payirum puṉ pa<unclear>yiru</unclear>m ceytum mara-nilaiyum <unclear>Ā</unclear>y varukiṟa nilam Uḷpaṭa ce<supplied reason="lost">yyalām payir <choice><orig>ce</orig><reg>cey</reg></choice>tu</supplied> <space type="unclassified"/> m maram ākkiyum U<gap reason="lost" quantity="2" unit="character"/>ṭṭu<!--contra SII--> tiru-nuntā-viḷakku Erikka Iṭukiṟa nila<unclear>m eṉ</unclear>ṉuṭaiya<!--contra SII--> <gap reason="lost" quantity="6" unit="character" precision="low"/>kku <unclear>A</unclear>ṭai-p-pāy varukiṟa paṭiyum tavirṉtu yāṇ<supplied reason="lost">ṭu 9</supplied>-Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal A<choice><orig>ṉ</orig><reg>n</reg></choice>ta 
+                    <lb n="3" break="no"/>rāyam pāṭṭam Uḷpaṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakku-p-puṟa-Iṟai-y-ili Iṭṭa ni<unclear>la</unclear>m <num value="57">5 <g type="numeral">10</g> 7</num> <supplied reason="subaudible"><g ref="sym:tam-veli"/></supplied> 4 1/80 1/320+ <g ref="sym:tam-kil"/> 1/2+ 1/20+ <g ref="sym:tam-yantu"/> <g ref="sym:tam-nel"/> <num value="1710"><g type="numeral">1000</g> 7 <g type="numeral">100</g> <g type="numeral">10</g></num> <g ref="sym:tam-yantu"/><!--contra SII--> y<unclear>ā</unclear>ṇṭu 9-Āvatu pacā<choice><orig>n</orig><reg>ṉ</reg></choice>am mutal Antarāyam pāṭṭam Uḷpaṭa tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakkup puṟa Iṟaiyili Iṭṭamaikku I<unclear>vv-ūr</unclear> <num value="16"><unclear><g type="numeral">10</g> 6</unclear></num>-<unclear>Āvatu</unclear> Aḷavil kaṭalil tirai Ēṟi-vāy Aruku Ilippū<unclear>ṭu</unclear>m Irāva<space type="unclassified"/>ṇaṉ mēr-vāyum <unclear>E</unclear>luntu maṇal kuṉṟāna nilamum paṭṭinavar kuṭi Iruppā<choice><orig>n</orig><reg>ṉ</reg></choice>a nilamum-āy <unclear>ni</unclear>ṅka<supplied reason="lost">l-āṉa nīr</supplied><gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">ṇi</supplied><unclear>lattu</unclear><!--contra SII--> paṉaiyum Iluppayum Uḷḷiṭṭu mara-mā-k-kalām nilam Ākki Ituvum tiru-nu<choice><orig>ṉ</orig><reg>n</reg></choice>tā-viḷakkukku Uṭal āvatu
+                </p>
+                
+                <p>
+                    <list>
+                        
+                        <item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>-karaṇa-nā<unclear>ya</unclear>kam pantaṇai-nallūr Uṭai<unclear>yāṉ</unclear> Eḻuttu <space type="unclassified"/></item>
+                        
+                        <item>Ivai <unclear>puravu-vari c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-<unclear>karaṇa</unclear>-nāyakam <supplied reason="lost">pirimayaṉ Eḻu</supplied>ttu <g ref="sym:dash" type="punctuation">.</g></item> 
+                        
+                        <item>Ivai vāṉa<unclear>vaṅ c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-<unclear>karaṇaṅ</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>v-ūr kiḻa</unclear>vaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item> 
+                        
+                        <item>Ivai pu<unclear>ravu-vari c</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-karaṇa-nā<unclear>ya</unclear>kam Ārūr Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu</item> 
+                        
+                        <item><lb n="4"/>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>-karaṇattu muka-veṭṭi kurukāṭi-kiḻāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>karaṇattu muka-veṭṭi kumāra-maṅkalam-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai puravu-vari c<choice><orig>i</orig><reg>ī</reg></choice>karaṇattu muka-veṭṭi peru-maṅkalam-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai <unclear>puravu-vari</unclear> c<choice><orig>i</orig><reg>ī</reg></choice>ka<unclear>raṇat</unclear>tu muka-veṭṭi mēlūr-Uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai cēṟa-kōṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai kuru-kula-rāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai cōḻa-viccātira-p-pallavaraiyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai vilāṭattarayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai paṅkaḷarāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai mēlnāṭṭarayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai vēcālipparayaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai vāḷuvarāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>Ivai <gap reason="lost" quantity="8" unit="character"/> <unclear>Eḻuttu</unclear> <g ref="sym:dash" type="punctuation">.</g></item>
+                        
+                        <item>I<unclear>vai</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>nāta-piriyaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></unclear></item>
+                    </list>
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                
+                <!--CHECK SII edition.-->
+                <listApp>
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:KrishnaSastri1925_01">...</rdg>
+                        <rdg source="bib:Veluppillai2013_01">...</rdg>
+                        <note/>
+                        </app>-->
+                    <app loc="1">
+                        <lem>karaippaṭaiyilārkku</lem>
+                        <rdg source="bib:Veluppillai2013_01"/>
+                        <rdg source="bib:KrishnaSastri1925_01">karaippaṭaiyilār<supplied reason="omitted">k</supplied>ku</rdg>
+                        <note/>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>kulāvaṉā<choice><orig>n</orig><reg>ṉ</reg></choice>a</lem>
+                        <rdg source="bib:KrishnaSastri1925_01"><unclear>kulāva</unclear>ṉā<unclear>na</unclear></rdg>
+                        <rdg source="bib:Veluppillai2013_01">kulāvaṉāna</rdg>
+                        <note/>
+                    </app>
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:utve">
+                
+                <!--Report notes from PhD translation-->
+                
+                <p>
+                    Que la prospérité soit!
+                    En la 9e année, le 176e jour <supplied reason="subaudible">du règne</supplied> de Śrīkulottuṅgacōḻadeva
+                    qui fit la grâce de prendre Maturai, empereur des trois mondes; la terre
+                    donnée comme non imposable, incluant <supplied reason="subaudible">les taxes</supplied> <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, pour
+                    <supplied reason="subaudible">offrir/entretenir</supplied> une lampe perpétuelle au Seigneur propriétaire de Tiruttōṇipuram
+                    à Tirukkaḻumalam dans Irājādhirājavaḷanāṭu et à Periyanācciyār, en tant que terre
+                    non imposable pour une lampe perpétuelle <supplied reason="subaudible">est</supplied> devenue une terre incultivée <supplied reason="subaudible">car</supplied>
+                    les ayant-droits, qui l’occupaient et la cultivaient, n’avaient pas payé la taxe <foreign>kaṭamai</foreign>.
+                </p>
+                <p>
+                    <supplied reason="subaudible">Moi</supplied>, un propriétaire <supplied reason="subaudible">terrien</supplied> de Nakkaṉpāṭi alias Aḻakiyarāmapaṭṭinam dans Veṉṉaiyūrnāṭu,
+                    j'ai acquis les droits, selon le document de l’achat au nom d’Ādicaṇḍeśvaradeva de ce
+                    temple, auprès de <supplied reason="subaudible">ceux qui</supplied> s’étaient portés garants pour eux <supplied reason="explanation"><foreign>kāṇiyālar</foreign></supplied> : <supplied reason="subaudible">auprès
+                        d’</supplied>Araiyan Kaṭalkoḷamitantāṉ alias Amarakoṉ Pallavaraiyan, <foreign>taṇṭal nāyakam</foreign> pour
+                    les <foreign>karaippaṭaiyilār</foreign>, d’Araiyan Tirunaṭṭamāṭiyāṉ alias Vetavananāyaka Pallavaraiyan,
+                    de Cantan Kovan alias Tirucciṟṟampala Viḻupparaiyan, de Caṉtaṉ Kulāvaṉ alias Ciṅkaḷāṉtaka
+                    Pallavaraiyan, et de Ceṅkaṇmāl Periyān alias Nampiyārur Pallavaraiyan.
+                </p>
+                <p>
+                    Selon les comptes qui ont permis d’établir le cadastre du « territoire consacré »
+                    <supplied reason="explanation"><foreign>tiruvulakaḷanta kaṇakkuppaṭi</foreign></supplied> la 16e année <supplied reason="subaudible">de règne</supplied> du Kulottuṅgacōḻadeva qui a
+                    anéanti les douanes, la terre donnée pour allumer une lampe perpétuelle — ayant
+                    retiré ce qui est à retirer, faisant du <foreign>nelpayir</foreign> et <foreign>puṉpayir</foreign> sur les terres cadastrées
+                    comme palmeraies, comme <supplied reason="subaudible">marais</supplied> salants, comme terres salées et comme terres
+                    difficiles où s’élève l’<foreign>aṟuku</foreign>, faisant aussi les <foreign>payir</foreign> faisables sur la terre qui vient comme
+                    terre à arbres, faisant des palmeraies et excluant la portion qui vient comme limite <gap reason="lost"/>
+                    ma <gap reason="lost"/> — est <supplied reason="subaudible">cette</supplied> terre donnée comme non imposable pour <supplied reason="subaudible">entretenir</supplied> une lampe
+                    perpétuelle, incluant <supplied reason="subaudible">les taxes suivantes</supplied> <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, à partir de la moisson
+                    de la 9e année <supplied reason="subaudible">de règne, terre qui vaut</supplied> 1710 <supplied reason="subaudible"><foreign>kalam</foreign></supplied> de paddy pour 57 <supplied reason="subaudible"><foreign>vēli</foreign></supplied> 4 <foreign>mā
+                        muntiri kīḻ</foreign> demi <foreign>mā</foreign>.
+                </p>
+                <p>
+                    Pour l’exemption de la terre pour <supplied reason="subaudible">entretenir</supplied> une lampe perpétuelle incluant les
+                    taxes comme <foreign>antarāyam</foreign> et <foreign>pāṭṭam</foreign>, à partir de la moisson de la 9e année <supplied reason="subaudible">de règne</supplied>,
+                    selon le cadastre de la 16e année de cette ville, <supplied reason="subaudible">je donne</supplied> la terre devenue colline
+                    de sable où poussent l’<foreign>īlippūṭu</foreign>, l’<foreign>irāvaṇaṉ</foreign> et le <foreign>mervāy</foreign> près de l’embouchure qui
+                    renvoie les vagues dans la mer, <gap reason="lost"/> la terre où demeurent les pêcheurs <gap reason="lost"/>, et faisant
+                    d’<supplied reason="subaudible">elle</supplied> une terre à faire des arbres incluant les palmiers et les <foreign>iluppai</foreign>. Elle forme
+                    aussi le capital de la terre pour <supplied reason="subaudible">entretenir</supplied> la lampe perpétuelle.
+                </p>
+                <p>
+                    Ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> de Pantaṇainallūr,
+                    <foreign>puravuvari cikaraṇa ṉāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par </supplied> la signature de Pirimayaṉ, <foreign>puravuvari
+                        cikaraṇa ṉāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature du <foreign>kiḻavaṉ</foreign> de … Vāṉavaṅcikaraṇaṅ …;
+                    ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> d’Ārūr, <foreign>puravuvari cikaraṇa
+                        nāyakam</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature du <foreign>kiḻāṉ</foreign> de Kurukāṭi, <foreign>puravuvari cikaraṇattu
+                            mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied> du Kumāramaṅkalam,
+                    <foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature d’un propriétaire
+                    <supplied reason="subaudible">terrien</supplied> de Perumaṅkalam, <foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>; ceci <supplied reason="subaudible">est légalisé par</supplied>
+                    la signature d’un propriétaire <supplied reason="subaudible">terrien</supplied>de Melūr, <foreign>puravuvari cikaraṇattu mukaveṭṭi</foreign>;
+                    ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Ceṟakoṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de
+                    Kurukularāyaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Coḻaviccātira Pallavaraiyaṉ;
+                    ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Vilāṭattarayaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature
+                    de Paṅkaḷarāyaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Melnāṭṭarayaṉ; ceci <supplied reason="subaudible">est légalisé
+                        par</supplied> la signature de Vecālipparayaṉ; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de Vāḷuvarāyaṉ;
+                    ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de <gap reason="lost"/>; ceci <supplied reason="subaudible">est légalisé par</supplied> la signature de <gap reason="lost"/> ṉātapiriyaṉ.
+                </p>
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/125), in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/365).</p>	
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.990).</p>
+                <p>Edited and translated in French in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 3), based on autopsy, photos (Emmanuel Francis, 2004), ASI transcript (consulted in Mysore) and <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
+                <p>This edition by Uthaya Veluppillai (2022). French translation (2024) adapted from <bibl><ptr target="bib:Veluppillai2013_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="KS">
+                        <ptr target="bib:KrishnaSastri1925_01"/>
+                        <citedRange unit="page">376</citedRange>
+                        <citedRange unit="item">990</citedRange>
+                    </bibl>
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">239-245</citedRange>
+                        <citedRange unit="item">3</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1895-1896"/>
+                        <citedRange unit="page">13</citedRange>
+                        <citedRange unit="appendix">B/1896</citedRange>
+                        <citedRange unit="item">125</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">31</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">365</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">550</citedRange>
+                        <citedRange unit="item">Tj. 2411</citedRange>			
+                    </bibl>
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 <!--METADATA: donation, time of Kulōttuṅka III, year 9-->
