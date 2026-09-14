@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, Jovian year Vṛṣa</title>
+				<title>Cīrkāḻi, Brahmapurīśvara, Jovian year Vr̥ṣa</title>
 			    <respStmt>
 			        <resp key="creator">author of digital edition</resp>
 			        <persName ref="part:utve">
@@ -126,7 +126,7 @@
 </div>
 	
 <div type="translation" resp="part:emfr">
-	<p n="1">In the year Vṛṣa <supplied reason="explanation"><foreign>vi<hi rend="grantha">ṣu</hi></foreign></supplied>, current <supplied reason="explanation"><foreign>cellum</foreign></supplied> in the Vikrama era <supplied reason="explanation"><foreign>varuṣattil</foreign></supplied>, month of Cittirai, <supplied reason="subaudible">day</supplied> 1 <gap reason="lost"/></p>
+	<p n="1">In the year Vr̥ṣa <supplied reason="explanation"><foreign>vi<hi rend="grantha">ṣu</hi></foreign></supplied>, current <supplied reason="explanation"><foreign>cellum</foreign></supplied> in the Vikrama era <supplied reason="explanation"><foreign>varuṣattil</foreign></supplied>, month of Cittirai, <supplied reason="subaudible">day</supplied> 1 <gap reason="lost"/></p>
 
 	<p n="1-2">The document <supplied reason="explanation"><foreign>paṭṭayam</foreign></supplied> that ... gave ...</p>
 	
