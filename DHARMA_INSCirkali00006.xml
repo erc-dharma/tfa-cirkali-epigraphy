@@ -5,170 +5,170 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Cīrkāḻi, Brahmapurīśvara, time of Kōṉēriṉmaikoṇṭān</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:utve">
-			            <surname>Veluppillai</surname>
-			            <forename>Uthaya</forename>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>	
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris, Inalco</pubPlace>
-				<idno type="filename">DHARMA_INSCirkali00006.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>	<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>							
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-03">Revise encoding</change>
-			<change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
-		</revisionDesc>
-	</teiHeader>
-	
-<text xml:space="preserve">
-<body>
-      
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-		    
-	<!--Check/Add notes form UV PhD-->
-	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
-	</ab>
-	
-	<p>
-		<hi rend="grantha">tri-bhu</hi>vaṉa-<hi rend="grantha">chakra</hi>vatti kō-ṉeriṉmai-koṇṭāṉ
-	</p>
-	
-	<p>
-		Uṭaiyār tiru-c-ciṟṟampalam-uṭaiyār tēv-tāṉam Irācātirāca-vaḷanāṭṭu nāṭava<choice><orig>ṟ</orig><reg>r</reg></choice>kku pāṇṭi-maṇṭalattu miḻalai-k-kūṟṟattu naṭuvil-kūṟṟu Eṭṭirāma-poṉpaṟṟi-Uṭaiyāṉ Uṭaiya-nāyakaṉ taṅkaḷ nāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kōyil Uḷḷil tiru-k-kuḷattukku-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ karaiyil nam pērāl Eḻunt-aruḷa-p paṇṇiṉa Uṭaiyār Irācākkaṇāyaṉārkkum nācciyār marakata-c-cokkiyā<choice><orig>ṟk</orig><reg>rkk</reg></choice>um I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉārkku Irācākkaḷ nāyaṉ cantikkum Irācākkaḷ-nāyaṉ tiru-t-tōppukkum It-tiru-t-tōpp 
-		<lb n="2" break="no"/>aiṭṭakaḷukkum nampimā<choice><sic>n</sic><corr>rk</corr></choice>kum Irācākkaḷ-ṇāyaṉ maṭattukkum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭil tiṟappil Aṇṇāḻvi-cuntara-pāṇṭiya-tēvaṟku pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭ-āvatu varaiyum Aṭaipp-āṉa nilattu payir ceyyāmal pāḻ-kiṭanta nilam-āy variyil kaḻitta nilattu nam Ōlai-p paṭi v-iṭṭa nilam		
-		mu-p-patiṟṟu vēli
-	</p>
-	<p>
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum taṅkaḷukku cērvai-y-āṉa Iṭaṅkaḷilē kaṭamai Uḷḷiṭṭaṉa celavākkuvat-āka-p paṟṟi-p payir ceytu koṇṭu tāṅkaḷ I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai-māṟu taṅkaḷ pēril Añc-āvatukku Aṭai-p-paṉai nila <gap reason="undefined" extent="unknown" unit="character"/>l taṅkaḷ v-iṭṭa paṭikku tāṅkaḷ Eḻuti-k kuṭutta <choice><sic>Ā</sic><corr>A</corr></choice><supplied reason="undefined">v</supplied>v-ōlai-p paṭi
-	
-		tiru-t-tōṇi-purattu
-		<lb n="3"/>tiṭṭaiyil piṟinta Irācēntira-cōḻa-nallūrāl v-iṭṭa nilam ēḻ' araiyum tiru-k-kaḻumalattu v-iṭṭa nilam Iraṇṭ' araiyum Āka v-iṭṭa nilam mu-p-patiṟṟu vēliyum Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyaṟkkum Amutu-paṭi cāttu-p-paṭi Uḷḷiṭṭa nitta <g ref="sym:tam-nilam"/>n taṅkaḷukku tēva-tāṉam-āka Iṭṭa nilam patiṉāl vēliyum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tēva-tāṉatt-uṭaṉē kūṭṭi-k koṇṭu payir ceytu Itaṉ-uṭal kōyil paṇṭārattilē kūṭṭi-k koṇṭu Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyāṟkum Amutu-paṭi cāttu-p paṭi Uḷḷiṭṭa pala-nimantaṅkaḷukkum 
-		<lb n="4"/>maṭattil nāḷ vaṟa Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar pēr paṉṉiraṇṭukkum Im-maṭattu nōkki Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar<surplus>ṟ</surplus>kku Ākki Iṭṭu Irukkum <hi rend="grantha">māhe</hi>curarkkum muṉṟ' arai vēliyum Āka nilam patiṉ aṟu vēliyum Āka tēva-tāṉam Uṭpaṭa nilam mu-p-patiṟṟu vēliyum Ip-pērkaḷāl Aṉupavittu-k koḷḷum Āṟ-āvatu mutal mutal aṭaṅkalum Iṟai-y-ili-y-āka-k kuṭuttōm
-	</p>
-	
-	<p>
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattu cettavaṉ<!--meaning?--> tiṭarum kuḷamum kuṭi Iruppu nattamum Itil kuḷamum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum n<choice><orig>i</orig><reg>ī</reg></choice>ṅkal-āka Iṟai-y-i<supplied reason="undefined">li</supplied>-y-āka Ivaiyum Ivarkaḷ Aṉup<choice><sic>ō</sic><corr>a</corr></choice>vikka-k kuṭuttōm
-	</p>
-	
-	<p>
-		Ivai y-iṟṟukku varum kaṭamai vācal vi<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ipōkam<!--See TN 138.11: viṉipōkam + Indian Epigraphical Glossary, p. 375: viniyoga (SITI), an employment; use; expenditure. (EI 24), a tax; cf. Tamil vāśal-viniyogam (SITI), same as vāśal-paṇam; also sabhā-viniyoga (SII 13).--> palalai <gap reason="lost" extent="unknown" unit="character"/> p peṟum Ōlai <gap reason="lost" extent="unknown" unit="character"/> 
-	</p>
-	         	
-         </div>
-        
-<!--<div type="apparatus">
-	
-	<listApp>
-		<app loc="line">
-			<lem>...</lem>
-			<rdg source="bib:AuthorYear_01">..</rdg>
-		</app>
-	</listApp>
-	
-</div>-->
-	
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>
-	<p n="1">The emperor of the three worlds, the one who has no match in kingship.</p>
-	<p n="1-2">
-		<supplied reason="subaudible">Concerning</supplied> the <foreign>devadāna</foreign>s of the Lord, the Lord of Tirucciṟṟampalam,
-		to the <foreign>nāṭavar</foreign>s of the Irācātirācavaḷanāṭṭu,
-		...
-		<list>
-			<item>for Irācākka Nāyaṉār, whom we had, in our name, graciously installed on the bank the glorious pond inside the temple of the glorious Lord of Tōṇipuram, the Lord of Tirukaḻumalam, in their <foreign>nāṭu</foreign>, and</item>
-			<item>for Nācciyār Marakata Cokkiyār</item>
-		</list>
-		for <supplied reason="subaudible">the purpose of</supplied>
-		<list>
-			<item>... <supplied reason="explanation"><foreign>canti</foreign></supplied>,</item>
-			<item>... <supplied reason="explanation"><foreign>tōppu</foreign></supplied>,</item>
-			<item>... <supplied reason="explanation"><foreign>tōppaiṭṭakaḷ</foreign></supplied>,</item>
-			<item>... <supplied reason="explanation"><foreign>nampimār</foreign></supplied>,</item>
-			<item>... <supplied reason="explanation"><foreign>maṭam</foreign></supplied>,</item>
-		</list>
-		the land that we gave <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied>, according to our leaf <supplied reason="explanation"><foreign>ōlaip paṭi</foreign><note>That is, an order written on palm leaves.</note></supplied> ...
-		<supplied reason="subaudible">is</supplied>
-		thirty <foreign>vēli</foreign>s.
-	</p>
-	<p n="2-4">We have given ...</p>
-	<p n="4">We have given ...</p>
-	<p n="4">...</p>         
-</div>
-
-<!--<div type="commentary">
-           
-</div>-->
-
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/366).</p>	
-	<p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 6), based on ASI transcript (consulted in Mysore).</p>		
-	<p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
-
-	
-	<listBibl type="primary">
-					
-		<bibl n="UV">
-			<ptr target="bib:Veluppillai2013_01"/>
-			<citedRange unit="page">252-254</citedRange>
-			<citedRange unit="item">6</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1918-1919"/>
-			<citedRange unit="page">31</citedRange>
-			<citedRange unit="appendix">B/1918</citedRange>
-			<citedRange unit="item">366</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Mahalingam1992_01"/>
-			<citedRange unit="page">552</citedRange>
-			<citedRange unit="item">Tj. 2426</citedRange>			
-		</bibl>
-		
-	</listBibl>
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cīrkāḻi, Brahmapurīśvara, time of Kōṉēriṉmaikoṇṭān</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:utve">
+                        <surname>Veluppillai</surname>
+                        <forename>Uthaya</forename>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, Inalco</pubPlace>
+                <idno type="filename">DHARMA_INSCirkali00006.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>	<!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>							
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-03">Revise encoding</change>
+            <change who="part:mime" when="2024-02-22">Conversion from LaTeX</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--Check/Add notes form UV PhD-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </ab>
+                
+                <p>
+                    <hi rend="grantha">tri-bhu</hi>vaṉa-<hi rend="grantha">chakra</hi>vatti kōṉeriṉmai-koṇṭāṉ
+                </p>
+                
+                <p>
+                    Uṭaiyār tiru-c-ciṟṟampalam-uṭaiyār tēv-tāṉam Irācātirāca-vaḷanāṭṭu nāṭava<choice><orig>ṟ</orig><reg>r</reg></choice>kku pāṇṭi-maṇṭalattu miḻalai-k-kūṟṟattu naṭuvil-kūṟṟu Eṭṭirāma-poṉpaṟṟi-Uṭaiyāṉ Uṭaiya-nāyakaṉ taṅkaḷ nāṭṭu-t tiru-k-kaḻumalattu Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār kōyil Uḷḷil tiru-k-kuḷattukku-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ karaiyil nam pērāl Eḻunt-aruḷa-p paṇṇiṉa Uṭaiyār Irācākkaṇāyaṉārkkum nācciyār marakata-c-cokkiyā<choice><orig>ṟk</orig><reg>rkk</reg></choice>um I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉārkku Irācākkaḷ nāyaṉ cantikkum Irācākkaḷ-nāyaṉ tiru-t-tōppukkum It-tiru-t-tōpp 
+                    <lb n="2" break="no"/>aiṭṭakaḷukkum nampimā<choice><sic>n</sic><corr>rk</corr></choice>kum Irācākkaḷ-ṇāyaṉ maṭattukkum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭil tiṟappil Aṇṇāḻvi-cuntara-pāṇṭiya-tēvaṟku pati<choice><orig>n</orig><reg>ṉ</reg></choice> eṭṭ-āvatu varaiyum Aṭaipp-āṉa nilattu payir ceyyāmal pāḻ-kiṭanta nilam-āy variyil kaḻitta nilattu nam Ōlai-p paṭi v-iṭṭa nilam		
+                    mu-p-patiṟṟu vēli
+                </p>
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum taṅkaḷukku cērvai-y-āṉa Iṭaṅkaḷilē kaṭamai Uḷḷiṭṭaṉa celavākkuvat-āka-p paṟṟi-p payir ceytu koṇṭu tāṅkaḷ I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattukku-t talai-māṟu taṅkaḷ pēril Añc-āvatukku Aṭai-p-paṉai nila <gap reason="undefined" extent="unknown" unit="character"/>l taṅkaḷ v-iṭṭa paṭikku tāṅkaḷ Eḻuti-k kuṭutta <choice><sic>Ā</sic><corr>A</corr></choice><supplied reason="undefined">v</supplied>v-ōlai-p paṭi
+                    
+                    tiru-t-tōṇi-purattu
+                    <lb n="3"/>tiṭṭaiyil piṟinta Irācēntira-cōḻa-nallūrāl v-iṭṭa nilam ēḻ' araiyum tiru-k-kaḻumalattu v-iṭṭa nilam Iraṇṭ' araiyum Āka v-iṭṭa nilam mu-p-patiṟṟu vēliyum Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyaṟkkum Amutu-paṭi cāttu-p-paṭi Uḷḷiṭṭa nitta <g ref="sym:tam-nilam"/>n taṅkaḷukku tēva-tāṉam-āka Iṭṭa nilam patiṉāl vēliyum Uṭaiyār tiru-t-tōṇi-puram-uṭaiyār tēva-tāṉatt-uṭaṉē kūṭṭi-k koṇṭu payir ceytu Itaṉ-uṭal kōyil paṇṭārattilē kūṭṭi-k koṇṭu Uṭaiyār Irācākka-ṇāyaṉārkkum nācciyār marataka-c-cokkiyāṟkum Amutu-paṭi cāttu-p paṭi Uḷḷiṭṭa pala-nimantaṅkaḷukkum 
+                    <lb n="4"/>maṭattil nāḷ vaṟa Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar pēr paṉṉiraṇṭukkum Im-maṭattu nōkki Uṇṇa niccayitta <hi rend="grantha">māhe</hi>curar<surplus>ṟ</surplus>kku Ākki Iṭṭu Irukkum <hi rend="grantha">māhe</hi>curarkkum muṉṟ' arai vēliyum Āka nilam patiṉ aṟu vēliyum Āka tēva-tāṉam Uṭpaṭa nilam mu-p-patiṟṟu vēliyum Ip-pērkaḷāl Aṉupavittu-k koḷḷum Āṟ-āvatu mutal mutal aṭaṅkalum Iṟai-y-ili-y-āka-k kuṭuttōm
+                </p>
+                
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilattu cettavaṉ<!--meaning?--> tiṭarum kuḷamum kuṭi Iruppu nattamum Itil kuḷamum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ilam mu-p-patiṟṟu vēliyum n<choice><orig>i</orig><reg>ī</reg></choice>ṅkal-āka Iṟai-y-i<supplied reason="undefined">li</supplied>-y-āka Ivaiyum Ivarkaḷ Aṉup<choice><sic>ō</sic><corr>a</corr></choice>vikka-k kuṭuttōm
+                </p>
+                
+                <p>
+                    Ivai y-iṟṟukku varum kaṭamai vācal vi<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ipōkam<!--See TN 138.11: viṉipōkam + Indian Epigraphical Glossary, p. 375: viniyoga (SITI), an employment; use; expenditure. (EI 24), a tax; cf. Tamil vāśal-viniyogam (SITI), same as vāśal-paṇam; also sabhā-viniyoga (SII 13).--> palalai <gap reason="lost" extent="unknown" unit="character"/> p peṟum Ōlai <gap reason="lost" extent="unknown" unit="character"/> 
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="line">
+                <lem>...</lem>
+                <rdg source="bib:AuthorYear_01">..</rdg>
+                </app>
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1">The emperor of the three worlds, the one who has no match in kingship.</p>
+                <p n="1-2">
+                    <supplied reason="subaudible">Concerning</supplied> the <foreign>devadāna</foreign>s of the Lord, the Lord of Tirucciṟṟampalam,
+                    to the <foreign>nāṭavar</foreign>s of the Irācātirācavaḷanāṭṭu,
+                    ...
+                    <list>
+                        <item>for Irācākka Nāyaṉār, whom we had, in our name, graciously installed on the bank the glorious pond inside the temple of the glorious Lord of Tōṇipuram, the Lord of Tirukaḻumalam, in their <foreign>nāṭu</foreign>, and</item>
+                        <item>for Nācciyār Marakata Cokkiyār</item>
+                    </list>
+                    for <supplied reason="subaudible">the purpose of</supplied>
+                    <list>
+                        <item>... <supplied reason="explanation"><foreign>canti</foreign></supplied>,</item>
+                        <item>... <supplied reason="explanation"><foreign>tōppu</foreign></supplied>,</item>
+                        <item>... <supplied reason="explanation"><foreign>tōppaiṭṭakaḷ</foreign></supplied>,</item>
+                        <item>... <supplied reason="explanation"><foreign>nampimār</foreign></supplied>,</item>
+                        <item>... <supplied reason="explanation"><foreign>maṭam</foreign></supplied>,</item>
+                    </list>
+                    the land that we gave <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied>, according to our leaf <supplied reason="explanation"><foreign>ōlaip paṭi</foreign><note>That is, an order written on palm leaves.</note></supplied> ...
+                    <supplied reason="subaudible">is</supplied>
+                    thirty <foreign>vēli</foreign>s.
+                </p>
+                <p n="2-4">We have given ...</p>
+                <p n="4">We have given ...</p>
+                <p n="4">...</p>         
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1918-1919"/></bibl> (ARIE/1918-1919/B/1918/366).</p>	
+                <p>Edited, with summary, in <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (CEC 6), based on ASI transcript (consulted in Mysore).</p>		
+                <p>This edition by Uthaya Veluppillai (2024). Curated by Emmanuel Francis. Translation (2024) by Emmanuel Francis.</p>
+                
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="UV">
+                        <ptr target="bib:Veluppillai2013_01"/>
+                        <citedRange unit="page">252-254</citedRange>
+                        <citedRange unit="item">6</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1918-1919"/>
+                        <citedRange unit="page">31</citedRange>
+                        <citedRange unit="appendix">B/1918</citedRange>
+                        <citedRange unit="item">366</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1992_01"/>
+                        <citedRange unit="page">552</citedRange>
+                        <citedRange unit="item">Tj. 2426</citedRange>			
+                    </bibl>
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
