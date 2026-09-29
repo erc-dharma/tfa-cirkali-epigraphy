@@ -30,11 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Donation of land for maintaining daily two lamps for the lord (<foreign>nāyaṉār</foreign>) of Tiruttōṇipuram (Śiva) by Vānātirāyaṉ <hi rend="italic">alias</hi> Karuṇākaratēvaṉ.</summary>
                     </msContents>

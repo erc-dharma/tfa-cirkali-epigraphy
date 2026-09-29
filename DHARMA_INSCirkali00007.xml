@@ -30,10 +30,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
+					<msIdentifier><repository>as per external metadata</repository></msIdentifier>
 					<msContents>
 						<summary><bibl><ptr target="bib:ARIE1918-1919"/></bibl> (p. 33):
 							<quote>Much damaged and stones out of order. The introduction commences with the words <foreign>cīr maṉṉi malar makaḷum</foreign>, etc. Seems to record a sale in publication of a land situated in Paṉaṅkuṭi, a hamlet of Tiruvāli alias Mummuṭicōḻa-caturvedimaṅgalam, in Rājādhirāja-vaḷanāṭu, to the temple of Tiruttōṇipuramuṭaiyār and the shrine of Tiruveṇkāṭuṭaiyār set up in it by a certain Kāliṅka-rāyaṉ. Mentions the Royal Secretary (<foreign>tirumantiravōlai</foreign>) Neṟiyuṭaiccōḻa-Mūvēntavēḷāṉ.</quote><!--see/add further comments in UV phD.--></summary>
